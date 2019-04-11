@@ -89,6 +89,27 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 </ul>
 <p>Requirements are different based on the content and whether they are live or pre-recorded. To figure out what your video or audio needs, see <a href="@@">Managing Media Accessibility</a> and <a href="@@">Standards for Media Accessibility</a>.</p>
 
+## Developing Media Alternatives In-House or Outsourced
+
+<p>A common approach to developing media alternatives is:</p>
+<ol>
+  <li>An audio described version is developed by the same people, at the same time as the main video.</li>
+  <li>Captions are outsourced, including for the main video, for the audio described version, and of the audio description itself.</li>
+  <li>Descriptive transcripts are developed in-house using the text from the caption files.</li>
+</ol>
+<p>Some organizations do it all in-house, and some outsource it all. For help figuring out how to get your media alternatives developed, see <a href="@@">Managing Media Accessibility</a>.</p>
+
+## Automatic Captions are Not Sufficient
+
+<p>Automatically-generated captions do not meet user needs or accessibility requirements, unless they are confirmed to be fully accurate.</p>
+<p>There are tools that use speech recognition technology to turn a soundtrack into a timed caption file. For example, many videos uploaded to YouTube have automatic captions. [<a href="https://support.google.com/youtube/answer/3038280">YouTube info</a>] However, often the automatic caption text does not match the spoken audio &mdash; and in ways that change the meaning (or are embarrassing). For example, missing just one word such as &quot;not&quot; can make the captions contradict the actual audio content.</p>
+<p style="text-align:center; text-size:85%">[<em>optionally as an illustration for visual interest (with text as true text):</em><br>
+  &quot;Spoken text: 
+  Broil on high for 4 to 5 minutes. You should not preheat the oven.&quot;<br>
+  &quot;Automatic caption: Broil on high for 45 minutes. You should know to preheat the oven.&quot;<br>
+  <em>optional illustration/picture:  fire coming from oven, or totally burned food on a broiler pan ;-)</em>]</p>
+<p>Automatic captions can be used as a starting point for developing accurate captions and transcripts, as described in <a href="#captions">Creating Captions</a> and <a href="#transcripts">Creating Transcripts</a>.</p>
+
 ## Additional Benefits
 
 <p>Accessible video and audio is essential for people with disabilities, and is <strong>useful for everyone</strong> in a variety of situations. For example, accessible video and audio content can be:</p>
@@ -103,28 +124,6 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 </ul>
 <p>Some benefits of captions are illustrated in this 1-minute <a href="https://www.w3.org/WAI/perspective-videos/captions/">Video on  Captions</a>.</p>
 <p style="text-align:center"><em>[optional image: screen capture for visual interest]</em></p>
-
-## Automatic Captions are Not Sufficient
-
-<p>Automatically-generated captions do not meet user needs or accessibility requirements, unless they are confirmed to be fully accurate.</p>
-<p>There are tools that use speech recognition technology to turn a soundtrack into a timed caption file. For example, many videos uploaded to YouTube have automatic captions. [<a href="https://support.google.com/youtube/answer/3038280">YouTube info</a>] However, often the automatic caption text does not match the spoken audio &mdash; and in ways that change the meaning (or are embarrassing). For example, missing just one word such as &quot;not&quot; can make the captions contradict the actual audio content.</p>
-<p style="text-align:center; text-size:85%">[<em>optionally as an illustration for visual interest (with text as true text):</em><br>
-  &quot;Spoken text: 
-  Broil on high for 4 to 5 minutes. You should not preheat the oven.&quot;<br>
-  &quot;Automatic caption: Broil on high for 45 minutes. You should know to preheat the oven.&quot;<br>
-  <em>optional illustration/picture:  fire coming from oven, or totally burned food on a broiler pan ;-)</em>]</p>
-<p>Automatic captions can be used as a starting point for developing accurate captions and transcripts, as described in <a href="#captions">Creating Captions</a> and <a href="#transcripts">Creating Transcripts</a>.</p>
-
-## Developing Media Alternatives In-House or Outsourced
-
-<p>A common approach to developing media alternatives is:</p>
-<ol>
-  <li>An audio described version is developed by the same people, at the same time as the main video.</li>
-  <li>Captions are outsourced, including for the main video, for the audio described version, and of the audio description itself.</li>
-  <li>Descriptive transcripts are developed in-house using the text from the caption files.</li>
-</ol>
-<p>Some organizations do it all in-house, and some outsource it all. For help figuring out how to get your media alternatives developed, see <a href="@@">Managing Media Accessibility</a>.</p>
-
 
 <p style="text-align:center"><strong>[ Next > ]</strong></p>
 
