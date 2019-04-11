@@ -48,50 +48,47 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 ## Elements of Accessible Video and Audio
 
 <p>To make your video and audio accessible to people with disabilities, provide captions, transcripts,  audio description, and optionally sign language &mdash; based on the content.</p>
-<dl>
-  <dt>Captions</dt>
-  <dd>
-    <p>Captions provide content to people who are Deaf and others who cannot hear the audio. They are also used by people who process written information better than audio.</p>
-    <p>Captions are a text version of the speech and non-speech audio information needed to understand the content. They are displayed within the media player and  are synchronized with the audio.</p>
-    <p>Most are "closed captions" that can be hidden or shown by people watching the video. They can  be "open captions" that are always displayed and cannot be turned off.</p>
-    <p><strong><em>Subtitles</em></strong> are the spoken audio translated into another language. They are implemented like captions. Subtitles can be only the spoken audio (for people who can hear the audio) or can be a translation of the caption content including non-speech audio information.</p>
-    <p><em>[image: example static image from Perspectives Video on Captions showing captions.]</em></p>
-  </dd>
-  <dt>Transcripts</dt>
-  <dd>
-    <p>[Basic transcripts] are a text version of the speech and non-speech audio information needed to understand the content.</p>
-    <p>Some media players can synch the transcript with the video, so that text phrases are highlighed as they are spoken. With these interactive transcripts, users can select text in the transcript and go to that point in the video.</p>
-    <p><em>[image like <a href="https://w3c.github.io/wai-media-intro/img/xcr_perspectives-d998a967.png">https://w3c.github.io/wai-media-intro/img/xcr_perspectives-d998a967.png</a> ]</em> </p>
-    <p><strong><em>[Descriptive transcripts]</em></strong> also include visual information needed to understand the content.</p>
-    <p>[Descriptive transcripts] are required to provide content to people who are both Deaf and blind. They are also used by people who process text information better than audio and video.</p>
-    <p><em>[optional image: person interacting with dynamic Braille display, nott looking at video in background]</em></p>
-  </dd>
-  <dt>Audio Description</dt>
-  <dd>
-    <p>Audio description provides content to people who are blind and others who cannot see the video adequately. <s>It is also used by people who process text better than visual information such as graphs.</s></p>
-  </dd>
-  <dd>
-    <p>Audio description describes visual information needed to understand the content. It is usually narration added to the soundtrack. Alternatively, it can be provided as a text track that can be read by screen reader software.</p>
-    <p>For some types of video (such as some training videos), audio description  can be seamlessly integrated into the  video as it is developed.</p>
-    <p>Usually two video options are provided: a video without audio description, and a separate video with audio description.</p>
-    <p><em>[optional image: blind person listening to video]</em></p>
-  <dt>Sign Language</dt>
-  <dd>
-    <p>Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For most people who are Deaf, sign language is their native language, and some do not read written language well. Note that there are different sign languages in different regions and countries; for example, American Sign Language (ASL), British Sign Language (BSL), and Auslan (Australian Sign Language) are all different.</p>
-    <p>Sign language is not required to meet most minimum accessibility standards.</p>
-    <p><em>[optional image: person signing]</em></p>
-  </dd>
-  <p><strong>Video and Audio Content:</strong> There are also accessibility requirements for the video or audio content itself. For example, in videos,  avoid flashing that can cause seizures.</p>
+
+### Captions
+<p>Captions provide content to people who are Deaf and others who cannot hear the audio. They are also used by people who process written information better than audio.</p>
+<p>Captions are a text version of the speech and non-speech audio information needed to understand the content. They are displayed within the media player and  are synchronized with the audio.</p>
+<p>Most are "closed captions" that can be hidden or shown by people watching the video. They can  be "open captions" that are always displayed and cannot be turned off.</p>
+<p><strong><em>Subtitles</em></strong> are the spoken audio translated into another language. They are implemented like captions. Subtitles can be only the spoken audio (for people who can hear the audio) or can be a translation of the caption content including non-speech audio information.</p>
+<p><em>[image: example static image from Perspectives Video on Captions showing captions.]</em></p>
+
+### Transcripts
+<p>Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content.</p>
+<p>Some media players can synch the transcript with the video, so that text phrases are highlighed as they are spoken. With these interactive transcripts, users can select text in the transcript and go to that point in the video.</p>
+<p><em>[image like <a href="https://w3c.github.io/wai-media-intro/img/xcr_perspectives-d998a967.png">https://w3c.github.io/wai-media-intro/img/xcr_perspectives-d998a967.png</a> ]</em> </p>
+<p><strong><em>Descriptive transcripts</em></strong> also include visual information needed to understand the content.</p>
+<p>[Descriptive transcripts] are required to provide content to people who are both Deaf and blind. They are also used by people who process text information better than audio and video.</p>
+<p><em>[optional image: person interacting with dynamic Braille display, nott looking at video in background]</em></p>
+
+### Audio Description
+<p>Audio description provides content to people who are blind and others who cannot see the video adequately. <s>It is also used by people who process text better than visual information such as graphs.</s></p>
+<p>Audio description describes visual information needed to understand the content. It is usually narration added to the soundtrack. Alternatively, it can be provided as a text track that can be read by screen reader software.</p>
+<p>For some types of video (such as some training videos), audio description  can be seamlessly integrated into the  video as it is developed.</p>
+<p>Usually two video options are provided: a video without audio description, and a separate video with audio description.</p>
+<p><em>[optional image: blind person listening to video]</em></p>
+
+### Sign Language
+<p>Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For most people who are Deaf, sign language is their native language, and some do not read written language well. Note that there are different sign languages in different regions and countries; for example, American Sign Language (ASL), British Sign Language (BSL), and Auslan (Australian Sign Language) are all different.</p>
+<p>Sign language is not required to meet most minimum accessibility standards.</p>
+<p><em>[optional image: person signing]</em></p>
+
+### Video and Audio Content
+<p>There are also accessibility requirements for the video or audio content itself. For example, in videos,  avoid flashing that can cause seizures.</p>
 </dl>
 
 ## Accessibility Requirements
+
 <p>Providing a descriptive transcript for  videos (or basic transcript for audio-only) meets a wide range of accesibility needs.</p>
 <p>To meet Web Content Accessibility Guidelines (WCAG) Level AA, <em>most</em> videos need to include:</p>
 <ul>
   <li>Captions (<a href="https://www.w3.org/WAI/WCAG21/Understanding/media-equiv-captions">WCAG Success Criteria 1.2.2</a>)</li>
   <li>Audio Description (<a href="https://www.w3.org/WAI/WCAG21/Understanding/media-equiv-audio-desc-only">WCAG Success Criteria 1.2.5</a>)</li>
 </ul>
-<p>Requirements are different based on the content and whether they are live or pre-recorded. To figure out what your video or audio needs, see <a href="#standards">Managing Accessible Media &amp; Standards</a>. &lt;-@@</p>
+<p>Requirements are different based on the content and whether they are live or pre-recorded. To figure out what your video or audio needs, see <a href="#standards">Managing Accessible Media &amp; Standards</a>.</p>
 
 ## Additional Benefits
 
@@ -108,6 +105,7 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 <p>Some benefits of captions are illustrated in this 1-minute <a href="https://www.w3.org/WAI/perspective-videos/captions/">Video on  Captions</a>.<br>
   <em>[optional image: screen capture for visual interest]</em> </p>
 
+
 ## Automatic Captions are Not Sufficient
 
 <p>Automatically-generated captions do not meet user needs or accessibility requirements, unless they are confirmed to be fully accurate.</p>
@@ -117,4 +115,4 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
   Broil on high for 4 to 5 minutes. You should not preheat the oven.&quot;<br>
   &quot;Automatic caption: Broil on high for 45 minutes. You should know to preheat the oven.&quot;<br>
   <em>optional illustration/picture:  fire coming from oven, or totally burned food on a broiler pan ;-)</em>]
-<p>Automatic captions can be used as a starting point for developing accurate captions and transcripts, as described in <a href="#captions">Creating Captions</a> and <a href="#transcripts">Creating Transcripts</a>.&lt;-@@</p>
+<p>Automatic captions can be used as a starting point for developing accurate captions and transcripts, as described in <a href="#captions">Creating Captions</a> and <a href="#transcripts">Creating Transcripts</a>.</p>
