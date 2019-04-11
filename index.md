@@ -117,9 +117,11 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 
 ## Developing Media Alternatives In-House or Outsourced
 
-A common approach to developing media alternatives is:
-* Whoever is developing the main video, also develops the audio described version at the same time.
-* Captions are outsourced, including for the main video, for the audio described version, and of the audio description itself.
-* Descriptive transcripts are developed in-house using the text from the captions files.
+<p>A common approach to developing media alternatives is:</p>
+<ul>
+  <li>Whoever is developing the main video, also develops the audio described version at the same time.</li>
+  <li>Captions are outsourced, including for the main video, for the audio described version, and of the audio description itself.</li>
+  <li>Descriptive transcripts are developed in-house using the text from the captions files.</li>
+</ul>
+<p>For help figuring out how to get your media alternatives developed, see <a href="@@">Managing Media Accessibility</a>.</p>
 
-For help figuring out how to get your media alternatives developed, see <a href="@@">Managing Media Accessibility</a>.
