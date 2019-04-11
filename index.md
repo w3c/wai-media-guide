@@ -108,7 +108,7 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 
 <p>Automatically-generated captions do not meet user needs or accessibility requirements, unless they are confirmed to be fully accurate.</p>
 <p>There are tools that use speech recognition technology to turn a soundtrack into a timed caption file. For example, many videos uploaded to YouTube have automatic captions. [<a href="https://support.google.com/youtube/answer/3038280">YouTube info</a>] However, often the automatic caption text does not match the spoken audio &mdash; and in ways that change the meaning (or are embarrassing). For example, missing just one word such as &quot;not&quot; can make the captions contradict the actual audio content.</p>
-<p style="text-align:center">[<em>optionally as an illustration for visual interest (with text as true text):</em><br>
+<p style="text-align:center; text-size:85%">[<em>optionally as an illustration for visual interest (with text as true text):</em><br>
   &quot;Spoken text: 
   Broil on high for 4 to 5 minutes. You should not preheat the oven.&quot;<br>
   &quot;Automatic caption: Broil on high for 45 minutes. You should know to preheat the oven.&quot;<br>
@@ -118,14 +118,14 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 ## Developing Media Alternatives In-House or Outsourced
 
 <p>A common approach to developing media alternatives is:</p>
-<ul>
-  <li>Whoever is developing the main video, also develops the audio described version at the same time.</li>
+<ol>
+  <li>An audio described version is developed by the same people, at the same time as the main video.</li>
   <li>Captions are outsourced, including for the main video, for the audio described version, and of the audio description itself.</li>
-  <li>Descriptive transcripts are developed in-house using the text from the captions files.</li>
-</ul>
+  <li>Descriptive transcripts are developed in-house using the text from the caption files.</li>
+</ol>
 <p>For help figuring out how to get your media alternatives developed, see <a href="@@">Managing Media Accessibility</a>.</p>
 
 
-<p style="text-align:center"><strong>[Next ->]</strong></p>
+<p style="text-align:center"><strong>[ Next > ]</strong></p>
 
 
