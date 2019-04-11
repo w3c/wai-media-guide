@@ -1,6 +1,6 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
-title: "Make Video & Audio Accessible"   # Do not translate "title:". Do translate the text after "title:".
+title: "Making Video and Audio Accessible - Introduction"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Make Video & Audio Accessible" # A short title that is used in the navigation
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-04-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -19,7 +19,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This multi-page resource helps you make video and audio (such as podcasts) accessible.
+This multi-page resource helps you make video and audio (such as podcasts) accessible to people with disabilities.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -59,10 +59,10 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 ### Transcripts
 <p>Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content.</p>
 <p>Some media players can synch the transcript with the video, so that text phrases are highlighed as they are spoken. With these interactive transcripts, users can select text in the transcript and go to that point in the video.</p>
-<p><em>[image like <a href="https://w3c.github.io/wai-media-intro/img/xcr_perspectives-d998a967.png">https://w3c.github.io/wai-media-intro/img/xcr_perspectives-d998a967.png</a> ]</em> </p>
+<p style="text-align:center"><em>[image like <a href="https://w3c.github.io/wai-media-intro/img/xcr_perspectives-d998a967.png">https://w3c.github.io/wai-media-intro/img/xcr_perspectives-d998a967.png</a> ]</em> </p>
 <p><strong><em>Descriptive transcripts</em></strong> also include visual information needed to understand the content.</p>
 <p>Descriptive transcripts are required to provide content to people who are both Deaf and blind. They are also used by people who process text information better than audio and video.</p>
-<p><em>[optional image: person interacting with dynamic Braille display, nott looking at video in background]</em></p>
+<p style="text-align:center"><em>[optional image: person interacting with dynamic Braille display, nott looking at video in background]</em></p>
 
 ### Audio Description
 <p>Audio description provides content to people who are blind and others who cannot see the video adequately. <s>It is also used by people who process text better than visual information such as graphs.</s></p>
@@ -87,7 +87,7 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
   <li>Captions (<a href="https://www.w3.org/WAI/WCAG21/Understanding/media-equiv-captions">WCAG Success Criteria 1.2.2</a>)</li>
   <li>Audio Description (<a href="https://www.w3.org/WAI/WCAG21/Understanding/media-equiv-audio-desc-only">WCAG Success Criteria 1.2.5</a>)</li>
 </ul>
-<p>Requirements are different based on the content and whether they are live or pre-recorded. To figure out what your video or audio needs, see <a href="@@">Managing Accessible Media &amp; Standards</a>.</p>
+<p>Requirements are different based on the content and whether they are live or pre-recorded. To figure out what your video or audio needs, see <a href="@@">Managing Media Accessibility</a>.</p>
 
 ## Additional Benefits
 
@@ -101,8 +101,8 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
   <li>Better understood when users can  hear the information in audio and  see it in text at the same time. [reference]</li>
   <li>Better indexed by search engines.</li>
 </ul>
-<p>Some benefits of captions are illustrated in this 1-minute <a href="https://www.w3.org/WAI/perspective-videos/captions/">Video on  Captions</a>.<br>
-  <span style="text-align:center"><em>[optional image: screen capture for visual interest]</em></span></p>
+<p>Some benefits of captions are illustrated in this 1-minute <a href="https://www.w3.org/WAI/perspective-videos/captions/">Video on  Captions</a>.</p>
+<p style="text-align:center"><em>[optional image: screen capture for visual interest]</em></span></p>
 
 ## Automatic Captions are Not Sufficient
 
