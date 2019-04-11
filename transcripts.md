@@ -36,4 +36,26 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include toc.html type="end" %}
 {:/}
 
-## testing, testing, 1,2,3
+{::nomarkdown}
+{% include box.html type="start" title="From the Introduction:" class="" %}
+{:/}
+
+<p>Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content.</p>
+<p>Some media players can synch the transcript with the video, so that text phrases are highlighed as they are spoken. With these interactive transcripts, users can select text in the transcript and go to that point in the video.</p>
+<p style="text-align:center"><em>[image like <a href="https://w3c.github.io/wai-media-intro/img/xcr_perspectives-d998a967.png">https://w3c.github.io/wai-media-intro/img/xcr_perspectives-d998a967.png</a> ]</em> </p>
+<p><strong><em>Descriptive transcripts</em></strong> also include visual information needed to understand the content.</p>
+<p>Descriptive transcripts are required to provide content to people who are both Deaf and blind. They are also used by people who process text information better than audio and video.</p>
+<p style="text-align:center"><em>[optional image: person interacting with dynamic Braille display, nott looking at video in background]</em></p>
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+
+
+@@ ...Transcripts from captions -- @@ take out time stamps ...
+
+
+<p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
+
+
