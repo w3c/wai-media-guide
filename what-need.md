@@ -54,7 +54,7 @@ This page helps you figure out if your specific video or audio needs captions, a
 {% include box.html type="end" %}
 {:/}
 
-<p>Web Content Accessibility Guidelines (<a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG</a>) guidelines are explained in <a href="@@">WCAG Media Standards</a>. This page describes the optimum for pre-recorded media to meet users' needs.</p></p>
+<p>Web Content Accessibility Guidelines (<a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG</a>) guidelines are explained in <a href="@@">WCAG Media Standards</a>.<br>This page describes the optimum for pre-recorded media to meet users' needs.</p>
 
 ## Providing a Descriptive Transcript for Your Videos
 <p>Descriptive transcripts are not required to meet WCAG Level AA. However, they:</p>
@@ -67,7 +67,7 @@ This page helps you figure out if your specific video or audio needs captions, a
 ## Deciding How to Meet User Needs
 <p>The wording below helps you think about what users need in order to understand the information that you are presenting in the video or audio, including users who cannot hear it or see it. We've included &quot;who are Deaf&quot; and &quot;who are blind&quot; to help you understand what to provide. However, keep in mind that many people who <em>can</em> see and hear will also benefit from these, as described in <a href="@@#@@">Additional Benefits</a>.</p>
 
-## What does my video need to be accessible?
+### What does my video need to be accessible?
 <ul>
   <li><strong>Is there speech or other audio</strong> that is needed to understand the content?
     <ul>
@@ -99,7 +99,7 @@ This page helps you figure out if your specific video or audio needs captions, a
   <li><strong>[_] Transcript of audio information </strong> that provides the information to people who don't want to listen to the audio or want an interactive transcript. (<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a>)</li>
 </ul>
 
-### Informing Users When None Needed
+## Informing Users When None Needed
 <p> If your media does not need captions (because there is no substantive audio content) or does not need audio description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it. For example:</p>
 <ul>
   <li>Captions not needed: The only sound with this video is background music. There is no speaking.</li>
