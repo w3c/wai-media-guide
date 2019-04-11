@@ -36,4 +36,20 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include toc.html type="end" %}
 {:/}
 
-## testing, testing, 1,2,3
+{::nomarkdown}
+{% include box.html type="start" title="From the Introduction:" class="" %}
+{:/}
+
+<p>Captions provide content to people who are Deaf and others who cannot hear the audio. They are also used by people who process written information better than audio.</p>
+<p>Captions are a text version of the speech and non-speech audio information needed to understand the content. They are displayed within the media player and  are synchronized with the audio.</p>
+<p>Most are "closed captions" that can be hidden or shown by people watching the video. They can  be "open captions" that are always displayed and cannot be turned off.</p>
+<p><strong><em>Subtitles</em></strong> are the spoken audio translated into another language. They are implemented like captions. Subtitles can be only the spoken audio (for people who can hear the audio) or can be a translation of the caption content including non-speech audio information.</p>
+<p style="text-align:center"><em>[image: example static image from Perspectives Video on Captions showing captions.]</em></p>
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+@@ content...
+
+<p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
