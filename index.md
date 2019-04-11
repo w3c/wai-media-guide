@@ -107,12 +107,12 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 ## Automatic Captions are Not Sufficient
 
 <p>Automatically-generated captions do not meet user needs or accessibility requirements, unless they are confirmed to be fully accurate.</p>
-<p>There are tools that use speech recognition technology to turn a soundtrack into a timed caption file. For example, many videos uploaded to YouTube have automatic captions. [<a href="https://support.google.com/youtube/answer/3038280">YouTube info</a>] However, automatic captions are often inaccurate. Often the text does not match the spoken audio &mdash; and in ways that  change the meaning (or are embarrassing). For example, missing just one word such as &quot;not&quot; can make the captions contradict the actual audio content.
+<p>There are tools that use speech recognition technology to turn a soundtrack into a timed caption file. For example, many videos uploaded to YouTube have automatic captions. [<a href="https://support.google.com/youtube/answer/3038280">YouTube info</a>] However, often the automatic caption text does not match the spoken audio &mdash; and in ways that change the meaning (or are embarrassing). For example, missing just one word such as &quot;not&quot; can make the captions contradict the actual audio content.</p>
 <p style="text-align:center">[<em>optionally as an illustration for visual interest (with text as true text):</em><br>
   &quot;Spoken text: 
   Broil on high for 4 to 5 minutes. You should not preheat the oven.&quot;<br>
   &quot;Automatic caption: Broil on high for 45 minutes. You should know to preheat the oven.&quot;<br>
-  <em>optional illustration/picture:  fire coming from oven, or totally burned food on a broiler pan ;-)</em>]
+  <em>optional illustration/picture:  fire coming from oven, or totally burned food on a broiler pan ;-)</em>]</p>
 <p>Automatic captions can be used as a starting point for developing accurate captions and transcripts, as described in <a href="#captions">Creating Captions</a> and <a href="#transcripts">Creating Transcripts</a>.</p>
 
 ## Developing Media Alternatives In-House or Outsourced
