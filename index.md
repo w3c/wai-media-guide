@@ -87,7 +87,7 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
   <li>Captions (<a href="https://www.w3.org/WAI/WCAG21/Understanding/media-equiv-captions">WCAG Success Criteria 1.2.2</a>)</li>
   <li>Audio Description (<a href="https://www.w3.org/WAI/WCAG21/Understanding/media-equiv-audio-desc-only">WCAG Success Criteria 1.2.5</a>)</li>
 </ul>
-<p>Requirements are different based on the content and whether they are live or pre-recorded. To figure out what your video or audio needs, see <a href="@@">Managing Media Accessibility</a> and <a href="@@">Accessibility Standards for Media</a>.</p>
+<p>Requirements are different based on the content and whether they are live or pre-recorded. To figure out what your video or audio needs, see <a href="@@">Managing Media Accessibility</a> and <a href="@@">Standards for Media Accessibility</a>.</p>
 
 ## Additional Benefits
 
