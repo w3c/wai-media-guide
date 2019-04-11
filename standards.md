@@ -62,72 +62,73 @@ This pages shows the Web Content Accessibility Guidelines (<a href="https://www.
 </ul>
 
 ### Pre-Recorded
+
 <table>
-    <tr>
-      <th scope="col">&nbsp;</th>
-      <th scope="col">Transcript <span class="normal-weight">(including auditory and visual content)</span></th>
-      <th scope="col">Captions</th>
-      <th scope="col">Audio Description <span class="normal-weight">(if visual content not in audio)</span></th>
-      <th scope="col">Sign Language</th>
-    </tr>
-    <tr>
-      <th scope="row">Video with Audio</th>
-      <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a></td>
-      <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded">A 1.2.2</a></strong></td>
-      <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded">A 1.2.3</a></strong>&nbsp;(audio description <em><strong>or</strong></em> transcript)<br>
-        <strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded">AA 1.2.5</a><a href="https://www.w3.org/WAI/WCAG21/Understanding/media-equiv-audio-desc-only"></a></strong><br>
-        <a href="https://www.w3.org/WAI/WCAG21/Understanding/extended-audio-description-prerecorded">AAA 1.2.7</a></td>
-      <td><a href="https://www.w3.org/WAI/WCAG21/Understanding/sign-language-prerecorded">AAA 1.2.6</a></td>
-    </tr>
-    <tr>
-      <th scope="row">Audio only</th>
-      <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded">A 1.2.1</a></strong><br>
-        <a href="https://www.w3.org/WAI/WCAG21/Understanding/media-alternative-prerecorded">AAA 1.2.8</a></td>
-      <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded">A 1.2.2</a></strong></td>
-      <td>&nbsp;</td>
-      <td><a href="https://www.w3.org/WAI/WCAG21/Understanding/sign-language-prerecorded">AAA 1.2.6</a></td>
-    </tr>
-    <tr>
-      <th scope="row">Video only</th>
-      <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded">A 1.2.1</a><a href="https://www.w3.org/WAI/WCAG21/Understanding/media-equiv-av-only-alt"></a></strong> (transcript <em><strong>or</strong></em> audio description)<br>
-        <a href="https://www.w3.org/WAI/WCAG21/Understanding/media-alternative-prerecorded">AAA 1.2.8</a>
-      <td>&nbsp;</td>
-      <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded">A 1.2.3</a></strong>&nbsp;(audio description <em><strong>or</strong></em> transcript)<br>
-        <strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded">AA 1.2.5</a></strong></td>
-      <td>&nbsp;</td>
-    </tr>
+<tr>
+<th scope="col">&nbsp;</th>
+<th scope="col">Transcript <span class="normal-weight">(including auditory and visual content)</span></th>
+<th scope="col">Captions</th>
+<th scope="col">Audio Description <span class="normal-weight">(if visual content not in audio)</span></th>
+<th scope="col">Sign Language</th>
+</tr>
+<tr>
+<th scope="row">Video with Audio</th>
+<td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a></td>
+<td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded">A 1.2.2</a></strong></td>
+<td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded">A 1.2.3</a></strong>&nbsp;(audio description <em><strong>or</strong></em> transcript)<br>
+<strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded">AA 1.2.5</a><a href="https://www.w3.org/WAI/WCAG21/Understanding/media-equiv-audio-desc-only"></a></strong><br>
+<a href="https://www.w3.org/WAI/WCAG21/Understanding/extended-audio-description-prerecorded">AAA 1.2.7</a></td>
+<td><a href="https://www.w3.org/WAI/WCAG21/Understanding/sign-language-prerecorded">AAA 1.2.6</a></td>
+</tr>
+<tr>
+<th scope="row">Audio only</th>
+<td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded">A 1.2.1</a></strong><br>
+<a href="https://www.w3.org/WAI/WCAG21/Understanding/media-alternative-prerecorded">AAA 1.2.8</a></td>
+<td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded">A 1.2.2</a></strong></td>
+<td>&nbsp;</td>
+<td><a href="https://www.w3.org/WAI/WCAG21/Understanding/sign-language-prerecorded">AAA 1.2.6</a></td>
+</tr>
+<tr>
+<th scope="row">Video only</th>
+<td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded">A 1.2.1</a><a href="https://www.w3.org/WAI/WCAG21/Understanding/media-equiv-av-only-alt"></a></strong> (transcript <em><strong>or</strong></em> audio description)<br>
+<a href="https://www.w3.org/WAI/WCAG21/Understanding/media-alternative-prerecorded">AAA 1.2.8</a>
+<td>&nbsp;</td>
+<td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded">A 1.2.3</a></strong>&nbsp;(audio description <em><strong>or</strong></em> transcript)<br>
+<strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded">AA 1.2.5</a></strong></td>
+<td>&nbsp;</td>
+</tr>
 </table>
 
 ## Live
 <table>
-    <tr>
-      <th scope="col">&nbsp;</th>
-      <th scope="col">Transcript</th>
-      <th scope="col">Captions</th>
-      <th scope="col">Audio Description</th>
-      <th scope="col">Sign Language</th>
-    </tr>
-    <tr>
-      <th scope="row">Video with Audio</th>
-      <td>&nbsp;</td>
-      <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-live">AA 1.2.4</a></strong></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <th scope="row">Audio only</th>
-      <td><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-live">AAA 1.2.9</a></td>
-      <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-live">AA 1.2.4</a></strong></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <th scope="row">Video only</th>
-      <td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
+<tr>
+<th scope="col">&nbsp;</th>
+<th scope="col">Transcript</th>
+<th scope="col">Captions</th>
+<th scope="col">Audio Description</th>
+<th scope="col">Sign Language</th>
+</tr>
+<tr>
+<th scope="row">Video with Audio</th>
+<td>&nbsp;</td>
+<td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-live">AA 1.2.4</a></strong></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<th scope="row">Audio only</th>
+<td><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-live">AAA 1.2.9</a></td>
+<td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-live">AA 1.2.4</a></strong></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<th scope="row">Video only</th>
+<td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
 </table>
 
 ## Learn More
