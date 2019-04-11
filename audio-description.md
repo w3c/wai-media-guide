@@ -36,4 +36,21 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include toc.html type="end" %}
 {:/}
 
-## testing, testing, 1,2,3
+{::nomarkdown}
+{% include box.html type="start" title="From the Introduction:" class="" %}
+{:/}
+
+<p>Audio description provides content to people who are blind and others who cannot see the video adequately. <s>It is also used by people who process text better than visual information such as graphs.</s></p>
+<p>Audio description describes visual information needed to understand the content. It is usually narration added to the soundtrack. Alternatively, it can be provided as a text track that can be read by screen reader software.</p>
+<p>For some types of video (such as some training videos), audio description  can be seamlessly integrated into the  video as it is developed.</p>
+<p>Usually two video options are provided: a video without audio description, and a separate video with audio description.</p>
+<p style="text-align:center"><em>[optional image: blind person listening to video]</em></p>
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+@@ content...
+
+<p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
+
