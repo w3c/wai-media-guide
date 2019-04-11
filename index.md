@@ -89,7 +89,7 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 </ul>
 <p>Requirements are different based on the content and whether they are live or pre-recorded. To figure out what your video or audio needs, see <a href="@@">Managing Media Accessibility</a> and <a href="@@">Standards for Media Accessibility</a>.</p>
 
-## Developing Media Alternatives In-House or Outsourced
+## Develop In-House or Outsource
 
 <p>A common approach to developing media alternatives is:</p>
 <ol>
