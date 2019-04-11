@@ -19,7 +19,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page helps you understand accessibility standards for video and audio (&quot;media&quot;). It helps you decide what to provide with your media, and how to have it developed.
+This pages shows the Web Content Accessibility Guidelines (<a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG</a>) standards for video and audio (&quot;media&quot;).
 
 {::nomarkdown}
 {% include box.html type="end" %}
