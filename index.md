@@ -87,7 +87,7 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
   <li>Captions (<a href="https://www.w3.org/WAI/WCAG21/Understanding/media-equiv-captions">WCAG Success Criteria 1.2.2</a>)</li>
   <li>Audio Description (<a href="https://www.w3.org/WAI/WCAG21/Understanding/media-equiv-audio-desc-only">WCAG Success Criteria 1.2.5</a>)</li>
 </ul>
-<p>Requirements are different based on the content and whether they are live or pre-recorded. To figure out what your video or audio needs, see <a href="@@">Managing Media Accessibility</a>.</p>
+<p>Requirements are different based on the content and whether they are live or pre-recorded. To figure out what your video or audio needs, see <a href="@@">Managing Media Accessibility</a> and <a href="@@">Accessibility Standards for Media</a>.</p>
 
 ## Additional Benefits
 
@@ -102,7 +102,7 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
   <li>Better indexed by search engines.</li>
 </ul>
 <p>Some benefits of captions are illustrated in this 1-minute <a href="https://www.w3.org/WAI/perspective-videos/captions/">Video on  Captions</a>.</p>
-<p style="text-align:center"><em>[optional image: screen capture for visual interest]</em></span></p>
+<p style="text-align:center"><em>[optional image: screen capture for visual interest]</em></p>
 
 ## Automatic Captions are Not Sufficient
 
@@ -114,3 +114,12 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
   &quot;Automatic caption: Broil on high for 45 minutes. You should know to preheat the oven.&quot;<br>
   <em>optional illustration/picture:  fire coming from oven, or totally burned food on a broiler pan ;-)</em>]
 <p>Automatic captions can be used as a starting point for developing accurate captions and transcripts, as described in <a href="#captions">Creating Captions</a> and <a href="#transcripts">Creating Transcripts</a>.</p>
+
+## Developing Media Alternatives In-House or Outsourced
+
+A common approach to developing media alternatives is:
+* Whoever is developing the main video, also develops the audio described version at the same time.
+* Captions are outsourced, including for the main video, for the audio described version, and of the audio description itself.
+* Descriptive transcripts are developed in-house using the text from the captions files.
+
+For help figuring out how to get your media alternatives developed, see <a href="@@">Managing Media Accessibility</a>.
