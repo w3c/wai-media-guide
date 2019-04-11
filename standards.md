@@ -39,7 +39,7 @@ This pages shows the Web Content Accessibility Guidelines (<a href="https://www.
 <p><em>For descriptions of captions, transcripts, audio description, sign language and other introductory information, please see the previous page: <a href="#intro">Making Video and Audio Accessible - Introduction</a>.</em></p>
 
 {::nomarkdown}
-{% include box.html type="start" title="Summary from <a href="@@">Introduction</a>" class="" %}
+{% include box.html type="start" title="From the Introduction:" class="" %}
 {:/}
 
 <p>Providing a descriptive transcript for videos (or basic transcript for audio-only) meets a wide range of accesibility needs.</p>
