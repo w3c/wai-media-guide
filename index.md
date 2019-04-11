@@ -125,3 +125,7 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 </ul>
 <p>For help figuring out how to get your media alternatives developed, see <a href="@@">Managing Media Accessibility</a>.</p>
 
+
+<p style="text-align:center"><strong>[Next ->]</strong></p>
+
+
