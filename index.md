@@ -84,10 +84,10 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 <p>Providing a descriptive transcript for  videos (or basic transcript for audio-only) meets a wide range of accesibility needs.</p>
 <p>To meet Web Content Accessibility Guidelines (WCAG) Level AA, <em>most</em> videos need to include:</p>
 <ul>
-  <li>Captions (<a href="https://www.w3.org/WAI/WCAG21/Understanding/media-equiv-captions">WCAG Success Criteria 1.2.2</a>)</li>
-  <li>Audio Description (<a href="https://www.w3.org/WAI/WCAG21/Understanding/media-equiv-audio-desc-only">WCAG Success Criteria 1.2.5</a>)</li>
+  <li>Captions (<a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded">WCAG Success Criteria 1.2.2</a>)</li>
+  <li>Audio Description (<a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded">WCAG Success Criteria 1.2.5</a>)</li>
 </ul>
-<p>Requirements are different based on the content and whether they are live or pre-recorded. To figure out what your video or audio needs, see <a href="@@">Managing Media Accessibility</a> and <a href="@@">Standards for Media Accessibility</a>.</p>
+<p>Requirements are different based on the content and whether they are live or pre-recorded. To figure out what your video or audio needs, see <a href="@@">WCAG Media Standards</a> and <a href="@@">What Does My Video/Audio Need?</a></p>
 
 ## Develop In-House or Outsource
 
