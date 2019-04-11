@@ -60,9 +60,9 @@ This pages shows the Web Content Accessibility Guidelines (<a href="https://www.
   <li> pre-recorded or live</li>
   <li> video with audio, video without audio, or audio only</li>
 </ul>
-<h3>Pre-Recorded</h3>
-<table border="1" cellspacing="0" cellpadding="7">
-  <tbody>
+
+### Pre-Recorded
+<table>
     <tr>
       <th scope="col">&nbsp;</th>
       <th scope="col">Transcript <span class="normal-weight">(including auditory and visual content)</span></th>
@@ -96,11 +96,10 @@ This pages shows the Web Content Accessibility Guidelines (<a href="https://www.
         <strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded">AA 1.2.5</a></strong></td>
       <td>&nbsp;</td>
     </tr>
-  </tbody>
 </table>
-<h3>Live</h3>
-<table border="1" cellspacing="0" cellpadding="7">
-  <tbody>
+
+## Live
+<table>
     <tr>
       <th scope="col">&nbsp;</th>
       <th scope="col">Transcript</th>
@@ -129,8 +128,11 @@ This pages shows the Web Content Accessibility Guidelines (<a href="https://www.
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-  </tbody>
 </table>
+
+## Learn More
+
+<p>To learn more about WCAG standards, see <a href="https://www.w3.org/WAI/WCAG21/Understanding/time-based-media">Understanding Guideline 1.2: Time-based Media</a>.
 
 <p>To figure out what your specific video or audio needs, see <a href="@@">What Does My Video/Audio Need?</a></p>
 
