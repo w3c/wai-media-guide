@@ -160,18 +160,18 @@
   - name: Tips for Developing
     url: "/tips/developing/"
   - name: Making Video & Audio Accessible
-    url: "/design-develop/media-guide/"
+    url: "/design-develop/media/"
     pages:
-      - name: Managing Accessible Media & Standards
-        url: "/design-develop/media-guide/manage-media-standards/"
-      - name: Creating Captions
-        url: "/design-develop/media-guide/captions/"
-      - name: Creating Transcripts
-        url: "/design-develop/media-guide/transcripts/"
-      - name: Creating Audio Description of Visual Information
-        url: "/design-develop/media-guide/audio-description/"
-      - name: Creating Audio and Video Content
-        url: "/design-develop/media-guide/media-content/"
+      - name: Managing Media & Standards
+        url: "/design-develop/media/manage-standards/"
+      - name: Create Captions
+        url: "/design-develop/media/captions/"
+      - name: Create Transcripts
+        url: "/design-develop/media/transcripts/"
+      - name: Create Audio Description
+        url: "/design-develop/media/audio-description/"
+      - name: Create Audio and Video Content
+        url: "/design-develop/media/media-content/"
   - name: Tutorials
     url: "https://www.w3.org/WAI/tutorials/"
     different: true
