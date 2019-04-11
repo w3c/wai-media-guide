@@ -36,4 +36,13 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include toc.html type="end" %}
 {:/}
 
-## testing, testing, 1,2,3
+<p>@@<br>
+  ...  in videos, avoid flashing that can cause seizures. <a href="https://www.w3.org/WAI/WCAG21/Understanding/seizures-and-physical-reactions">Understanding Guideline 2.3: Seizures and Physical Reactions</a><br>
+  ...
+  in videos, make [overlay] text readable...<br>
+  ... audio, background audio low... <a href="https://www.w3.org/WAI/WCAG21/Understanding/low-or-no-background-audio">Understanding Success Criterion 1.4.7: Low or No Background Audio</a><br>
+  ... other...</p>
+
+
+<p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
+
