@@ -162,10 +162,12 @@
   - name: Make Video & Audio Accessible
     url: "/design-develop/media-guide/"
     pages:
-      - name: Managing Media
-        url: "/design-develop/media-guide/manage/"
-      - name: Media Standards
+      - name: Standards
         url: "/design-develop/media-guide/standards/"
+      - name: What Does My Video/Audio Need?
+        url: "/design-develop/media-guide/descision-tree/"
+      - name: Managing Development
+        url: "/design-develop/media-guide/in-or-out/"
       - name: Captions
         url: "/design-develop/media-guide/captions/"
       - name: Transcripts
