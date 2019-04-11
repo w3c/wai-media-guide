@@ -123,7 +123,7 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
   <li>Captions are outsourced, including for the main video, for the audio described version, and of the audio description itself.</li>
   <li>Descriptive transcripts are developed in-house using the text from the caption files.</li>
 </ol>
-<p>For help figuring out how to get your media alternatives developed, see <a href="@@">Managing Media Accessibility</a>.</p>
+<p>Some organizations do it all in-house, and some outsource it all. For help figuring out how to get your media alternatives developed, see <a href="@@">Managing Media Accessibility</a>.</p>
 
 
 <p style="text-align:center"><strong>[ Next > ]</strong></p>
