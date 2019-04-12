@@ -54,14 +54,18 @@ Requirements are different based on the content and whether they are live or pre
 {% include box.html type="end" %}
 {:/}
 
-Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)) includes requirements for video and audio (&quot;media&quot;), at [Level](https://www.w3.org/WAI/WCAG21/Understanding/conformance.html#uc-levels-head) A, AA, and AAA. Most media is required by governing policies to meet Level AA &mdash; which includes both A and AA listed in the tables below.
+## WCAG
+
+Web Content Accessibility Guidelines (WCAG) is introduced in the [WCAG Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
+
+WCAG includes requirements for video and audio (&quot;media&quot;), at [Level](https://www.w3.org/WAI/WCAG21/Understanding/conformance.html#uc-levels-head) A, AA, and AAA. Most media is required by governing policies to meet Level AA &mdash; which includes both A and AA listed in the tables below.
 
 Accessibility requirements for video and audio are different based on if they are:
 * pre-recorded or live
 * video with audio, video without audio, or audio only
 
 ### Pre-Recorded
-<!--
+
 <table>
 <tr>
 <th scope="col">&nbsp;</th>
@@ -75,7 +79,7 @@ Accessibility requirements for video and audio are different based on if they ar
 <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a></td>
 <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded">A 1.2.2</a></strong></td>
 <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded">A 1.2.3</a></strong>&nbsp;(audio description <em><strong>or</strong></em> transcript)<br>
-<strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded">AA 1.2.5</a><a href="https://www.w3.org/WAI/WCAG21/Understanding/media-equiv-audio-desc-only"></a></strong><br>
+<strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded">AA 1.2.5</a></strong><br>
 <a href="https://www.w3.org/WAI/WCAG21/Understanding/extended-audio-description-prerecorded">AAA 1.2.7</a></td>
 <td><a href="https://www.w3.org/WAI/WCAG21/Understanding/sign-language-prerecorded">AAA 1.2.6</a></td>
 </tr>
@@ -89,7 +93,7 @@ Accessibility requirements for video and audio are different based on if they ar
 </tr>
 <tr>
 <th scope="row">Video only</th>
-<td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded">A 1.2.1</a><a href="https://www.w3.org/WAI/WCAG21/Understanding/media-equiv-av-only-alt"></a></strong> (transcript <em><strong>or</strong></em> audio description)<br>
+<td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded">A 1.2.1</a></strong> (transcript <em><strong>or</strong></em> audio description)<br>
 <a href="https://www.w3.org/WAI/WCAG21/Understanding/media-alternative-prerecorded">AAA 1.2.8</a>
 <td>&nbsp;</td>
 <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded">A 1.2.3</a></strong>&nbsp;(audio description <em><strong>or</strong></em> transcript)<br>
@@ -97,10 +101,10 @@ Accessibility requirements for video and audio are different based on if they ar
 <td>&nbsp;</td>
 </tr>
 </table>
--->
 
-## Live
-<!--
+
+### Live
+
 <table>
 <tr>
 <th scope="col">&nbsp;</th>
@@ -131,7 +135,7 @@ Accessibility requirements for video and audio are different based on if they ar
 <td>&nbsp;</td>
 </tr>
 </table>
--->
+
 
 ## Learn More
 
