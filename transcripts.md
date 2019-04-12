@@ -69,7 +69,9 @@ For example, a transcript of a podcast can be simple text paragraphs with the sp
 {::nomarkdown}
 {% include box.html type="start" title="Example transcript of a podcast interview with two speakers" class="" %}
 {:/}
+
 …
+
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
@@ -79,7 +81,9 @@ A descriptive transcript can be in a table to that readers can easily read only 
 {::nomarkdown}
 {% include box.html type="start" title="Example descriptive transcript" class="" %}
 {:/}
+
 …
+
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
@@ -98,7 +102,9 @@ Below is an example of using caption file to create a describtive transcript.
 {::nomarkdown}
 {% include box.html type="start" title="Example caption file of audio information" class="" %}
 {:/}
+
 …
+
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
@@ -106,7 +112,9 @@ Below is an example of using caption file to create a describtive transcript.
 {::nomarkdown}
 {% include box.html type="start" title="Example caption file of audio description if visual information" class="" %}
 {:/}
+
 …
+
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
@@ -114,7 +122,9 @@ Below is an example of using caption file to create a describtive transcript.
 {::nomarkdown}
 {% include box.html type="start" title="Example descriptive transcript" class="" %}
 {:/}
+
 …
+
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
@@ -131,7 +141,7 @@ Transcripts generally include all of the audio information from the captions, an
 
 * Add navigation and clarifications:
    * Add headings and links where it will make the transcript more usable. This also helps with SEO. For example:
-   * Example with added links in short podcast transcript.
+      * [Example with added links in short podcast transcript](http://www.w3.org/WAI/highlights/200606wcag2interview.html)
    * It is generally acceptable to add clarifying information, as long as it is clear that it is not part of the actual audio, e.g., words added to a paragraph put in [brackets], or separate sections with headings "Introduction", "Transcript", "Resources".
       * [Example with added headings in long presentation transcript](http://www.w3.org/WAI/highlights/200706wcag2pres)
 
@@ -144,7 +154,9 @@ Transcripts generally include all of the audio information from the captions, an
 {::nomarkdown}
 {% include box.html type="start" title="Example caption file" class="" %}
 {:/}
+
 …
+
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
@@ -152,7 +164,9 @@ Transcripts generally include all of the audio information from the captions, an
 {::nomarkdown}
 {% include box.html type="start" title="Example transcript of same information" class="" %}
 {:/}
+
 … grouped more with single start time…
+
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
