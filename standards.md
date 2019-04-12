@@ -62,7 +62,7 @@ WCAG includes requirements for video and audio (&quot;media&quot;), at [Level](h
 
 Accessibility requirements for video and audio are different based on if they are:
 * pre-recorded or live
-* video with audio, video without audio, or audio only
+* video with audio, video without audio (video only), or audio only
 
 ### Pre-Recorded
 
