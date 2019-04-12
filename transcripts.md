@@ -104,7 +104,7 @@ Below is an example of using caption file to create a describtive transcript.
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title=Example caption file of audio description if visual information" class="" %}
+{% include box.html type="start" title="Example caption file of audio description if visual information" class="" %}
 {:/}
 …
 {::nomarkdown}
