@@ -61,7 +61,7 @@ Accessibility requirements for video and audio are different based on if they ar
 * video with audio, video without audio, or audio only
 
 ### Pre-Recorded
-
+<!--
 <table>
 <tr>
 <th scope="col">&nbsp;</th>
@@ -97,9 +97,10 @@ Accessibility requirements for video and audio are different based on if they ar
 <td>&nbsp;</td>
 </tr>
 </table>
+-->
 
 ## Live
-
+<!--
 <table>
 <tr>
 <th scope="col">&nbsp;</th>
@@ -130,6 +131,7 @@ Accessibility requirements for video and audio are different based on if they ar
 <td>&nbsp;</td>
 </tr>
 </table>
+-->
 
 ## Learn More
 
