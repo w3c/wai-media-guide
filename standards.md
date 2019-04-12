@@ -138,9 +138,9 @@ Accessibility requirements for video and audio are different based on if they ar
 
 ## Learn More
 
-To learn more about WCAG standards, see [Understanding Guideline 1.2: Time-based Media  {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/Understanding/time-based-media).
+To learn more about WCAG standards for media, see [Understanding Guideline 1.2: Time-based Media  {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/Understanding/time-based-media).
 
-To figure out what your specific video or audio needs, see [What Does My Video/Audio Need?](http://@@)
+**To figure out what your specific video or audio needs, see the next page: [What Does My Video/Audio Need?](http://@@)**
 
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
 
