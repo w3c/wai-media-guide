@@ -36,7 +36,7 @@ This pages shows the Web Content Accessibility Guidelines (<a href="https://www.
 {% include toc.html type="end" %}
 {:/}
 
-<p><em>For descriptions of captions, transcripts, audio description, sign language and other introductory information, please see the previous page: <a href="#intro">Making Video and Audio Accessible - Introduction</a>.</em></p>
+_For descriptions of captions, transcripts, audio description, sign language and other introductory information, please see the previous page: [Making Video and Audio Accessible - Introduction](http://@@)._
 
 {::nomarkdown}
 {% include box.html type="start" title="From the Introduction:" class="" %}
@@ -100,6 +100,7 @@ This pages shows the Web Content Accessibility Guidelines (<a href="https://www.
 </table>
 
 ## Live
+
 <table>
 <tr>
 <th scope="col">&nbsp;</th>
@@ -133,9 +134,9 @@ This pages shows the Web Content Accessibility Guidelines (<a href="https://www.
 
 ## Learn More
 
-<p>To learn more about WCAG standards, see <a href="https://www.w3.org/WAI/WCAG21/Understanding/time-based-media">Understanding Guideline 1.2: Time-based Media</a>.
+To learn more about WCAG standards, see [Understanding Guideline 1.2: Time-based Media  {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/Understanding/time-based-media).
 
-<p>To figure out what your specific video or audio needs, see <a href="@@">What Does My Video/Audio Need?</a></p>
+To figure out what your specific video or audio needs, see [What Does My Video/Audio Need?](http://@@)
 
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
 
