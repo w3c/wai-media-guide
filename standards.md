@@ -66,6 +66,7 @@ Accessibility requirements for video and audio are different based on if they ar
 
 ### Pre-Recorded
 
+<!--
 <table>
 <tr>
 <th scope="col">&nbsp;</th>
@@ -101,10 +102,42 @@ Accessibility requirements for video and audio are different based on if they ar
 <td>&nbsp;</td>
 </tr>
 </table>
-
+-->
 
 ### Live
 
+<table>
+<tr>
+<th scope="col">a</th>
+<th scope="col">Transcript</th>
+<th scope="col">Captions</th>
+<th scope="col">Audio Description</th>
+<th scope="col">Sign Language</th>
+</tr>
+<tr>
+<th scope="row">Video with Audio</th>
+<td>a</td>
+<td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-live">AA 1.2.4</a></strong></td>
+<td>a</td>
+<td>a</td>
+</tr>
+<tr>
+<th scope="row">Audio only</th>
+<td><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-live">AAA 1.2.9</a></td>
+<td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-live">AA 1.2.4</a></strong></td>
+<td>a</td>
+<td>a</td>
+</tr>
+<tr>
+<th scope="row">Video only</th>
+<td>
+<td>a</td>
+<td>a</td>
+<td>a</td>
+</tr>
+</table>
+
+<!--
 <table>
 <tr>
 <th scope="col">&nbsp;</th>
@@ -135,7 +168,7 @@ Accessibility requirements for video and audio are different based on if they ar
 <td>&nbsp;</td>
 </tr>
 </table>
-
+-->
 
 ## Learn More
 
