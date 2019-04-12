@@ -76,6 +76,9 @@ This page helps you manage accessible media development. It includes guidance to
 <p>The sections below provide additional information to help you decide how to get your captions, transcripts, and audio description developed.</p>
 
 ## Captions Considerations
+
+<p>Live captions are usually done by professional Communication Access Realtime Translation (CART) providers. The rest of this section addresses captions for pre-recorded media.</p>
+
 <p>Creating captions requires typing up audio (&quot;transcribing&quot;) and formatting it in a file with timestamps. It is surprisingly difficult to transcribe an audio file, and takes quite a bit of time for people who don't have the software and skill for it. The file formast for captions are  simple, yet it's tedious to add timestamps, especially without software or service for developing caption files. Good captioning requires knowledge of which non-speech audio information should be included in the captions.</p>
 <p>Even correcting an automatice caption files takes quite a bit of time for people who don't do it regularly.</p>
 <p>However, for people who have the software, skills, and experience in developing captions, they are much easier and faster to develop.</p>
