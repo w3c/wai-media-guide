@@ -184,41 +184,19 @@ Keep in mind that the main purpose of a descriptive transcript is to provide the
 
 Transcripts generally include all of the audio information from the captions, and additional information. See the guidance under "For captions and transcripts". _{can we programmatically put one source here & there so users don't have to go elsewhere to get it, and we only have to update it in one places?}_
 
-* If you're starting with a captions file, edit the line breaks. Put the information in logical paragraphs, lists, and sections.
+* **If you're starting with a captions file, edit the line breaks.** Put the information in logical paragraphs, lists, and sections. For example, in the example excerpts above, 6 lines of captions are grouped into 2 paragraghs of text (in table cells).
 
-{::nomarkdown}
-{% include box.html type="start" title="Example caption file (excerpt)" class="" %}
-{:/}
-
-…
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-{::nomarkdown}
-{% include box.html type="start" title="Example transcript of the same information (excerpt)" class="" %}
-{:/}
-
-… grouped more with single start time…
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-
-
-* Add navigation and clarifications:
+* **Add navigation and clarifications:**
    * Add headings and links where it will make the transcript more usable. This also helps with SEO. For example:
       * [Example with added links in short podcast transcript](http://www.w3.org/WAI/highlights/200606wcag2interview.html)
    * It is generally acceptable to add clarifying information, as long as it is clear that it is not part of the actual audio, e.g., words added to a paragraph put in [brackets], or separate sections with headings "Introduction", "Transcript", "Resources".
       * [Example with added headings in long presentation transcript](http://www.w3.org/WAI/highlights/200706wcag2pres)
 
-* Indicate the speakers for optimum usability. For example:
+* **Indicate the speakers for optimum usability** For example:
    * When there are multiple speakers, use hanging indents to make it easy to skim for a particular speaker.
    * When the focus should be on the interviewee's answers and not the interviewer, you could format the interviewer's questions in smaller, lighter text so the interviewee's answers stand out more clearly.
 
-* Include timestamps only when useful. In many cases, including timestamps would be unnecessary clutter. If you do include them, they usually don't need to be as granular as the captions, and do not need to include end times.
+* **Include timestamps only when useful.** In many cases, including timestamps would be unnecessary clutter. If you do include them, they usually don't need to be as granular as the captions, and do not need to include end times.
 
 {::nomarkdown}
 {% include box.html type="start" title="Example caption file with timestamps (excerpt)" class="" %}
