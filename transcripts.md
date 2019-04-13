@@ -87,27 +87,19 @@ A descriptive transcript can be in a table so that readers can easily read only 
 
 ## Developing Transcripts
 
-{::nomarkdown}
-{% include box.html type="start" class="simple" %}
-{:/}
+**Transcripts and captions include the same text, so one can be used to develop the other.**
 
-**Transcripts and captions include the same text, so one can be used to develop the other. Most caption-editing tools provide an option to export a plain text transcript.**
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-Often captions (including of the audio description) are developed first, and then transcripts are created from that text.
+Often captions (including of the audio description) are developed first, and then transcripts are created from that text. Most caption-editing tools provide an option to export a plain text transcript.
 
 Whatever tool you use to develop web content, you can use to develop your transcript.
 
-Below is an example of using caption files to create a describtive transcript.
+Below is an example of using caption files to create a descriptive transcript.
 
 {::nomarkdown}
 {% include box.html type="start" title="Example caption file of audio information (excerpt)" class="" %}
 {:/}
 
-<pre>
+```
 00:00:08.120 --> 00:00:10.240
 Video isn't just about pictures,
 
@@ -125,7 +117,7 @@ Not knowing what's going on.
 
 00:00:29.620 --> 00:00:32.840
 That's the situation for everyone who can't hear.
-</pre>
+```
 
 {::nomarkdown}
 {% include box.html type="end" %}
