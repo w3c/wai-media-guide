@@ -102,23 +102,53 @@ Often captions (including of the audio description) are developed first, and the
 
 Whatever tool you use to develop web content, you can use to develop your transcript.
 
-Below is an example of using caption file to create a describtive transcript.
+Below is an example of using caption files to create a describtive transcript.
 
 {::nomarkdown}
 {% include box.html type="start" title="Example caption file of audio information (excerpt)" class="" %}
 {:/}
 
-…
+WEBVTT
+
+00:00:08.120 --> 00:00:10.240
+Video isn't just about pictures,
+
+00:00:10.241 --> 00:00:12.040
+it's also about sound.
+
+00:00:12.160 --> 00:00:16.280
+Without the audio, you would have to guess what this film is about.
+
+00:00:23.140 --> 00:00:24.730
+Frustrating isn't it?
+
+00:00:24.731 --> 00:00:26.880
+Not knowing what's going on.
+
+00:00:29.620 --> 00:00:32.840
+That's the situation for everyone who can't hear.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Example caption file of audio description if visual information (excerpt)" class="" %}
+{% include box.html type="start" title="Example caption file of audio description of visual information (excerpt)" class="" %}
 {:/}
 
-…
+WEBVTT
+
+00:00:04.000 --> 00:00:07.980
+<v Audio Descriptions> A man sitting at a desk starts watching a video on his computer. 
+
+00:00:17.260 --> 00:00:20.780
+<v Audio Descriptions> The video on his computer shows a person speaking to the camera.
+
+00:00:20.780 --> 00:00:23.140
+<v Audio Descriptions> It is playing with no audio.
+
+00:00:26.880 --> 00:00:29.620
+<v Audio Descriptions> The man watching the video has a hearing aid.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -128,7 +158,33 @@ Below is an example of using caption file to create a describtive transcript.
 {% include box.html type="start" title="Example descriptive transcript (excerpt)" class="" %}
 {:/}
 
-…
+<table>
+  <thead>
+    <tr>
+      <th width="65%">Audio</th>
+      <th>Visual</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Web Accessibility Perspectives: Video Captions</td>
+      <td>Web Accessibility Perspectives:<br>
+        Video Captions</td>
+    </tr>
+    <tr>
+      <td>Video isn't just about pictures, it's also about sound. Without the audio, you would have to guess what this film is about.</td>
+      <td>A man sitting at a desk starts watching a video on his computer.<br></td>
+    </tr>
+    <tr>
+      <td>[no sound]</td>
+      <td>The video on his computer shows a person speaking to the camera. It is playing with no audio.</td>
+    </tr>
+    <tr>
+      <td>Frustrating isn't it? Not knowing what's going on. That's the situation for everyone who can't hear.</td>
+      <td>The man watching the video has a hearing aid.</td>
+    </tr>
+  </tbody>
+</table>
 
 {::nomarkdown}
 {% include box.html type="end" %}
