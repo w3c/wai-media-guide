@@ -136,7 +136,7 @@ That's the situation for everyone who can't hear.
 {% include box.html type="start" title="Example caption file of audio description of visual information (excerpt)" class="" %}
 {:/}
 
-<pre>
+<div><pre>
 00:00:04.000 --> 00:00:07.980
 <v Audio Descriptions> A man sitting at a desk starts watching a video on his computer. 
 
@@ -148,7 +148,7 @@ That's the situation for everyone who can't hear.
 
 00:00:26.880 --> 00:00:29.620
 <v Audio Descriptions> The man watching the video has a hearing aid.
-</pre>
+</pre></div>
 
 {::nomarkdown}
 {% include box.html type="end" %}
