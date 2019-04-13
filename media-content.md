@@ -19,7 +19,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-@@ Summary
+This page addrresses accessibility considerations for planning and produgin video and audio content.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -36,18 +36,18 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include toc.html type="end" %}
 {:/}
 
-## Tips for Videos and Audio Content
+## Tips for Video and Audio Content
 
 ... in videos, avoid flashing that can cause seizures...
   
-... in videos, make [overlay] text readable...
+... in videos, make overlay text readable - contrast, size...
 
 ... audio: background low, not interferring...
 
 ... others ...
 
 
-## Learn more in Understanding WCAG 
+## Learn more from Understanding WCAG 
 
 * [2.3.1 Three Flashes or Below Threshold (Level A)](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold.html)<br>
 Web pages do not contain anything that flashes more than three times in any one second period, or the flash is below the general flash and red flash thresholds.
@@ -80,5 +80,5 @@ If any audio on a Web page plays automatically for more than 3 seconds, either a
 
 
 
-<p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
+<p style="text-align:center"><strong>[ < Previous ]</strong></p>
 
