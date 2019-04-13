@@ -91,9 +91,9 @@ Other caption formats are: [Timed Text Markup Language (TTML)](https://www.w3.or
 
 ## Developing Captions
 
-Most people who develop captions use software to help. There are several free captioning software programs and online services available. Some will create automatic captions that you can use as a starting point. Note that they will need to be fixed for accuracy.
+Most people who develop captions use software to help. There are several free captioning software programs and online services available. Some will create automatic captions that you can use as a starting point. Note that you will need to be edit automatic captions for accuracy.
 
-For example, YouTube provides automatic captions and tools for you to edit the captions, as described in  Edit or remove captions – YouTube Help (https://support.google.com/youtube/answer/2734705?hl=en).
+For example, YouTube provides automatic captions and tools for you to edit the captions, as described in [Edit or remove captions – YouTube Help](https://support.google.com/youtube/answer/2734705?hl=en).
 
 **Captions and transcripts include the same text, so one can be used to develop the other.**
 
@@ -114,26 +114,38 @@ Keep in mind that the main purpose of the captions is to provide information to 
 * Identify the speakers as relevant. Often it is best to use the full name the first time and single name throughout &mdash; either first/given or last/family depending on the formality.
 
 * You can include relevant information about the speech. For example,
-	 ( shouting ):
+<blockquote>
+	_( shouting ):_
 	I hate this computer!
+</blockquote>
 
 * Put important non-speech sounds in parentheses, lowercase, italics, with a space before and after. For example:
-	 ( computer crashing into bits and parts sliding across the floor )
+<blockquote>
+	 _( computer crashing into bits and parts sliding across the floor )_
+</blockquote>
 
 * When a speaker is off-screen, you can put their speech in italics. For example,
-	Jose: What was that awful noise?
-	Zoe: You don't want to know.
-	Jose: Well, I'm coming to find out.
+<blockquote>
+	_Jose: What was that awful noise?_<br>
+	Zoe: You don't want to know.<br>
+	_Jose: Well, I'm coming to find out._
+</blockquote>
 
 * Only include background music if it's important to understand the content of the video. Use objective descriptions that indicate the mood; avoid subjective words, such as "beautiful." If the words in the music are important, add a musical note to the beginning and end of each caption. Put music information in italics.
-
-	♪ scary music, JAWS theme ♪
+<blockquote>
+	_♪ scary music, JAWS theme ♪_
+</blockquote>
 
 * Do not emphasize a word using all capital letters except to indicate screaming.
 
-#### Editing:
+#### Editing Content
 
-* For most web content, it is acceptable to do light editing to make the captions easier to process. For example, if the speaker says: "I just got so frustrated (cough, cough) sorry – uhhh, oh yea - I got so frustrated with my computer." You can caption: "I just got so frustrated with my computer."
+* For most web content, it is acceptable to do light editing to make the captions easier to process. For example, if the speaker says: <blockquote>
+	I just got so frustrated (cough, cough) sorry – uhhh, oh yea - I got so frustrated with my computer.
+</blockquote>
+You can caption:
+<blockquote>I just got so frustrated with my computer.
+</blockquote>
 
 * For some content, such as legal depositions, transcribe everything verbatim, including things like "um" and repeated phrases.
 
