@@ -19,7 +19,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-@@ Summary
+This page provides guidance on creating captions.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -50,6 +50,98 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="end" %}
 {:/}
 
-@@ content...
+## Scope
+
+This page addresses developing captions for pre-recorded media. Live captions are usually done by professional Communication Access Realtime Translation (CART) providers. Live captions are not addressed on this page.
+
+## What is Included in Caption Files
+
+Captions include all speech and other relevant non-speech sound, such as this-good-example.
+
+Caption files include the time each phrase should be displayed. They also identify the speaker, for example, in interviews.
+
+For optimum accessibility, the audio description is also provided as a separate caption file.
+
+## How Caption Files are Formatted
+
+The most common format for captions on the web is [WebVTT: The Web Video Text Tracks Format]( https://www.w3.org/TR/webvtt/).
+
+{::nomarkdown}
+{% include box.html type="start" title="Example VTT file with speakers identified" class="" %}
+{:/}
+
+…
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+
+{::nomarkdown}
+{% include box.html type="start" title="Example VTT file of audio description" class="" %}
+{:/}
+
+…
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+Other caption formats are: [Timed Text Markup Language (TTML)](https://www.w3.org/TR/ttml2/) and [SRT](https://matroska.org/technical/specs/subtitles/srt.html).
+
+## Developing Captions
+
+Most people who develop captions use software to help. There are several free captioning software programs and online services available. Some will create automatic captions that you can use as a starting point. Note that they will need to be fixed for accuracy.
+
+For example, YouTube provides automatic captions and tools for you to edit the captions, as described in  Edit or remove captions – YouTube Help (https://support.google.com/youtube/answer/2734705?hl=en).
+
+**Captions and transcripts include the same text, so one can be used to develop the other.**
+
+## Tips for Captions
+
+Keep in mind that the main purpose of the captions is to provide information to people who cannot hear the audio. That will help you know what to sounds to transcribe, and what are not needed. The following are common practices, not requirements.
+
+### Specific for captions
+
+* Captions are one or two rows. ?? character length
+
+* Put a new sentence on a new line. (Except in some cases where a sentence is represented in different scenes.)
+
+* If you need to break a sentence into multiple segments, break it at a logical phrase.
+
+### For captions and transcripts
+
+* Identify the speakers as relevant. Often it is best to use the full name the first time and single name throughout &mdash; either first/given or last/family depending on the formality.
+
+* You can include relevant information about the speech. For example,
+	 ( shouting ):
+	I hate this computer!
+
+* Put important non-speech sounds in parentheses, lowercase, italics, with a space before and after. For example:
+	 ( computer crashing into bits and parts sliding across the floor )
+
+* When a speaker is off-screen, you can put their speech in italics. For example,
+	Jose: What was that awful noise?
+	Zoe: You don't want to know.
+	Jose: Well, I'm coming to find out.
+
+* Only include background music if it's important to understand the content of the video. Use objective descriptions that indicate the mood; avoid subjective words, such as "beautiful." If the words in the music are important, add a musical note to the beginning and end of each caption. Put music information in italics.
+
+	♪ scary music, JAWS theme ♪
+
+* Do not emphasize a word using all capital letters except to indicate screaming.
+
+#### Editing:
+
+* For most web content, it is acceptable to do light editing to make the captions easier to process. For example, if the speaker says: "I just got so frustrated (cough, cough) sorry – uhhh, oh yea - I got so frustrated with my computer." You can caption: "I just got so frustrated with my computer."
+
+* For some content, such as legal depositions, transcribe everything verbatim, including things like "um" and repeated phrases.
+
+* If there is speech that is not relevant, it is usually best to indicate that it has been excluded from the captions, e.g.: "[participants discuss the weather while the presenter reboots his computer]".
+
+* [@@ Do not caption the same, or nearly the same, information that is already shown onscreen. https://dcmp.org/learn/225 ]
+
+* Do not change or adapt or add to the text. It is usually not appropriate to significantly correct grammar or other mistakes.
+
 
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
