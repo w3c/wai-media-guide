@@ -105,7 +105,7 @@ Keep in mind that the main purpose of the captions is to provide information to 
 
 * Captions are one or two rows. ?? character length
 
-* Put a new sentence on a new line. (Except in some cases where a sentence is represented in different scenes.)
+* Put a new sentence on a new line.
 
 * If you need to break a sentence into multiple segments, break it at a logical phrase.
 
