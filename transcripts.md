@@ -108,6 +108,7 @@ Below is an example of using caption files to create a describtive transcript.
 {% include box.html type="start" title="Example caption file of audio information (excerpt)" class="" %}
 {:/}
 
+<pre>
 00:00:08.120 --> 00:00:10.240
 Video isn't just about pictures,
 
@@ -125,6 +126,7 @@ Not knowing what's going on.
 
 00:00:29.620 --> 00:00:32.840
 That's the situation for everyone who can't hear.
+</pre>
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -146,7 +148,7 @@ That's the situation for everyone who can't hear.
 
 00:00:26.880 --> 00:00:29.620
 <v Audio Descriptions> The man watching the video has a hearing aid.
-   </pre>
+</pre>
 
 {::nomarkdown}
 {% include box.html type="end" %}
