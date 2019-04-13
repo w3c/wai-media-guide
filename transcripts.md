@@ -108,8 +108,6 @@ Below is an example of using caption files to create a describtive transcript.
 {% include box.html type="start" title="Example caption file of audio information (excerpt)" class="" %}
 {:/}
 
-WEBVTT
-
 00:00:08.120 --> 00:00:10.240
 Video isn't just about pictures,
 
@@ -136,8 +134,7 @@ That's the situation for everyone who can't hear.
 {% include box.html type="start" title="Example caption file of audio description of visual information (excerpt)" class="" %}
 {:/}
 
-WEBVTT
-
+<pre>
 00:00:04.000 --> 00:00:07.980
 <v Audio Descriptions> A man sitting at a desk starts watching a video on his computer. 
 
@@ -149,6 +146,7 @@ WEBVTT
 
 00:00:26.880 --> 00:00:29.620
 <v Audio Descriptions> The man watching the video has a hearing aid.
+   </pre>
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -166,11 +164,6 @@ WEBVTT
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Web Accessibility Perspectives: Video Captions</td>
-      <td>Web Accessibility Perspectives:<br>
-        Video Captions</td>
-    </tr>
     <tr>
       <td>Video isn't just about pictures, it's also about sound. Without the audio, you would have to guess what this film is about.</td>
       <td>A man sitting at a desk starts watching a video on his computer.<br></td>
