@@ -113,51 +113,35 @@ Keep in mind that the main purpose of the captions is to provide information to 
 
 * Identify the speakers as relevant. Often it is best to use the full name the first time and single name throughout &mdash; either first/given or last/family depending on the formality.
 
-* You can include relevant information about the speech. For example,
-<blockquote>
+* You can include relevant information about the speech. For example:<br>
 	<em>( shouting ):</em><br>
-	<footer>I hate this computer!</footer>
-</blockquote>
+	I hate this computer!
 
-* Put important non-speech sounds in parentheses, lowercase, italics, with a space before and after. For example:
-<blockquote>
+* Put important non-speech sounds in parentheses, lowercase, italics, with a space before and after. For example:<br>
 	 <em>( computer crashing into bits and parts sliding across the floor )</em>
-</blockquote>
 
-* When a speaker is off-screen, you can put their speech in italics. For example,
-<blockquote>
+* When a speaker is off-screen, you can put their speech in italics. For example:<br>
 	<em>Jose: What was that awful noise?</em><br>
-	<footer>Zoe: You don't want to know.</footer><br>
+	Zoe: You don't want to know.<br>
 	<em>Jose: Well, I'm coming to find out.</em>
-</blockquote>
 
-* Only include background music if it's important to understand the content of the video. Use objective descriptions that indicate the mood; avoid subjective words, such as "beautiful." If the words in the music are important, add a musical note to the beginning and end of each caption. Put music information in italics.
-<blockquote>
+* Only include background music if it's important to understand the content of the video. Use objective descriptions that indicate the mood; avoid subjective words, such as "beautiful." If the words in the music are important, add a musical note to the beginning and end of each caption. Put music information in italics. For example:<br>
 	<em>♪ scary music, JAWS theme ♪</em>
-</blockquote>
 
 * Do not emphasize a word using all capital letters except to indicate screaming.
 
 #### Editing Content
 
-* For most web content, it is acceptable to do light editing to make the captions easier to process. For example, if the speaker says:
+* For most web content, it is acceptable to do light editing to make the captions easier to process. For example, if the speaker says:<br>
+	I just got so frustrated (cough, cough) sorry – uhhh, oh yea - I got so frustrated with my computer.<br>
 
-<blockquote>
-	<footer>I just got so frustrated (cough, cough) sorry – uhhh, oh yea - I got so frustrated with my computer.</footer>
-</blockquote>
-
-You can caption:
-
-<blockquote>
-	<footer>I just got so frustrated with my computer.</footer>
-</blockquote>
+You can caption:<br>
+	I just got so frustrated with my computer
 
 * For some content, such as legal depositions, transcribe everything verbatim, including things like "um" and repeated phrases.
 
-* If there is speech that is not relevant, it is usually best to indicate that it has been excluded from the captions, For example
-<blockquote>
+* If there is speech that is not relevant, it is usually best to indicate that it has been excluded from the captions. For example:<br>
 	<em>[participants discuss the weather while the presenter reboots his computer].</em>
-</blockquote>
 
 * [@@ Do not caption the same, or nearly the same, information that is already shown onscreen. https://dcmp.org/learn/225 ]
 
