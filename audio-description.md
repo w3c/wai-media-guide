@@ -138,13 +138,13 @@ Where the description is longer that you want to leave space in the main audio, 
     <th scope="col">Description</th>
   </tr>
   <tr>
-    <th scope="row"><q>Captions are also handy for people who  want to watch video in loud environments.</q></th>
+    <td><q>Captions are also handy for people who  want to watch video in loud environments.</q></td>
     <td>3 seconds</td>
     <td>7 seconds</td>
     <td>A man is watching the captioned video with a  group of people chatting away next to him.</td>
   </tr>
   <tr>
-    <th scope="row"><q>Or where you need to be very, very quiet.</q></th>
+    <td><q>Or where you need to be very, very quiet.</q></td>
     <td>2 seconds</td>
     <td>5 seconds</td>
     <td>Turns out that they are in a library. The group  is shushed by the librarian.</td>
