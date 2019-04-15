@@ -101,10 +101,24 @@ First, figure out answers to these questions:
 ### Integrated Description
 For many videos, the best way to handle audio description is not to need it at all –- that is, all the visual information that users need to understand the content is integrated in the main audio. When planned in advance, this is fairly simple for many types of videos on the web, such as presentations and instructional videos. For example:
  
-X Instead of the speaker saying:	 The speaker can say:
-As you can see on this chart, sales increased significantly from the first quarter to the second quarter.	This chart shows that sales increased significantly, from 1 million in the first quarter to 1.3 million in the second quarter.
-Whip the mixture until it looks like this.	Whip the mixture until the oil, vinegar, and spices are well combined.
-Attach this to the green end.	Attach the small ring to the green end, which is the larger end.
+<table border="1">
+  <tr>
+    <th scope="col"><svg aria-label="Wrong" class="icon-ex-circle "><use xlink:href="/WAI/assets/images/icons.svg#icon-ex-circle"></use></svg> Instead of the speaker saying:</th>
+    <th scope="col"><svg aria-label="OK" class="icon-check-circle "><use xlink:href="/WAI/assets/images/icons.svg#icon-check-circle"></use></svg> The speaker can say:</th>
+  </tr>
+  <tr>
+    <td>As you can see on this chart, sales increased significantly from the first quarter to the second quarter.</td>
+    <td>This chart shows that sales increased significantly, from 1 million in the first  quarter to 1.3 million in the second quarter.</td>
+  </tr>
+  <tr>
+    <td>Whip the mixture until it looks like this.</td>
+    <td>Whip the mixture until the oil, vinegar, and spices are well combined.</td>
+  </tr>
+  <tr>
+    <td>Attach this to the green end.</td>
+    <td>Attach the small ring to the green end, which is the larger end.</td>
+  </tr>
+</table>
 
 **If you develop your video with integrated description, you don't need to bother with any of the other timing or developing options on this page! You're done.**
 
@@ -116,9 +130,27 @@ Where the description is fairly short, plan space in the audio for the descripti
 
 Where the description is longer that you want to leave space in the main audio, you can record extra time in the scene to accommodate the description without having to pause the scene. That is, the same scene is shown with a little longer at the beginning or the end of it. For example:
 
-Narration	Scene Duration in Main Video	Scene Duration for Described Video	Description
-"Captions are also handy for people who want to watch video in loud environments."	3 seconds	7 seconds	A man is watching the captioned video with a group of people chatting away next to him.
-"Or where you need to be very, very quiet."	2 seconds	5 seconds	Turns out that they are in a library. The group is shushed by the librarian.
+<table>
+  <tr>
+    <th scope="col">Narration</th>
+    <th scope="col">Main Video Scene Duration</th>
+    <th scope="col">Described Video Scene Duration</th>
+    <th scope="col">Description</th>
+  </tr>
+  <tr>
+    <th scope="row"><q>Captions are also handy for people who  want to watch video in loud environments.</q></th>
+    <td>3 seconds</td>
+    <td>7 seconds</td>
+    <td>A man is watching the captioned video with a  group of people chatting away next to him.</td>
+  </tr>
+  <tr>
+    <th scope="row"><q>Or where you need to be very, very quiet.</q></th>
+    <td>2 seconds</td>
+    <td>5 seconds</td>
+    <td>Turns out that they are in a library. The group  is shushed by the librarian.</td>
+  </tr>
+</table>
+
 
 An example of this is the [Web Accessibility Perspectives: Video Captions](https://www.w3.org/WAI/perspective-videos/captions/) video. The main video is 48 seconds long. The described version is 1 minute and 18 seconds long, yet there are no pauses in the visual aspect of the video.
 
