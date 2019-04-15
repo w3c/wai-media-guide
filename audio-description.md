@@ -1,6 +1,6 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
-title: "Creating Audio Description"   # Do not translate "title:". Do translate the text after "title:".
+title: "Creating Audio Description of Visual Information"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Audio Description" # A short title that is used in the navigation
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-04-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -33,6 +33,10 @@ This page provides guidance on creating audioe description for new and existing 
 {:toc}
 
 {::nomarkdown}
+{% include toc.html type="end" %}
+{:/}
+
+{::nomarkdown}
 {% include box.html type="start" title="From the Introduction" class="" %}
 {:/}
 
@@ -54,11 +58,7 @@ When accessibility is considered before videos are produced, it significantly cu
 
 For some videos, description of the visual information can be seamlessly integrated into the main video without any additional cost. 
 
-For example, instead of the speaker saying:<br>
-<q>As you can see on this chart, sales increased significantly from the first quarter to the second quarter.</q>
-
-The speaker can say: <br>
-<q>This chart shows that sales increased from 1 million in the first quarter to 1.3 million in the second quarter.</q>
+For example, instead of the speaker saying: <q>As you can see on this chart, sales increased significantly from the first quarter to the second quarter.</q> The speaker can say: <q>This chart shows that sales increased from 1 million in the first quarter to 1.3 million in the second quarter.</q>
 
 If you have an existing video and you want to add audio description, you'll need:
 ... skills to write it, speak it, integrate it in new audio and video files...
