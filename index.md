@@ -65,10 +65,9 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 <p style="text-align:center"><em>[image like <a href="https://w3c.github.io/wai-media-intro/img/xcr_perspectives-d998a967.png">https://w3c.github.io/wai-media-intro/img/xcr_perspectives-d998a967.png</a>]</em> </p>
 
 ### Audio Description
-<p>Audio description provides content to people who are blind and others who cannot see the video adequately. <s>It is also used by people who process text better than visual information such as graphs.</s></p>
-<p>Audio description describes visual information needed to understand the content. It is usually narration added to the soundtrack. Alternatively, it can be provided as a text track that can be read by screen reader software.</p>
-<p>For some types of video (such as some training videos), audio description  can be seamlessly integrated into the  video as it is developed.</p>
-<p>Usually two video options are provided: a video without audio description, and a separate video with audio description.</p>
+<p>Audio description provides content to people who are blind and others who cannot see the video adequately.</p>
+<p>Audio description describes visual information needed to understand the content. It is usually narration added to the soundtrack. Usually two video options are provided for users: a video without audio description, and a separate video with audio description.</p>
+<p>For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers or narractor as the video is developed, and you don't need separate audio description.</p>
 <p style="text-align:center"><em>[optional image: blind person listening to video]</em></p>
 
 ### Sign Language
