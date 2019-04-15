@@ -19,7 +19,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-@@ Summary
+This page provides guidance on creating audioe description for new and existing videos.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -50,7 +50,11 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="end" %}
 {:/}
 
-@@ content...
+## Scope
+
+This page addresses common types of videos designed for the web such as instructional videso, training videos, recordings of presentations, and such.
+
+It does **not** address all the issues around full-feature movies, television shows, and such.
 
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
 
