@@ -67,13 +67,17 @@ If you have an existing video and you want to add audio description, you'll need
 {% include box.html type="end" %}
 {:/}
 
-## Scope and Terminology
+## Terminology
+
+Audio description is called "described video" in some areas, such as Canada.
+
+This page uses "described video" in some places as a shortened form of "a video that includes audio description of the visual information".
+
+## Scope
 
 This page addresses common types of videos designed for the web such as instructional videos, training videos, recordings of presentations, and such.
 
 It does **not** address all the issues around full-feature movies, television shows, and such.
-
-Audio description is called "described video" in some areas, such as Canada.
 
 ## What Description to Provide for My Video?
 First, figure out answers to these questions:
@@ -99,7 +103,7 @@ First, figure out answers to these questions:
 ## Planning New Videos
 
 ### Integrated Description
-For many videos, the best way to handle audio description is not to need it at all –- that is, all the visual information that users need to understand the content is integrated in the main audio. When planned in advance, this is fairly simple for many types of videos on the web, such as presentations and instructional videos. For example:
+For many videos, the best way to handle audio description is not to need it at all &mdash; that is, all the visual information that users need to understand the content is integrated in the main audio. When planned in advance, this is fairly simple for many types of videos on the web, such as presentations and instructional videos. For example:
  
 <table border="1">
   <tr>
