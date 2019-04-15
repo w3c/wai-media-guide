@@ -86,15 +86,15 @@ First, figure out answers to these questions:
 
 ### For New Videos
 * Can the speakers describe the visual information in the main audio?
-•	* If yes, provide integrated description. No separate audio description is needed.
-•	* If no, can you smoothly provide enough space in the main audio for the description? And will you use a media player that supports a separate audio track for the description?
-o	* If yes, provide description in a separate audio file, _**or**_ provide a separate described video.
-o	* If no, provide a separate described video.
+	* If yes, provide integrated description. No separate audio description is needed.
+	* If no, can you smoothly provide enough space in the main audio for the description? And will you use a media player that supports a separate audio track for the description?
+		* If yes, provide description in a separate audio file, _**or**_ provide a separate described video.
+		* If no, provide a separate described video.
 
 ### For Existing Videos
 * Is there enough space in the main audio for the description? And will you use a media player that supports a separate audio track for the description?
-•	* If yes, provide description in a separate audio file, _**or**_ provide a separate described video.
-•	* If no, provide a separate described video.
+	* If yes, provide description in a separate audio file, _**or**_ provide a separate described video.
+	* If no, provide a separate described video.
 
 ## Planning New Videos
 
@@ -125,14 +125,18 @@ An example of this is the [Web Accessibility Perspectives: Video Captions](https
 ## Developing Integrated Description
 
 The process to develop a video with integrated description is basically:
-1. When writing the script, make sure all relevant visual information is included. See [Tips for Describing – writing below](http://@@).
-2. Before finalizing the video, check to confirm that all relevant visual information is covered in the audio.
-That's it! You don't need to bother with any of the developing options below.
+1. When writing the script, make sure all relevant visual information is included. See [Tips for Describing – Writing below](http://@@).
+
+Before finalizing the video, check to confirm that all relevant visual information is covered in the audio.
+
+**That's it! You don't need to bother with any of the developing options below.**
 
 ## Developing Description in a Separate Audio File Only
 
 This requires skills and software for audio recording and audio editing.
+
 _(Per above, this approach only works when there enough space in the main audio for the description, and the media player supports a separate audio track for the description.)_
+
 The process to develop description in a separate audio file is basically:
 1. Write out the descriptions. See [Tips for Describing – Writing below](http://@@).
 2. Record the descriptions. See [Tips for Describing - Recording below](http://@@).
@@ -153,7 +157,8 @@ The process to develop a separate audio file is basically:
 4. Provide the file(s):
 * _**If**_ your player uses separate video and audio tracks,<br>you're done.
 * _**If**_ your player uses a single video file that includes the audio,<br>generate the new described video with the audio file that you just created.
- (Make sure on the web page where the video is available, the Audio Described version uses the correct version that you just created.)
+
+(Make sure on the web page where the video is available, the Audio Described version uses the correct version that you just created.)
 
 ### If Descriptions Do Not Fit in Spaces
 
@@ -165,7 +170,8 @@ The process to develop a separate audio file and edit the visual track is basica
 3. Create a new audio file by combining the original audio and the new description audio. See [Tips for Describing – Combining Audio Files below](http://@@).
 4. Create a new video:
 	* _**If**_ you have source video with longer scenes _(as described in @@ above)_, recut the scenes longer to fill in the visual space where you need to accommodate the time for the description.
-	* _**If  not or you're adding to an existing video**_, you will need to leave a static image in the video while the description is playing in the audio. For example, this video pauses at 00:00 for the audio description.
+	* _**If  not or you're adding to an existing video**_, you will need to leave a static image in the video while the description is playing in the audio. (For example, this video pauses at 00:00 for the audio description.)
+
 (Make sure on the web page where the video is available, the Audio Described version uses the correct version that you just created.)
 
 ## Other Options
