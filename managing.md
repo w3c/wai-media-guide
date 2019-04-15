@@ -94,7 +94,7 @@ The speaker can say:
 <blockquote>This chart shows that sales increased from 1 million in the first quarter to 1.3 million in the second quarter.</blockquote>
 <p><strong>If you have an existing video</strong> and you want to add audio description, you'll need:</p>
 <ul>
-  <li>... skills to write it, speak it, intergrate it in the video...</li>
+  <li>... skills to write it, speak it, integrate it in new audio and video files...</li>
 </ul>
 <p>More information is in <a href="@@">Creating Audio Description of Visual Information</a>.</p>
 
