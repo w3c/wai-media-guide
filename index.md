@@ -66,8 +66,8 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 
 ### Audio Description
 <p>Audio description provides content to people who are blind and others who cannot see the video adequately.</p>
-<p>Audio description describes visual information needed to understand the content. It is usually narration added to the soundtrack. Usually two video options are provided for users: a video without audio description, and a separate video with audio description.</p>
-<p>For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers or narrator as the video is planned and created, and you don't need separate audio description.</p>
+<p>Audio description describes visual information needed to understand the content. It is usually narration added to the soundtrack.</p>
+<p>For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers as the video is planned and created, and you don't need separate audio description.</p>
 <p style="text-align:center"><em>[optional image: blind person listening to video]</em></p>
 
 ### Sign Language
