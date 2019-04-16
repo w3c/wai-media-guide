@@ -218,7 +218,20 @@ _{include or not based on decisions in [Open Issues, Coverage of Options](https:
 
 … description in text file…
 
-… Another option is to provide functionality for the video to pause for the description. This is not suggested in most cases because it requires extra coding and provides a less-than-optimum user experience.  
+… Another option is to provide functionality for the video to pause for the description. This is not suggested in most cases because it requires extra coding and provides a less-than-optimum user experience.
+
+## Tips
+
+### Tips For Writing Descriptions
+
+...
+
+### Tips for Recording Descriptions
+
+...
+
+### Tips for Combining Audio Files
+...
 
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
 
