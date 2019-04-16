@@ -69,7 +69,9 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 ### Video and Audio Content
 <p>There are also accessibility requirements for the video or audio content itself. For example, in videos,  avoid flashing that can cause seizures.</p>
 
-## Accessibility Requirements
+## Managing Media Accessibility & Standards
+
+### Accessibility Requirements
 
 <p>Providing a descriptive transcript for  videos (or basic transcript for audio-only) meets a wide range of accesibility needs.</p>
 <p>To meet Web Content Accessibility Guidelines (WCAG) Level AA, <em>most</em> videos need to include:</p>
@@ -79,7 +81,7 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 </ul>
 <p>Requirements are different based on the content and whether they are live or pre-recorded. To figure out what your video or audio needs, see <a href="@@">WCAG Media Standards</a> and <a href="@@">What Does My Video/Audio Need?</a></p>
 
-## Develop In-House or Outsource
+### Develop In-House or Outsource
 
 <p>One approach to developing media alternatives is:</p>
 <ol>
@@ -89,7 +91,7 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 </ol>
 <p>Some organizations do it all in-house, and some outsource it all. For help figuring out how to get your media alternatives developed, see <a href="@@">Managing Media Accessibility</a>.</p>
 
-## Automatic Captions are Not Sufficient
+### Automatic Captions are Not Sufficient
 
 <p>Automatically-generated captions do not meet user needs or accessibility requirements, unless they are confirmed to be fully accurate.</p>
 <p>There are tools that use speech recognition technology to turn a soundtrack into a timed caption file. For example, many videos uploaded to YouTube have automatic captions. [<a href="https://support.google.com/youtube/answer/3038280">YouTube info</a>] However, often the automatic caption text does not match the spoken audio &mdash; and in ways that change the meaning (or are embarrassing). For example, missing just one word such as &quot;not&quot; can make the captions contradict the actual audio content.</p>
@@ -99,6 +101,14 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
   &quot;Automatic caption: Broil on high for 45 minutes. You should know to preheat the oven.&quot;<br>
   <em>optional illustration/picture:  fire coming from oven, or totally burned food on a broiler pan ;-)</em>]</p>
 <p>Automatic captions can be used as a starting point for developing accurate captions and transcripts, as described in <a href="#captions">Creating Captions</a> and <a href="#transcripts">Creating Transcripts</a>.</p>
+
+### Creating Media Alternatives
+
+The pages in this resource provide specific guidance on:
+* [Creating Captions](@@)
+* [Creating Transcripts](@@)
+* [Creating Audio Description of Visual Information](@@)
+* [Creating Video and Audio Content](@@)
 
 ## Additional Benefits
 
@@ -114,18 +124,6 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 </ul>
 <p>Some benefits of captions are illustrated in this 1-minute <a href="https://www.w3.org/WAI/perspective-videos/captions/">Video on  Captions</a>.</p>
 <p style="text-align:center"><em>[optional image: screen capture for visual interest]</em></p>
-
-## Making Your Media Accessible
-
-The pages in this resource provide specific guidance on:
-*  [Managing Media & Standards](@@)
-   * [WCAG Media Standards](@@)
-   * [What Does My Video/Audio Need?](@@)
-   * [Managing Development of Media Alternatives](@@)
-* [Creating Captions](@@)
-* [Creating Transcripts](@@)
-* [Creating Audio Description of Visual Information](@@)
-* [Creating Video and Audio Content](@@)
 
 <p style="text-align:center"><strong>[ Next > ]</strong></p>
 
