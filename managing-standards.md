@@ -15,8 +15,6 @@ github:
 footer: >   # Translate all the words below, including "Date:" and "Editor:". 
 ---
 
-
-
 {::nomarkdown}
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
@@ -50,13 +48,9 @@ _For descriptions of captions, transcripts, audio description, sign language and
 {% include box.html type="start" title="From the Introduction:" class="" %}
 {:/}
 
-Providing a descriptive transcript for videos (or basic transcript for audio-only) meets a wide range of accessibility needs.
-
 To meet Web Content Accessibility Guidelines (WCAG) Level AA, <em>most</em> videos need to include:
 * Captions ([WCAG Success Criteria 1.2.2](https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded))
 * Audio Description ([WCAG Success Criteria 1.2.5](https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded))
-
-Requirements are different based on the content and whether they are live or pre-recorded.
 
 {::nomarkdown}
 {% include box.html type="end" %}
