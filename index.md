@@ -1,6 +1,6 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
-title: "Making Video and Audio Accessible - Introduction"   # Do not translate "title:". Do translate the text after "title:".
+title: "How to Make Video and Audio Accessible - Introduction"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Make Video & Audio Accessible" # A short title that is used in the navigation
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-04-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -35,15 +35,6 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 {::nomarkdown}
 {% include toc.html type="end" %}
 {:/}
-
-<!--
-<ul>
-  <li><a href="@@">Elements of Accessible Video and Audio</a></li>
-  <li><a href="@@">Accessibility Requirements</a></li>
-  <li><a href="@@">Additional Benefits</a></li>
-  <li><a href="@@">Automatic Captions are Not Sufficient </a></li>
-</ul>
--->
 
 ## Elements of Accessible Video and Audio
 
@@ -123,6 +114,18 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 </ul>
 <p>Some benefits of captions are illustrated in this 1-minute <a href="https://www.w3.org/WAI/perspective-videos/captions/">Video on  Captions</a>.</p>
 <p style="text-align:center"><em>[optional image: screen capture for visual interest]</em></p>
+
+## Making Your Media Accessible
+
+The pages in this resource provide specific guidance on:
+*  [Managing Media & Standards](@@)
+   * [WCAG Media Standards](@@)
+   * [What Does My Video/Audio Need?](@@)
+   * [Managing Development of Media Alternatives](@@)
+* [Creating Captions](@@)
+* [Creating Transcripts](@@)
+* [Creating Audio Description of Visual Information](@@)
+* [Creating Video and Audio Content](@@)
 
 <p style="text-align:center"><strong>[ Next > ]</strong></p>
 
