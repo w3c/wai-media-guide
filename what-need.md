@@ -74,7 +74,7 @@ This page helps you figure out if your specific video or audio needs captions, a
       <li> If yes,
         <ul>
           <li><strong>[_] Captions</strong> that provide the information to people who are Deaf or hard of hearing and want to watch the video. (<a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded">A 1.2.2</a>)</li>
-          <li><strong>[_] Transcript of audio information </strong> that provides the information to people who don't want to watch the video. (<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a>) <em>(This transcript is the same text from the captions file, in a different format.)</em></li>
+          <li><strong>[_] Transcript of audio information </strong> that provides the information to people who don't want to watch the video. (<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a>)<br><em>(This transcript is the same text from the captions file, in a different format.)</em></li>
         </ul>
       </li>
       <li>If no, inform users.</li>
@@ -85,7 +85,7 @@ This page helps you figure out if your specific video or audio needs captions, a
       <li> If yes,
         <ul>
           <li><strong>[_] Audio description</strong> that provides the information to people who are blind and want to listen to the video. (<a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded">AA 1.2.5</a>)</li>
-          <li><strong>[_] Descriptive transcript</strong> that provides the information to people who are blind and Deaf (&quot;Deaf-blind&quot;). (<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a>) <em>(If you have a descriptive transcript, you do not need an additional transcript from the previous question.)</em></li>
+          <li><strong>[_] Descriptive transcript</strong> that provides the information to people who are blind and Deaf (&quot;Deaf-blind&quot;). (<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a>)<br><em>(If you have a descriptive transcript, you do not need an additional transcript from the previous question.)</em></li>
         </ul>
       </li>
       <li>If no, inform users.</li>
@@ -96,7 +96,7 @@ This page helps you figure out if your specific video or audio needs captions, a
 ### What does my audio-only (e.g., podcast) need to be accessible?
 <ul>
   <li><strong>[_] Captions</strong> that provide the information to people who are hard of hearing and want to listen the audio. (<a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded">A 1.2.2</a>)</li>
-  <li><strong>[_] Transcript of audio information </strong> that provides the information to people who don't want to listen to the audio or want an interactive transcript. (<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a>)</li>
+  <li><strong>[_] Transcript of audio information </strong> that provides the information to people who don't want to listen to the audio or want an interactive transcript. (<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a>)<br><em>(This transcript is the same text from the captions file, in a different format.)</em></li>
 </ul>
 
 ## Informing Users When None Needed
