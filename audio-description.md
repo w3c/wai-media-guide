@@ -83,7 +83,7 @@ It does **not** address all the issues around full-feature movies, television sh
 
 ### Content and Timing Considerations
 First, figure out these issues about your video content and timing:
-* '''Integrated''' &mdash; Can the speakers describe the relevant visual information as the video is recorded? This works for well for some videos, such as presentations and instructional videos. For example:
+* **Integrated** &mdash; Can the speakers describe the relevant visual information as the video is recorded? This works for well for some videos, such as presentations and instructional videos. For example:
 
 <table>
   <tr>
@@ -104,8 +104,9 @@ First, figure out these issues about your video content and timing:
   </tr>
 </table>
 
-* '''Space in audio''' &mdash; Is there enough space in the main audio for the description? That is, are there sufficient pauses in the narration or speaking where all the description will fit?
-* '''Media player support''' &mdash; Does the media player you are using provide functionality for a separate audio file? Or, will you use a plug-in or other method to provide it? Player and platforms that support separate audio description files: Brightcove, Kaltura, Oz Player, ?Vidyard. (Able Player facilitates showing a separate video with audio description.) Plug-ins: 3Play Plugin, JW Player, with plug-in (works in IE11 & Safari, other browsers require Flash), VideoJS with Plug-in (works in IE11 & Safari, other browsers require Flash).
+* **Space in audio** &mdash; Is there enough space in the main audio for the description? That is, are there sufficient pauses throughout the narration or speaking where the relevant description will fit? For example, if the only description is needed is at the beginning of the video where these is a title and background music, then: Yes, there is enough space. Or if the speaker talks continually without pausing, then: No, there is not enough space for description.
+
+* **Media player support** &mdash; Does the media player you are using provide functionality for a separate audio file? Or, will you use a plug-in or other method to provide it? Player and platforms that support separate audio description files: Brightcove, Kaltura, Oz Player, ?Vidyard. (Able Player facilitates showing a separate video with audio description.) Plug-ins: 3Play Plugin, JW Player, with plug-in (works in IE11 & Safari, other browsers require Flash), VideoJS with Plug-in (works in IE11 & Safari, other browsers require Flash).
 
 Use this information to answer the following questions in order to determine how to provide audio description for your video.
 
