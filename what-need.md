@@ -82,10 +82,10 @@ This page helps you figure out if your specific video or audio needs captions, a
   </li>
   <li><strong>Is there visual information</strong> that is needed to understand the content?
     <ul>
-      <li> If yes,
+      <li>If yes,
         <ul>
           <li><strong>[_] Audio description</strong> that provides the information to people who are blind and want to listen to the video. (<a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded">AA 1.2.5</a>)</li>
-          <li><strong>[_] Descriptive transcript</strong> that provides the information to people who are blind and Deaf (&quot;Deaf-blind&quot;). (<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a>)<br><em>(If you have a descriptive transcript, you do not need an additional transcript from the previous question.)</em></li>
+          <li><strong>[_] Descriptive transcript</strong> that provides the information to people who are blind and Deaf (&quot;Deaf-blind&quot;). (<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a>)<br><em>(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)</em></li>
         </ul>
       </li>
       <li>If no, inform users.</li>
