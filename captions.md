@@ -67,7 +67,7 @@ Specific guidance is in the [Tips below](#tips-for-captions).
 
 ## Caption File Format
 
-The most common format for captions on the web is [WebVTT: The Web Video Text Tracks Format]( https://www.w3.org/TR/webvtt/).
+The most common format for captions on the web is [WebVTT](https://www.w3.org/TR/webvtt/): The Web Video Text Tracks Format.
 
 {::nomarkdown}
 {% include box.html type="start" title="Example VTT file with speakers identified" class="" %}
@@ -90,11 +90,25 @@ The most common format for captions on the web is [WebVTT: The Web Video Text Tr
 {% include box.html type="end" %}
 {:/}
 
-Other caption formats are: [Timed Text Markup Language (TTML)](https://www.w3.org/TR/ttml2/) and [SRT](https://matroska.org/technical/specs/subtitles/srt.html).
+Other caption formats are: Timed Text Markup Language ([TTML](https://www.w3.org/TR/ttml2/)) and [SRT](https://matroska.org/technical/specs/subtitles/srt.html).
 
 ## Developing Captions
 
-Most people who develop captions use software to help. There are several free captioning software programs and online services available. Some will create automatic captions that you can use as a starting point. Note that you will need to be edit automatic captions for accuracy.
+{::nomarkdown}
+{% include box.html type="start" title="Example workflow" class="" %}
+{:/}
+
+1. ...
+2. ...
+3. ...
+4. ...
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+
+Most people who develop captions use software to help. There are several free captioning software programs and online services available. Some will create automatic captions that you can use as a starting point. Note that you will need to edit automatic captions for accuracy.
 
 <p style="text-align:center">[image of captioning software or service, probably YouTube since that's one many novies will use]</p>
 
