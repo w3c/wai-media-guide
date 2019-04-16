@@ -30,6 +30,7 @@ This page provides guidance on creating captions.
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
+{::options toc_levels="2" /}
 {:toc}
 
 {::nomarkdown}
@@ -54,7 +55,7 @@ This page provides guidance on creating captions.
 
 This page addresses developing captions for pre-recorded media. Live captions are usually done by professional Communication Access Realtime Translation (CART) providers. Live captions are not addressed on this page.
 
-## What is Included in Caption Files
+## What to Included in Caption Files
 
 Captions include all speech and other relevant non-speech sound, such as this-good-example.
 
@@ -62,7 +63,9 @@ Caption files include the time each phrase should be displayed. They also identi
 
 For optimum accessibility, the audio description is also provided as a separate caption file.
 
-## How Caption Files are Formatted
+Specific guidance is in the [Tips below](#tips-for-captions).
+
+## Caption File Format
 
 The most common format for captions on the web is [WebVTT: The Web Video Text Tracks Format]( https://www.w3.org/TR/webvtt/).
 
@@ -99,7 +102,11 @@ For example, YouTube provides automatic captions and tools for you to edit the c
 
 **Captions and transcripts include the same text, so one can be used to develop the other.**
 
-## Tips for Captions
+{% include excol.html type="start" id="" %}
+
+## Tips for Caption Content
+
+{% include excol.html type="middle" %}
 
 Keep in mind that the main purpose of the captions is to provide information to people who cannot hear the audio. That will help you know what to sounds to transcribe, and what are not needed. The following are common practices, not requirements.
 
@@ -134,20 +141,22 @@ Keep in mind that the main purpose of the captions is to provide information to 
 
 #### Editing Content
 
-* For most web content, it is acceptable to do light editing to make the captions easier to process. For example, if the speaker says:<br>
-	I just got so frustrated (cough, cough) sorry – uhhh, oh yea - I got so frustrated with my computer.<br>
+* Do not change or adapt or add to the text. For example, it is usually not appropriate to correct grammar or other mistakes.
 
-You can caption:<br>
-	I just got so frustrated with my computer
+* Do not censor. ...captions should reflect the words that are spoken in the audio track. If objectionable words are used in the audio, the captions should show those words. If the audio is edited to obscure a specific word or phrase (e.g., "bleeped" audio), the captions should reflect the fact that a word or phrase has been obscured....
 
 * For some content, such as legal depositions, transcribe everything verbatim, including things like "um" and repeated phrases.
+
+* For most web content, it is acceptable to do light editing to make the captions easier to process. For example, if the speaker says:<br><em>I just got so frustrated (cough, cough) sorry – uhhh, oh yea - I got so frustrated with my computer.</em><br>
+You can caption:<br>
+<em>I just got so frustrated with my computer.</em>
 
 * If there is speech that is not relevant, it is usually best to indicate that it has been excluded from the captions. For example:<br>
 	<em>[participants discuss the weather while the presenter reboots his computer].</em>
 
 * [@@ Do not caption the same, or nearly the same, information that is already shown onscreen. https://dcmp.org/learn/225 ]
 
-* Do not change or adapt or add to the text. It is usually not appropriate to significantly correct grammar or other mistakes.
+{% include excol.html type="end" %}
 
 
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
