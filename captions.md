@@ -93,7 +93,7 @@ Other caption formats are: [Timed Text Markup Language (TTML)](https://www.w3.or
 
 Most people who develop captions use software to help. There are several free captioning software programs and online services available. Some will create automatic captions that you can use as a starting point. Note that you will need to be edit automatic captions for accuracy.
 
-<p style="text-align:center">[image of captioning software or service, probably YouTube since that's one many novies will use]></p>
+<p style="text-align:center">[image of captioning software or service, probably YouTube since that's one many novies will use]</p>
 
 For example, YouTube provides automatic captions and tools for you to edit the captions, as described in [Edit or remove captions – YouTube Help](https://support.google.com/youtube/answer/2734705?hl=en).
 
