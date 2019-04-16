@@ -79,7 +79,7 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
   <li>Captions (<a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded">WCAG Success Criteria 1.2.2</a>)</li>
   <li>Audio Description (<a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded">WCAG Success Criteria 1.2.5</a>)</li>
 </ul>
-<p>Requirements are different based on the content and whether they are live or pre-recorded. To figure out what your video or audio needs, see <a href="@@">WCAG Media Standards</a> and <a href="@@">What Does My Video/Audio Need?</a></p>
+<p>Requirements are different based on the content and whether they are live or pre-recorded. To figure out what your video or audio needs, see <a href="@@">Managing Development of Media Alternatives and Meeting Standards</a></p>
 
 ### Develop In-House or Outsource
 
@@ -89,7 +89,7 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
   <li>Captions are outsourced, including for the main video, for the audio described version, and of the audio description itself. Often whoever produces the video also provides captions.</li>
   <li>Descriptive transcripts are developed in-house using the text from the caption files.</li>
 </ol>
-<p>Some organizations do it all in-house, and some outsource it all. For help figuring out how to get your media alternatives developed, see <a href="@@">Managing Media Accessibility</a>.</p>
+<p>Some organizations do it all in-house, and some outsource it all. For help figuring out how to get your media alternatives developed, see the section on <a href="@@">Managing Development of Media Alternatives</a>.</p>
 
 ### Automatic Captions are Not Sufficient
 
@@ -104,7 +104,7 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 
 ### Creating Media Alternatives
 
-The pages in this resource provide specific guidance on:
+Other pages in this resource provide specific guidance on:
 * [Creating Captions](@@)
 * [Creating Transcripts](@@)
 * [Creating Audio Description of Visual Information](@@)
