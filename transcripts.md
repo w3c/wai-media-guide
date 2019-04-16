@@ -48,7 +48,7 @@ This page provides guidance on creating transcripts.
 {% include box.html type="end" %}
 {:/}
 
-## What is Included in Transcripts
+## What to Include in Transcripts
 
 Basic transcripts include all speech and other relevant non-speech sound, such as this-good-example.
 
@@ -56,7 +56,7 @@ Descriptive transcripts also include description of the vidual information.
 
 Transcripts **can** include: time stamps, headings, links, and other information to make the transcripts more useful.
 
-## How Transcripts are Formatted
+## How to Formatted Transcripts
 
 There is not a set format for transcripts. You can choose how to present them based on your content. Most transcripts on the web are provided in HTML.
 
@@ -178,7 +178,11 @@ That's the situation for everyone who can't hear.
 
 <p style="text-align:center"><em>[optional video showing slh process for quickly developing descriptive transcript from the 2 VTT files]</em></p>
 
+{% include excol.html type="start" id="" %}
+
 ## Tips for Transcripts
+
+{% include excol.html type="middle" %}
 
 Keep in mind that the main purpose of a descriptive transcript is to provide the information to people who cannot get it from the video. That will help you know what to include and how to format it. The following are optional, not requirements.
 
@@ -218,5 +222,6 @@ Transcripts generally include all of the audio information from the captions, an
 {% include box.html type="end" %}
 {:/}
 
+{% include excol.html type="end" %}
 
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
