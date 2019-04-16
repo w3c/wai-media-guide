@@ -80,32 +80,12 @@ This page addresses common types of videos designed for the web such as instruct
 It does **not** address all the issues around full-feature movies, television shows, and such.
 
 ## What Description to Provide for My Video?
-First, figure out answers to these questions:
 
-* @@ … can integrate in main?
+### Content and Timing Considerations
+First, figure out these issues about your video content and timing:
+* '''Integrated''' &mdash; Can the speakers describe the relevant visual information as the video is recorded? This works for well for some videos, such as presentations and instructional videos. For example:
 
-* @@ … describe space for description … There enough space in the main audio for the description. That is, there are pauses in the narration or speaking where the description will fit.
-
-* @@ … media player support separate audio file?
-
-### For New Videos
-* Can the speakers describe the visual information in the main audio?
-	* If yes, provide integrated description. No separate audio description is needed.
-	* If no, can you smoothly provide enough space in the main audio for the description? And will you use a media player that supports a separate audio track for the description?
-		* If yes, provide description in a separate audio file, _**or**_ provide a separate described video.
-		* If no, provide a separate described video.
-
-### For Existing Videos
-* Is there enough space in the main audio for the description? And will you use a media player that supports a separate audio track for the description?
-	* If yes, provide description in a separate audio file, _**or**_ provide a separate described video.
-	* If no, provide a separate described video.
-
-## Planning New Videos
-
-### Integrated Description
-For many videos, the best way to handle audio description is not to need it at all &mdash; that is, all the visual information that users need to understand the content is integrated in the main audio. When planned in advance, this is fairly simple for many types of videos on the web, such as presentations and instructional videos. For example:
- 
-<table border="1">
+<table>
   <tr>
     <th scope="col"><svg aria-label="Wrong" class="icon-ex-circle "><use xlink:href="/WAI/assets/images/icons.svg#icon-ex-circle"></use></svg> Instead of the speaker saying:</th>
     <th scope="col"><svg aria-label="OK" class="icon-check-circle "><use xlink:href="/WAI/assets/images/icons.svg#icon-check-circle"></use></svg> The speaker can say:</th>
@@ -124,6 +104,28 @@ For many videos, the best way to handle audio description is not to need it at a
   </tr>
 </table>
 
+* '''Space in audio''' &mdash; Is there enough space in the main audio for the description? That is, are there sufficient pauses in the narration or speaking where all the description will fit?
+* '''Media player support''' &mdash; Does the media player you are using provide functionality for a separate audio file? Or, will you use a plug-in or other method to provide it? Player and platforms that support separate audio description files: Brightcove, Kaltura, Oz Player, ?Vidyard. (Able Player facilitates showing a separate video with audio description.) Plug-ins: 3Play Plugin, JW Player, with plug-in (works in IE11 & Safari, other browsers require Flash), VideoJS with Plug-in (works in IE11 & Safari, other browsers require Flash).
+
+Use this information to answer the following questions in order to determine how to provide audio description for your video.
+
+### For New Videos
+* Can the speakers describe the visual information in the main audio?
+	* If yes, provide integrated description. No separate audio description is needed.
+	* If no, can you smoothly provide enough space in the main audio for the description? And will you use a media player that supports a separate audio track for the description?
+		* If yes, provide description in a separate audio file, _**or**_ provide a separate described video.
+		* If no, provide a separate described video.
+
+### For Existing Videos
+* Is there enough space in the main audio for the description? And will you use a media player that supports a separate audio track for the description?
+	* If yes, provide description in a separate audio file, _**or**_ provide a separate described video.
+	* If no, provide a separate described video.
+
+## Planning New Videos
+
+### Integrated Description
+For many videos, the best way to handle audio description is not to need it at all &mdash; that is, all the visual information that users need to understand the content is integrated in the main audio. When planned in advance, this is fairly simple for many types of videos on the web, such as presentations and instructional videos. (Example above under [Content and Timing Considerations](#@@).)
+ 
 **If you develop your video with integrated description, you don't need to bother with any of the other timing or developing options on this page! You're done.**
 
 ### Timing for Description
