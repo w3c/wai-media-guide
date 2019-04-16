@@ -118,10 +118,9 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 ## Making Your Media Accessible
 
 The pages in this resource provide specific guidance on:
-*  [Managing Media & Standards](@@)
-   * [WCAG Media Standards](@@)
-   * [What Does My Video/Audio Need?](@@)
-   * [Managing Development of Media Alternatives](@@)
+* [WCAG Media Standards](@@)
+* [What Does My Video/Audio Need?](@@)
+* [Managing Development of Media Alternatives](@@)
 * [Creating Captions](@@)
 * [Creating Transcripts](@@)
 * [Creating Audio Description of Visual Information](@@)
