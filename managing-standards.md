@@ -42,6 +42,8 @@ This page helps you manage accessible media development. It:
 
 _For descriptions of captions, transcripts, audio description, sign language and other introductory information, please see the previous page: [Making Video and Audio Accessible - Introduction](http://@@)._
 
+**Note: If you don't want to get wrapped up in the standards yet, you can jump down to the short section to [figure out what my video or audio needs](#tree).**
+
 ## WCAG Media Standards
 
 {::nomarkdown}
@@ -157,9 +159,9 @@ To learn more about WCAG standards for media, see [Understanding Guideline 1.2: 
 
 <p>The wording below helps you think about what users need in order to understand the information that you are presenting in the video or audio, including users who cannot hear it or see it. We've included &quot;who are Deaf&quot; and &quot;who are blind&quot; to help you understand what to provide. However, keep in mind that many people who <em>can</em> see and hear will also benefit from these, as described in <a href="@@#@@">Additional Benefits</a>.</p>
 
-<div style="background:#D9EDF7; border: solid 3px #999">
+<div id="tree" style="background:#D9EDF7; border: solid 1px #999; padding: 5px;">
 
-<h4>What does my video need to be accessible?</h4>
+<h4 style="font-weight:bold; color:#000;">What does my video need to be accessible?</h4>
 <ul>
   <li><strong>Is there speech or other audio</strong> that is needed to understand the content?
     <ul>
@@ -185,7 +187,7 @@ To learn more about WCAG standards for media, see [Understanding Guideline 1.2: 
   </li>
 </ul>
 
-<h4>What does my audio-only (e.g., podcast) need to be accessible?</h4>
+<h4 style="font-weight:bold; color:#000;">What does my audio-only (e.g., podcast) need to be accessible?</h4>
 <ul>
   <li><strong>[_] Captions</strong> that provide the information to people who are hard of hearing and want to listen the audio. (<a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded">A 1.2.2</a>)</li>
   <li><strong>[_] Transcript of audio information </strong> that provides the information to people who don't want to listen to the audio or want an interactive transcript. (<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a>)<br><em>(This transcript is the same text from the captions file, in a different format.)</em></li>
