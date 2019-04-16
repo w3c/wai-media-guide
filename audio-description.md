@@ -57,10 +57,6 @@ For some types of video (such as some training videos), description of the visua
 
 When accessibility is considered before videos are produced, it significantly cuts down on cost and effort to develop audio description.
 
-For some videos, description of the visual information can be seamlessly integrated into the main video without any additional cost. 
-
-For example, instead of the speaker saying: <q>As you can see on this chart, sales increased significantly from the first quarter to the second quarter.</q> The speaker can say: <q>This chart shows that sales increased from 1 million in the first quarter to 1.3 million in the second quarter.</q>
-
 If you have an existing video and you want to add audio description, you'll need:
 ... skills to write it, speak it, integrate it in new audio and video files...
 
@@ -127,7 +123,7 @@ Use the information from above to answer the following questions in order to det
 	* **If yes**, provide description in a separate audio file, _**or**_ provide a separate described video.
 	* **If no**, provide a separate described video.
 	
-	</div>
+</div>
 
 ## Planning New Videos
 
