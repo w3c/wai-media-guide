@@ -154,7 +154,10 @@ To learn more about WCAG standards for media, see [Understanding Guideline 1.2: 
 </ul>
 
 ### Deciding How to Meet User Needs
+
 <p>The wording below helps you think about what users need in order to understand the information that you are presenting in the video or audio, including users who cannot hear it or see it. We've included &quot;who are Deaf&quot; and &quot;who are blind&quot; to help you understand what to provide. However, keep in mind that many people who <em>can</em> see and hear will also benefit from these, as described in <a href="@@#@@">Additional Benefits</a>.</p>
+
+<div style="background:#D9EDF7; border:#999">
 
 #### What does my video need to be accessible?
 <ul>
@@ -187,6 +190,8 @@ To learn more about WCAG standards for media, see [Understanding Guideline 1.2: 
   <li><strong>[_] Captions</strong> that provide the information to people who are hard of hearing and want to listen the audio. (<a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded">A 1.2.2</a>)</li>
   <li><strong>[_] Transcript of audio information </strong> that provides the information to people who don't want to listen to the audio or want an interactive transcript. (<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a>)<br><em>(This transcript is the same text from the captions file, in a different format.)</em></li>
 </ul>
+
+</div>
 
 ### Informing Users When None Needed
 <p> If your media does not need captions (because there is no substantive audio content) or does not need audio description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it. For example:</p>
