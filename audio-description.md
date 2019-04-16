@@ -30,6 +30,7 @@ This page provides guidance on creating audioe description for new and existing 
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
+{::options toc_levels="2" /}
 {:toc}
 
 {::nomarkdown}
@@ -108,19 +109,25 @@ First, figure out these issues about your video content and timing:
 
 * **Media player support** &mdash; Does the media player you are using provide functionality for a separate audio file? Or, will you use a plug-in or other method to provide it? Player and platforms that support separate audio description files: Brightcove, Kaltura, Oz Player, ?Vidyard. (Able Player facilitates showing a separate video with audio description.) Plug-ins: 3Play Plugin, JW Player, with plug-in (works in IE11 & Safari, other browsers require Flash), VideoJS with Plug-in (works in IE11 & Safari, other browsers require Flash).
 
-Use this information to answer the following questions in order to determine how to provide audio description for your video.
+<div id="tree" style="background:#D9EDF7; border: solid 1px #999; padding: 5px;">
 
-### For New Videos
+Use the information from above to answer the following questions in order to determine how to provide audio description for your video.
+
+<h3 style="font-weight:bold; color:#000;">For New Videos:</h3>
+
 * Can the speakers describe the visual information in the main audio?
-	* If yes, provide integrated description. No separate audio description is needed.
-	* If no, can you smoothly provide enough space in the main audio for the description? And will you use a media player that supports a separate audio track for the description?
-		* If yes, provide description in a separate audio file, _**or**_ provide a separate described video.
-		* If no, provide a separate described video.
+	* **If yes**, provide integrated description. No separate audio description is needed.
+	* **If no**, can you smoothly provide enough space in the main audio for the description? And will you use a media player that supports a separate audio track for the description?
+		* **If yes**, provide description in a separate audio file, _**or**_ provide a separate described video.
+		* **If no**, provide a separate described video.
+		
+<h3 style="font-weight:bold; color:#000;">For Existing Videos:</h3>
 
-### For Existing Videos
 * Is there enough space in the main audio for the description? And will you use a media player that supports a separate audio track for the description?
-	* If yes, provide description in a separate audio file, _**or**_ provide a separate described video.
-	* If no, provide a separate described video.
+	* **If yes**, provide description in a separate audio file, _**or**_ provide a separate described video.
+	* **If no**, provide a separate described video.
+	
+	</div>
 
 ## Planning New Videos
 
