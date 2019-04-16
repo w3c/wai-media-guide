@@ -21,11 +21,10 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This pages shows the Web Content Accessibility Guidelines (<a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG</a>) standards for video and audio (&quot;media&quot;).
-This page helps you figure out if your specific video or audio needs captions, audio description, a basic transcript, or a descriptive transcript.
-This page helps you manage accessible media development. It includes guidance to help you decide what to develop in-house and what to outsource.
-
-
+This page helps you manage accessible media development. It:
+* shows the Web Content Accessibility Guidelines (<a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG</a>) standards for video and audio (&quot;media&quot;)
+* helps you figure out if your specific video or audio needs captions, audio description, a basic transcript, or a descriptive transcript
+* includes guidance to help you decide what to develop in-house and what to outsource
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -36,6 +35,7 @@ This page helps you manage accessible media development. It includes guidance to
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
+{::options toc_levels="2" /}
 {:toc}
 
 {::nomarkdown}
