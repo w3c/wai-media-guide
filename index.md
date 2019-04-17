@@ -41,7 +41,7 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 <p>To make your video and audio accessible to people with disabilities, provide captions, transcripts,  audio description, and optionally sign language &mdash; based on the content.</p>
 
 ### Captions
-<p><strong>Who: </strong>Captions provide content to people who are Deaf and others who cannot hear the audio. They are also used by people who process written information better than audio.</p>
+<p><em>Who: </em> Captions provide content to people who are Deaf and others who cannot hear the audio. They are also used by people who process written information better than audio.</p>
 <p>Captions are a text version of the speech and non-speech audio information needed to understand the content. They are displayed within the media player and  are synchronized with the audio.</p>
 <p>Most are "closed captions" that can be hidden or shown by people watching the video. They can  be "open captions" that are always displayed and cannot be turned off.</p>
 <p><strong><em>Subtitles</em></strong> are the spoken audio translated into another language. They are implemented like captions. Subtitles can be only the spoken audio (for people who can hear the audio) or can be a translation of the caption content including non-speech audio information.</p>
@@ -50,18 +50,18 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 <p>Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content.</p>
 <p><strong><em>Descriptive transcripts</em></strong> also include visual information needed to understand the content.</p>
 <img src="{{ "/content-images/braille.jpg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
-<p><strong>Who: </strong>Descriptive transcripts are required to provide content to people who are both Deaf and blind. They are also used by people who process text information better than audio and video.</p>
+<p><em>Who: </em> Descriptive transcripts are required to provide content to people who are both Deaf and blind. They are also used by people who process text information better than audio and video.</p>
 <p>Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. (This is a feature of the media player. It uses the captions file.)</p>
-<img src="{{ "/content-images/interactive-transcript.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/interactive-transcript.png" | relative_url }}" alt="">
 
 ### Audio Description
-<p><strong>Who: </strong>Audio description provides content to people who are blind and others who cannot see the video adequately.</p>
+<p><em>Who: </em> Audio description provides content to people who are blind and others who cannot see the video adequately.</p>
 <p>Audio description describes visual information needed to understand the content. It is usually narration added to the soundtrack.</p>
 <p>For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers as the video is planned and created, and you don't need separate audio description.</p>
 <p style="text-align:center"><em>[optional image: blind person listening to video]</em></p>
 
 ### Sign Language
-<p>Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. <strong>Who: </strong>For most people who are Deaf, sign language is their native language, and some do not read written language well. Note that there are different sign languages in different regions and countries; for example, American Sign Language (ASL), British Sign Language (BSL), and Auslan (Australian Sign Language) are all different.</p>
+<p>Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. <em>Who: </em> For most people who are Deaf, sign language is their native language, and some do not read written language well. Note that there are different sign languages in different regions and countries; for example, American Sign Language (ASL), British Sign Language (BSL), and Auslan (Australian Sign Language) are all different.</p>
 <p>Sign language is not required to meet most minimum accessibility standards.</p>
 <p style="text-align:center"><em>[optional image: person signing]</em></p>
 
@@ -122,8 +122,6 @@ Other pages in this resource provide specific guidance on:
   <li>Better indexed by search engines.</li>
 </ul>
 <p>Some benefits of captions are illustrated in this 1-minute <a href="https://www.w3.org/WAI/perspective-videos/captions/">Video on  Captions</a>.</p>
-<img src="{{ "/content-images/caption-video-still.jpg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/captions-video-still.jpg" | relative_url }}" alt="">
 
 <p style="text-align:center"><strong>[ Next > ]</strong></p>
-
-
