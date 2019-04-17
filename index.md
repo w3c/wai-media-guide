@@ -50,10 +50,10 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 ### Transcripts
 <p>Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content.</p>
 <p><strong><em>Descriptive transcripts</em></strong> also include visual information needed to understand the content.</p>
-<p>Descriptive transcripts are required to provide content to people who are both Deaf and blind. They are also used by people who process text information better than audio and video.</p>
 <img src="{{ "/content-images/braille.jpg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<p>Descriptive transcripts are required to provide content to people who are both Deaf and blind. They are also used by people who process text information better than audio and video.</p>
 <p>Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. (This is a feature of the media player. It uses the captions file.)</p>
-<p style="text-align:center"><em>[image like <a href="https://w3c.github.io/wai-media-intro/img/xcr_perspectives-d998a967.png">https://w3c.github.io/wai-media-intro/img/xcr_perspectives-d998a967.png</a>]</em> </p>
+<img src="{{ "/content-images/captions.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 ### Audio Description
 <p>Audio description provides content to people who are blind and others who cannot see the video adequately.</p>
@@ -123,7 +123,7 @@ Other pages in this resource provide specific guidance on:
   <li>Better indexed by search engines.</li>
 </ul>
 <p>Some benefits of captions are illustrated in this 1-minute <a href="https://www.w3.org/WAI/perspective-videos/captions/">Video on  Captions</a>.</p>
-<p style="text-align:center"><em>[optional image: screen capture for visual interest]</em></p>
+<img src="{{ "/content-images/caption-video-still.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 <p style="text-align:center"><strong>[ Next > ]</strong></p>
 
