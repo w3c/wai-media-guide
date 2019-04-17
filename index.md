@@ -81,6 +81,7 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 <p>Requirements are different based on the content and whether they are live or pre-recorded. To figure out what your video or audio needs, see <a href="@@">Managing Development of Media Alternatives and Meeting Standards</a></p>
 
 ### Develop In-House or Outsource
+<img src="{{ "/content-images/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 <p>One approach to developing media alternatives is:</p>
 <ol>
