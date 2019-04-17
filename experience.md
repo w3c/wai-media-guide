@@ -36,6 +36,6 @@ This page explains how people with disabilities use accessible video and audio.
 {% include toc.html type="end" %}
 {:/}
 
-… [content such as some in [Playing Accessible Media](https://w3c.github.io/wai-media-intro/accessible-media/playing/)] …
+… [**maybe** content such as some in [Playing Accessible Media](https://w3c.github.io/wai-media-intro/accessible-media/playing/)] …
 
 <p style="text-align:center"><strong>[ Next > ]</strong></p>
