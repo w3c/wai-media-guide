@@ -15,4 +15,5 @@ github:
 footer: >   # Translate all the words below, including "Date:" and "Editor:". 
 ---
 
+
 This page is updated in the [https://deploy-preview-1--wai-media-guide.netlify.com/design-develop/media-guide/managing-standards/ main version].
