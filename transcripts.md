@@ -73,17 +73,7 @@ For example, a transcript of a podcast can be simple text paragraphs with the sp
 {% include box.html type="end" %}
 {:/}
 
-A descriptive transcript can be in a table so that readers can easily read only the audio information down a column if they choose.
-
-{::nomarkdown}
-{% include box.html type="start" title="Example descriptive transcript (excerpt)" class="" %}
-{:/}
-
-…
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
+A descriptive transcript can be in a table so that readers can easily read only the audio information down a column if they choose. A [descriptive transcript example is below](#descriptive).
 
 ## Where to Put Transcripts
 
@@ -155,8 +145,10 @@ That's the situation for everyone who can't hear.
 {% include box.html type="end" %}
 {:/}
 
+<div id="descriptive"></div>
+
 {::nomarkdown}
-{% include box.html type="start" title="Example descriptive transcript (excerpt)" class="" %}
+{% include box.html type="start" title="Example descriptive transcript from the caption files above (excerpt)" class="" %}
 {:/}
 
 <table>
