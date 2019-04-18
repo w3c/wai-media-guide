@@ -178,7 +178,7 @@ That's the situation for everyone who can't hear.
 {% include box.html type="end" %}
 {:/}
 
-<p style="text-align:center"><em>[optional video showing slh's process for quickly developing descriptive transcript from the 2 VTT files]</em></p>
+<p style="text-align:center"><em>[? detailed instructions &/or video showing slh's process for quickly developing descriptive transcript from the 2 VTT files]</em></p>
 
 {% include excol.html type="start" id="" %}
 
