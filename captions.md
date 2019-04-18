@@ -153,20 +153,24 @@ Keep in mind that the main purpose of the captions is to provide information to 
 
 * Do not emphasize a word using all capital letters except to indicate screaming.
 
-#### Editing Content
+#### Be True to the Audio Content
 
-* Do not change or adapt or add to the text. For example, it is usually not appropriate to correct grammar or other mistakes.
+* **Do not change or adapt or add to the text**. Transcribe what is said accurately.
+   * For example, it is usually not appropriate to correct grammar or other mistakes.
+   * Do not censor. For example, if objectionable words are said, include those in the captions. If the audio is edited to obscure a phrase (e.g., "bleeped" audio), reflect that in the captions, e.g., <em> --bleep-- </em>
+   * Do not provide additional clarifying information in the captions. (You can provide some in the transcript as appropriate.)
 
-* Do not censor. ...captions should reflect the words that are spoken in the audio track. If objectionable words are used in the audio, the captions should show those words. If the audio is edited to obscure a specific word or phrase (e.g., "bleeped" audio), the captions should reflect the fact that a word or phrase has been obscured....
-
-* For some content, such as legal depositions, transcribe everything verbatim, including things like "um" and repeated phrases.
-
-* For most web content, it is acceptable to do light editing to make the captions easier to process. For example, if the speaker says:<br><em>I just got so frustrated (cough, cough) sorry – uhhh, oh yea - I got so frustrated with my computer.</em><br>
+* Level of detail:
+   * For some content, such as legal depositions, transcribe everything verbatim, including things like "um", "ah", and repeated phrases.
+   * For most web content, it is acceptable to leave out non-substantive text to make the captions easier to process &mdash; while adhering to the tips above. For example, if the speaker says:<br><em><strong>I just got so frustrated</strong> (cough, cough) sorry – uhhh what was I saying?..., oh yea - <strong>I got so frustrated with my computer.</strong></em><br>
 You can caption:<br>
-<em>I just got so frustrated with my computer.</em>
+<em><strong>I just got so frustrated with my computer.</strong></em>
 
-* If there is speech that is not relevant, it is usually best to indicate that it has been excluded from the captions. For example:<br>
-	<em>[participants discuss the weather while the presenter reboots his computer].</em>
+* If there is speech that is not at all relevant, indicate that it has been excluded from the captions. For example:<br>
+	<em>[participants discuss the weather while the presenter reboots his computer]</em>
+
+* If you cannot understand what is said, transcribe:<br>
+[unintelligible]
 
 * [@@ Do not caption the same, or nearly the same, information that is already shown onscreen. https://dcmp.org/learn/225 ]
 
