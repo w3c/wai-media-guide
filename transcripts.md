@@ -85,7 +85,7 @@ A descriptive transcript can be in a table so that readers can easily read only 
 {% include box.html type="end" %}
 {:/}
 
-### Where to Put Transcripts
+## Where to Put Transcripts
 
 Transcripts can be:
 * Included on the same web page with the media. ([example decriptive transcript at the bottom of same page with video](https://www.w3.org/WAI/perspective-videos/captions/#transcript))
