@@ -190,7 +190,7 @@ To learn more about WCAG standards for media, see [Understanding Guideline 1.2: 
 <h4 style="font-weight:bold; color:#000;">What does my audio-only (e.g., podcast) need to be accessible?</h4>
 <ul>
   <li><strong>[_] Captions</strong> that provide the information to people who are hard of hearing and want to listen the audio. (<a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded">A 1.2.2</a>)</li>
-  <li><strong>[_] Transcript of audio information </strong> that provides the information to people who don't want to listen to the audio or want an interactive transcript. (<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a>)<br><em>(This transcript is the same text from the captions file, in a different format.)</em></li>
+  <li><strong>[_] Transcript of audio information </strong> that provides the information to people who blind and Deaf (&quot;Deaf-blind&quot;), and people who don't want to listen to the audio. (<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a>)<br><em>(This transcript is the same text from the captions file, in a different format.)</em></li>
 </ul>
 
 </div>
