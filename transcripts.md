@@ -56,7 +56,7 @@ Descriptive transcripts also include description of the vidual information.
 
 Transcripts **can** include: time stamps, headings, links, and other information to make the transcripts more useful.
 
-## How to Formatted Transcripts
+## How to Format Transcripts
 
 There is not a set format for transcripts. You can choose how to present them based on your content. Most transcripts on the web are provided in HTML.
 
@@ -84,6 +84,16 @@ A descriptive transcript can be in a table so that readers can easily read only 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+
+### Where to Put Transcripts
+
+Transcripts can be:
+* Included on the same web page with the media. ([example decriptive transcript at the bottom of same page with video](https://www.w3.org/WAI/perspective-videos/captions/#transcript))
+* Provided on a separate web page. ([example podcast transcript on separate page](https://www.w3.org/WAI/highlights/200606wcag2interview.html))
+
+(Interactive transcripts that highlight text phrases as they are spoken are a function of the media player that uses the captions file.)
+
+Make sure it is easy for users to know that a transcript is available and to get to the trasncript.
 
 ## Developing Transcripts
 
@@ -176,7 +186,7 @@ That's the situation for everyone who can't hear.
 {% include box.html type="end" %}
 {:/}
 
-<p style="text-align:center"><em>[optional video showing slh process for quickly developing descriptive transcript from the 2 VTT files]</em></p>
+<p style="text-align:center"><em>[optional video showing slh's process for quickly developing descriptive transcript from the 2 VTT files]</em></p>
 
 {% include excol.html type="start" id="" %}
 
