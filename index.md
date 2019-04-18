@@ -36,6 +36,12 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 {% include toc.html type="end" %}
 {:/}
 
+
+
+**Note to reviewers: This is an version is to show the managing info on 3 separate pages. _For more updated content,_ see the [main version](https://deploy-preview-1--wai-media-guide.netlify.com/design-develop/media-guide/).**
+
+
+
 ## Elements of Accessible Video and Audio
 
 <p>To make your video and audio accessible to people with disabilities, provide captions, transcripts,  audio description, and optionally sign language &mdash; based on the content.</p>
