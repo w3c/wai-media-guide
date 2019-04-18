@@ -114,12 +114,14 @@ Other pages in this resource provide specific guidance on:
 
 <p>Accessible video and audio is essential for people with disabilities, and is <strong>useful for everyone</strong> in a variety of situations. For example, accessible video and audio content can be:</p>
 <ul>
-  <li>Used in loud environments where users cannot hear the audio.</li>
-  <li>Used in quiet environments where users cannot turn on sound.</li>
-  <li>Skimmed or read rather than watched or listened to, which is easier and quicker for many users.</li>
-  <li>Used without needing to download video files; for example, to save data on mobile.</li>
-  <li>Used by people who cannot understand the spoken language well and can understand the written language better.</li>
-  <li>Better understood when users can  hear the information in audio and  see it in text at the same time. [reference]</li>
+  <li>Used in loud environments where users cannot hear the audio. For example, a bar, an airport, and another.</li>
+  <li>Used in quiet environments where users cannot turn on sound. For example, a library, when others are sleeping, and another.</li>
+  <li>Skimmed or read rather than watched or listened to. This is significantly easier and quicker for many users. Some want to skim the trasncript first before deciding whether or not to play the media.</li>
+  <li>Used without needing to download video files. For example, to save data on mobile.</li>
+  <li>Used by people who cannot understand the spoken language well and can understand the written language better. For example, people who are not native speakers of the language.</li>
+  <li>Used by people to help them learn to read. For example, children, adults, and people learning a new langauge.</li>
+  <li>Used offline, printed, or converted to Braille.</li>
+  <li>Better understood when users can hear the information in audio and see it in text at the same time. For example, [reference].</li>
   <li>Better indexed by search engines.</li>
 </ul>
 <p>Some benefits of captions are illustrated in this 1-minute <a href="https://www.w3.org/WAI/perspective-videos/captions/">Video on  Captions <img src="{{ "/content-images/captions-video-still.jpg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
