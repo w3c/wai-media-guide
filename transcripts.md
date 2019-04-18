@@ -54,7 +54,7 @@ Basic transcripts include all speech and other relevant non-speech sound, such a
 
 Descriptive transcripts also include description of the vidual information.
 
-Transcripts **can** include: time stamps, headings, links, and other information to make the transcripts more useful.
+Transcripts **can** include: time stamps, headings, links, a summary, and other information to make the transcripts more useful.
 
 ## How to Format Transcripts
 
