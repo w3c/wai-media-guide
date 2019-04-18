@@ -176,6 +176,10 @@
         url: "/design-develop/media-guide/audio-description/"
       - name: Audio and Video Content
         url: "/design-develop/media-guide/media-content/"
+      - name: ? Media Player
+        url: "/design-develop/media-guide/player/"
+      - name: ? User Experience
+        url: "/design-develop/media-guide/experience/"        
   - name: Tutorials
     url: "https://www.w3.org/WAI/tutorials/"
     different: true
