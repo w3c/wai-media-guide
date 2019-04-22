@@ -47,9 +47,13 @@ _What:_ Captions are a text version of the speech and non-speech audio informati
 
 Most are "closed captions" that can be hidden or shown by people watching the video. They can be "open captions" that are always displayed and cannot be turned off.
 
+## Related to Captions
+
 Caption files are used by media players to provide _interactive transcripts_. Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. (Some players provide interactive transcript funcationality, and some do not.) <img src="{{ "/content-images/interactive-transcript.png" | relative_url }}" alt="">
 
 _Subtitles_ are the spoken audio translated into another language. They are implemented like captions. Subtitles can be only the spoken audio (for people who can hear the audio) or can be a translation of the caption content including non-speech audio information.
+
+## Notes
 
 For optimum accessibility, provide a separate caption file of the audio description.
 
@@ -69,9 +73,10 @@ More information on these steps are in this web page.
 
 1. Pick a caption tool.
 2. Understand what to include in captions, including the Tips.
-3. Review your captions as the video plays, and edit as needed.
-4. Export the caption file.
-5. If your tool provides it, export a file to create the transcript.
+3. Write up the captions and timing in the tool.
+4. Review your captions as the video plays, and edit as needed.
+5. Export the caption file.
+6. If your tool provides it, export a file to create the transcript.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -81,9 +86,9 @@ More information on these steps are in this web page.
 
 Most people use software or services to help develop captions. There are several free captioning software programs and online services available.
 
-Some tools create automatic captions that you can use as a starting point. You will need to edit automatic captions for accuracy.
-
 <p style="text-align:center">[image of captioning software or service, probably YouTube since that's one many novies will use]</p>
+
+Some tools create automatic captions that you can use as a starting point. You will need to edit automatic captions for accuracy.
 
 For example, YouTube provides automatic captions and tools for you to edit the captions, as described in [Edit or remove captions – YouTube Help](https://support.google.com/youtube/answer/2734705?hl=en).
 
