@@ -103,7 +103,7 @@ First, figure out these issues about your video content and timing:
 
 * **Space in audio** &mdash; Is there enough space in the main audio for the description? That is, are there sufficient pauses throughout the narration or speaking where the relevant description will fit? For example, if the only description needed is at the beginning of the video where these is a text title and background music, then: Yes, there is enough space. Or if the speaker talks continually without pausing, then: No, there is not enough space for description.
 
-* **Media player support** &mdash; Does the media player you are using provide functionality for a separate audio file? Or, will you use a plug-in or other method to provide it? Player and platforms that support separate audio description files: Brightcove, Kaltura, Oz Player, ?Vidyard. (Able Player facilitates showing a separate video with audio description.) Plug-ins: 3Play Plugin, JW Player, with plug-in (works in IE11 & Safari, other browsers require Flash), VideoJS with Plug-in (works in IE11 & Safari, other browsers require Flash).
+* **Media player support** &mdash; Does the media player, platform, or plug-in that you are using provide functionality for a separate audio file? The Accessible Media Player pages lists [Support for Separate Audio Files](@@#support-for-separate-audio-files).
 
 <div id="tree" style="background:#D9EDF7; border: solid 1px #999; padding: 5px;" markdown="1">
 
