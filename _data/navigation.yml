@@ -166,8 +166,8 @@
         url: "/design-develop/media-guide/managing-standards/"
       - name: Audio and Video Content
         url: "/design-develop/media-guide/media-content/"
-      - name: Audio Description
-        url: "/design-develop/media-guide/audio-description/"
+      - name: Description
+        url: "/design-develop/media-guide/description/"
       - name: Captions
         url: "/design-develop/media-guide/captions/"
       - name: Transcripts
