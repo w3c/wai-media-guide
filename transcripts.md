@@ -247,3 +247,4 @@ Transcripts generally include all of the audio information from the captions, an
 {% include excol.html type="end" %}
 
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
+
