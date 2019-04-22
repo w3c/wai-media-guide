@@ -57,7 +57,7 @@ Interactive transcripts highlight text phrases as they are spoken. Users can sel
 
 **Transcripts and captions include the same text, so one can be used to develop the other.**
 
-Often captions (including of the audio description) are developed first, and then transcripts are created from that text. Most caption-editing tools provide an option to export a plain text transcript.
+Often captions are developed first, and then transcripts are created from that text. Most caption-editing tools provide an option to export a plain text transcript.
 
 Whatever tool you use to develop web content, you can use to develop your transcript.
 
@@ -71,23 +71,22 @@ This example is for developing a descriptive transcript from:
 {% include box.html type="start" class="" %}
 {:/}
 
-1. You can use whatever tool that you usually use to edit web pages.
+1. Open your web editing tool.
 2. If you are putting the descriptive transcript in a table, create the table.
 3. Open the caption file of the main audio and the caption file of the audio description of visual information.
-4. Copy and paste the information from the caption files into the table. @@ Combine lines from the caption file into single table cells. See @@ below for an example.
+4. Copy and paste the information from the caption files into the table. Combine lines from the caption file into single table cells. @@say-more-or-link-to-tip. An [example descriptive transcript is below](#descriptive).
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-
 ## What to Include in Transcripts
 
 In basic transcripts, include all speech and other relevant non-speech sound, such as this-good-example.
 
-In descriptive transcripts, also include description of the vidual information.
+In descriptive transcripts, also include description of the visual information.
 
-Add information to make the trascript more useful. For example, headings, links, a summary, and maybe time stamps as described in the Tips below.
+Add information to make the trascript more useful. For example, add headings, links, a summary, and maybe time stamps, as described in the Tips below.
 
 {% include excol.html type="start" id="" %}
 
@@ -137,7 +136,7 @@ Transcripts generally include all of the audio information from the captions, an
 
 ## How to Format Transcripts
 
-There is not a set format for transcripts. You can choose how to present them based on your content. Most transcripts on the web are provided in HTML.
+Most transcripts on the web are provided in HTML. There is not a set format for transcripts. You can choose how to present them based on your content.
 
 A transcript of a podcast can be simple text paragraphs with the speakers identified.
 
@@ -161,9 +160,9 @@ Transcripts can be:
 
 Make sure it is easy for users to know that a transcript is available and to get to the trasncript.
 
-## Example Descriptivbe Transcript from Caption Files
+## Example Descriptive Transcript from Caption Files
 
-Below is an example of using caption files to create a descriptive transcript.
+Below is an example of caption files used to create a descriptive transcript.
 
 {::nomarkdown}
 {% include box.html type="start" title="Example caption file of audio information (excerpt)" class="" %}
