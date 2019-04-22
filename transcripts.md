@@ -36,17 +36,40 @@ This page provides guidance on creating transcripts.
 {% include toc.html type="end" %}
 {:/}
 
+## Introduction
+
+Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content.
+
+<img src="{{ "/content-images/braille.jpg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+
+**_Descriptive transcripts_** also include visual information needed to understand the content.
+
+_Who:_ Descriptive transcripts are required to provide content to people who are both Deaf and blind. They are also used by people who process text information better than audio and video.
+
+Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. (This is a feature of the media player. It uses the captions file.)
+
+<img src="{{ "/content-images/interactive-transcript.png" | relative_url }}" alt="">
+
+## Example Workflow
+
+More information on these steps are in this web page.
+
+@@ decriptive...  
+
 {::nomarkdown}
-{% include box.html type="start" title="From the Introduction:" class="" %}
+{% include box.html type="start" class="" %}
 {:/}
 
-<p>Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content.</p>
-<p><strong><em>Descriptive transcripts</em></strong> also include visual information needed to understand the content.</p>
-<p>Descriptive transcripts are required to provide content to people who are both Deaf and blind. They are also used by people who process text information better than audio and video.</p>
+1. Start with a captions file
+2. Understand what to include in captions, including the Tips.
+3. Review your captions as the video plays, and edit as needed.
+4. Export the caption file.
+5. If your tool provides it, export a file to create the transcript.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+
 
 ## What to Include in Transcripts
 
