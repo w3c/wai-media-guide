@@ -252,7 +252,6 @@ This section provides guidance to help you decide what to develop in-house and w
 <p>For these reasons, many organizations choose to outsource their captions.</p>
 <p>More information is in <a href="@@">Creating Captions</a>.</p>
 
-
 ### Audio Description Considerations
 <p>When accessibility is considered before videos are produced, it significantly cuts down on cost and effort to develop audio description.</p>
 <p>For some videos, description of the visual information can be seamlessly integrated into the main video <em>without <strong>any</strong> additional cost</em>. For example, instead of the speaker saying:</p>
@@ -277,3 +276,5 @@ The speaker can say:
 <p>More information is in <a href="@@">Creating Video and Audtion Content</a>.</p>
 
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
+   
+@@ just doing something to test...
