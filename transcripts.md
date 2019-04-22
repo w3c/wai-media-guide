@@ -62,26 +62,29 @@ This example is for developing a descriptive transcript from:
 {% include box.html type="start" class="" %}
 {:/}
 
-1. ...
+1. You can use whatever tool that you usually use to edit web pages.
+2. If you are putting the descriptive transcript in a table, create the table.
+3. Open the caption file of the main audio and the caption file of the audio description of visual information.
+4. Copy and paste the information from the caption files into the table. @@ Combine lines from the caption file into single table cells. See @@ below for an example.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
+
 ## What to Include in Transcripts
 
-Basic transcripts include all speech and other relevant non-speech sound, such as this-good-example.
+In basic transcripts, include all speech and other relevant non-speech sound, such as this-good-example.
 
-Descriptive transcripts also include description of the vidual information.
+In descriptive transcripts, also include description of the vidual information.
 
-Transcripts **can** include: time stamps, headings, links, a summary, and other information to make the transcripts more useful.
+Add information to make the trascript more useful. For example, headings, links, a summary, and maybe time stamps.
 
 ## How to Format Transcripts
 
 There is not a set format for transcripts. You can choose how to present them based on your content. Most transcripts on the web are provided in HTML.
 
-For example, a transcript of a podcast can be simple text paragraphs with the speakers identified.
-
+A transcript of a podcast can be simple text paragraphs with the speakers identified.
 
 {::nomarkdown}
 {% include box.html type="start" title="Example transcript of a podcast interview with two speakers (excerpt)" class="" %}
@@ -100,8 +103,6 @@ A descriptive transcript can be in a table so that readers can easily read only 
 Transcripts can be:
 * Included on the same web page with the media. ([example decriptive transcript at the bottom of same page with video](https://www.w3.org/WAI/perspective-videos/captions/#transcript))
 * Provided on a separate web page. ([example podcast transcript on separate page](https://www.w3.org/WAI/highlights/200606wcag2interview.html))
-
-(Interactive transcripts that highlight text phrases as they are spoken are a function of the media player that uses the captions file.)
 
 Make sure it is easy for users to know that a transcript is available and to get to the trasncript.
 
