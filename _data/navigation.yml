@@ -170,10 +170,10 @@
         url: "/design-develop/media-guide/transcripts/"
       - name: Audio Description
         url: "/design-develop/media-guide/audio-description/"
+      - name: Media Player
+        url: "/design-develop/media-guide/player/"
       - name: Audio and Video Content
         url: "/design-develop/media-guide/media-content/"
-      - name: ?Media Player
-        url: "/design-develop/media-guide/player/"
       - name: ?User Experience
         url: "/design-develop/media-guide/experience/"        
   - name: Tutorials
