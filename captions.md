@@ -139,8 +139,7 @@ Keep in mind that the main purpose of the captions is to provide information to 
    * For most web content, it is acceptable to leave out non-substantive text to make the captions easier to process &mdash; while adhering to the tips above. For example, if the speaker says:<br><em><strong>I just got so frustrated</strong> (cough, cough) sorry – uhhh what was I saying?..., oh yea - <strong>I got so frustrated with my computer.</strong></em><br>
 You can caption:<br>
 <em><strong>I just got so frustrated with my computer.</strong></em>
-
-* If there is speech that is not at all relevant, indicate that it has been excluded from the captions. For example:<br>
+   * If there is speech that is not at all relevant, indicate that it has been excluded from the captions. For example:<br>
 	<em>[participants discuss the weather while the presenter reboots his computer]</em>
 
 * If you cannot understand what is said, transcribe:<br>
