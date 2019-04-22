@@ -44,10 +44,9 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 <p>To make your video and audio accessible to people with disabilities, provide captions, transcripts,  audio description, and optionally sign language &mdash; based on the content.</p>
 
 ### Captions
-<p><em>Who: </em> Captions provide content to people who are Deaf and others who cannot hear the audio. They are also used by people who process written information better than audio.</p><img src="{{ "/content-images/captions.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
-<p>Captions are a text version of the speech and non-speech audio information needed to understand the content. They are displayed within the media player and  are synchronized with the audio.</p>
-<p>Most are "closed captions" that can be hidden or shown by people watching the video. They can  be "open captions" that are always displayed and cannot be turned off.</p>
-<p><strong><em>Subtitles</em></strong> are the spoken audio translated into another language. They are implemented like captions. Subtitles can be only the spoken audio (for people who can hear the audio) or can be a translation of the caption content including non-speech audio information.</p>
+<p><em>Who: </em> Captions provide content to people who are Deaf and others who cannot hear the audio.</p><img src="{{ "/content-images/captions.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<p><em>What: </em> Captions are a text version of the speech and non-speech audio information needed to understand the content. They are displayed within the media player and are synchronized with the audio.</p>
+<p><strong><em>Subtitles</em></strong> are the spoken audio translated into another language. They are implemented like captions.</p>  
 
 ### Transcripts
 <p>Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content.</p>
