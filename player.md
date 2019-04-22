@@ -38,17 +38,17 @@ This page provides information about media players and accessibility.
 
 ## Status
 
-This page has the infrmation that we know as of May 2019.
+This page has the information that we know as of May 2019.
 
-_(To submit updated information, see the "Help improve this page" box below.)_
+(To submit updated information, see the "Help improve this page" box below.)
 
 ## Players for Accessibility
 
 The following players were designed specifically for accessibility:
 
-* Able Player is an open-source cross-browser HTML5 media player. @@
+* **Able Player** is a free open-source HTML5 media player. It includes [instructions for set up](https://ableplayer.github.io/ableplayer/#setup-step-1-use-html5-doctype).
 
-* OzPlayer. @@ 
+* **OzPlayer** is a commercial media player that uses HTML5. It is available [free in limited situations](https://www.accessibilityoz.com/2015/02/free-ozplayer/).
 
 ## HTML 5 as is
 
