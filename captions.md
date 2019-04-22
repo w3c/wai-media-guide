@@ -51,20 +51,22 @@ Most are "closed captions" that can be hidden or shown by people watching the vi
 
 **Captions and transcripts include the same text, so one can be used to develop the other.**
 
+For optimum accessibility, provide a separate caption file of the audio description.
+
 ### Scope
 
 This page addresses developing captions for pre-recorded media. Live captions are usually done by professional Communication Access Realtime Translation (CART) providers. Live captions are not addressed on this page.
 
-@@ add heading to example workflow
+## Example Workflow
 
 {::nomarkdown}
-{% include box.html type="start" title="Example workflow" class="" %}
+{% include box.html type="start" class="" %}
 {:/}
 
-More information on these steps are in this page.
+More information on these steps are in this web page.
 1. Pick a caption tool.
 2. Understand what to include in captions, including the Tips.
-3. Review your captions and edit as needed.
+3. Review your captions as the video plays, and edit as needed.
 4. Export the caption file.
 5. If your tool provides it, export a file to create the transcript.
 
@@ -82,11 +84,10 @@ For example, YouTube provides automatic captions and tools for you to edit the c
 
 ## What to Included in Caption Files
 
-Captions include all speech and other relevant non-speech sound, such as this-good-example.
-
-Caption files include the time each phrase should be displayed. They also identify the speaker, for example, in interviews.
-
-For optimum accessibility, the audio description is also provided as a separate caption file.
+Include in the captions file:
+* All speech and other relevant non-speech sound, such as this-good-example.
+* The time each phrase should be displayed.
+* Speaker identification, for example, in interviews.
 
 {% include excol.html type="start" id="" %}
 
