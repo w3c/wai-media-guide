@@ -46,25 +46,23 @@ Basic transcripts are a text version of the speech and non-speech audio informat
 
 _Who:_ Descriptive transcripts are required to provide content to people who are both Deaf and blind. They are also used by people who process text information better than audio and video.
 
+If you provide a descriptive transcript, you do not need a separate basic transcript.
+
 Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. (This is a feature of the media player. It uses the captions file.)
 
 <img src="{{ "/content-images/interactive-transcript.png" | relative_url }}" alt="">
 
 ## Example Workflow
 
-More information on these steps are in this web page.
-
-@@ decriptive...  
+This example is for developing a descriptive transcript from:
+* a caption file for the main audio
+* a caption file of the audio description of visual information
 
 {::nomarkdown}
 {% include box.html type="start" class="" %}
 {:/}
 
-1. Start with a captions file
-2. Understand what to include in captions, including the Tips.
-3. Review your captions as the video plays, and edit as needed.
-4. Export the caption file.
-5. If your tool provides it, export a file to create the transcript.
+1. ...
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -211,7 +209,7 @@ That's the situation for everyone who can't hear.
 
 Keep in mind that the main purpose of a descriptive transcript is to provide the information to people who cannot get it from the video. That will help you know what to include and how to format it. The following are optional, not requirements.
 
-Transcripts generally include all of the audio information from the captions, and additional information. See the guidance under "For captions and transcripts". _{can we programmatically put one source here & there so users don't have to go elsewhere to get it, and we only have to update it in one places?}_
+Transcripts generally include all of the audio information from the captions, and additional information. See the guidance under [For captions and transcripts[]@@). _{can we programmatically put one source here & there so users don't have to go elsewhere to get it, and we only have to update it in one places?}_
 
 * **If you're starting with a captions file, edit the line breaks.** Put the information in logical paragraphs, lists, and sections. For example, in the example excerpts above, 6 lines of captions are grouped into 2 paragraghs of text (in table cells).
 
