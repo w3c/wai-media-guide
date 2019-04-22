@@ -37,23 +37,48 @@ This page provides guidance on creating captions.
 {% include toc.html type="end" %}
 {:/}
 
+## Introduction
+
+_Who:_ Captions provide content to people who are Deaf and others who cannot hear the audio. They are also used by people who process written information better than audio.
+
+<img src="{{ "/content-images/captions.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+
+_What:_ Captions are a text version of the speech and non-speech audio information needed to understand the content. They are displayed within the media player and are synchronized with the audio.
+
+Most are "closed captions" that can be hidden or shown by people watching the video. They can be "open captions" that are always displayed and cannot be turned off.
+
+**_Subtitles_** are the spoken audio translated into another language. They are implemented like captions. Subtitles can be only the spoken audio (for people who can hear the audio) or can be a translation of the caption content including non-speech audio information.
+
+**Captions and transcripts include the same text, so one can be used to develop the other.**
+
+### Scope
+
+This page addresses developing captions for pre-recorded media. Live captions are usually done by professional Communication Access Realtime Translation (CART) providers. Live captions are not addressed on this page.
+
+@@ add heading to example workflow
+
 {::nomarkdown}
-{% include box.html type="start" title="From the Introduction:" class="" %}
+{% include box.html type="start" title="Example workflow" class="" %}
 {:/}
 
-<p>Captions provide content to people who are Deaf and others who cannot hear the audio. They are also used by people who process written information better than audio.</p>
-<p>Captions are a text version of the speech and non-speech audio information needed to understand the content. They are displayed within the media player and  are synchronized with the audio.</p>
-<p>Most are "closed captions" that can be hidden or shown by people watching the video. They can  be "open captions" that are always displayed and cannot be turned off.</p>
-<p><strong><em>Subtitles</em></strong> are the spoken audio translated into another language. They are implemented like captions. Subtitles can be only the spoken audio (for people who can hear the audio) or can be a translation of the caption content including non-speech audio information.</p>
-<p style="text-align:center"><em>[image: example static image from Perspectives Video on Captions showing captions.]</em></p>
+More information on these steps are in this page.
+1. Pick a caption tool.
+2. Understand what to include in captions, including the Tips.
+3. Review your captions and edit as needed.
+4. Export the caption file.
+5. If your tool provides it, export a file to create the transcript.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-## Scope
+## Caption Tools
 
-This page addresses developing captions for pre-recorded media. Live captions are usually done by professional Communication Access Realtime Translation (CART) providers. Live captions are not addressed on this page.
+Most people who develop captions use software or services to help. There are several free captioning software programs and online services available. Some will create automatic captions that you can use as a starting point. Note that you will need to edit automatic captions for accuracy.
+
+<p style="text-align:center">[image of captioning software or service, probably YouTube since that's one many novies will use]</p>
+
+For example, YouTube provides automatic captions and tools for you to edit the captions, as described in [Edit or remove captions – YouTube Help](https://support.google.com/youtube/answer/2734705?hl=en).
 
 ## What to Included in Caption Files
 
@@ -63,9 +88,67 @@ Caption files include the time each phrase should be displayed. They also identi
 
 For optimum accessibility, the audio description is also provided as a separate caption file.
 
-Specific guidance is in the [Tips below](#tips-for-captions).
+{% include excol.html type="start" id="" %}
 
-## Caption File Format
+### Tips for Caption Content
+
+{% include excol.html type="middle" %}
+
+Keep in mind that the main purpose of the captions is to provide information to people who cannot hear the audio. That will help you know what to sounds to transcribe, and what are not needed. The following are common practices, not requirements.
+
+#### Specific for captions
+
+* Captions are one or two rows. ?? character length
+
+* Put a new sentence on a new line.
+
+* If you need to break a sentence into multiple segments, break it at a logical phrase.
+
+#### For captions and transcripts
+
+* Identify the speakers as relevant. Often it is best to use the full name the first time and single name throughout &mdash; either first/given or last/family depending on the formality.
+
+* You can include relevant information about the speech. For example:<br>
+	<em>( shouting ):</em><br>
+	I hate this computer!
+
+* Put important non-speech sounds in parentheses, lowercase, italics, with a space before and after. For example:<br>
+	 <em>( computer crashing into bits and parts sliding across the floor )</em>
+
+* When a speaker is off-screen, you can put their speech in italics. For example:<br>
+	<em>Jose: What was that awful noise?</em><br>
+	Zoe: You don't want to know.<br>
+	<em>Jose: Well, I'm coming to find out.</em>
+
+* Only include background music if it's important to understand the content of the video. Use objective descriptions that indicate the mood; avoid subjective words, such as "beautiful." If the words in the music are important, add a musical note to the beginning and end of each caption. Put music information in italics. For example:<br>
+	<em>♪ scary music, JAWS theme ♪</em>
+
+* Do not emphasize a word using all capital letters except to indicate screaming.
+
+##### Be True to the Audio Content
+
+* **Do not change or adapt or add to the text**. Transcribe what is said accurately.
+   * For example, it is usually not appropriate to correct grammar or other mistakes.
+   * Do not censor. For example, if objectionable words are said, include those in the captions. If the audio is edited to obscure a phrase (e.g., "bleeped" audio), reflect that in the captions, e.g., <em> --bleep-- </em>
+   * Do not provide additional clarifying information in the captions. (You can provide some in the transcript as appropriate.)
+
+* Level of detail:
+   * For some content, such as legal depositions, transcribe everything verbatim, including things like "um", "ah", and repeated phrases.
+   * For most web content, it is acceptable to leave out non-substantive text to make the captions easier to process &mdash; while adhering to the tips above. For example, if the speaker says:<br><em><strong>I just got so frustrated</strong> (cough, cough) sorry – uhhh what was I saying?..., oh yea - <strong>I got so frustrated with my computer.</strong></em><br>
+You can caption:<br>
+<em><strong>I just got so frustrated with my computer.</strong></em>
+
+* If there is speech that is not at all relevant, indicate that it has been excluded from the captions. For example:<br>
+	<em>[participants discuss the weather while the presenter reboots his computer]</em>
+
+* If you cannot understand what is said, transcribe:<br>
+[unintelligible]
+
+* [@@ Do not caption the same, or nearly the same, information that is already shown onscreen. https://dcmp.org/learn/225 ]
+
+{% include excol.html type="end" %}
+
+### Caption File Format
 
 The most common format for captions on the web is [WebVTT](https://www.w3.org/TR/webvtt/): The Web Video Text Tracks Format.
 
@@ -91,90 +174,6 @@ The most common format for captions on the web is [WebVTT](https://www.w3.org/TR
 {:/}
 
 Other caption formats are: Timed Text Markup Language ([TTML](https://www.w3.org/TR/ttml2/)) and [SRT](https://matroska.org/technical/specs/subtitles/srt.html).
-
-## Developing Captions
-
-{::nomarkdown}
-{% include box.html type="start" title="Example workflow" class="" %}
-{:/}
-
-1. ...
-2. ...
-3. ...
-4. ...
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-
-Most people who develop captions use software to help. There are several free captioning software programs and online services available. Some will create automatic captions that you can use as a starting point. Note that you will need to edit automatic captions for accuracy.
-
-<p style="text-align:center">[image of captioning software or service, probably YouTube since that's one many novies will use]</p>
-
-For example, YouTube provides automatic captions and tools for you to edit the captions, as described in [Edit or remove captions – YouTube Help](https://support.google.com/youtube/answer/2734705?hl=en).
-
-**Captions and transcripts include the same text, so one can be used to develop the other.**
-
-{% include excol.html type="start" id="" %}
-
-## Tips for Caption Content
-
-{% include excol.html type="middle" %}
-
-Keep in mind that the main purpose of the captions is to provide information to people who cannot hear the audio. That will help you know what to sounds to transcribe, and what are not needed. The following are common practices, not requirements.
-
-### Specific for captions
-
-* Captions are one or two rows. ?? character length
-
-* Put a new sentence on a new line.
-
-* If you need to break a sentence into multiple segments, break it at a logical phrase.
-
-### For captions and transcripts
-
-* Identify the speakers as relevant. Often it is best to use the full name the first time and single name throughout &mdash; either first/given or last/family depending on the formality.
-
-* You can include relevant information about the speech. For example:<br>
-	<em>( shouting ):</em><br>
-	I hate this computer!
-
-* Put important non-speech sounds in parentheses, lowercase, italics, with a space before and after. For example:<br>
-	 <em>( computer crashing into bits and parts sliding across the floor )</em>
-
-* When a speaker is off-screen, you can put their speech in italics. For example:<br>
-	<em>Jose: What was that awful noise?</em><br>
-	Zoe: You don't want to know.<br>
-	<em>Jose: Well, I'm coming to find out.</em>
-
-* Only include background music if it's important to understand the content of the video. Use objective descriptions that indicate the mood; avoid subjective words, such as "beautiful." If the words in the music are important, add a musical note to the beginning and end of each caption. Put music information in italics. For example:<br>
-	<em>♪ scary music, JAWS theme ♪</em>
-
-* Do not emphasize a word using all capital letters except to indicate screaming.
-
-#### Be True to the Audio Content
-
-* **Do not change or adapt or add to the text**. Transcribe what is said accurately.
-   * For example, it is usually not appropriate to correct grammar or other mistakes.
-   * Do not censor. For example, if objectionable words are said, include those in the captions. If the audio is edited to obscure a phrase (e.g., "bleeped" audio), reflect that in the captions, e.g., <em> --bleep-- </em>
-   * Do not provide additional clarifying information in the captions. (You can provide some in the transcript as appropriate.)
-
-* Level of detail:
-   * For some content, such as legal depositions, transcribe everything verbatim, including things like "um", "ah", and repeated phrases.
-   * For most web content, it is acceptable to leave out non-substantive text to make the captions easier to process &mdash; while adhering to the tips above. For example, if the speaker says:<br><em><strong>I just got so frustrated</strong> (cough, cough) sorry – uhhh what was I saying?..., oh yea - <strong>I got so frustrated with my computer.</strong></em><br>
-You can caption:<br>
-<em><strong>I just got so frustrated with my computer.</strong></em>
-
-* If there is speech that is not at all relevant, indicate that it has been excluded from the captions. For example:<br>
-	<em>[participants discuss the weather while the presenter reboots his computer]</em>
-
-* If you cannot understand what is said, transcribe:<br>
-[unintelligible]
-
-* [@@ Do not caption the same, or nearly the same, information that is already shown onscreen. https://dcmp.org/learn/225 ]
-
-{% include excol.html type="end" %}
 
 
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
