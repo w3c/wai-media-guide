@@ -36,6 +36,9 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 {% include toc.html type="end" %}
 {:/}
 
+
+@@ edit here
+
 ## Elements of Accessible Video and Audio
 
 <p>To make your video and audio accessible to people with disabilities, provide captions, transcripts,  audio description, and optionally sign language &mdash; based on the content.</p>
