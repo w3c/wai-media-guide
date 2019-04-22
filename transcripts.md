@@ -30,6 +30,7 @@ This page provides guidance on creating transcripts.
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
+{::options toc_levels="2" /}
 {:toc}
 
 {::nomarkdown}
@@ -52,7 +53,7 @@ Interactive transcripts highlight text phrases as they are spoken. Users can sel
 
 <img src="{{ "/content-images/interactive-transcript.png" | relative_url }}" alt="">
 
-### Developing Transcripts
+## Developing Transcripts
 
 **Transcripts and captions include the same text, so one can be used to develop the other.**
 
@@ -60,7 +61,7 @@ Often captions (including of the audio description) are developed first, and the
 
 Whatever tool you use to develop web content, you can use to develop your transcript.
 
-## Example Workflow
+### Example Workflow
 
 This example is for developing a descriptive transcript from:
 * a caption file for the main audio
@@ -86,11 +87,11 @@ In basic transcripts, include all speech and other relevant non-speech sound, su
 
 In descriptive transcripts, also include description of the vidual information.
 
-Add information to make the trascript more useful. For example, headings, links, a summary, and maybe time stamps.
+Add information to make the trascript more useful. For example, headings, links, a summary, and maybe time stamps as described in the Tips below.
 
 {% include excol.html type="start" id="" %}
 
-## Tips for Transcripts
+### Tips
 
 {% include excol.html type="middle" %}
 
@@ -246,6 +247,8 @@ That's the situation for everyone who can't hear.
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+
+Notice that the single lines in the captionfiles have been grouped together in table cells.
 
 <p style="text-align:center"><em>[? detailed instructions &/or video showing slh's process for quickly developing descriptive transcript from the 2 VTT files]</em></p>
 
