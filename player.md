@@ -56,7 +56,7 @@ The following players were designed specifically for accessibility:
 
 ## Support for Separate Audio Files
 
-Some players and plug-ins support multiple audio files, so you can provide a file for the main audio and a separate file for the audio deecription of visual information.
+Some players support multiple audio files, so you can provide a file for the main audio and a separate file for the audio description of visual information.
 
 These players, platforms, and plug-ins support multiple audio files:
 * 3Play Plugin
