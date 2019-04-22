@@ -203,8 +203,27 @@ To learn more about WCAG standards for media, see [Understanding Guideline 1.2: 
 </ul>
 
 ##  Managing Development of Media Alternatives
+
 This section provides guidance to help you decide what to develop in-house and what to outsource.
 
+{::nomarkdown}
+{% include box.html type="start" title="Example Video Workflow" class="" %}
+{:/}
+
+Considerations for each of the steps below are in this web page.
+
+1. Accessibility is adddressed when developing the video content, incuding storyboarding, recording, and producing the video.
+2. An audio described version of the video is developed at the same time as the main video.<br>_Who:_ By the same people doing the main video.
+3. Captions are developed for the main video, for the audio described version, and of the audio description itself.<br>_Who:_ Often whoever produces the video also provides captions.
+4. Descriptive transcripts are developed using the text from the caption files.<br>_Who:_ Often these are developved in-house.
+
+<p>Some organizations do it all in-house, and some outsource it all.</p>
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+<!--
 {::nomarkdown}
 {% include box.html type="start" title="From the Introduction:" class="" %}
 {:/}
@@ -220,6 +239,7 @@ This section provides guidance to help you decide what to develop in-house and w
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+-->
 
 ### The Basics 
 <p>What you need for most videos is:</p>
