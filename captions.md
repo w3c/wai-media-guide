@@ -49,9 +49,9 @@ Most are "closed captions" that can be hidden or shown by people watching the vi
 
 **_Subtitles_** are the spoken audio translated into another language. They are implemented like captions. Subtitles can be only the spoken audio (for people who can hear the audio) or can be a translation of the caption content including non-speech audio information.
 
-**Captions and transcripts include the same text, so one can be used to develop the other.**
-
 For optimum accessibility, provide a separate caption file of the audio description.
+
+**Captions and transcripts include the same text, so one can be used to develop the other.**
 
 ### Scope
 
@@ -59,11 +59,12 @@ This page addresses developing captions for pre-recorded media. Live captions ar
 
 ## Example Workflow
 
+More information on these steps are in this web page.
+
 {::nomarkdown}
 {% include box.html type="start" class="" %}
 {:/}
 
-More information on these steps are in this web page.
 1. Pick a caption tool.
 2. Understand what to include in captions, including the Tips.
 3. Review your captions as the video plays, and edit as needed.
