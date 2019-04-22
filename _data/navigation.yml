@@ -164,16 +164,16 @@
     pages:
       - name: Managing Media & Standards
         url: "/design-develop/media-guide/managing-standards/"
+      - name: Audio and Video Content
+        url: "/design-develop/media-guide/media-content/"
+      - name: Audio Description
+        url: "/design-develop/media-guide/audio-description/"
       - name: Captions
         url: "/design-develop/media-guide/captions/"
       - name: Transcripts
         url: "/design-develop/media-guide/transcripts/"
-      - name: Audio Description
-        url: "/design-develop/media-guide/audio-description/"
       - name: Media Player
         url: "/design-develop/media-guide/player/"
-      - name: Audio and Video Content
-        url: "/design-develop/media-guide/media-content/"
       - name: ?User Experience
         url: "/design-develop/media-guide/experience/"        
   - name: Tutorials
