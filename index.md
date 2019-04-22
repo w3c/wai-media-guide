@@ -52,9 +52,7 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 <p>Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content.</p>
 <p><strong><em>Descriptive transcripts</em></strong> also include visual information needed to understand the content.</p>
 <img src="{{ "/content-images/braille.jpg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
-<p><em>Who: </em> Descriptive transcripts are required to provide content to people who are both Deaf and blind. They are also used by people who process text information better than audio and video.</p>
-<p>Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. (This is a feature of the media player. It uses the captions file.)</p>
-<img src="{{ "/content-images/interactive-transcript.png" | relative_url }}" alt="">
+<p><em>Who: </em> Descriptive transcripts are required to provide content to people who are both Deaf and blind.</p>
 
 ### Audio Description
 <p><em>Who: </em> Audio description provides content to people who are blind and others who cannot see the video adequately.</p>
