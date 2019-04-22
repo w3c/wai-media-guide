@@ -68,7 +68,6 @@ This example is for developing a descriptive transcript from:
 {% include box.html type="end" %}
 {:/}
 
-
 ## What to Include in Transcripts
 
 Basic transcripts include all speech and other relevant non-speech sound, such as this-good-example.
