@@ -47,9 +47,9 @@ _What:_ Captions are a text version of the speech and non-speech audio informati
 
 Most are "closed captions" that can be hidden or shown by people watching the video. They can be "open captions" that are always displayed and cannot be turned off.
 
-Caption files are used by media players to provide interactive transcripts. Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. (Some players provide interactive transcript funcationality, and some do not.) <img src="{{ "/content-images/interactive-transcript.png" | relative_url }}" alt="">
+Caption files are used by media players to provide _interactive transcripts_. Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. (Some players provide interactive transcript funcationality, and some do not.) <img src="{{ "/content-images/interactive-transcript.png" | relative_url }}" alt="">
 
-**_Subtitles_** are the spoken audio translated into another language. They are implemented like captions. Subtitles can be only the spoken audio (for people who can hear the audio) or can be a translation of the caption content including non-speech audio information.
+_Subtitles_ are the spoken audio translated into another language. They are implemented like captions. Subtitles can be only the spoken audio (for people who can hear the audio) or can be a translation of the caption content including non-speech audio information.
 
 For optimum accessibility, provide a separate caption file of the audio description.
 
@@ -79,7 +79,9 @@ More information on these steps are in this web page.
 
 ## Caption Tools
 
-Most people who develop captions use software or services to help. There are several free captioning software programs and online services available. Some will create automatic captions that you can use as a starting point. Note that you will need to edit automatic captions for accuracy.
+Most people use software or services to help develop captions. There are several free captioning software programs and online services available.
+
+Some tools create automatic captions that you can use as a starting point. You will need to edit automatic captions for accuracy.
 
 <p style="text-align:center">[image of captioning software or service, probably YouTube since that's one many novies will use]</p>
 
@@ -151,7 +153,7 @@ You can caption:<br>
 
 {% include excol.html type="end" %}
 
-### Caption File Format
+## Caption File Format
 
 The most common format for captions on the web is [WebVTT](https://www.w3.org/TR/webvtt/): The Web Video Text Tracks Format.
 
