@@ -1,6 +1,6 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
-title: "Embedding a Media Player"   # Do not translate "title:". Do translate the text after "title:".
+title: "Accessible Media Players"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Media Player" # A short title that is used in the navigation
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-04-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -19,7 +19,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page helps you embed a media player with accessibility features, including captions and audio description.
+This page provides information about media players and accessibility.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -36,6 +36,37 @@ This page helps you embed a media player with accessibility features, including 
 {% include toc.html type="end" %}
 {:/}
 
-… [maybe a page here, or as a Tutorial] …
+## Status
+
+This page has the infrmation that we know as of May 2019.
+
+_(To submit updated information, see the "Help improve this page" box below.)_
+
+## Players for Accessibility
+
+The following players were designed specifically for accessibility:
+
+* Able Player is an open-source cross-browser HTML5 media player. @@
+
+* OzPlayer. @@ 
+
+## HTML 5 as is
+
+@@
+
+## Support for Separate Audio Files
+
+Some players and plug-ins support multiple audio files, so you can provide a file for the main audio and a separate file for the audio deecription of visual information.
+
+These players, platforms, and plug-ins support multiple audio files:
+* 3Play Plugin
+* Brightcove
+* JW Player, with plug-in (works in IE11 & Safari, other browsers require Flash)
+* Kaltura, with plug-in
+* Oz Player
+* VideoJS, with Plug-in (works in IE11 & Safari, other browsers require Flash)
+* ?Vidyard
+
+Able Player facilitates showing a separate video with audio description.
 
 <p style="text-align:center"><strong>[ Next > ]</strong></p>
