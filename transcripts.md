@@ -52,6 +52,14 @@ Interactive transcripts highlight text phrases as they are spoken. Users can sel
 
 <img src="{{ "/content-images/interactive-transcript.png" | relative_url }}" alt="">
 
+### Developing Transcripts
+
+**Transcripts and captions include the same text, so one can be used to develop the other.**
+
+Often captions (including of the audio description) are developed first, and then transcripts are created from that text. Most caption-editing tools provide an option to export a plain text transcript.
+
+Whatever tool you use to develop web content, you can use to develop your transcript.
+
 ## Example Workflow
 
 This example is for developing a descriptive transcript from:
@@ -80,6 +88,52 @@ In descriptive transcripts, also include description of the vidual information.
 
 Add information to make the trascript more useful. For example, headings, links, a summary, and maybe time stamps.
 
+{% include excol.html type="start" id="" %}
+
+## Tips for Transcripts
+
+{% include excol.html type="middle" %}
+
+Keep in mind that the main purpose of a descriptive transcript is to provide the information to people who cannot get it from the video. That will help you know what to include and how to format it. The following are optional, not requirements.
+
+Transcripts generally include all of the audio information from the captions, and additional information. See the guidance under [For captions and transcripts[]@@). _{can we programmatically put one source here & there so users don't have to go elsewhere to get it, and we only have to update it in one places?}_
+
+* **If you're starting with a captions file, edit the line breaks.** Put the information in logical paragraphs, lists, and sections. For example, in the example excerpts above, 6 lines of captions are grouped into 2 paragraghs of text (in table cells).
+
+* **Add navigation and clarifications:**
+   * Add headings and links where it will make the transcript more usable. This also helps with SEO. For example:
+      * [Example with added links in short podcast transcript](http://www.w3.org/WAI/highlights/200606wcag2interview.html)
+   * It is generally acceptable to add clarifying information, as long as it is clear that it is not part of the actual audio, e.g., words added to a paragraph put in [brackets], or separate sections with headings "Introduction", "Transcript", "Resources".
+      * [Example with added headings in long presentation transcript](http://www.w3.org/WAI/highlights/200706wcag2pres)
+
+* **Indicate the speakers for optimum usability** For example:
+   * When there are multiple speakers, use hanging indents to make it easy to skim for a particular speaker.
+   * When the focus should be on the interviewee's answers and not the interviewer, you could format the interviewer's questions in smaller, lighter text so the interviewee's answers stand out more clearly.
+
+* **Include timestamps only when useful.** In many cases, including timestamps would be unnecessary clutter. If you do include them, they usually don't need to be as granular as the captions, and do not need to include end times.
+
+{::nomarkdown}
+{% include box.html type="start" title="Example caption file with timestamps (excerpt)" class="" %}
+{:/}
+
+…
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
+{% include box.html type="start" title="Example transcript of the same information (excerpt)" class="" %}
+{:/}
+
+… grouped more with single start time…
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{% include excol.html type="end" %}
+
 ## How to Format Transcripts
 
 There is not a set format for transcripts. You can choose how to present them based on your content. Most transcripts on the web are provided in HTML.
@@ -106,13 +160,7 @@ Transcripts can be:
 
 Make sure it is easy for users to know that a transcript is available and to get to the trasncript.
 
-## Developing Transcripts
-
-**Transcripts and captions include the same text, so one can be used to develop the other.**
-
-Often captions (including of the audio description) are developed first, and then transcripts are created from that text. Most caption-editing tools provide an option to export a plain text transcript.
-
-Whatever tool you use to develop web content, you can use to develop your transcript.
+## Example Descriptivbe Transcript from Caption Files
 
 Below is an example of using caption files to create a descriptive transcript.
 
@@ -200,52 +248,6 @@ That's the situation for everyone who can't hear.
 {:/}
 
 <p style="text-align:center"><em>[? detailed instructions &/or video showing slh's process for quickly developing descriptive transcript from the 2 VTT files]</em></p>
-
-{% include excol.html type="start" id="" %}
-
-## Tips for Transcripts
-
-{% include excol.html type="middle" %}
-
-Keep in mind that the main purpose of a descriptive transcript is to provide the information to people who cannot get it from the video. That will help you know what to include and how to format it. The following are optional, not requirements.
-
-Transcripts generally include all of the audio information from the captions, and additional information. See the guidance under [For captions and transcripts[]@@). _{can we programmatically put one source here & there so users don't have to go elsewhere to get it, and we only have to update it in one places?}_
-
-* **If you're starting with a captions file, edit the line breaks.** Put the information in logical paragraphs, lists, and sections. For example, in the example excerpts above, 6 lines of captions are grouped into 2 paragraghs of text (in table cells).
-
-* **Add navigation and clarifications:**
-   * Add headings and links where it will make the transcript more usable. This also helps with SEO. For example:
-      * [Example with added links in short podcast transcript](http://www.w3.org/WAI/highlights/200606wcag2interview.html)
-   * It is generally acceptable to add clarifying information, as long as it is clear that it is not part of the actual audio, e.g., words added to a paragraph put in [brackets], or separate sections with headings "Introduction", "Transcript", "Resources".
-      * [Example with added headings in long presentation transcript](http://www.w3.org/WAI/highlights/200706wcag2pres)
-
-* **Indicate the speakers for optimum usability** For example:
-   * When there are multiple speakers, use hanging indents to make it easy to skim for a particular speaker.
-   * When the focus should be on the interviewee's answers and not the interviewer, you could format the interviewer's questions in smaller, lighter text so the interviewee's answers stand out more clearly.
-
-* **Include timestamps only when useful.** In many cases, including timestamps would be unnecessary clutter. If you do include them, they usually don't need to be as granular as the captions, and do not need to include end times.
-
-{::nomarkdown}
-{% include box.html type="start" title="Example caption file with timestamps (excerpt)" class="" %}
-{:/}
-
-…
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-{::nomarkdown}
-{% include box.html type="start" title="Example transcript of the same information (excerpt)" class="" %}
-{:/}
-
-… grouped more with single start time…
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-{% include excol.html type="end" %}
 
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
 
