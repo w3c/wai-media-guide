@@ -58,7 +58,7 @@ Plan to either:
 
 See more specific information in [Creating Audio Description of Visual Information](@@).
 
-## Audio and Video
+## Video and Audio-Only
 
 ### Low Background Audio
 
@@ -70,7 +70,9 @@ Specifically, make the background sounds at least 20 decibels lower than the for
 
 ### Provide redundancy for sensory charachteristics
 
-Make your information work for people who cannot see and/or cannot hear. For example, instead of saying:
+Make your information work for people who cannot see and/or cannot hear.
+
+For example, instead of saying:
 <blockquote>Attach this to the green end.</blockquote>
 Say:
 <blockquote>Attach the small ring to the green end, which is the larger end.</blockquote>
@@ -78,6 +80,6 @@ Say:
 <span style="color:#585858; font-style:italic;">More information that primarily addresses web pages, yet is relevant to audio and video, is in [Understanding Success Criterion 1.3.3: Sensory Characteristics](https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html).</span>
 
 <hr>
-@@ other ???
+@@ others ?
 
 <p style="text-align:center"><strong>[ < Previous ]</strong></p>
