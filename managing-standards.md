@@ -20,9 +20,9 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {:/}
 
 This page helps you manage accessible media development. It:
-* shows the Web Content Accessibility Guidelines (<a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG</a>) standards for video and audio (&quot;media&quot;)
 * helps you figure out if your specific video or audio needs captions, audio description, a basic transcript, or a descriptive transcript
-* includes guidance to help you decide what to develop in-house and what to outsource
+* lists the skills and tools needed to make media accessible, and helps you decide what to develop in-house and what to outsource
+* shows the Web Content Accessibility Guidelines (<a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG</a>) standards for video and audio (&quot;media&quot;)
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -42,7 +42,151 @@ This page helps you manage accessible media development. It:
 
 _For descriptions of captions, transcripts, audio description, sign language and other introductory information, please see the previous page: [Making Video and Audio Accessible - Introduction](http://@@)._
 
-**Note: If you don't want to get wrapped up in the standards yet, you can jump down to the short section to [figure out what my video or audio needs](#tree).**
+## What Does My Video/Audio Need to be Accessible?
+
+<p>This section describes the optimum for pre-recorded media to meet users' needs.</p>
+
+### Providing a Descriptive Transcript for Your Videos
+<p>Descriptive transcripts are not required to meet WCAG Level AA. However, they:</p>
+<ul>
+  <li>meet a wide range of accessibility needs, and are needed in order for videos to be accessible to people who are &quot;Deaf-blind&quot;</li>
+  <li>provide <a href="@@#benefits">additional benefits</a> for users <em>without</em> disabilities, and for your organization (for example, <abbr title="search engine optimization"> SEO</abbr>)</li>
+  <li><strong>are easy and inexpensive to develop</strong> using captions and audio description that you already have to meet Level AA</li>
+</ul>
+
+### Deciding How to Meet User Needs
+
+<p>The wording below helps you think about what users need in order to understand the information that you are presenting in the video or audio. We've included &quot;who are Deaf&quot; and &quot;who are blind&quot; to help you understand what to provide. However, keep in mind that many people who <em>can</em> see and hear will also benefit from these, as described on the Introduction page in <a href="@@#@@">Additional Benefits</a>.</p>
+
+<div id="tree" style="background:#D9EDF7; border: solid 1px #999; padding: 7px;">
+
+<h4 style="font-weight:bold; color:#000;">What does my video need to be accessible?</h4>
+<ul>
+  <li><strong>Is there speech or other audio</strong> that is needed to understand the content?
+    <ul>
+      <li> If yes,
+        <ul>
+          <li><strong>[_] Captions</strong> that provide the information to people who are Deaf or hard of hearing and want to watch the video. (<a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded">A 1.2.2</a>)</li>
+          <li><strong>[_] Transcript of audio information </strong> that provides the information to people who don't want to watch the video. (<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a>)<br><em>(This transcript is the same text from the captions file, in a different format.)</em></li>
+        </ul>
+      </li>
+      <li>If no, inform users.</li>
+    </ul>
+  </li>
+  <li><strong>Is there visual information</strong> that is needed to understand the content?
+    <ul>
+      <li>If yes,
+        <ul>
+          <li><strong>[_] Audio description</strong> that provides the information to people who are blind and want to listen to the video. (<a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded">AA 1.2.5</a>)</li>
+          <li><strong>[_] Descriptive transcript</strong> that provides the information to people who are blind and Deaf (&quot;Deaf-blind&quot;). (<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a>)<br><em>(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)</em></li>
+        </ul>
+      </li>
+      <li>If no, inform users.</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 style="font-weight:bold; color:#000;">What does my audio-only (e.g., podcast) need to be accessible?</h4>
+<ul>
+  <li><strong>[_] Captions</strong> that provide the information to people who are hard of hearing and want to listen the audio. (<a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded">A 1.2.2</a>)</li>
+  <li><strong>[_] Transcript of audio information </strong> that provides the information to people who blind and Deaf (&quot;Deaf-blind&quot;), and people who don't want to listen to the audio. (<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a>)<br><em>(This transcript is the same text from the captions file, in a different format.)</em></li>
+</ul>
+
+</div>
+
+### Informing Users When None Needed
+<p><em>[this section maybe better in "putting it all together" page?]</em></p>
+<p>If your media does not need captions (because there is no substantive audio content) or does not need audio description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it. For example:</p>
+
+{::nomarkdown}
+{% include box.html type="start" class="" %}
+{:/}
+
+Captions not needed: The only sound with this video is background music. There is no speaking.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
+{% include box.html type="start" class="" %}
+{:/}
+
+Audio description not needed: This video does not include audio description because the visuals only support what is spoken; the visuals do not provide additional information.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+## Managing Development of Media Alternatives
+
+<img src="{{ "/content-images/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+
+{::nomarkdown}
+{% include box.html type="start" title="Example Video Workflow" class="" %}
+{:/}
+
+1. **Video content** accessibility is addressed when the video is planned and produced.<br>_Who:_ Script writers, videographers, producers, and others.
+2. **An audio described version** of the video is developed at the same time as the main video, if needed.<br>_Who:_ By the same people doing the main video.
+3. **Captions** are developed for the main video, for the audio described version, and of the audio description itself.<br>_Who:_ Often whoever produces the video also provides captions.
+4. **A descriptive transcript** is developed using the text from the caption files.<br>_Who:_ Often these are developed in-house.
+
+<p>Some organizations do it all in-house, and some outsource it all.</p>
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+### Content Considerations
+<p>Make sure accessibility is considered when planning and producing your videos and audio.</p>
+<p>More information is in <a href="@@">Creating Video and Audio Content</a>.</p>
+
+### Audio Description Considerations
+<p>When accessibility is considered before videos are produced, it significantly cuts down on cost and effort to develop audio description.</p>
+<p>For some videos, description of the visual information can be seamlessly integrated into the main video <em>without <strong>any</strong> additional cost</em>. For example, instead of the speaker saying:</p>
+<blockquote>As you can see on this chart, sales increased significantly from the first quarter to the second quarter.</blockquote>
+The speaker can say:
+<blockquote>This chart shows that sales increased from 1 million in the first quarter to 1.3 million in the second quarter.</blockquote>
+<p><strong>If you have an existing video</strong> and you want to add audio description, you'll likely need skills and tools to:</p>
+<ul>
+  <li>write it</li>
+  <li>narrate it</li>
+  <li>record it</li>
+  <li>integrate it in new audio or video files</li>
+</ul>
+<p>More information is in <a href="@@">Creating Audio Description of Visual Information</a>.</p>
+
+### Captions Considerations
+
+<p>Live captions are usually done by professional Communication Access Realtime Translation (CART) providers. The rest of this section addresses captions for pre-recorded media.</p>
+
+<p>Creating captions requires typing up audio (&quot;transcribing&quot;) and formatting it in a file with timestamps. It is fairly difficult to transcribe an audio file, and takes quite a bit of time for people who don't have the software and skill for it. The file format for captions are simple, yet it's tedious to add timestamps, especially without software or service for developing caption files. Good captioning requires knowledge of which non-speech audio information should be included in the captions.</p>
+<p>Even correcting an automatic caption files takes quite a bit of time for people who don't do it regularly.</p>
+<p>However, people who have the software, skills, and experience in developing captions, can develop them much faster.</p>
+<p>For these reasons, many organizations choose to outsource their captions.</p>
+<p>More information is in <a href="@@">Creating Captions</a>.</p>
+
+#### **Automatic Captions are Not Sufficient**
+
+Automatically-generated captions do not meet user needs or accessibility requirements, unless they are confirmed to be fully accurate. Usually they need significant editing. 
+
+There are tools that use speech recognition technology to turn a soundtrack into a timed caption file. For example, many videos uploaded to YouTube have automatic captions. [[YouTube info](https://support.google.com/youtube/answer/3038280)] However, often the automatic caption text does not match the spoken audio — and in ways that change the meaning (or are embarrassing). For example, missing just one word such as "not" can make the captions contradict the actual audio content.
+
+<p style="text-align:center; text-size:85%">[<em>optionally as an illustration for visual interest (with text as true text):</em><br>
+  &quot;Spoken text: 
+  Broil on high for 4 to 5 minutes. You should not preheat the oven.&quot;<br>
+  &quot;Automatic caption: Broil on high for 45 minutes. You should know to preheat the oven.&quot;<br>
+  <em>optional illustration/picture:  fire coming from oven, or totally burned food on a broiler pan ;-)</em>]</p>
+
+Automatic captions can be used as a starting point for developing accurate captions and transcripts.
+
+### Transcript Considerations
+<p>Transcripts are easy to develop once you have captions for the main video and of the audio description. In-house staff who know how to create basic web content can develop the descriptive transcript.</p>
+<p>More information is in <a href="@@">Creating Transcripts</a>.</p>
+
+### Media Player Considerations
+<p>Setting up accessible media requires HTML 5 skills.</p>
+<p>More information is in <a href="@@">Accessible Media Players</a>.</p>
 
 ## WCAG Media Standards
 
@@ -127,135 +271,5 @@ Accessibility requirements for video and audio are different based on if they ar
 
 To learn more about WCAG standards for media, see [Understanding Guideline 1.2: Time-based Media  {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/Understanding/time-based-media).
 
-## What Does My Video/Audio Need?
-
-<p>This section describes the optimum for pre-recorded media to meet users' needs.</p>
-
-### Providing a Descriptive Transcript for Your Videos
-<p>Descriptive transcripts are not required to meet WCAG Level AA. However, they:</p>
-<ul>
-  <li>meet a wide range of accessibility needs, and are needed in order for videos to be accessible to people who are &quot;Deaf-blind&quot;</li>
-  <li>provide <a href="@@#benefits">additional benefits</a> for users <em>without</em> disabilities, and for your organization (for example, <abbr title="search engine optimization"> SEO</abbr>)</li>
-  <li><strong>are easy and inexpensive to develop</strong> using captions and audio description that you already have to meet Level AA</li>
-</ul>
-
-### Deciding How to Meet User Needs
-
-<p>The wording below helps you think about what users need in order to understand the information that you are presenting in the video or audio, including users who cannot hear it or see it. We've included &quot;who are Deaf&quot; and &quot;who are blind&quot; to help you understand what to provide. However, keep in mind that many people who <em>can</em> see and hear will also benefit from these, as described in <a href="@@#@@">Additional Benefits</a>.</p>
-
-<div id="tree" style="background:#D9EDF7; border: solid 1px #999; padding: 5px;">
-
-<h4 style="font-weight:bold; color:#000;">What does my video need to be accessible?</h4>
-<ul>
-  <li><strong>Is there speech or other audio</strong> that is needed to understand the content?
-    <ul>
-      <li> If yes,
-        <ul>
-          <li><strong>[_] Captions</strong> that provide the information to people who are Deaf or hard of hearing and want to watch the video. (<a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded">A 1.2.2</a>)</li>
-          <li><strong>[_] Transcript of audio information </strong> that provides the information to people who don't want to watch the video. (<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a>)<br><em>(This transcript is the same text from the captions file, in a different format.)</em></li>
-        </ul>
-      </li>
-      <li>If no, inform users.</li>
-    </ul>
-  </li>
-  <li><strong>Is there visual information</strong> that is needed to understand the content?
-    <ul>
-      <li>If yes,
-        <ul>
-          <li><strong>[_] Audio description</strong> that provides the information to people who are blind and want to listen to the video. (<a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded">AA 1.2.5</a>)</li>
-          <li><strong>[_] Descriptive transcript</strong> that provides the information to people who are blind and Deaf (&quot;Deaf-blind&quot;). (<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a>)<br><em>(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)</em></li>
-        </ul>
-      </li>
-      <li>If no, inform users.</li>
-    </ul>
-  </li>
-</ul>
-
-<h4 style="font-weight:bold; color:#000;">What does my audio-only (e.g., podcast) need to be accessible?</h4>
-<ul>
-  <li><strong>[_] Captions</strong> that provide the information to people who are hard of hearing and want to listen the audio. (<a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded">A 1.2.2</a>)</li>
-  <li><strong>[_] Transcript of audio information </strong> that provides the information to people who blind and Deaf (&quot;Deaf-blind&quot;), and people who don't want to listen to the audio. (<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-text-doc">AAA 1.2.8</a>)<br><em>(This transcript is the same text from the captions file, in a different format.)</em></li>
-</ul>
-
-</div>
-
-### Informing Users When None Needed
-<p> If your media does not need captions (because there is no substantive audio content) or does not need audio description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it. For example:</p>
-<ul>
-  <li>Captions not needed: The only sound with this video is background music. There is no speaking.</li>
-  <li>Audio description not needed: This video does not include audio description because the visuals only support what is spoken; the visuals do not provide additional information.</li>
-</ul>
-
-##  Managing Development of Media Alternatives
-
-<img src="{{ "/content-images/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
-
-This section provides information to help you decide how to get your captions, transcripts, and audio description developed.
-
-{::nomarkdown}
-{% include box.html type="start" title="Example Video Workflow" class="" %}
-{:/}
-
-1. **Video content** accessibility is addressed when the video is planned and produced.<br>_Who:_ Script writers, videographers, producers, and others.
-2. **An audio described version** of the video is developed at the same time as the main video, if needed.<br>_Who:_ By the same people doing the main video.
-3. **Captions** are developed for the main video, for the audio described version, and of the audio description itself.<br>_Who:_ Often whoever produces the video also provides captions.
-4. **A descriptive transcript** is developed using the text from the caption files.<br>_Who:_ Often these are developved in-house.
-
-<p>Some organizations do it all in-house, and some outsource it all.</p>
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-### Captions Considerations
-
-<p>Live captions are usually done by professional Communication Access Realtime Translation (CART) providers. The rest of this section addresses captions for pre-recorded media.</p>
-
-<p>Creating captions requires typing up audio (&quot;transcribing&quot;) and formatting it in a file with timestamps. It is fairly difficult to transcribe an audio file, and takes quite a bit of time for people who don't have the software and skill for it. The file formast for captions are simple, yet it's tedious to add timestamps, especially without software or service for developing caption files. Good captioning requires knowledge of which non-speech audio information should be included in the captions.</p>
-<p>Even correcting an automatic caption files takes quite a bit of time for people who don't do it regularly.</p>
-<p>However, people who have the software, skills, and experience in developing captions, can develop them much faster.</p>
-<p>For these reasons, many organizations choose to outsource their captions.</p>
-<p>More information is in <a href="@@">Creating Captions</a>.</p>
-
-#### Automatic Captions are Not Sufficient
-
-Automatically-generated captions do not meet user needs or accessibility requirements, unless they are confirmed to be fully accurate. Usually they need significant editing. 
-
-There are tools that use speech recognition technology to turn a soundtrack into a timed caption file. For example, many videos uploaded to YouTube have automatic captions. [[YouTube info](https://support.google.com/youtube/answer/3038280)] However, often the automatic caption text does not match the spoken audio — and in ways that change the meaning (or are embarrassing). For example, missing just one word such as "not" can make the captions contradict the actual audio content.
-
-<p style="text-align:center; text-size:85%">[<em>optionally as an illustration for visual interest (with text as true text):</em><br>
-  &quot;Spoken text: 
-  Broil on high for 4 to 5 minutes. You should not preheat the oven.&quot;<br>
-  &quot;Automatic caption: Broil on high for 45 minutes. You should know to preheat the oven.&quot;<br>
-  <em>optional illustration/picture:  fire coming from oven, or totally burned food on a broiler pan ;-)</em>]</p>
-
-Automatic captions can be used as a starting point for developing accurate captions and transcripts.
-
-### Audio Description Considerations
-<p>When accessibility is considered before videos are produced, it significantly cuts down on cost and effort to develop audio description.</p>
-<p>For some videos, description of the visual information can be seamlessly integrated into the main video <em>without <strong>any</strong> additional cost</em>. For example, instead of the speaker saying:</p>
-<blockquote>As you can see on this chart, sales increased significantly from the first quarter to the second quarter.</blockquote>
-The speaker can say:
-<blockquote>This chart shows that sales increased from 1 million in the first quarter to 1.3 million in the second quarter.</blockquote>
-<p><strong>If you have an existing video</strong> and you want to add audio description, you'll likely need skills and tools to:</p>
-<ul>
-  <li>write it</li>
-  <li>narrate it</li>
-  <li>record it</li>
-  <li>integrate it in new audio or video files</li>
-</ul>
-<p>More information is in <a href="@@">Creating Audio Description of Visual Information</a>.</p>
-
-### Transcript Considerations
-<p>Transcripts are easy to develop once you have captions for the main video and of the audio description. In-house staff who know how to create basic web content can develop the descriptive transcript.</p>
-<p>More information is in <a href="@@">Creating Transcripts</a>.</p>
-
-### Media Player Considerations
-<p>Setting up accessible media requires HTML 5 skills.</p>
-<p>More information is in <a href="@@">Accessible Media Players</a>.</p>
-
-### Content Considerations
-<p>Make sure accessibility is considered when planning and producing your vidoes and audio.</p>
-<p>More information is in <a href="@@">Creating Video and Audtion Content</a>.</p>
 
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
