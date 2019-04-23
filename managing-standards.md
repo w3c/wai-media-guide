@@ -204,15 +204,13 @@ To learn more about WCAG standards for media, see [Understanding Guideline 1.2: 
 
 ##  Managing Development of Media Alternatives
 
-This section provides guidance to help you decide what to develop in-house and what to outsource.
+The sections below provide additional information to help you decide how to get your captions, transcripts, and audio description developed.
 
 {::nomarkdown}
 {% include box.html type="start" title="Example Video Workflow" class="" %}
 {:/}
 
-Considerations for each of the steps below are in this web page.
-
-1. Accessibility is adddressed when developing the video content, incuding storyboarding, recording, and producing the video.
+1. When the video is planned and produced, accessibility of the content is addressed.<br>_Who:_ Script writers, videographers, producers, and others.
 2. An audio described version of the video is developed at the same time as the main video.<br>_Who:_ By the same people doing the main video.
 3. Captions are developed for the main video, for the audio described version, and of the audio description itself.<br>_Who:_ Often whoever produces the video also provides captions.
 4. Descriptive transcripts are developed using the text from the caption files.<br>_Who:_ Often these are developved in-house.
@@ -241,6 +239,7 @@ Considerations for each of the steps below are in this web page.
 {:/}
 -->
 
+<!--
 ### The Basics 
 <p>What you need for most videos is:</p>
 <ol>
@@ -258,9 +257,9 @@ Considerations for each of the steps below are in this web page.
   </li>
 </ol>
 
-<p><s>Whether  you develop captions, transcripts, and audio description in-house or  outsource them depends on several factors, including: ...</s></p>
+<p>Whether  you develop captions, transcripts, and audio description in-house or  outsource them depends on several factors, including: ...</p>
 
-<p>The sections below provide additional information to help you decide how to get your captions, transcripts, and audio description developed.</p>
+-->
 
 ### Captions Considerations
 
