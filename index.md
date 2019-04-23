@@ -76,7 +76,7 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 
 <img src="{{ "/content-images/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-<p>One approach to developing media alternatives is:</p>
+<p>One approach to developing alternatives for videos is:</p>
 <ol>
   <li>An audio described version is developed by the same people, at the same time as the main video.</li>
   <li>Captions are outsourced. Often whoever produces the video also provides captions.</li>
@@ -84,7 +84,7 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 </ol>
 <p>For help figuring out how to get your media alternatives developed, see <a href="@@">Managing Development of Media Alternatives</a>.</p>
 
-It is important that captions, transcripts, and audio description are accurate and high-quality. For example, they don't have spelling errors, they have appropriate punctuation, and they include the right information. **Automatically-generated captions usually do not meet user needs or accessibility requirements.** They can be a useful starting point, yet often need significant editing. For examples, see [@@](@@).
+It is important that captions, transcripts, and audio description are accurate and high-quality. For example, they don't have spelling errors, they have appropriate punctuation, and they include the right information. **Automatically-generated captions usually do not meet user needs or accessibility requirements.** They can be a useful starting point, yet often need significant editing. See the example in [Automatic Captions are Not Sufficient](@@).
 
 ## Creating Media Alternatives
 
