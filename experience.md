@@ -44,10 +44,11 @@ The previous [Playing Accessible Media](https://w3c.github.io/wai-media-intro/ac
 
 Maybe include:
 
-* Transcripts... Make sure it is easy for users to know that a transcript is available and to get to the transcript.
+* Transcripts... Make sure it is easy for users to know that a transcript is available and to get to the transcript. [is already in Transcripts page]
 * Informing Users When None Needed &mdash; If your media does not need captions (because there is no substantive audio content) or does not need audio description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it. For example:
    * Captions not needed: The only sound with this video is background music. There is no speaking.
    * Audio description not needed: This video does not include audio description because the visuals only support what is spoken; the visuals do not provide additional information.
+   [is already in Managing page]
 
 * content such as some in [Playing Accessible Media](https://w3c.github.io/wai-media-intro/accessible-media/playing/)]
 
