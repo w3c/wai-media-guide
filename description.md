@@ -6,8 +6,8 @@ lang: en   # Change "en" to the translated language shortcode from https://www.i
 last_updated: 2019-04-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translator: "@@"   # Replace @@ with name or names separated with a comma
 # contributors: "@@"   # Replace @@ with name(s) or delete this line
-permalink: /design-develop/media-guide/audio-description/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
-ref: /design-develop/media-guide/audio-description/   # Do not change this
+permalink: /design-develop/media-guide/description/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
+ref: /design-develop/media-guide/description/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
@@ -101,7 +101,9 @@ First, figure out these issues about your video content and timing:
   </tr>
 </table>
 
-* **Space in audio** &mdash; Is there enough space in the main audio for the description? That is, are there sufficient pauses throughout the narration or speaking where the relevant description will fit? For example, if the only description needed is at the beginning of the video where these is a text title and background music, then: Yes, there is enough space. Or if the speaker talks continually without pausing, then: No, there is not enough space for description.
+* **Space in audio** &mdash; Is there enough space in the main audio for the description? That is, are there sufficient pauses throughout the narration or speaking where the relevant description will fit? For example,
+   * If the only description needed is at the beginning of the video where these is a text title and background music, then: Yes, there is enough space.
+   * I the speaker talks continually without pausing, then: No, there is not enough space for description.
 
 * **Media player support** &mdash; Does the media player, platform, or plug-in that you are using provide functionality for a separate audio file? The Accessible Media Player pages lists [Support for Separate Audio Files](@@#support-for-separate-audio-files).
 
