@@ -19,7 +19,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides guidance on creating audioe description for new and existing videos.
+This page provides guidance on creating audio description of visual information for new and existing videos. (It does not apply to audio-only, such as podcasts.)
 
 {::nomarkdown}
 {% include box.html type="end" %}
