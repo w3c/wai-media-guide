@@ -38,6 +38,10 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include toc.html type="end" %}
 {:/}
 
+<span style="background:yellow">These are notes for EOWG to consider...</span>
+
+User Experience info: The previous [Playing Accessible Media](https://w3c.github.io/wai-media-intro/accessible-media/playing/) page included some information about the user experience and different options in different players. Is it important for content creators to know? Do we want to include it in this resource? As a separate page, or bits integrated throughout? Or instead, might it be good to provide as guidance to users in the updated [Better Web Browsing: Tips for Customizing Your Computer[(https://www.w3.org/WAI/users/browsing)?
+
 **Maybe include**
 
 * Transcripts... Make sure it is easy for users to know that a transcript is available and to get to the transcript.
