@@ -233,6 +233,20 @@ This section provides information to help you decide how to get your captions, t
 <p>For these reasons, many organizations choose to outsource their captions.</p>
 <p>More information is in <a href="@@">Creating Captions</a>.</p>
 
+### Automatic Captions are Not Sufficient
+
+Automatically-generated captions do not meet user needs or accessibility requirements, unless they are confirmed to be fully accurate. Usually they need significant editing. 
+
+There are tools that use speech recognition technology to turn a soundtrack into a timed caption file. For example, many videos uploaded to YouTube have automatic captions. [[YouTube info](https://support.google.com/youtube/answer/3038280)] However, often the automatic caption text does not match the spoken audio — and in ways that change the meaning (or are embarrassing). For example, missing just one word such as "not" can make the captions contradict the actual audio content.
+
+<p style="text-align:center; text-size:85%">[<em>optionally as an illustration for visual interest (with text as true text):</em><br>
+  &quot;Spoken text: 
+  Broil on high for 4 to 5 minutes. You should not preheat the oven.&quot;<br>
+  &quot;Automatic caption: Broil on high for 45 minutes. You should know to preheat the oven.&quot;<br>
+  <em>optional illustration/picture:  fire coming from oven, or totally burned food on a broiler pan ;-)</em>]</p>
+
+Automatic captions can be used as a starting point for developing accurate captions and transcripts.
+
 ### Audio Description Considerations
 <p>When accessibility is considered before videos are produced, it significantly cuts down on cost and effort to develop audio description.</p>
 <p>For some videos, description of the visual information can be seamlessly integrated into the main video <em>without <strong>any</strong> additional cost</em>. For example, instead of the speaker saying:</p>
