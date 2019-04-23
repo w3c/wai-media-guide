@@ -54,7 +54,7 @@ _For descriptions of captions, transcripts, audio description, sign language and
   <li><strong>are easy and inexpensive to develop</strong> using captions and audio description that you already have to meet Level AA</li>
 </ul>
 
-### Deciding How to Meet User Needs
+### User Needs and Additonal Benefits
 
 <p>The wording below helps you think about what users need in order to understand the information that you are presenting in the video or audio. We've included &quot;who are Deaf&quot; and &quot;who are blind&quot; to help you understand what to provide. However, keep in mind that many people who <em>can</em> see and hear will also benefit from these, as described on the Introduction page in <a href="@@#@@">Additional Benefits</a>.</p>
 
@@ -94,7 +94,7 @@ _For descriptions of captions, transcripts, audio description, sign language and
 
 </div>
 
-### Informing Users When None Needed
+#### Informing Users When None Needed
 <p><em>[this section maybe better in "putting it all together" page?]</em></p>
 <p>If your media does not need captions (because there is no substantive audio content) or does not need audio description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it. For example:</p>
 
@@ -138,7 +138,7 @@ Audio description not needed: This video does not include audio description beca
 {:/}
 
 ### Content Considerations
-<p>Make sure accessibility is considered when planning and producing your videos and audio.</p>
+<p>Make sure accessibility is considered when planning and producing your videos and audio. @@ more here</p>
 <p>More information is in <a href="@@">Creating Video and Audio Content</a>.</p>
 
 ### Audio Description Considerations
@@ -147,12 +147,12 @@ Audio description not needed: This video does not include audio description beca
 <blockquote>As you can see on this chart, sales increased significantly from the first quarter to the second quarter.</blockquote>
 The speaker can say:
 <blockquote>This chart shows that sales increased from 1 million in the first quarter to 1.3 million in the second quarter.</blockquote>
-<p><strong>If you have an existing video</strong> and you want to add audio description, you'll likely need skills and tools to:</p>
+<p>If you have an existing video and you want to add audio description, you'll likely need skills and tools to:</p>
 <ul>
   <li>write it</li>
   <li>narrate it</li>
   <li>record it</li>
-  <li>integrate it in new audio or video files</li>
+  <li>integrate it in new audio and/or video files</li>
 </ul>
 <p>More information is in <a href="@@">Creating Audio Description of Visual Information</a>.</p>
 
@@ -185,7 +185,7 @@ Automatic captions can be used as a starting point for developing accurate capti
 <p>More information is in <a href="@@">Creating Transcripts</a>.</p>
 
 ### Media Player Considerations
-<p>Setting up accessible media requires HTML 5 skills.</p>
+<p>Setting up an accessible media player requires HTML 5 skills.</p>
 <p>More information is in <a href="@@">Accessible Media Players</a>.</p>
 
 ## WCAG Media Standards
