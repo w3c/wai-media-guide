@@ -204,73 +204,34 @@ To learn more about WCAG standards for media, see [Understanding Guideline 1.2: 
 
 ##  Managing Development of Media Alternatives
 
-The sections below provide additional information to help you decide how to get your captions, transcripts, and audio description developed.
+<img src="{{ "/content-images/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+
+This section provides information to help you decide how to get your captions, transcripts, and audio description developed.
 
 {::nomarkdown}
 {% include box.html type="start" title="Example Video Workflow" class="" %}
 {:/}
 
-1. When the video is planned and produced, accessibility of the content is addressed.<br>_Who:_ Script writers, videographers, producers, and others.
-2. An audio described version of the video is developed at the same time as the main video.<br>_Who:_ By the same people doing the main video.
-3. Captions are developed for the main video, for the audio described version, and of the audio description itself.<br>_Who:_ Often whoever produces the video also provides captions.
-4. Descriptive transcripts are developed using the text from the caption files.<br>_Who:_ Often these are developved in-house.
+1. **Video content** accessibility is addressed when the video is planned and produced.<br>_Who:_ Script writers, videographers, producers, and others.
+2. **An audio described version** of the video is developed at the same time as the main video, if needed.<br>_Who:_ By the same people doing the main video.
+3. **Captions** are developed for the main video, for the audio described version, and of the audio description itself.<br>_Who:_ Often whoever produces the video also provides captions.
+4. **A descriptive transcript** is developed using the text from the caption files.<br>_Who:_ Often these are developved in-house.
 
 <p>Some organizations do it all in-house, and some outsource it all.</p>
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
-
-<!--
-{::nomarkdown}
-{% include box.html type="start" title="From the Introduction:" class="" %}
-{:/}
-
-<p>One approach to developing media alternatives is:</p>
-<ol>
-  <li>An audio described version is developed by the same people, at the same time as the main video.</li>
-  <li>Captions are outsourced, including for the main video, for the audio described version, and of the audio description itself. Often whoever produces the video also provides captions.</li>
-  <li>Descriptive transcripts are developed in-house using the text from the caption files.</li>
-</ol>
-<p>Some organizations do it all in-house, and some outsource it all.</p>
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
--->
-
-<!--
-### The Basics 
-<p>What you need for most videos is:</p>
-<ol>
-  <li><strong>Text version of the audio</strong> (including speech and non-speech) information that users need to understand the content.
-    <ul>
-      <li>Text with time codes in a file format for closed captions. (This is also be used for interactive transcripts.)</li>
-      <li>The same text can be used for the descriptive transcript.</li>
-    </ul>
-  </li>
-  <li><strong>Description of the visual information</strong> that users need  to understand the content.
-    <ul>
-      <li>An audio version for audio description within the video. (@@ or file for screen readers)</li>
-      <li>A  text version for media players that support it and for the descriptive transcript.</li>
-    </ul>
-  </li>
-</ol>
-
-<p>Whether  you develop captions, transcripts, and audio description in-house or  outsource them depends on several factors, including: ...</p>
-
--->
 
 ### Captions Considerations
 
 <p>Live captions are usually done by professional Communication Access Realtime Translation (CART) providers. The rest of this section addresses captions for pre-recorded media.</p>
 
-<p>Creating captions requires typing up audio (&quot;transcribing&quot;) and formatting it in a file with timestamps. It is surprisingly difficult to transcribe an audio file, and takes quite a bit of time for people who don't have the software and skill for it. The file formast for captions are  simple, yet it's tedious to add timestamps, especially without software or service for developing caption files. Good captioning requires knowledge of which non-speech audio information should be included in the captions.</p>
-<p>Even correcting an automatice caption files takes quite a bit of time for people who don't do it regularly.</p>
-<p>However, for people who have the software, skills, and experience in developing captions, they are much easier and faster to develop.</p>
+<p>Creating captions requires typing up audio (&quot;transcribing&quot;) and formatting it in a file with timestamps. It is fairly difficult to transcribe an audio file, and takes quite a bit of time for people who don't have the software and skill for it. The file formast for captions are simple, yet it's tedious to add timestamps, especially without software or service for developing caption files. Good captioning requires knowledge of which non-speech audio information should be included in the captions.</p>
+<p>Even correcting an automatic caption files takes quite a bit of time for people who don't do it regularly.</p>
+<p>However, people who have the software, skills, and experience in developing captions, can develop them much faster.</p>
 <p>For these reasons, many organizations choose to outsource their captions.</p>
 <p>More information is in <a href="@@">Creating Captions</a>.</p>
-
 
 ### Audio Description Considerations
 <p>When accessibility is considered before videos are produced, it significantly cuts down on cost and effort to develop audio description.</p>
@@ -278,21 +239,25 @@ The sections below provide additional information to help you decide how to get 
 <blockquote>As you can see on this chart, sales increased significantly from the first quarter to the second quarter.</blockquote>
 The speaker can say:
 <blockquote>This chart shows that sales increased from 1 million in the first quarter to 1.3 million in the second quarter.</blockquote>
-<p><strong>If you have an existing video</strong> and you want to add audio description, you'll need:</p>
+<p><strong>If you have an existing video</strong> and you want to add audio description, you'll likely need skills and tools to:</p>
 <ul>
-  <li>... skills to write it, speak it, integrate it in new audio and video files...</li>
+  <li>write it</li>
+  <li>narrate it</li>
+  <li>record it</li>
+  <li>integrate it in new audio or video files</li>
 </ul>
 <p>More information is in <a href="@@">Creating Audio Description of Visual Information</a>.</p>
 
 ### Transcript Considerations
-<p>Transcripts are easy to develop once you have captions for the main video and of the  audio description. In-house staff who know how to create basic web content can develop the descriptive transcript.</p>
+<p>Transcripts are easy to develop once you have captions for the main video and of the audio description. In-house staff who know how to create basic web content can develop the descriptive transcript.</p>
 <p>More information is in <a href="@@">Creating Transcripts</a>.</p>
 
 ### Media Player Considerations
-<p>[A little here just to let managers know that a decision will have to be made which player to use and some developer teim &amp; skills needed to make it all work. How for developers  would be in a potential future Implementing Media Tutorial.]</p>
+<p>Setting up accessible media requires HTML 5 skills.</p>
+<p>More information is in <a href="@@">Accessible Media Players</a>.</p>
 
 ### Content Considerations
-<p>Make sure accessibility is considered when storyboarding and producing your vidoes and audio.</p>
+<p>Make sure accessibility is considered when planning and producing your vidoes and audio.</p>
 <p>More information is in <a href="@@">Creating Video and Audtion Content</a>.</p>
 
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
