@@ -36,6 +36,19 @@ This page explains how people with disabilities use accessible video and audio.
 {% include toc.html type="end" %}
 {:/}
 
-… [**maybe** content such as some in [Playing Accessible Media](https://w3c.github.io/wai-media-intro/accessible-media/playing/)] …
+**Maybe include**
+
+* Transcripts... Make sure it is easy for users to know that a transcript is available and to get to the transcript.
+* Informing Users When None Needed &mdash; If your media does not need captions (because there is no substantive audio content) or does not need audio description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it. For example:
+   * Captions not needed: The only sound with this video is background music. There is no speaking.
+   * Audio description not needed: This video does not include audio description because the visuals only support what is spoken; the visuals do not provide additional information.
+
+* content such as some in [Playing Accessible Media](https://w3c.github.io/wai-media-intro/accessible-media/playing/)]
+
+* [2.2.2 Pause, Stop, Hide (Level A)](https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide.html)<br>
+For moving, blinking, scrolling, or auto-updating information, all of the following are true:
+* [1.4.2 Audio Control (Level A)](https://www.w3.org/WAI/WCAG21/Understanding/audio-control.html)<br>
+If any audio on a Web page plays automatically for more than 3 seconds, either a mechanism is available to pause or stop the audio, or a mechanism is available to control audio volume independently from the overall system volume level.
+
 
 <p style="text-align:center"><strong>[ Next > ]</strong></p>
