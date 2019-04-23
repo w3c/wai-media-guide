@@ -37,44 +37,27 @@ This page provides guidance on creating audioe description for new and existing 
 {% include toc.html type="end" %}
 {:/}
 
-{::nomarkdown}
-{% include box.html type="start" title="From the Introduction" class="" %}
-{:/}
+## Introduction
 
-Audio description provides content to people who are blind and others who cannot see the video adequately.
+_Who:_ Audio description provides content to people who are blind and others who cannot see the video adequately.
 
-Audio description describes visual information needed to understand the content. It is usually narration added to the soundtrack.
+_What:_ Audio description describes visual information needed to understand the content. It is usually narration added to the soundtrack.
 
-For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers as the video is planned and created, and you don't need separate audio description.
+When accessibility is considered before videos are produced, it significantly cuts down on cost and effort to develop audio description. For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers as the video is planned and created, and you don't need separate audio description.
 
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
+<p style="text-align:center"><em>[optional image: blind person listening to video]</em></p>
 
-{::nomarkdown}
-{% include box.html type="start" title="From Managing Development" class="" %}
-{:/}
+If you have an existing video and you want to add audio description, you'll likely need: skills to write it, to narrate it, to recrod it, and to integrate it in new audio and video files, as described on this page.
 
-When accessibility is considered before videos are produced, it significantly cuts down on cost and effort to develop audio description.
-
-If you have an existing video and you want to add audio description, you'll need:
-... skills to write it, speak it, integrate it in new audio and video files...
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-## Terminology
+### Terminology
 
 Audio description is called "described video" in some areas, such as Canada.
 
 This page uses "described video" in some places as a shortened form of "a video that includes audio description of the visual information".
 
-## Scope
+### Scope
 
-This page addresses common types of videos designed for the web such as instructional videos, training videos, recordings of presentations, and such.
-
-It does **not** address all the issues around full-feature movies, television shows, and such.
+This page addresses common types of videos designed for the web such as instructional videos, training videos, recordings of presentations, and such. It does **not** address all the issues around full-feature movies, television shows, and such.
 
 ## What Description to Provide for My Video?
 
