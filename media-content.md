@@ -36,21 +36,21 @@ This page addresses accessibility considerations for planning and producing vide
 {% include toc.html type="end" %}
 {:/}
 
-## [Audio & Video] Low Background Audio
+## Video
 
-When the main audio is a person speaking and you have background music, set the levels so people with hearing or cognitive disabilities can easily distinguish the speaking from the background.
-
-Specifically, make the background sounds at least 20 decibels lower than the foreground speech content (with the exception of occasional sounds that last for only one or two seconds).
-
-More information is in [Understanding Success Criterion 1.4.7: Low or No Background Audio](https://www.w3.org/WAI/WCAG21/Understanding/low-or-no-background-audio.html).
-
-## [Video] Avoid Causing Seizures
+### Avoid Causing Seizures
 
 Avoid anything that flashes more than three times in any one second period. 
 
 More information is in [Understanding Success Criterion 2.3.2: Three Flashes](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes.html) and [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold.html)
 
-## [Video] Plan for Audio Description of Visual Information
+## Make overlay text readable
+
+For any text, consider the font family, size, and contrast between the text and background.
+
+More information is in [Understanding Success Criterion 1.4.3: Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) and [Understanding Success Criterion 1.4.6: Contrast (Enhanced)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced).
+
+## Plan for Audio Description of Visual Information
 
 Plan to either:
 * Integrate into the main audio all of the visual information that users need to understand the content.
@@ -58,13 +58,17 @@ Plan to either:
 
 More information is in [Creating Audio Description of Visual Information](@@).
 
-## [Video] Make overlay text readable
+## Audio and Video
 
-For any text, consider the font family, size, and contrast between the text and background.
+### Low Background Audio
 
-More information is in [Understanding Success Criterion 1.4.3: Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) and [Understanding Success Criterion 1.4.6: Contrast (Enhanced)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced).
+When the main audio is a person speaking and you have background music, set the levels so people with hearing or cognitive disabilities can easily distinguish the speaking from the background.
 
-## [Audio & Video] Provide redundancy for sensory charachteristics
+Specifically, make the background sounds at least 20 decibels lower than the foreground speech content (with the exception of occasional sounds that last for only one or two seconds).
+
+More information is in [Understanding Success Criterion 1.4.7: Low or No Background Audio](https://www.w3.org/WAI/WCAG21/Understanding/low-or-no-background-audio.html).
+
+## Provide redundancy for sensory charachteristics
 
 Make your information work for people who cannot see and/or cannot hear. For example, instead of saying:
 <blockquote>Attach this to the green end.</blockquote>
@@ -73,18 +77,8 @@ Say:
 
 More information that primarily addresses web pages, yet is relevant to audio and video, is in [Understanding Success Criterion 1.3.3: Sensory Characteristics](https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html).
 
-## other ???
-
-## Learn more from Understanding WCAG 
-
-* ? [2.2.2 Pause, Stop, Hide (Level A)](https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide.html)<br>
-For moving, blinking, scrolling, or auto-updating information, all of the following are true:
-   * …
-
-* ? [1.4.2 Audio Control (Level A)](https://www.w3.org/WAI/WCAG21/Understanding/audio-control.html)<br>
-If any audio on a Web page plays automatically for more than 3 seconds, either a mechanism is available to pause or stop the audio, or a mechanism is available to control audio volume independently from the overall system volume level.
-
-
+<hr>
+@@ other ???
 
 <p style="text-align:center"><strong>[ < Previous ]</strong></p>
 
