@@ -42,13 +42,13 @@ This page addresses accessibility considerations for planning and producing vide
 
 Avoid anything that flashes more than three times in any one second period. 
 
-<span style="color:#585858"More information is in [Understanding Success Criterion 2.3.2: Three Flashes](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes.html) and [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold.html)</span>
+<span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 2.3.2: Three Flashes](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes.html) and [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold.html)</span>
 
 ### Make overlay text readable
 
 For any text, consider the font family, size, and contrast between the text and background.
 
-<span style="color:#585858"More information is in [Understanding Success Criterion 1.4.3: Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) and [Understanding Success Criterion 1.4.6: Contrast (Enhanced)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced).</span>
+<span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 1.4.3: Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) and [Understanding Success Criterion 1.4.6: Contrast (Enhanced)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced).</span>
 
 ### Plan for Audio Description of Visual Information
 
@@ -56,7 +56,7 @@ Plan to either:
 * Integrate into the main audio all of the visual information that users need to understand the content.
 * For scenes that need description of the visual information, record extra time.
 
-<span style="color:#585858">More information is in [Creating Audio Description of Visual Information](@@).</span>
+See more specific information in [Creating Audio Description of Visual Information](@@).
 
 ## Audio and Video
 
@@ -66,7 +66,7 @@ When the main audio is a person speaking and you have background music, set the 
 
 Specifically, make the background sounds at least 20 decibels lower than the foreground speech content (with the exception of occasional sounds that last for only one or two seconds).
 
-<span style="color:#585858"More information is in [Understanding Success Criterion 1.4.7: Low or No Background Audio](https://www.w3.org/WAI/WCAG21/Understanding/low-or-no-background-audio.html).</span>
+<span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 1.4.7: Low or No Background Audio](https://www.w3.org/WAI/WCAG21/Understanding/low-or-no-background-audio.html).</span>
 
 ### Provide redundancy for sensory charachteristics
 
@@ -75,10 +75,9 @@ Make your information work for people who cannot see and/or cannot hear. For exa
 Say:
 <blockquote>Attach the small ring to the green end, which is the larger end.</blockquote>
 
-<span style="color:#585858"More information that primarily addresses web pages, yet is relevant to audio and video, is in [Understanding Success Criterion 1.3.3: Sensory Characteristics](https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html).</span>
+<span style="color:#585858; font-style:italic;">More information that primarily addresses web pages, yet is relevant to audio and video, is in [Understanding Success Criterion 1.3.3: Sensory Characteristics](https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html).</span>
 
 <hr>
 @@ other ???
 
 <p style="text-align:center"><strong>[ < Previous ]</strong></p>
-
