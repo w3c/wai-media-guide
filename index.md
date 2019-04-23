@@ -37,8 +37,6 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 {:/}
 
 
-@@ edit here
-
 ## Elements of Accessible Video and Audio
 
 <p>To make your video and audio accessible to people with disabilities, provide captions, transcripts,  audio description, and optionally sign language &mdash; based on the content.</p>
@@ -86,7 +84,9 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 </ol>
 <p>For help figuring out how to get your media alternatives developed, see <a href="@@">Managing Development of Media Alternatives</a>.</p>
 
-### Creating Media Alternatives
+It is important that captions, transcripts, and audio description are accurate and high-quality. For example, they don't have spelling errors, they have appropriate punctuation, and they include the right information. **Automatically-generated captions usually do not meet user needs or accessibility requirements.** They can be a useful starting point, yet often need significant editing. For examples, see [@@](@@).
+
+## Creating Media Alternatives
 
 Other pages in this resource provide specific guidance on:
 * [Creating Video and Audio Content](@@)
@@ -94,17 +94,6 @@ Other pages in this resource provide specific guidance on:
 * [Creating Captions](@@)
 * [Creating Transcripts](@@)
 * [Accessible Media Player](@@)
-
-## Automatic Captions are Not Sufficient
-
-<p>Automatically-generated captions do not meet user needs or accessibility requirements, unless they are confirmed to be fully accurate.</p>
-<p>There are tools that use speech recognition technology to turn a soundtrack into a timed caption file. For example, many videos uploaded to YouTube have automatic captions. [<a href="https://support.google.com/youtube/answer/3038280">YouTube info</a>] However, often the automatic caption text does not match the spoken audio &mdash; and in ways that change the meaning (or are embarrassing). For example, missing just one word such as &quot;not&quot; can make the captions contradict the actual audio content.</p>
-<p style="text-align:center; text-size:85%">[<em>optionally as an illustration for visual interest (with text as true text):</em><br>
-  &quot;Spoken text: 
-  Broil on high for 4 to 5 minutes. You should not preheat the oven.&quot;<br>
-  &quot;Automatic caption: Broil on high for 45 minutes. You should know to preheat the oven.&quot;<br>
-  <em>optional illustration/picture:  fire coming from oven, or totally burned food on a broiler pan ;-)</em>]</p>
-<p>Automatic captions can be used as a starting point for developing accurate captions and transcripts, as described in <a href="#captions">Creating Captions</a> and <a href="#transcripts">Creating Transcripts</a>.</p>
 
 ## Additional Benefits
 
