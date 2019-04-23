@@ -19,7 +19,9 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page explains how people with disabilities use accessible video and audio.
+? This page lists some things to consider when putting it all together...
+
+? This page explains how people with disabilities use accessible video and audio...
 
 {::nomarkdown}
 {% include box.html type="end" %}
