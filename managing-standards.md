@@ -46,20 +46,6 @@ _For descriptions of captions, transcripts, audio description, sign language and
 
 ## WCAG Media Standards
 
-{::nomarkdown}
-{% include box.html type="start" title="From the Introduction:" class="" %}
-{:/}
-
-To meet Web Content Accessibility Guidelines (WCAG) Level AA, <em>most</em> videos need to include:
-* Captions ([WCAG Success Criteria 1.2.2](https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded))
-* Audio Description ([WCAG Success Criteria 1.2.5](https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded))
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-### WCAG
-
 Web Content Accessibility Guidelines (WCAG) is introduced in the [WCAG Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
 WCAG includes requirements for video and audio (&quot;media&quot;), at [Level](https://www.w3.org/WAI/WCAG21/Understanding/conformance.html#uc-levels-head) A, AA, and AAA. Most media is required by governing policies to meet Level AA &mdash; which includes both A and AA listed in the tables below.
@@ -68,7 +54,7 @@ Accessibility requirements for video and audio are different based on if they ar
 * pre-recorded or live
 * video with audio, video without audio (video only), or audio only
 
-#### Pre-Recorded
+### Pre-Recorded
 
 <table>
 <tr>
@@ -106,7 +92,7 @@ Accessibility requirements for video and audio are different based on if they ar
 </tr>
 </table>
 
-#### Live
+### Live
 
 <table>
 <tr>
@@ -138,8 +124,6 @@ Accessibility requirements for video and audio are different based on if they ar
 <td>&nbsp;</td>
 </tr>
 </table>
-
-### Learn More About Standards
 
 To learn more about WCAG standards for media, see [Understanding Guideline 1.2: Time-based Media  {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/Understanding/time-based-media).
 
