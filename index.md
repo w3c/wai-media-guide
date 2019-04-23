@@ -69,28 +69,33 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 
 ## Managing Media Accessibility & Standards
 
-### Accessibility Requirements
-
-<p>Providing a descriptive transcript for  videos (or basic transcript for audio-only) meets a wide range of accesibility needs.</p>
-<p>To meet Web Content Accessibility Guidelines (WCAG) Level AA, <em>most</em> videos need to include:</p>
+<p>Providing a descriptive transcript for videos (or basic transcript for audio-only) meets a wide range of accesibility needs. To meet Web Content Accessibility Guidelines (WCAG) Level AA, <em>most</em> videos need to include:</p>
 <ul>
   <li>Captions (<a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded">WCAG Success Criteria 1.2.2</a>)</li>
   <li>Audio Description (<a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded">WCAG Success Criteria 1.2.5</a>)</li>
 </ul>
-<p>Requirements are different based on the content and whether they are live or pre-recorded. To figure out what your video or audio needs, see <a href="@@">Managing Development of Media Alternatives and Meeting Standards</a></p>
+<p>To figure out what your video or audio needs, see <a href="@@#what-does-my-videoaudio-need">What Does My Video/Audio Need?</a></p>
 
-### Develop In-House or Outsource
 <img src="{{ "/content-images/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 <p>One approach to developing media alternatives is:</p>
 <ol>
   <li>An audio described version is developed by the same people, at the same time as the main video.</li>
-  <li>Captions are outsourced, including for the main video, for the audio described version, and of the audio description itself. Often whoever produces the video also provides captions.</li>
-  <li>Descriptive transcripts are developed in-house using the text from the caption files.</li>
+  <li>Captions are outsourced. Often whoever produces the video also provides captions.</li>
+  <li>Descriptive transcripts are developed in-house.</li>
 </ol>
-<p>Some organizations do it all in-house, and some outsource it all. For help figuring out how to get your media alternatives developed, see the section on <a href="@@">Managing Development of Media Alternatives</a>.</p>
+<p>For help figuring out how to get your media alternatives developed, see <a href="@@">Managing Development of Media Alternatives</a>.</p>
 
-### Automatic Captions are Not Sufficient
+### Creating Media Alternatives
+
+Other pages in this resource provide specific guidance on:
+* [Creating Video and Audio Content](@@)
+* [Creating Audio Description of Visual Information](@@)
+* [Creating Captions](@@)
+* [Creating Transcripts](@@)
+* [Accessible Media Player](@@)
+
+## Automatic Captions are Not Sufficient
 
 <p>Automatically-generated captions do not meet user needs or accessibility requirements, unless they are confirmed to be fully accurate.</p>
 <p>There are tools that use speech recognition technology to turn a soundtrack into a timed caption file. For example, many videos uploaded to YouTube have automatic captions. [<a href="https://support.google.com/youtube/answer/3038280">YouTube info</a>] However, often the automatic caption text does not match the spoken audio &mdash; and in ways that change the meaning (or are embarrassing). For example, missing just one word such as &quot;not&quot; can make the captions contradict the actual audio content.</p>
@@ -100,14 +105,6 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
   &quot;Automatic caption: Broil on high for 45 minutes. You should know to preheat the oven.&quot;<br>
   <em>optional illustration/picture:  fire coming from oven, or totally burned food on a broiler pan ;-)</em>]</p>
 <p>Automatic captions can be used as a starting point for developing accurate captions and transcripts, as described in <a href="#captions">Creating Captions</a> and <a href="#transcripts">Creating Transcripts</a>.</p>
-
-### Creating Media Alternatives
-
-Other pages in this resource provide specific guidance on:
-* [Creating Captions](@@)
-* [Creating Transcripts](@@)
-* [Creating Audio Description of Visual Information](@@)
-* [Creating Video and Audio Content](@@)
 
 ## Additional Benefits
 
