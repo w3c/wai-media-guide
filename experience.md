@@ -38,11 +38,11 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include toc.html type="end" %}
 {:/}
 
-<span style="background:yellow">These are notes for EOWG to consider...</span>
+## <span style="background:yellow">These are notes for EOWG to consider...</span>
 
-User Experience info: The previous [Playing Accessible Media](https://w3c.github.io/wai-media-intro/accessible-media/playing/) page included some information about the user experience and different options in different players. Is it important for content creators to know? Do we want to include it in this resource? As a separate page, or bits integrated throughout? Or instead, might it be good to provide as guidance to users in the updated [Better Web Browsing: Tips for Customizing Your Computer[(https://www.w3.org/WAI/users/browsing)?
+The previous [Playing Accessible Media](https://w3c.github.io/wai-media-intro/accessible-media/playing/) page included some information about the user experience and different options in different players. Is it important for content creators to know? Do we want to include it in this resource? As a separate page, or bits integrated throughout? Or instead, might it be good to provide as guidance to users in the updated [Better Web Browsing: Tips for Customizing Your Computer](https://www.w3.org/WAI/users/browsing)?
 
-**Maybe include**
+Maybe include:
 
 * Transcripts... Make sure it is easy for users to know that a transcript is available and to get to the transcript.
 * Informing Users When None Needed &mdash; If your media does not need captions (because there is no substantive audio content) or does not need audio description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it. For example:
