@@ -1,7 +1,7 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
-title: "How to Make Video and Audio Accessible - Introduction"   # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Make Video & Audio Accessible" # A short title that is used in the navigation
+title: "How to Make Audio and Video Accessible - Introduction"   # Do not translate "title:". Do translate the text after "title:".
+nav_title: "Make Audio & Video Accessible" # A short title that is used in the navigation
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-04-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translator: "@@"   # Replace @@ with name or names separated with a comma
@@ -19,7 +19,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This multi-page resource helps you make video and audio (such as podcasts) accessible to people with disabilities.
+This multi-page resource helps you make audio and video accessible to people with disabilities.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -37,70 +37,48 @@ This multi-page resource helps you make video and audio (such as podcasts) acces
 {:/}
 
 
-## Elements of Accessible Video and Audio
+## What does my audio-only (e.g., podcast) need to be accessible?
 
-<p>To make your video and audio accessible to people with disabilities, provide captions, transcripts,  audio description, and optionally sign language &mdash; based on the content.</p>
-
-### Captions
-<p><em>Who: </em> Captions provide content to people who are Deaf and others who cannot hear the audio.</p><img src="{{ "/content-images/captions.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
-<p><em>What: </em> Captions are a text version of the speech and non-speech audio information needed to understand the content. They are displayed within the media player and are synchronized with the audio.</p>
-<p><strong><em>Subtitles</em></strong> are the spoken audio translated into another language. They are implemented like captions.</p>  
-
-### Transcripts
-<p><em>What: </em> Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content.</p>
-<img src="{{ "/content-images/braille.jpg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
-<p><em>What: </em> <strong><em>Descriptive transcripts</em></strong> also include visual information needed to understand the content.</p>
-<p><em>Who: </em> Descriptive transcripts are required to provide content to people who are both Deaf and blind.</p>
-
-### Audio Description
-<p><em>Who: </em> Audio description provides content to people who are blind and others who cannot see the video adequately.</p>
-<p><em>What: </em> Audio description describes visual information needed to understand the content. It is usually narration added to the soundtrack.</p>
-<p style="text-align:center"><em>[optional image: blind person listening to video]</em></p>
-
-### Sign Language
-<p><em>What: </em> Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. <em>Who: </em> For most people who are Deaf, sign language is their native language, and some do not read written language well. <s>Note that there are different sign languages in different regions and countries; for example, American Sign Language (ASL), British Sign Language (BSL), and Auslan (Australian Sign Language) are all different.</s></p>
-<p>Sign language is not required to meet most minimum accessibility standards.</p>
-<p style="text-align:center"><em>[optional image: person signing]</em></p>
-
-### Video and Audio Content
-<p>There are also accessibility requirements for the video or audio content itself. For example, in videos, avoid flashing that can cause seizures.</p>
-
-## Managing Media Accessibility & Standards
-
-<p>Providing a descriptive transcript for videos (or basic transcript for audio-only) meets a wide range of accesibility needs. To meet Web Content Accessibility Guidelines (WCAG) Level AA, <em>most</em> videos need to include:</p>
+<div id="tree-a" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
 <ul>
-  <li>Captions (<a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded">WCAG Success Criteria 1.2.2</a>)</li>
-  <li>Audio Description (<a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded">WCAG Success Criteria 1.2.5</a>)</li>
+  <li><strong>[_] <a href="@@">Content</a> </strong>that ...</li>   
+  <li><strong>[_] <a href="@@">Transcript of audio information</a> </strong>that provides the information as text to people who are Deaf, and people who can't listen to the audio.</li>
+  <li><strong>[_] Optionally, <a href="@@">Captions</a> </strong>that provide the information as text synchronized with the audio for people who are hard of hearing and want to listen the audio.</li>
 </ul>
-<p>To figure out what your video or audio needs, see <a href="@@#what-does-my-videoaudio-need">What Does My Video/Audio Need?</a></p>
+</div>
 
-<img src="{{ "/content-images/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+## What does my video need to be accessible?
 
-{::nomarkdown}
-{% include box.html type="start" title="Example approach to developing alternatives for videos" class="" %}
-{:/}
-
-* An audio described version is developed by the same people, at the same time as the main video.
-* Captions are outsourced. Often whoever produces the video also provides captions.
-* Descriptive transcripts are developed in-house.
-
-For help figuring out how to get your media alternatives developed, see <a href="@@">Managing Development of Media Alternatives</a>.
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-
-It is important that captions, transcripts, and audio description are accurate and high-quality. For example, they don't have spelling errors, they have appropriate punctuation, and they include the right information. **Automatically-generated captions usually do not meet user needs or accessibility requirements.** They can be a useful starting point, yet often need significant editing. See the example in [Automatic Captions are Not Sufficient](@@).
-
-## Creating Media Alternatives
-
-Other pages in this resource provide specific guidance on:
-* [Creating Video and Audio Content](@@)
-* [Creating Audio Description of Visual Information](@@)
-* [Creating Captions](@@)
-* [Creating Transcripts](@@)
-* [Accessible Media Player](@@)
+<div id="tree-b" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
+<ul>
+  <li><strong>Is there speech or other audio</strong> that is needed to understand the content?
+    <ul>
+      <li>If yes,
+        <ul>
+          <li><strong>[_] <a href="@@">Audio content</a> </strong>that ...</li>  
+          <li><strong>[_] <a href="@@">Captions</a> </strong>that provide the information as text synchronized with the audio for people who are hard of hearing and want to listen the video.</li>
+          <li><strong>[_] <a href="@@">Transcript of audio information</a> </strong>that provides the information as text to people who are Deaf, and people who can't listen to the video.<br><em>(This transcript is the same text from the captions file, in a different format.)</em></li>
+        </ul>
+      </li>
+      <li>If no, <a href="@@">inform users</a>.</li>
+    </ul>
+  </li>
+  <li><strong>Is there visual information</strong> that is needed to understand the content?
+    <ul>
+      <li>If yes,
+        <ul>
+          <li><strong>[_] <a href="@@">Video content</a> </strong>that ...</li>  
+          <li><strong>[_] <a href="@@">Audio description</a> </strong>that provides the information to people who are blind and want to listen to the video.</li>
+          <li><strong>[_] <a href="@@">Descriptive transcript</a> </strong>that provides the information to people who are blind and Deaf (&quot;Deaf-blind&quot;).<br><em>(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)</em></li>
+          <li><strong>[_] Optionally, <a href="@@">Sign language(s)</a> </strong>that ...</li>  
+        </ul>
+      </li>
+      <li>If no, <a href="@@">inform users</a>.</li>
+    </ul>
+  </li>
+   <li><strong>[_] <a href="@@">Media player</a> </strong>that ...</li>
+</ul>
+</div>
 
 ## Additional Benefits
 
