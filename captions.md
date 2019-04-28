@@ -37,7 +37,7 @@ This page provides guidance on creating captions.
 {% include toc.html type="end" %}
 {:/}
 
-_Captions are only one aspect of making audio and video accessible, For more, see [Making Video and Audio Accessible - Introduction](http://@@)._
+_Captions are only one aspect of making audio and video accessible. For more, see [Making Video and Audio Accessible - Introduction](http://@@)._
 
 
 ## Introduction
