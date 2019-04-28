@@ -128,6 +128,6 @@ It is important to note that <a href="@@">Automatic Captions are Not Sufficient<
 
 ## Standards
 
-?? here or not ??
+Standards for accessible audio and video are defined in the Web Content Accessibility Guidelines (WCAG). They are described in the Bringing Together the Aspects of Accessible Audio and Video page, [Standards section](@@).
 
 <p style="text-align:center"><strong>[ Next > ]</strong></p>
