@@ -36,14 +36,19 @@ This multi-page resource helps you make audio and video accessible to people wit
 {% include toc.html type="end" %}
 {:/}
 
+## Introduction
+
+...
+
+... below is general, could be exceptions...
 
 ## What does my audio-only (e.g., podcast) need to be accessible?
 
 <div id="tree-a" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
 <ul>
   <li><strong>[_] <a href="@@">Content</a> </strong>that ...</li>   
-  <li><strong>[_] <a href="@@">Transcript of audio information</a> </strong>that provides the information as text to people who are Deaf, and people who can't listen to the audio.</li>
-  <li><strong>[_] Optionally, <a href="@@">Captions</a> </strong>that provide the information as text synchronized with the audio for people who are hard of hearing and want to listen the audio.</li>
+  <li><strong>[_] <a href="@@">Transcript</a> </strong>that provides the audio information as text to people who are Deaf or hard of hearing.</li>
+  <li><strong>[_] <em>Optionally,</em> <a href="@@">Captions</a> </strong>that provides text synchronized with the audio for people who are hard of hearing and want to listen the audio.</li>
 </ul>
 </div>
 
@@ -56,8 +61,8 @@ This multi-page resource helps you make audio and video accessible to people wit
       <li>If yes,
         <ul>
           <li><strong>[_] <a href="@@">Audio content</a> </strong>that ...</li>  
-          <li><strong>[_] <a href="@@">Captions</a> </strong>that provide the information as text synchronized with the audio for people who are hard of hearing and want to listen the video.</li>
-          <li><strong>[_] <a href="@@">Transcript of audio information</a> </strong>that provides the information as text to people who are Deaf, and people who can't listen to the video.<br><em>(This transcript is the same text from the captions file, in a different format.)</em></li>
+          <li><strong>[_] <a href="@@">Captions</a> </strong>that provide the information as text synchronized with the audio for people who are Deaf or hard of hearing.</li>
+          <li><s><strong>[_] <a href="@@">Transcript of audio information</a> </strong>that provides the text separate from the video.<br><em>(This transcript is the same text from the captions file, in a different format.)</em></s></li>
         </ul>
       </li>
       <li>If no, <a href="@@">inform users</a>.</li>
@@ -68,9 +73,9 @@ This multi-page resource helps you make audio and video accessible to people wit
       <li>If yes,
         <ul>
           <li><strong>[_] <a href="@@">Video content</a> </strong>that ...</li>  
-          <li><strong>[_] <a href="@@">Audio description</a> </strong>that provides the information to people who are blind and want to listen to the video.</li>
-          <li><strong>[_] <a href="@@">Descriptive transcript</a> </strong>that provides the information to people who are blind and Deaf (&quot;Deaf-blind&quot;).<br><em>(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)</em></li>
-          <li><strong>[_] Optionally, <a href="@@">Sign language(s)</a> </strong>that ...</li>  
+          <li><strong>[_] <a href="@@">Audio description of the visual information</a> </strong>that provides the information to people who are blind and want to listen to the video.</li>
+          <li><strong>[_] <a href="@@">Descriptive transcript</a> </strong>that provides the audio and video information to people who are Deaf-blind.<br><s><em>(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)</em></s></li>
+          <li>[_] <em>Optionally,</em> <a href="@@">Sign language(s)</a> </strong>that ...</li>  
         </ul>
       </li>
       <li>If no, <a href="@@">inform users</a>.</li>
