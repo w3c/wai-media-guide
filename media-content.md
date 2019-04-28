@@ -79,10 +79,66 @@ For any text, consider the font family, size, and contrast between the text and 
 
 ### Plan for Audio Description of Visual Information
 
+_Audio description_ provides content to people who are blind and others who cannot see the video adequately. It describes the visual information needed to understand the content.
+
 Plan to either:
 * Integrate into the main audio all of the visual information that users need to understand the content.
 * For scenes that need description of the visual information, record extra time.
 
-See more specific information in [Creating Audio Description of Visual Information](@@).
+#### Integrated Description
+
+For many videos, the best way to handle audio description is not to need it at all &mdash; that is, all the visual information that users need to understand the content is integrated in the main audio. When planned in advance, this is fairly simple for many types of videos on the web, such as presentations and instructional videos. For example:
+
+<table>
+  <tr>
+    <th scope="col"><svg aria-label="Wrong" class="icon-ex-circle "><use xlink:href="/WAI/assets/images/icons.svg#icon-ex-circle"></use></svg> Instead of the speaker saying:</th>
+    <th scope="col"><svg aria-label="OK" class="icon-check-circle "><use xlink:href="/WAI/assets/images/icons.svg#icon-check-circle"></use></svg> The speaker can say:</th>
+  </tr>
+  <tr>
+    <td>As you can see on this chart, sales increased significantly from the first quarter to the second quarter.</td>
+    <td>This chart shows that sales increased significantly, from 1 million in the first  quarter to 1.3 million in the second quarter.</td>
+  </tr>
+  <tr>
+    <td>Whip the mixture until it looks like this.</td>
+    <td>Whip the mixture until the oil, vinegar, and spices are well combined.</td>
+  </tr>
+  <tr>
+    <td>Attach this to the green end.</td>
+    <td>Attach the small ring to the green end, which is the larger end.</td>
+  </tr>
+</table>
+
+Guidance on what to include is in the "Creating Audio Description of Visual Information" page,  [Tips for Writing Description section]https://deploy-preview-6--wai-media-guide.netlify.com/design-develop/media-guide/description/#tips-for-writing-description).
+
+#### Timing for Description
+
+For some types of videos, the description of the visual information cannot be smoothly handled by the speakers and narrator in the main video, because it would make the default video too much longer or more cumbersome. In that case, you will have the description separate. You can make the described version smoother by planning for the description.
+
+Where the description is fairly short, plan space in the audio for the description.
+
+Where the description is longer that you want to leave space in the main audio, you can record extra time in the scene to accommodate the description without having to pause the scene. That is, the same scene is shown with a little longer at the beginning or the end of it. For example:
+
+<table>
+  <tr>
+    <th scope="col">Narration</th>
+    <th scope="col">Main Video Scene Duration</th>
+    <th scope="col">Described Video Scene Duration</th>
+    <th scope="col">Description</th>
+  </tr>
+  <tr>
+    <td><q>Captions are also handy for people who want to watch video in loud environments.</q></td>
+    <td>3&nbsp;seconds</td>
+    <td>7&nbsp;seconds</td>
+    <td>A man is watching the captioned video with a group of people chatting away next to him.</td>
+  </tr>
+  <tr>
+    <td><q>Or where you need to be very, very quiet.</q></td>
+    <td>2&nbsp;seconds</td>
+    <td>5&nbsp;seconds</td>
+    <td>Turns out that they are in a library. The group is shushed by the librarian.</td>
+  </tr>
+</table>
+
+An example of this is the [Web Accessibility Perspectives: Video Captions](https://www.w3.org/WAI/perspective-videos/captions/) video. The main video is 48 seconds long. The described version is 1 minute and 18 seconds long, yet there are no pauses in the visual aspect of the video.
 
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
