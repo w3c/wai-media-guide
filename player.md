@@ -69,4 +69,4 @@ These players, platforms, and plug-ins support multiple audio files:
 
 Able Player facilitates showing a separate video with audio description.
 
-<p style="text-align:center"><strong>[ Next > ]</strong></p>
+<p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
