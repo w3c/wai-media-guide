@@ -82,10 +82,10 @@ For any text, consider the font family, size, and contrast between the text and 
 _Audio description_ provides content to people who are blind and others who cannot see the video adequately. It describes the visual information needed to understand the content.
 
 Plan to either:
-* Integrate into the main audio all of the visual information that users need to understand the content.
-* For scenes that need description of the visual information, record extra time.
+* Integrate description of the visual information that users need to understand into the main audio content, _**or**_
+* Record extra time for scenes that need description of the visual information.
 
-#### Integrated Description
+#### Integrate Description
 
 For many videos, the best way to handle audio description is not to need it at all &mdash; that is, all the visual information that users need to understand the content is integrated in the main audio. When planned in advance, this is fairly simple for many types of videos on the web, such as presentations and instructional videos. For example:
 
@@ -110,7 +110,7 @@ For many videos, the best way to handle audio description is not to need it at a
 
 Guidance on what to include is in the "Creating Audio Description of Visual Information" page,  [Tips for Writing Description section]https://deploy-preview-6--wai-media-guide.netlify.com/design-develop/media-guide/description/#tips-for-writing-description).
 
-#### Timing for Description
+#### Time for Description
 
 For some types of videos, the description of the visual information cannot be smoothly handled by the speakers and narrator in the main video, because it would make the default video too much longer or more cumbersome. In that case, you will have the description separate. You can make the described version smoother by planning for the description.
 
