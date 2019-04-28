@@ -38,6 +38,8 @@ This page provides information about media players and accessibility.
 
 _The media player is only one aspect of making audio and video accessible. For more, see [Making Video and Audio Accessible - Introduction](http://@@)._
 
-...
+<span style="background:yellow"><strong> ... working on a different approach for this page ...</strong></span>
+
+
 
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
