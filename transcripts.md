@@ -37,7 +37,7 @@ This page provides guidance on creating transcripts.
 {% include toc.html type="end" %}
 {:/}
 
-Transcripts are only one aspect of making audio and video accessible. For more, see [Making Video and Audio Accessible - Introduction](http://@@)._
+_Transcripts are only one aspect of making audio and video accessible. For more, see [Making Video and Audio Accessible - Introduction](http://@@)._
 
 ## Introduction
 
