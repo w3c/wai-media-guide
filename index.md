@@ -109,6 +109,10 @@ The sub-pages of this resource include considerations, skills, and tools needed 
 
 It is important to note that <a href="@@">Automatic Captions are Not Sufficient</a>.
 
+### Standards
+
+Standards for accessible audio and video are defined in the Web Content Accessibility Guidelines (WCAG). They are described in the Bringing Together the Aspects of Accessible Audio and Video page, [Standards section](@@).
+
 ## Additional Benefits
 
 <p>Accessible video and audio is essential for people with disabilities, and is <strong>useful for everyone</strong> in a variety of situations. For example, accessible video and audio content can be:</p>
@@ -125,9 +129,5 @@ It is important to note that <a href="@@">Automatic Captions are Not Sufficient<
 </ul>
 <p>Some benefits of captions are illustrated in this 1-minute <a href="https://www.w3.org/WAI/perspective-videos/captions/">Video on  Captions <img src="{{ "/content-images/captions-video-still.jpg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 </a>.</p>
-
-## Standards
-
-Standards for accessible audio and video are defined in the Web Content Accessibility Guidelines (WCAG). They are described in the Bringing Together the Aspects of Accessible Audio and Video page, [Standards section](@@).
 
 <p style="text-align:center"><strong>[ Next > ]</strong></p>
