@@ -106,8 +106,6 @@ The process to develop a video with integrated description is basically:
 
 Before finalizing the video, check to confirm that all relevant visual information is covered in the audio.
 
-**That's it! You don't need to bother with any of the developing options below.**
-
 ### Developing a Separate Described Video - If Descriptions Fit in Spaces
 
 If the descriptions fit in the spaces _(as described in @@ above)_, you need to develop a separate audio file. This requires skills and software for audio recording and video editing. Depending on the player that you are using, you might need video software to regenerate the video.
