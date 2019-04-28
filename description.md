@@ -63,26 +63,7 @@ This page addresses common types of videos designed for the web such as instruct
 
 ### Content and Timing Considerations
 First, figure out these issues about your video content and timing:
-* **Integrated** &mdash; For new videos, can the speakers describe the relevant visual information as the video is recorded? This works for well for some videos, such as presentations and instructional videos. For example:
-
-<table>
-  <tr>
-    <th scope="col"><svg aria-label="Wrong" class="icon-ex-circle "><use xlink:href="/WAI/assets/images/icons.svg#icon-ex-circle"></use></svg> Instead of the speaker saying:</th>
-    <th scope="col"><svg aria-label="OK" class="icon-check-circle "><use xlink:href="/WAI/assets/images/icons.svg#icon-check-circle"></use></svg> The speaker can say:</th>
-  </tr>
-  <tr>
-    <td>As you can see on this chart, sales increased significantly from the first quarter to the second quarter.</td>
-    <td>This chart shows that sales increased significantly, from 1 million in the first  quarter to 1.3 million in the second quarter.</td>
-  </tr>
-  <tr>
-    <td>Whip the mixture until it looks like this.</td>
-    <td>Whip the mixture until the oil, vinegar, and spices are well combined.</td>
-  </tr>
-  <tr>
-    <td>Attach this to the green end.</td>
-    <td>Attach the small ring to the green end, which is the larger end.</td>
-  </tr>
-</table>
+* **Integrated** &mdash; For new videos, can the speakers describe the relevant visual information as the video is recorded? This works for well for some videos, such as presentations and instructional videos. For examples, see the "Creating Audio and Video Content" page, [Integrated Description section](@@).
 
 * **Space in audio** &mdash; Is there enough space in the main audio for the description? That is, are there sufficient pauses throughout the narration or speaking where the relevant description will fit? For example,
    * If the only description needed is at the beginning of the video where these is a text title and background music, then: Yes, there is enough space.
