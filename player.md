@@ -36,37 +36,8 @@ This page provides information about media players and accessibility.
 {% include toc.html type="end" %}
 {:/}
 
-## Status
+_The media player is only one aspect of making audio and video accessible. For more, see [Making Video and Audio Accessible - Introduction](http://@@)._
 
-This page has the information that we know as of May 2019.
-
-(To submit updated information, see the "Help improve this page" box below.)
-
-## Players for Accessibility
-
-The following players were designed specifically for accessibility:
-
-* **Able Player** is a free open-source HTML5 media player. It includes [instructions for set up](https://ableplayer.github.io/ableplayer/#setup-step-1-use-html5-doctype).
-
-* **OzPlayer** is a commercial media player that uses HTML5. It is available [free in limited situations](https://www.accessibilityoz.com/2015/02/free-ozplayer/).
-
-## HTML 5 as is
-
-@@
-
-## Support for Separate Audio Files
-
-Some players support multiple audio files, so you can provide a file for the main audio and a separate file for the audio description of visual information.
-
-These players, platforms, and plug-ins support multiple audio files:
-* 3Play Plugin
-* Brightcove
-* JW Player, with plug-in (works in IE11 & Safari, other browsers require Flash)
-* Kaltura, with plug-in
-* Oz Player
-* VideoJS, with Plug-in (works in IE11 & Safari, other browsers require Flash)
-* ?Vidyard
-
-Able Player facilitates showing a separate video with audio description.
+...
 
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
