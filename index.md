@@ -62,7 +62,7 @@ This multi-page resource helps you make audio and video accessible to people wit
         <ul>
           <li><strong>[_] <a href="@@">Audio content</a> </strong>that ...</li>  
           <li><strong>[_] <a href="@@">Captions</a> </strong>that provide the information as text synchronized with the audio for people who are Deaf or hard of hearing.</li>
-          <li><s><strong>[_] <a href="@@">Transcript of audio information</a> </strong>that provides the text separate from the video.<br><em>(This transcript is the same text from the captions file, in a different format.)</em></s></li>
+          <li>[_] <em>Optionally,</em> <a href="@@">Transcript of audio information</a> that provides the text separate from the video.<br><em>(This transcript is the same text from the captions file, in a different format.)</em></li>
         </ul>
       </li>
       <li>If no, <a href="@@">inform users</a>.</li>
@@ -74,8 +74,8 @@ This multi-page resource helps you make audio and video accessible to people wit
         <ul>
           <li><strong>[_] <a href="@@">Video content</a> </strong>that ...</li>  
           <li><strong>[_] <a href="@@">Audio description of the visual information</a> </strong>that provides the information to people who are blind and want to listen to the video.</li>
-          <li><strong>[_] <a href="@@">Descriptive transcript</a> </strong>that provides the audio and video information to people who are Deaf-blind.<br><s><em>(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)</em></s></li>
-          <li>[_] <em>Optionally,</em> <a href="@@">Sign language(s)</a> </strong>that ...</li>  
+          <li><strong>[_] <a href="@@">Descriptive transcript</a> </strong>that provides the audio and video information to people who are Deaf-blind.<br><em>(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)</em></li>
+          <li>[_] <em>Optionally,</em> <a href="@@">Sign language(s)</a> that ...</li>  
         </ul>
       </li>
       <li>If no, <a href="@@">inform users</a>.</li>
