@@ -120,6 +120,8 @@ Audio description not needed: This video does not include audio description beca
 
 ## Managing Development of Media Alternatives
 
+... section intro ...
+
 <img src="{{ "/content-images/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 {::nomarkdown}
