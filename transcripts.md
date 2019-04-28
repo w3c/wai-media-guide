@@ -37,7 +37,7 @@ This page provides guidance on creating transcripts.
 {% include toc.html type="end" %}
 {:/}
 
-Transcripts are only one aspect of making audio and video accessible, For more, see [Making Video and Audio Accessible - Introduction](http://@@)._
+Transcripts are only one aspect of making audio and video accessible. For more, see [Making Video and Audio Accessible - Introduction](http://@@)._
 
 ## Introduction
 
@@ -55,7 +55,7 @@ Interactive transcripts highlight text phrases as they are spoken. Users can sel
 
 <img src="{{ "/content-images/interactive-transcript.png" | relative_url }}" alt="">
 
-## Does my Audio or Video Need Captions?
+## Does my Audio or Video Need a Transcript?
 
 <div id="tree-a" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
 <ul>
