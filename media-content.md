@@ -1,7 +1,7 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 title: "Creating Audio and Video Content"   # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Audio and Video Content" # A short title that is used in the navigation
+nav_title: "Audio & Video Content" # A short title that is used in the navigation
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-04-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translator: "@@"   # Replace @@ with name or names separated with a comma
@@ -36,7 +36,32 @@ This page addresses accessibility considerations for planning and producing vide
 {% include toc.html type="end" %}
 {:/}
 
-## Video
+## Introduction
+
+This page introduces things to consider when planning, scripting, storyboarding, recording, and producing audio and video.
+
+## Audio-Only and Videos
+
+### Low Background Audio
+
+When the main audio is a person speaking and you have background music, set the levels so people with hearing or cognitive disabilities can easily distinguish the speaking from the background.
+
+Specifically, make the background sounds at least 20 decibels lower than the foreground speech content (with the exception of occasional sounds that last for only one or two seconds).
+
+<span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 1.4.7: Low or No Background Audio](https://www.w3.org/WAI/WCAG21/Understanding/low-or-no-background-audio.html).</span>
+
+### Provide redundancy for sensory charachteristics
+
+Make your information work for people who cannot see and/or cannot hear.
+
+For example, instead of saying:
+<blockquote>Attach this to the green end.</blockquote>
+Say:
+<blockquote>Attach the small ring to the green end, which is the larger end.</blockquote>
+
+<span style="color:#585858; font-style:italic;">More information that primarily addresses web pages, yet is relevant to audio and video, is in [Understanding Success Criterion 1.3.3: Sensory Characteristics](https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html).</span>
+
+## Videos
 
 ### Avoid Causing Seizures
 
@@ -58,28 +83,5 @@ Plan to either:
 
 See more specific information in [Creating Audio Description of Visual Information](@@).
 
-## Video and Audio-Only
-
-### Low Background Audio
-
-When the main audio is a person speaking and you have background music, set the levels so people with hearing or cognitive disabilities can easily distinguish the speaking from the background.
-
-Specifically, make the background sounds at least 20 decibels lower than the foreground speech content (with the exception of occasional sounds that last for only one or two seconds).
-
-<span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 1.4.7: Low or No Background Audio](https://www.w3.org/WAI/WCAG21/Understanding/low-or-no-background-audio.html).</span>
-
-### Provide redundancy for sensory charachteristics
-
-Make your information work for people who cannot see and/or cannot hear.
-
-For example, instead of saying:
-<blockquote>Attach this to the green end.</blockquote>
-Say:
-<blockquote>Attach the small ring to the green end, which is the larger end.</blockquote>
-
-<span style="color:#585858; font-style:italic;">More information that primarily addresses web pages, yet is relevant to audio and video, is in [Understanding Success Criterion 1.3.3: Sensory Characteristics](https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html).</span>
-
-<hr>
-@@ others ?
 
 <p style="text-align:center"><strong>[ < Previous ]</strong></p>
