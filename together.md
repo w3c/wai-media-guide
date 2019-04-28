@@ -39,14 +39,17 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 
 _...: [Making Video and Audio Accessible - Introduction](http://@@)._
 
- This is an unpolished page with rough ideas of what might or might not go here. Some is also in other places to compare where it might fit better.
+<span style="background:yellow"><strong>This is an unpolished page with rough ideas of what might or might not go here. Some is also in other places to compare where it might fit better.</strong></span>
 
 ## Introduction
+
+... An example page is [Video Captions] (https://www.w3.org/WAI/perspective-videos/captions/). It has:
+* player...
+* descriptive transcript...
 
 ## ... other sub-topics ...
 
 ## Informing Users When None Needed
-<p><em>[this section maybe better in "putting it all together" page?]</em></p>
 <p>If your media does not need captions (because there is no substantive audio content) or does not need audio description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it. For example:</p>
 
 {::nomarkdown}
