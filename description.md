@@ -30,7 +30,7 @@ This page provides guidance on creating audio description of visual information 
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
-{::options toc_levels="2" /}
+{::options toc_levels="2,3" /}
 {:toc}
 
 {::nomarkdown}
@@ -49,19 +49,19 @@ When accessibility is considered before videos are produced, it significantly cu
 
 To add audio description to aqn existing video, you'll likely **need skills and tools** to: write it, narrate it, record it, and integrate it in new audio and/or video files, as described on this page.
 
-### Terminology
+#### Terminology
 
 Audio description is called "described video" in some areas, such as Canada.
 
 This page uses "described video" in some places as a shortened form of "a video that includes audio description of the visual information".
 
-### Scope
+#### Scope
 
 This page addresses common types of videos designed for the web such as instructional videos, training videos, recordings of presentations, and such. It does **not** address all the issues around full-feature movies, television shows, and such.
 
 ## What Description to Provide for My Video?
 
-### Content and Timing Considerations
+#### Content and Timing Considerations
 First, figure out these issues about your video content and timing:
 * **Integrated** &mdash; For new videos, can the speakers describe the relevant visual information as the video is recorded? This works for well for some videos, such as presentations and instructional videos. For examples, see the "Creating Audio and Video Content" page, [Integrated Description section](@@).
 
@@ -91,11 +91,15 @@ Use the information from above to answer the following questions in order to det
 	
 </div>
 
-## Planning New Videos
+#### Planning New Videos
 
 Information for addressing audio description in new videos is in the "Creating Audio and Video Content" page, [Plan for Audio Description of Visual Information section](@@).
 
-## Developing Integrated Description
+## Options
+
+Depending on your video situation, do one of the options below &mdash; as determined from the "What Description to Provide for My Video?" section above.
+
+### Developing Integrated Description
 
 The process to develop a video with integrated description is basically:
 1. When writing the script, make sure all relevant visual information is included. See [Tips for Describing – Writing below](http://@@).
@@ -104,7 +108,7 @@ Before finalizing the video, check to confirm that all relevant visual informati
 
 **That's it! You don't need to bother with any of the developing options below.**
 
-## Developing a Separate Described Video - If Descriptions Fit in Spaces
+### Developing a Separate Described Video - If Descriptions Fit in Spaces
 
 If the descriptions fit in the spaces _(as described in @@ above)_, you need to develop a separate audio file. This requires skills and software for audio recording and video editing. Depending on the player that you are using, you might need video software to regenerate the video.
 
@@ -118,7 +122,7 @@ The process to develop a separate audio file is basically:
 
 (Make sure on the web page where the video is available, the Audio Described version uses the correct version that you just created.)
 
-## Developing a Separate Described Video - If Descriptions Do Not Fit in Spaces
+### Developing a Separate Described Video - If Descriptions Do Not Fit in Spaces
 
 If all the descriptions do **not** fit in the spaces _(as described in @@ above)_, you'll need to develop a separate audio file and also edit the visual track. This requires skills and software for audio recording, audio editing, and video editing.
 
@@ -132,7 +136,7 @@ The process to develop a separate audio file and edit the visual track is basica
 
 (Make sure on the web page where the video is available, the Audio Described version uses the correct version that you just created.)
 
-## Developing Description in a Separate Audio File Only
+### Developing Description in a Separate Audio File Only
 
 This requires skills and software for audio recording and audio editing.
 
@@ -145,7 +149,7 @@ The process to develop description in a separate audio file is basically:
 4. Provide a caption file of the description. [Example VTT file of audio description](http://@@)
 5. Ensure the files are integrated with the player on the web page.
 
-## Other Options
+#### Other Options
 _{include or not based on decisions in [Open Issues, Coverage of Options](https://www.w3.org/WAI/EO/wiki/Accessible_Media_Guide#Coverage_of_Options).}_
 
 … description in text file…
@@ -154,15 +158,15 @@ _{include or not based on decisions in [Open Issues, Coverage of Options](https:
 
 ## Tips
 
-### Tips For Writing Descriptions
+#### Tips For Writing Descriptions
 
 ...
 
-### Tips for Recording Descriptions
+#### Tips for Recording Descriptions
 
 ...
 
-### Tips for Combining Audio Files
+#### Tips for Combining Audio Files
 ...
 
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
