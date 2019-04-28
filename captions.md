@@ -37,6 +37,9 @@ This page provides guidance on creating captions.
 {% include toc.html type="end" %}
 {:/}
 
+_Captions are only one aspect of making audio and video accessible, For more, see [Making Video and Audio Accessible - Introduction](http://@@)._
+
+
 ## Introduction
 
 _Who:_ Captions provide content to people who are Deaf and others who cannot hear the audio. They are also used by people who process written information better than audio.
@@ -62,6 +65,14 @@ For optimum accessibility, provide a separate caption file of the audio descript
 ### Scope
 
 This page addresses developing captions for pre-recorded media. Live captions are usually done by professional Communication Access Realtime Translation (CART) providers. Live captions are not addressed on this page.
+
+## Does my Audio or Video Need Captions?
+
+<div id="tree-a" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
+<ul>
+  <li>< ...</li>
+</ul>
+</div>
 
 ## Example Workflow
 
