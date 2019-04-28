@@ -96,10 +96,10 @@ Here is one example of a workflow for developing an accessible video using in-ho
 {% include box.html type="start" title="Example Video Workflow" class="" %}
 {:/}
 
-1. **Video content** accessibility is addressed when the video is planned and produced.<br>_By:_ Script writers, videographers, producers, and others.
-2. **An audio described version** of the video is developed at the same time as the main video, if needed.<br>_By:_ The same people doing the main video also do the describe version.
-3. **Captions** are developed for the main video, for the audio described version, and of the audio description itself.<br>_By:_ Often whoever produces the video also provides captions.
-4. **A descriptive transcript** is developed using the text from the caption files.<br>_By:_ Often these are developed in-house.
+1. **[Video content](@@)** accessibility is addressed when the video is planned and produced.<br>_By:_ Script writers, videographers, producers, and others.
+2. **[An audio described version](@@)** of the video is developed at the same time as the main video, if needed.<br>_By:_ The same people doing the main video also do the describe version.
+3. **[Captions](@@)** are developed for the main video, for the audio described version, and of the audio description itself.<br>_By:_ Often whoever produces the video also provides captions.
+4. **[A descriptive transcript](@@)** is developed using the text from the caption files.<br>_By:_ Often transcripts are developed in-house from caption files.
 
 <p>Some organizations do it all in-house, and some outsource it all.</p>
 
