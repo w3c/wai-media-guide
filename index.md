@@ -88,7 +88,7 @@ This multi-page resource helps you make audio and video accessible to people wit
 
 ## Managing Development of Media Alternatives
 
-Here is one example of a workflow for developing an accessible video using in-house and outsourced resources.
+Here is one example of a workflow for developing an accessible video, with notes on using in-house and outsourced resources.
 
 <img src="{{ "/content-images/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
@@ -101,13 +101,13 @@ Here is one example of a workflow for developing an accessible video using in-ho
 3. **[Captions](@@)** are developed for the main video, for the audio described version, and of the audio description itself.<br>_By:_ Often whoever produces the video also provides captions.
 4. **[A descriptive transcript](@@)** is developed using the text from the caption files.<br>_By:_ Often transcripts are developed in-house from caption files.
 
-<p>Some organizations do it all in-house, and some outsource it all.</p>
-
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-See also: <a href="@@">Automatic Captions are Not Sufficient</a>.
+The sub-pages of this resource include considerations, skills, and tools needed for creating captions, audio description, and transcripts.
+
+It is important to note that <a href="@@">Automatic Captions are Not Sufficient</a>.
 
 ## Additional Benefits
 
