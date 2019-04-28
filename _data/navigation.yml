@@ -162,9 +162,7 @@
   - name: Make Video & Audio Accessible
     url: "/design-develop/media-guide/"
     pages:
-      - name: Managing Media & Standards
-        url: "/design-develop/media-guide/managing-standards/"
-      - name: Audio and Video Content
+      - name: Audio & Video Content
         url: "/design-develop/media-guide/media-content/"
       - name: Description
         url: "/design-develop/media-guide/description/"
@@ -174,8 +172,8 @@
         url: "/design-develop/media-guide/transcripts/"
       - name: Media Player
         url: "/design-develop/media-guide/player/"
-      - name: ?User Experience
-        url: "/design-develop/media-guide/experience/"        
+      - name: All Together Now
+        url: "/design-develop/media-guide/together/"        
   - name: Tutorials
     url: "https://www.w3.org/WAI/tutorials/"
     different: true
