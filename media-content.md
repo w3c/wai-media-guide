@@ -83,5 +83,4 @@ Plan to either:
 
 See more specific information in [Creating Audio Description of Visual Information](@@).
 
-
-<p style="text-align:center"><strong>[ < Previous ]</strong></p>
+<p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
