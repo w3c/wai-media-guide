@@ -85,7 +85,7 @@ However, people who have the software, skills, and experience in developing capt
 
 For these reasons, many organizations choose to outsource their captions.
 
-## **Automatic Captions are Not Sufficient**
+## Automatic Captions are Not Sufficient
 
 Automatically-generated captions do not meet user needs or accessibility requirements, unless they are confirmed to be fully accurate. Usually they need significant editing. 
 
