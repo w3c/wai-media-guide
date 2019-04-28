@@ -277,8 +277,8 @@ Accessibility requirements for video and audio are different based on if they ar
 To learn more about WCAG standards for media, see [Understanding Guideline 1.2: Time-based Media  {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/Understanding/time-based-media).
 
 ... terminology...
-* "time-based media"
-* "@@" = "transcript"
+* "time-based media" in WCAG = "audio and video" and "media"
+* "[https://www.w3.org/TR/WCAG/#alt-time-based-mediadef alternative for time based media]" in WCAG" = "transcript" in this resource
 
 
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
