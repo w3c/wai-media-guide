@@ -30,6 +30,7 @@ This multi-page resource helps you make audio and video accessible to people wit
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
+{::options toc_levels="2" /}
 {:toc}
 
 {::nomarkdown}
@@ -127,8 +128,6 @@ See also: <a href="@@">Automatic Captions are Not Sufficient</a>.
 
 ## Standards
 
-## WCAG Media Standards
-
 Web Content Accessibility Guidelines (WCAG) is introduced in the [WCAG Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
 WCAG includes requirements for video and audio (&quot;media&quot;), at [Level](https://www.w3.org/WAI/WCAG21/Understanding/conformance.html#uc-levels-head) A, AA, and AAA. Most media is required by governing policies to meet Level AA &mdash; which includes both A and AA listed in the tables below.
@@ -208,7 +207,7 @@ Accessibility requirements for video and audio are different based on if they ar
 </tr>
 </table>
 
-<h3>More</h3>
+### More
 
 Although descriptive transcripts are not required at WCAG Level AA, they are:
 * Needed for most videos to be accessible to people who are Deaf-blind
