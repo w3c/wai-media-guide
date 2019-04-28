@@ -160,7 +160,8 @@ The speaker can say:
 
 <p>Live captions are usually done by professional Communication Access Realtime Translation (CART) providers. The rest of this section addresses captions for pre-recorded media.</p>
 
-<p>Creating captions requires typing up audio (&quot;transcribing&quot;) and formatting it in a file with timestamps. It is fairly difficult to transcribe an audio file, and takes quite a bit of time for people who don't have the software and skill for it. The file format for captions are simple, yet it's tedious to add timestamps, especially without software or service for developing caption files. Good captioning requires knowledge of which non-speech audio information should be included in the captions.</p>
+<p>Creating captions requires typing up audio (&quot;transcribing&quot;) and formatting it in a file with timestamps. It is fairly difficult to transcribe an audio file, and takes quite a bit of time for people who don't have the software and skill for it. The file format for captions are simple, yet it's tedious to add timestamps, especially without software or service for developing caption files.</p>
+<p><strong>Good captioning requires knowledge of which non-speech audio information should be included in the captions, and (@@Chris).</strong></p>
 <p>Even correcting an automatic caption files takes quite a bit of time for people who don't do it regularly.</p>
 <p>However, people who have the software, skills, and experience in developing captions, can develop them much faster.</p>
 <p>For these reasons, many organizations choose to outsource their captions.</p>
