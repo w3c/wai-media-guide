@@ -272,7 +272,13 @@ Accessibility requirements for video and audio are different based on if they ar
 </tr>
 </table>
 
+<h3>More</h3>
+
 To learn more about WCAG standards for media, see [Understanding Guideline 1.2: Time-based Media  {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/Understanding/time-based-media).
+
+... terminology...
+* "time-based media"
+* "@@" = "transcript"
 
 
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
