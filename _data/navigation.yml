@@ -159,7 +159,7 @@
     url: "/tips/designing/"
   - name: Tips for Developing
     url: "/tips/developing/"
-  - name: Make Video & Audio Accessible
+  - name: Make Audio & Video Accessible
     url: "/design-develop/media-guide/"
     pages:
       - name: Audio & Video Content
