@@ -73,6 +73,32 @@ This page addresses developing captions for pre-recorded media. Live captions ar
 </ul>
 </div>
 
+## Captions Considerations
+
+Creating captions requires typing up audio (&quot;transcribing&quot;) and formatting it in a file with timestamps. It is fairly difficult to transcribe an audio file, and takes quite a bit of time for people who don't have the software and skill for it. The file format for captions are simple, yet it's tedious to add timestamps, especially without software or service for developing caption files.
+
+**Good captioning requires knowledge of which non-speech audio information should be included in the captions, and (@@Chris).**
+
+Even correcting an automatic caption files takes quite a bit of time for people who don't do it regularly.
+
+However, people who have the software, skills, and experience in developing captions, can develop them much faster.
+
+For these reasons, many organizations choose to outsource their captions.
+
+## **Automatic Captions are Not Sufficient**
+
+Automatically-generated captions do not meet user needs or accessibility requirements, unless they are confirmed to be fully accurate. Usually they need significant editing. 
+
+There are tools that use speech recognition technology to turn a soundtrack into a timed caption file. For example, many videos uploaded to YouTube have automatic captions. [[YouTube info](https://support.google.com/youtube/answer/3038280)] However, often the automatic caption text does not match the spoken audio — and in ways that change the meaning (or are embarrassing). For example, missing just one word such as "not" can make the captions contradict the actual audio content.
+
+<p style="text-align:center; text-size:85%">[<em>optionally as an illustration for visual interest (with text as true text):</em><br>
+  &quot;Spoken text: 
+  Broil on high for 4 to 5 minutes. You should not preheat the oven.&quot;<br>
+  &quot;Automatic caption: Broil on high for 45 minutes. You should know to preheat the oven.&quot;<br>
+  <em>optional illustration/picture:  fire coming from oven, or totally burned food on a broiler pan ;-)</em>]</p>
+
+Automatic captions can be used as a starting point for developing accurate captions and transcripts.
+
 ## Example Workflow
 
 More information on these steps are in this web page.
