@@ -179,7 +179,7 @@ Transcripts can be:
 * Included on the same web page with the media. ([example decriptive transcript at the bottom of same page with video](https://www.w3.org/WAI/perspective-videos/captions/#transcript))
 * Provided on a separate web page. ([example podcast transcript on separate page](https://www.w3.org/WAI/highlights/200606wcag2interview.html))
 
-Make sure it is easy for users to know that a transcript is available and to get to the trasncript.
+Make sure it is easy for users to know that a transcript is available and to get to the transcript.
 
 ## Example Descriptive Transcript from Caption Files
 
