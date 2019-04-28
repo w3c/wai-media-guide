@@ -51,6 +51,8 @@ _Who:_ Descriptive transcripts are required to provide content to people who are
 
 If you provide a descriptive transcript, you do not need a separate basic transcript.
 
+_Skills and tools:_ Transcripts are easy to develop once you have captions for the main video and of the audio description. In-house staff who know how to create basic web content can develop the descriptive transcript.
+
 Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. (This is a feature of the media player. It uses the captions file.)
 
 <img src="{{ "/content-images/interactive-transcript.png" | relative_url }}" alt="">
