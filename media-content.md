@@ -44,6 +44,10 @@ This page introduces things to consider when planning, scripting, storyboarding,
 
 ## Audio-Only and Videos
 
+### High-Quality Audio
+
+... clear speach, low background noise, etc...
+
 ### Low Background Audio
 
 When the main audio is a person speaking and you have background music, set the levels so people with hearing or cognitive disabilities can easily distinguish the speaking from the background.
