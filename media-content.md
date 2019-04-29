@@ -46,7 +46,7 @@ This page introduces things to consider when planning, scripting, storyboarding,
 
 ### High-Quality Audio
 
-... clear speach, low background noise, etc...
+... good microphone, speak slowly and clearly, low background noise, etc...
 
 ### Low Background Audio
 
@@ -68,6 +68,8 @@ Say:
 <span style="color:#585858; font-style:italic;">More information that primarily addresses web pages, yet is relevant to audio and video, is in [Understanding Success Criterion 1.3.3: Sensory Characteristics](https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html).</span>
 
 ## Videos
+
+... face the camera when appropriate (some people "lip-read")...
 
 ### Avoid Causing Seizures
 
