@@ -39,6 +39,8 @@ This page provides guidance on creating transcripts.
 
 _Transcripts are only one aspect of making audio and video accessible. For more, see [Making Video and Audio Accessible - Introduction](http://@@)._
 
+... [below currently mostly addresses video. edit for simple transcript-only info e.g. for podcasters] ...
+
 ## Introduction
 
 Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content.
