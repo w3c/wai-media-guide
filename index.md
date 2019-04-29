@@ -88,14 +88,14 @@ This multi-page resource helps you make audio and video accessible to people wit
 
 ## Planning Accessible Audio and Video
 
+<img src="{{ "/content-images/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+
 Include specific accessibility requirements in your:
 * Project requirements - internal and external
 * Requests for Proposal (RFP) or Requests for Tender (RFT)
 * Contracts
 
 Here is one example of a workflow for developing an accessible video, with notes on who develops the material.
-
-<img src="{{ "/content-images/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 {::nomarkdown}
 {% include box.html type="start" title="Example Video Workflow" class="" %}
