@@ -110,7 +110,7 @@ Here is one example of a workflow for developing an accessible video, with notes
 {% include box.html type="end" %}
 {:/}
 
-The sub-pages of this resource include considerations, skills, and tools needed for creating captions, audio description, and transcripts.
+The sub-pages of this resource include considerations, skills, and tools needed for creating audio description, captions, and transcripts.
 
 It is important to note that <a href="@@">Automatic Captions are Not Sufficient</a>.
 
