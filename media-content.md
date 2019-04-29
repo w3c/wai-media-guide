@@ -145,4 +145,8 @@ Where the description is longer that you want to leave space in the main audio, 
 
 An example of this is the [Web Accessibility Perspectives: Video Captions](https://www.w3.org/WAI/perspective-videos/captions/) video. The main video is 48 seconds long. The described version is 1 minute and 18 seconds long, yet there are no pauses in the visual aspect of the video.
 
+#### More About Audio Description
+
+**See more information in [Creating Audio Description of Visual Information](https://deploy-preview-6--wai-media-guide.netlify.com/design-develop/media-guide/description/).**
+
 <p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
