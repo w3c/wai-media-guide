@@ -202,19 +202,21 @@ The most common format for captions on the web is [WebVTT](https://www.w3.org/TR
 {% include box.html type="start" title="Example VTT file with speakers identified" class="" %}
 {:/}
 
+```
 WEBVTT
 
-00:11.000 --> 00:13.000<br>
-```<v Rajwinder Kaur>```Welcome to the podcast.
+00:11.000 --> 00:13.000
+<v Rajwinder Kaur>Welcome to the podcast.
 
-00:13.000 --> 00:17.000<br>
-```<v Shawn Henry>```Thank you for this opportunity to share information about accessibility.
+00:13.000 --> 00:17.000
+<v Shawn Henry>Thank you for this opportunity to share information about accessibility.
 
-00:17.000 --> 00:20.000<br>
-```<v Rajwinder>```Would you start by telling us a little about your role at W3C?
+00:17.000 --> 00:20.000
+<v Rajwinder>Would you start by telling us a little about your role at W3C?
 
-00:20.000 --> 00:27.000<br>
-```<v Shawn>```I work within the Web Accessibility Initiative, W-A-I, pronounced "way". I focus on education and outreach on digital accessibility for people with disabilities. I also work some with the Low Vision Task Force.
+00:20.000 --> 00:24.000
+<v Shawn>I work within the Web Accessibility Initiative, W-A-I, pronounced "way".
+```
 
 {::nomarkdown}
 {% include box.html type="end" %}
