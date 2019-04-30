@@ -229,16 +229,16 @@ WEBVTT
 ```
 WEBVTT
 
-00:00:04.000 --> 00:00:07.980<br>
-<v Audio Descriptions>A man sits at a desk starts watching a video on his computer. 
+00:00:04.000 --> 00:00:07.980
+<v Audio Descriptions>A man sitting at a desk starts watching a video on his computer. 
 
-00:00:17.260 --> 00:00:20.780<br>
+00:00:17.260 --> 00:00:20.780
 <v Audio Descriptions>The video on his computer shows a person speaking to the camera.
 
-00:00:20.780 --> 00:00:23.140<br>
+00:00:20.780 --> 00:00:23.140
 <v Audio Descriptions>It is playing with no audio.
 
-00:00:26.880 --> 00:00:29.620<br>
+00:00:26.880 --> 00:00:29.620
 <v Audio Descriptions>The man watching the video has a hearing aid.
 ```
 
