@@ -88,4 +88,4 @@ And captions can be:
 Some benefits of captions are illustrated in this 1-minute <a href="https://www.w3.org/WAI/perspective-videos/captions/">Video on  Captions <img src="{{ "/content-images/captions-video-still.jpg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px"></a>.
 
 
-<p style="text-align:center"><strong>[ Next > ]</strong></p>
+<p style="text-align:center"><strong>[ <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/planning/">Next</a> > ]</strong></p>
