@@ -19,7 +19,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This multi-page resource helps you make audio and video accessible to people with disabilities.
+This resource helps you make audio and video media accessible to people with disabilities.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -39,7 +39,7 @@ This multi-page resource helps you make audio and video accessible to people wit
 
 ## Elements of Accessible Video and Audio Media
 
-The following elements make video and audio accessible to people with disabilities, including people who cannot hear, people who cannot see, and others. Some media needs all of these, and others need only a transcript.
+The following elements make media accessible to people who cannot hear, people who cannot see, and others. Some media needs all of these elements, and others need only a transcript.
 
 * **Captions** &mdash; Captions provide content to people who are Deaf and others who cannot hear the audio. Captions are a text version of the speech and non-speech audio information needed to understand the content. _Subtitles_ are the spoken audio translated into another language.
 * **Transcripts** &mdash; Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. _Descriptive transcripts_ also include visual information needed to understand the content. Descriptive transcripts are required to provide content to people who are both Deaf and blind.
@@ -49,7 +49,7 @@ The following elements make video and audio accessible to people with disabiliti
 
 ## Making Media Accessible
 
-This resource walks you through understanding accessible media, whether you are outsourcing development or developing it all in-house.
+This resource walks you through understanding accessible media, whether you are outsourcing some development or developing it all in-house.
 * [Planning Media Accessibility](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/planning/) &mdash; helps you **figure out what your specific video or audio needs,** and links to standards.
 * [Creating Video and Audio Content](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/media-content/)
 * [Creating Audio Description of Visual Information](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/description/)
