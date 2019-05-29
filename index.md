@@ -6,8 +6,8 @@ lang: en   # Change "en" to the translated language shortcode from https://www.i
 last_updated: 2019-04-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translator: "@@"   # Replace @@ with name or names separated with a comma
 # contributors: "@@"   # Replace @@ with name(s) or delete this line
-permalink: /design-develop/media-guide/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
-ref: /design-develop/media-guide/   # Do not change this
+permalink: /design-develop/media/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
+ref: /design-develop/media/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
@@ -50,12 +50,12 @@ The following elements make video and audio accessible to people with disabiliti
 ## Making Media Accessible
 
 This resource walks you through understanding accessible media, whether you are outsourcing development or developing it all in-house.
-* [Planning Media Accessibility](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media-guide/planning/) &mdash; helps you **figure out what your specific video or audio needs,** and links to standards.
-* [Creating Video and Audio Content](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media-guide/media-content/)
-* [Creating Audio Description of Visual Information](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media-guide/description/)
-* [Creating Captions](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media-guide/captions/)
-* [Creating Transcripts](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media-guide/transcripts/)
-* [Accessible Media Player](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media-guide/player/)
+* [Planning Media Accessibility](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/planning/) &mdash; helps you **figure out what your specific video or audio needs,** and links to standards.
+* [Creating Video and Audio Content](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/media-content/)
+* [Creating Audio Description of Visual Information](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/description/)
+* [Creating Captions](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/)
+* [Creating Transcripts](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/transcripts/)
+* [Accessible Media Player](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/player/)
 
 ## Additional Benefits
 
