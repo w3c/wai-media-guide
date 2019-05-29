@@ -62,8 +62,9 @@ This resource walks you through understanding accessible media, whether you are 
 ## Example
 
 An example accessible video is [Video Captions](https://www.w3.org/WAI/perspective-videos/captions/). That page provides:
-* captions
+* video and audio content with accessibility considerations, such as low background audio
 * an audio described version of the video
+* captions
 * a descriptive transcript
 * a media player with accessibility support
 
