@@ -19,7 +19,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This resource helps you make audio and video media
+This resource helps you make your media:
 * accessible to people with disabilities
 * meet international standards
 
