@@ -57,6 +57,14 @@ This resource walks you through understanding accessible media, whether you are 
 * [Creating Transcripts](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/transcripts/)
 * [Accessible Media Player](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/player/)
 
+## Example
+
+An example accessible video is [Video Captions] (https://www.w3.org/WAI/perspective-videos/captions/). That page provides:
+* Captions
+* An audio described version of the video
+* A descriptive transcript
+* A media player with accessibility support
+
 ## Additional Benefits
 
 Accessible video and audio is essential for people with disabilities, and is **useful for everyone** in a variety of situations.
