@@ -20,8 +20,9 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {:/}
 
 This page helps you plan accessible media. It:
-* helps you figure out if your specific audio or video needs captions, audio description, a basic transcript, or a descriptive transcript
-* shows the Web Content Accessibility Guidelines (<a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG</a>) standards for video and audio (&quot;media&quot;)
+* helps you **figure out what your specific audio or video needs** (captions, audio description, a basic transcript, or a descriptive transcript)
+* helps you plan what to develop in-house and what to outsource
+* shows the Web Content Accessibility Guidelines (<a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG</a>) standards for media accessibility media
 
 {::nomarkdown}
 {% include box.html type="end" %}
