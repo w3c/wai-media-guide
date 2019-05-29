@@ -46,9 +46,9 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 
 <div id="tree-a" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
 <ul>
-  <li><strong>[_] <a href="@@">Content</a> </strong>that ...</li>   
-  <li><strong>[_] <a href="@@">Transcript</a> </strong>that provides the audio information as text to people who are Deaf or hard of hearing.</li>
-  <li>[_] <em>Optionally,</em> <a href="@@">Captions</a> that provides text synchronized with the audio for people who are hard of hearing and want to listen the audio.</li>
+  <li><strong>[_] <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/media-content/#audio-only-and-videos">Content</a> </strong>that ...</li>   
+  <li><strong>[_] <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/transcripts/">Transcript</a> </strong>that provides the audio information as text to people who are Deaf or hard of hearing.</li>
+  <li>[_] <em>Optionally,</em> <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/">Captions</a> that provides text synchronized with the audio for people who are hard of hearing and want to listen the audio.</li>
 </ul>
 </div>
 
@@ -60,30 +60,55 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
     <ul>
       <li>If yes,
         <ul>
-          <li><strong>[_] <a href="@@">Audio content</a> </strong>that ...</li>  
-          <li><strong>[_] <a href="@@">Captions</a> </strong>that provide the information as text synchronized with the audio for people who are Deaf or hard of hearing.</li>
-          <li>[_] <em>Optionally,</em> <a href="@@">Transcript of audio information</a> that provides the text separate from the video.<br><em>(This transcript is the same text from the captions file, in a different format.)</em></li>
+          <li><strong>[_] <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/media-content/#audio-only-and-videos">Audio content</a> </strong>that ...</li>  
+          <li><strong>[_] <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/">Captions</a> </strong>that provide the information as text synchronized with the audio for people who are Deaf or hard of hearing.</li>
+          <li>[_] <em>Optionally,</em> <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/transcripts/">Transcript of audio information</a> that provides the text separate from the video.<br><em>(This transcript is the same text from the captions file, in a different format.)</em></li>
         </ul>
       </li>
-      <li>If no, <a href="@@">inform users</a>.</li>
+      <li>If no, <a href="#none">inform users</a>.</li>
     </ul>
   </li>
   <li><strong>Is there visual information</strong> that is needed to understand the content?
     <ul>
       <li>If yes,
         <ul>
-          <li><strong>[_] <a href="@@">Video content</a> </strong>that ...</li>  
-          <li><strong>[_] <a href="@@">Audio description of the visual information</a> </strong>that provides the information to people who are blind and want to listen to the video.</li>
-          <li><strong>[_] <a href="@@">Descriptive transcript</a> </strong>that provides the audio and video information to people who are Deaf-blind.<br><em>(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)</em></li>
-          <li>[_] <em>Optionally,</em> <a href="@@">Sign language(s)</a> that ...</li>  
+          <li><strong>[_] <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/media-content/">Video content</a> </strong>that ...</li>  
+          <li><strong>[_] <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/description/">Audio description of the visual information</a> </strong>that provides the information to people who are blind and want to listen to the video.</li>
+          <li><strong>[_] <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/transcripts/">Descriptive transcript</a> </strong>that provides the audio and video information to people who are Deaf-blind.<br><em>(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)</em></li>
+          <li>[_] <em>Optionally,</em> <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/sign-language/">Sign language(s)</a> that ...</li>  
         </ul>
       </li>
-      <li>If no, <a href="@@">inform users</a>.</li>
+      <li>If no, <a href="#none">inform users</a>.</li>
     </ul>
   </li>
-   <li><strong>[_] <a href="@@">Media player</a> </strong>that ...</li>
+   <li><strong>[_] <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/player/">Media player</a> </strong>that ...</li>
 </ul>
 </div>
+
+### Informing Users When None Needed {#none}
+
+<p>If your video does not need captions (because there is no substantive audio content) or does not need audio description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it. For example:</p>
+
+{::nomarkdown}
+{% include box.html type="start" class="" %}
+{:/}
+
+Captions not needed: The only sound with this video is background music. There is no speaking.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
+{% include box.html type="start" class="" %}
+{:/}
+
+Audio description not needed: This video does not include audio description because the visuals only support what is spoken; the visuals do not provide additional information.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 
 ## Planning Accessible Audio and Video
 
@@ -112,30 +137,6 @@ Here is one example of a workflow for developing an accessible video, with notes
 The sub-pages of this resource include considerations, skills, and tools needed for creating audio description, captions, and transcripts.
 
 It is important to note that <a href="@@">Automatic Captions are Not Sufficient</a>.
-
-## Informing Users When None Needed {#none}
-
-<p>If your media does not need captions (because there is no substantive audio content) or does not need audio description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it. For example:</p>
-
-{::nomarkdown}
-{% include box.html type="start" class="" %}
-{:/}
-
-Captions not needed: The only sound with this video is background music. There is no speaking.
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-{::nomarkdown}
-{% include box.html type="start" class="" %}
-{:/}
-
-Audio description not needed: This video does not include audio description because the visuals only support what is spoken; the visuals do not provide additional information.
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
 
 ## Standards
 
