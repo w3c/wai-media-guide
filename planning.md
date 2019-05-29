@@ -119,6 +119,15 @@ Include specific accessibility requirements in your:
 * Requests for Proposal (RFP) or Requests for Tender (RFT)
 * Contracts
 
+To help you plan in-house and outsourced work, the sub-pages of this resource include **considerations, skills, and tools needed** for creating accessible media:
+* [Creating Audio Description of Visual Information](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/description/)
+* [Captions Considerations](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/#captions-considerations)
+* [Developing Transcripts](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/transcripts/#developing-transcripts)
+
+It is important to note that <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/#automatic-captions-are-not-sufficient">Automatic Captions are Not Sufficient</a>.
+
+### Example Project
+
 Here is one example of a workflow for developing an accessible video, with notes on who develops the material.
 
 {::nomarkdown}
@@ -133,10 +142,6 @@ Here is one example of a workflow for developing an accessible video, with notes
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
-
-The sub-pages of this resource include considerations, skills, and tools needed for creating audio description, captions, and transcripts.
-
-It is important to note that <a href="@@">Automatic Captions are Not Sufficient</a>.
 
 ## Standards
 
