@@ -39,12 +39,12 @@ This multi-page resource helps you make audio and video accessible to people wit
 
 ## Elements of Accessible Video and Audio Media
 
-The following elements make video and audio accessible to people with disabilities. Some media needs all of these, and others need only a transcript.
+The following elements make video and audio accessible to people with disabilities, including people who cannot hear, people who cannot see, and others. Some media needs all of these, and others need only a transcript.
 
-* **Captions** &mdash; Captions provide content to people who are Deaf and others who cannot hear the audio. Captions are a text version of the speech and non-speech audio information needed to understand the content. (Subtitles are different; they are the spoken audio translated into another language.)
+* **Captions** &mdash; Captions provide content to people who are Deaf and others who cannot hear the audio. Captions are a text version of the speech and non-speech audio information needed to understand the content. _Subtitles_ are the spoken audio translated into another language.
 * **Transcripts** &mdash; Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. _Descriptive transcripts_ also include visual information needed to understand the content. Descriptive transcripts are required to provide content to people who are both Deaf and blind.
 * **Audio Description** &mdash; Audio description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content.
-* **Sign Language** &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For most people who are Deaf, sign language is their native language, and some do not read written language well.
+* **Sign Language** &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For most people who are Deaf, sign language is their native language, and some do not understand written language well.
 * **Video and Audio Content** &mdash; There are also accessibility requirements for the video or audio content itself. For example, in videos, avoid flashing that can cause seizures.
 
 ## Making Media Accessible
@@ -62,7 +62,7 @@ This resource walks you through understanding accessible media, whether you are 
 Accessible video and audio is essential for people with disabilities, and is **useful for everyone** in a variety of situations.
 
 For example, transcripts can be:
-* Skimmed or read rather than watched or listened to. This is significantly easier and quicker for many users. Some want to skim the transcript first before deciding whether or not to play the media.
+* Skimmed or read rather than watched or listened to. This is significantly easier and quicker for many users. Sometimes people want to skim the transcript first before deciding whether or not to play the media.
 * Used without needing to download video files. For example, to save data on mobile.
 * Used offline, printed, or converted to Braille.
 * Better indexed by search engines.
