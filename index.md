@@ -19,7 +19,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This resource helps you make audio and video media accessible to people with disabilities.
+This resource helps you make audio and video media accessible to people with disabilities and meet international standards.
 
 {::nomarkdown}
 {% include box.html type="end" %}
