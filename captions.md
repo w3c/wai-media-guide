@@ -6,8 +6,8 @@ lang: en   # Change "en" to the translated language shortcode from https://www.i
 last_updated: 2019-04-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translator: "@@"   # Replace @@ with name or names separated with a comma
 # contributors: "@@"   # Replace @@ with name(s) or delete this line
-permalink: /design-develop/media-guide/captions/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
-ref: /design-develop/media-guide/captions/   # Do not change this
+permalink: /design-develop/media/captions/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
+ref: /design-develop/media/captions/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
