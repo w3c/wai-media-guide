@@ -19,7 +19,9 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This resource helps you make audio and video media accessible to people with disabilities and meet international standards.
+This resource helps you make audio and video media
+* accessible to people with disabilities
+* meet international standards
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -59,11 +61,11 @@ This resource walks you through understanding accessible media, whether you are 
 
 ## Example
 
-An example accessible video is [Video Captions] (https://www.w3.org/WAI/perspective-videos/captions/). That page provides:
-* Captions
-* An audio described version of the video
-* A descriptive transcript
-* A media player with accessibility support
+An example accessible video is [Video Captions](https://www.w3.org/WAI/perspective-videos/captions/). That page provides:
+* captions
+* an audio described version of the video
+* a descriptive transcript
+* a media player with accessibility support
 
 ## Additional Benefits
 
