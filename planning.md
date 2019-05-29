@@ -110,7 +110,6 @@ Audio description not needed: This video does not include audio description beca
 {% include box.html type="end" %}
 {:/}
 
-
 ## Planning Accessible Audio and Video
 
 <img src="{{ "/content-images/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
@@ -120,29 +119,28 @@ Include specific accessibility requirements in your:
 * Requests for Proposal (RFP) or Requests for Tender (RFT)
 * Contracts
 
-To help you plan in-house and outsourced work, the sub-pages of this resource include **considerations, skills, and tools needed** for creating accessible media:
-* [Creating Audio Description of Visual Information](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/description/)
-* [Captions Considerations](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/#captions-considerations)
-* [Developing Transcripts](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/transcripts/#developing-transcripts)
-
-It is important to note that <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/#automatic-captions-are-not-sufficient">Automatic Captions are Not Sufficient</a>.
-
-### Example Project
-
-Here is one example of a workflow for developing an accessible video, with notes on who develops the material.
+Here is an example workflow for developing an accessible video, with notes on who develops the material:
 
 {::nomarkdown}
-{% include box.html type="start" title="Example Video Workflow" class="" %}
+{% include box.html type="start" title="Workflow and Responsibilities" class="" %}
 {:/}
 
 1. **[Video content](@@)** accessibility is addressed when the video is planned and produced.<br>_By:_ Script writers, videographers, producers, and others.
+
 2. **[An audio described version](@@)** of the video is developed at the same time as the main video, if needed.<br>_By:_ The same people doing the main video also do the describe version.
+
 3. **[Captions](@@)** are developed for the main video, for the audio described version, and of the audio description itself.<br>_By:_ Usually if the video is professionally produced, the producers provide captions. Sometimes when informal videos are developed in-house, captions are outsourced.
+
 4. **[A descriptive transcript](@@)** is developed using the text from the caption files.<br>_By:_ Often transcripts are developed in-house from caption files.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+
+To help you plan in-house and outsourced work, the sub-pages of this resource include **considerations, skills, and tools needed** for creating accessible media:
+* [Creating Audio Description of Visual Information](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/description/)
+* [Captions Considerations](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/#captions-considerations) and <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/#automatic-captions-are-not-sufficient">Automatic Captions are Not Sufficient</a>
+* [Developing Transcripts](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/transcripts/#developing-transcripts)
 
 ## Standards
 
