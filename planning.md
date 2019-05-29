@@ -137,12 +137,6 @@ Audio description not needed: This video does not include audio description beca
 {% include box.html type="end" %}
 {:/}
 
-## Example
-
-... An example page is [Video Captions] (https://www.w3.org/WAI/perspective-videos/captions/). It has:
-* player...
-* descriptive transcript...
-
 ## Standards
 
 Web Content Accessibility Guidelines (WCAG) is introduced in the [WCAG Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
