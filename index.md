@@ -37,15 +37,13 @@ This multi-page resource helps you make audio and video accessible to people wit
 {% include toc.html type="end" %}
 {:/}
 
-## Elements of Accessible Video and Audio
+## Elements of Accessible Video and Audio Media
 
-The following elements make video and audio media accessible to people with disabilities. Some media needs all of these, and others need only transcripts.
+The following elements make video and audio accessible to people with disabilities. Some media needs all of these, and others need only a transcript.
 
 ### Captions
 
-Captions provide content to people who are Deaf and others who cannot hear the audio. Captions are a text version of the speech and non-speech audio information needed to understand the content.
-
-Subtitles are the spoken audio translated into another language.
+Captions provide content to people who are Deaf and others who cannot hear the audio. Captions are a text version of the speech and non-speech audio information needed to understand the content. (Subtitles are different; they are the spoken audio translated into another language.)
 
 ### Transcripts
 
@@ -57,25 +55,38 @@ Audio description provides content to people who are blind and others who cannot
 
 ### Sign Language
 
-Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For most people who are Deaf, sign language is their native language, and some do not read written language well. (Sign language is not required to meet most minimum accessibility standards.)
+Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For most people who are Deaf, sign language is their native language, and some do not read written language well.
 
 ### Video and Audio Content
 
 There are also accessibility requirements for the video or audio content itself. For example, in videos, avoid flashing that can cause seizures.
 
+## Making Media Accessible
+
+This resource walks you through understanding accessible media, whether you are outsourcing development or developing it all in-house.
+* [Planning Media Accessibility](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media-guide/planning/)
+* [Creating Video and Audio Content](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media-guide/media-content/)
+* [Creating Audio Description of Visual Information](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media-guide/description/)
+* [Creating Captions](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media-guide/captions/)
+* [Creating Transcripts](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media-guide/transcripts/)
+* [Accessible Media Player](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media-guide/player/)
+
 ## Additional Benefits
 
-Accessible video and audio is essential for people with disabilities, and is **useful for everyone** in a variety of situations. For example, accessible video and audio content can be:
+Accessible video and audio is essential for people with disabilities, and is **useful for everyone** in a variety of situations.
 
-* Used in loud environments where users cannot hear the audio. For example, a bar, an airport, and another. (captions)
-* Used in quiet environments where users cannot turn on sound. For example, a library, when others are sleeping, and another. (captions)
-* Skimmed or read rather than watched or listened to. This is significantly easier and quicker for many users. Some want to skim the trasncript first before deciding whether or not to play the media. (transcripts)
-* Used without needing to download video files. For example, to save data on mobile. (transcripts)
-* Used by people who cannot understand the spoken language well and can understand the written language better. For example, people who are not native speakers of the language. (captions)
-* Used by people to help them learn to read. For example, children, adults, and people learning a new language. (captions)
-* Used offline, printed, or converted to Braille. (transcripts)
-* Better understood when users can hear the information in audio and see it in text at the same time. For example, {some data like [this](https://www.3playmedia.com/2019/02/21/8-benefits-of-transcribing-captioning-videos/)}. (captions)
-* Better indexed by search engines. (captions and transcripts)
+For example, transcripts can be:
+* Skimmed or read rather than watched or listened to. This is significantly easier and quicker for many users. Some want to skim the transcript first before deciding whether or not to play the media.
+* Used without needing to download video files. For example, to save data on mobile.
+* Used offline, printed, or converted to Braille.
+* Better indexed by search engines.
+
+And captions can be:
+* Used in loud environments where users cannot hear the audio. For example, a bar, an airport, and another.
+* Used in quiet environments where users cannot turn on sound. For example, a library, when others are sleeping, and another.
+* Used by people who cannot understand the spoken language well and can understand the written language better. For example, people who are not native speakers of the language.
+* Used by people to help them learn to read. For example, children, adults, and people learning a new language.
+* Used to better understand content since users can hear the information in audio and see it in text at the same time. For example, {some data like [this](https://www.3playmedia.com/2019/02/21/8-benefits-of-transcribing-captioning-videos/)}.
 
 Some benefits of captions are illustrated in this 1-minute <a href="https://www.w3.org/WAI/perspective-videos/captions/">Video on  Captions <img src="{{ "/content-images/captions-video-still.jpg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px"></a>.
 
