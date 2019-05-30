@@ -70,7 +70,7 @@ An example accessible video is [Video Captions](https://www.w3.org/WAI/perspecti
 
 ## Additional Benefits
 
-Accessible video and audio is essential for people with disabilities, and is **useful for everyone** in a variety of situations.
+Accessible video and audio is **essential for people with disabilities**, and is **useful for everyone** in a variety of situations.
 
 For example, transcripts can be:
 * Skimmed or read rather than watched or listened to. This is significantly easier and quicker for many users. Sometimes people want to skim the transcript first before deciding whether or not to play the media.
