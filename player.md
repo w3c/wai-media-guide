@@ -38,6 +38,12 @@ This page provides information about media players and accessibility.
 
 _The media player is only one aspect of making audio and video accessible. For more, see [Making Video and Audio Accessible - Introduction](http://@@)._
 
+## Skills and Tools
+
+Setting up an accessible media player requires HTML 5 skills.
+
+## (need to organization below :-)
+
 HTML5 lets you embed audio and video with the ```<audio>```, ```<video>```, and ```<track>``` elements. There are JavaScript APIs for controlling them. Modern browsers will provide a default player &mdash; usually within the web page, or with the QuickTime player on iPhones. These players have different user interfaces, and most have limited functionality to support accessibility.
 
 Several resources on the web provide guidance on embedding audio and video in HTML5. For example, [Video and audio content]( https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content) and [```<video>```: The Video Embed element]( https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video).
