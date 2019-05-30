@@ -66,7 +66,7 @@ An example accessible video is [Video Captions](https://www.w3.org/WAI/perspecti
 * an audio described version of the video
 * captions
 * a descriptive transcript
-* a media player with accessibility support
+* a media player with accessibility support, including an interactive transcript
 
 ## Additional Benefits
 
