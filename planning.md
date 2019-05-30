@@ -142,6 +142,8 @@ To help you plan in-house and outsourced work, the sub-pages of this resource in
 * [Captions Considerations](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/#captions-considerations) and <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/#automatic-captions-are-not-sufficient">Automatic Captions are Not Sufficient</a>
 * [Developing Transcripts](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/transcripts/#developing-transcripts)
 
+When planning for accessible media, it maybe helpful to communicate the **[additional benefits](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/#additional-benefits) to all users** and to your organization, such as search engine optimization (SEO).
+
 ## Standards
 
 Web Content Accessibility Guidelines (WCAG) is introduced in the [WCAG Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
