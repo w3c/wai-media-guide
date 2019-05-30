@@ -43,11 +43,7 @@ _Who:_ Audio description provides content to people who are blind and others who
 
 _What:_ Audio description describes visual information needed to understand the content. It is usually narration added to the soundtrack.
 
-When accessibility is considered before videos are produced, it significantly cuts down on cost and effort to develop audio description. For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers as the video is planned and created, and you don't need separate audio description. ..._without **any** additional cost_...
-
 <p style="text-align:center"><em>[optional image: blind person listening to video]</em></p>
-
-To add audio description to aqn existing video, you'll likely **need skills and tools** to: write it, narrate it, record it, and integrate it in new audio and/or video files, as described on this page.
 
 #### Terminology
 
@@ -58,6 +54,17 @@ This page uses "described video" in some places as a shortened form of "a video 
 #### Scope
 
 This page addresses common types of videos designed for the web such as instructional videos, training videos, recordings of presentations, and such. It does **not** address all the issues around full-feature movies, television shows, and such.
+
+#### Audio Description Considerations
+
+When accessibility is considered before videos are produced, it significantly cuts down on cost and effort to develop audio description. For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers as the video is planned and created, and you don't need separate audio description, thus there is no additional cost.
+
+To add audio description to an existing video, you'll likely **need skills and tools** to:
+* write it
+* narrate it
+* record it
+* integrate it in new audio and/or video files
+&mdash; as described on this page.
 
 ## What Description to Provide for My Video?
 
