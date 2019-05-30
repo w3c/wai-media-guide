@@ -1,6 +1,6 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
-title: "Creating Captions"   # Do not translate "title:". Do translate the text after "title:".
+title: "Captions"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Captions" # A short title that is used in the navigation
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-04-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -19,7 +19,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides guidance on creating captions.
+This page provides guidance on @@ creating captions.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -99,7 +99,9 @@ There are tools that use speech recognition technology to turn a soundtrack into
 
 Automatic captions can be used as a starting point for developing accurate captions and transcripts.
 
-## Example Workflow
+## Creating Captions
+
+### Example Workflow
 
 More information on these steps are in this web page.
 
@@ -118,7 +120,7 @@ More information on these steps are in this web page.
 {% include box.html type="end" %}
 {:/}
 
-## Caption Tools
+### Caption Tools
 
 Most people use software or services to help develop captions. There are several free captioning software programs and online services available.
 
@@ -128,7 +130,7 @@ Some tools create automatic captions that you can use as a starting point. You w
 
 For example, YouTube provides automatic captions and tools for you to edit the captions, as described in [Edit or remove captions – YouTube Help](https://support.google.com/youtube/answer/2734705?hl=en).
 
-## What to Included in Caption Files
+### What to Included in Caption Files
 
 Include in the captions file:
 * All speech and other relevant non-speech sound, such as this-good-example.
@@ -137,13 +139,13 @@ Include in the captions file:
 
 {% include excol.html type="start" id="" %}
 
-### Tips for Caption Content
+#### Tips for Caption Content
 
 {% include excol.html type="middle" %}
 
 Keep in mind that the main purpose of the captions is to provide information to people who cannot hear the audio. That will help you know what to sounds to transcribe, and what are not needed. The following are common practices, not requirements.
 
-#### Specific for captions
+##### Specific for captions
 
 * Captions are one or two rows. ?? character length
 
@@ -151,7 +153,7 @@ Keep in mind that the main purpose of the captions is to provide information to 
 
 * If you need to break a sentence into multiple segments, break it at a logical phrase.
 
-#### For captions and transcripts
+##### For captions and transcripts
 
 * Identify the speakers as relevant. Often it is best to use the full name the first time and single name throughout &mdash; either first/given or last/family depending on the formality.
 
@@ -172,7 +174,7 @@ Keep in mind that the main purpose of the captions is to provide information to 
 
 * Do not emphasize a word using all capital letters except to indicate screaming.
 
-##### Be True to the Audio Content
+###### Be True to the Audio Content
 
 * **Do not change or adapt or add to the text**. Transcribe what is said accurately.
    * For example, it is usually not appropriate to correct grammar or other mistakes.
@@ -194,7 +196,7 @@ You can caption:<br>
 
 {% include excol.html type="end" %}
 
-## Caption File Format
+### Caption File Format
 
 The most common format for captions on the web is [WebVTT](https://www.w3.org/TR/webvtt/): The Web Video Text Tracks Format.
 
