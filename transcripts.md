@@ -80,7 +80,7 @@ Interactive transcripts highlight text phrases as they are spoken. Users can sel
   <li><strong>are easy and inexpensive to develop</strong> using captions and audio description that you already have to meet Level AA</li>
 </ul>
 
-## Developing Transcripts
+## Creeating Transcripts
 
 **Transcripts and captions include the same text, so one can be used to develop the other.**
 
