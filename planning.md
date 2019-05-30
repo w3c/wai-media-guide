@@ -108,6 +108,16 @@ Audio description not needed: This video does not include audio description beca
 {% include box.html type="end" %}
 {:/}
 
+## Both Captions and a Transcript
+
+Ideally you provide captions and a separate transcript.
+
+For audio-only, captions enable people who are hard of hearing to get the richness of listening to the audio and fill in what they don't hear well by reading the captions.
+
+For videos, captions enable people who are Deaf or hard of hearing to see the visual content and read the captions at the same time. 
+
+Separate transcripts are required to provide access to people who are Deaf-blind and use braille. (Also, some people without disabilities prefer to skim or read transcripts at their own pace, rather than listening to audio or watching video.)
+
 ## Planning Accessible Audio and Video
 
 <img src="{{ "/content-images/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
