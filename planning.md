@@ -138,9 +138,9 @@ Here is an example workflow for developing an accessible video, with notes on wh
 {:/}
 
 To help you plan in-house and outsourced work, the sub-pages of this resource include **considerations, skills, and tools needed** for creating accessible media:
-* [Creating Audio Description of Visual Information](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/description/)
-* [Captions Considerations](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/#captions-considerations) and <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/#automatic-captions-are-not-sufficient">Automatic Captions are Not Sufficient</a>
-* [Developing Transcripts](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/transcripts/#developing-transcripts)
+* [Audio Description Considerations](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/description/#audio-description-considerations)
+* [Captions, Skills and Tools](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/#skills-and-tools) and <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/#automatic-captions-are-not-sufficient">Automatic Captions are Not Sufficient</a>
+* [Transcripts, Skills and Tools](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/transcripts/#skills-and-tools)
 
 When planning for accessible media, it maybe helpful to communicate the **[additional benefits](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/#additional-benefits) to all users** and to your organization, such as search engine optimization (SEO).
 
