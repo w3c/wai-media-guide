@@ -19,7 +19,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides guidance on creating audio description of visual information for new and existing videos. (It does not apply to audio-only, such as podcasts.)
+This page provides guidance on understanding and creating audio description of visual information for new and existing videos. (It does not apply to audio-only, such as podcasts.)
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -106,14 +106,14 @@ Information for addressing audio description in new videos is in the "Creating A
 
 Depending on your video situation, do one of the options below &mdash; as determined from the "What Description to Provide for My Video?" section above.
 
-### Developing Integrated Description
+### Creating Integrated Description
 
 The process to develop a video with integrated description is basically:
 1. When writing the script, make sure all relevant visual information is included. See [Tips for Describing – Writing below](http://@@).
 
 Before finalizing the video, check to confirm that all relevant visual information is covered in the audio.
 
-### Developing a Separate Described Video - If Descriptions Fit in Spaces
+### Creating a Separate Described Video - If Descriptions Fit in Spaces
 
 If the descriptions fit in the spaces _(as described in @@ above)_, you need to develop a separate audio file. This requires skills and software for audio recording and video editing. Depending on the player that you are using, you might need video software to regenerate the video.
 
@@ -127,7 +127,7 @@ The process to develop a separate audio file is basically:
 
 (Make sure on the web page where the video is available, the Audio Described version uses the correct version that you just created.)
 
-### Developing a Separate Described Video - If Descriptions Do Not Fit in Spaces
+### Creating a Separate Described Video - If Descriptions Do Not Fit in Spaces
 
 If all the descriptions do **not** fit in the spaces _(as described in @@ above)_, you'll need to develop a separate audio file and also edit the visual track. This requires skills and software for audio recording, audio editing, and video editing.
 
@@ -141,7 +141,7 @@ The process to develop a separate audio file and edit the visual track is basica
 
 (Make sure on the web page where the video is available, the Audio Described version uses the correct version that you just created.)
 
-### Developing Description in a Separate Audio File Only
+### Creating Description in a Separate Audio File Only
 
 This requires skills and software for audio recording and audio editing.
 
