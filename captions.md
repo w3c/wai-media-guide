@@ -30,7 +30,7 @@ This page provides guidance on @@ creating captions.
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
-{::options toc_levels="2" /}
+{::options toc_levels="2,3" /}
 {:toc}
 
 {::nomarkdown}
