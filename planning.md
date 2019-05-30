@@ -56,8 +56,7 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 ## What does my video need to be accessible?
 
 <div id="tree-b" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
-<ul>
-  <li><strong>Is there speech or other audio</strong> that is needed to understand the content?
+<p>Is there speech or other audio</strong> that is needed to understand the content?</p>
     <ul>
       <li>If yes,
         <ul>
@@ -68,8 +67,8 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
       </li>
       <li>If no, <a href="#none">inform users</a>.</li>
     </ul>
-  </li>
-  <li><strong>Is there visual information</strong> that is needed to understand the content?
+
+<p><strong>Is there visual information</strong> that is needed to understand the content?</p>
     <ul>
       <li>If yes,
         <ul>
@@ -81,9 +80,8 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
       </li>
       <li>If no, <a href="#none">inform users</a>.</li>
     </ul>
-  </li>
-   <li><strong>[_] <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/player/">Media player</a> </strong>that ...</li>
-</ul>
+
+<p><strong>[_] <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/player/">Media player</a> </strong>that ...</p>
 </div>
 
 ### Informing Users When None Needed {#none}
