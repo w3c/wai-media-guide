@@ -47,6 +47,7 @@ The following elements make media accessible to people who cannot hear, people w
 * **Transcripts** &mdash; Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. _Descriptive transcripts_ also include visual information needed to understand the content. Descriptive transcripts are required to provide content to people who are both Deaf and blind.
 * **Audio Description** &mdash; Audio description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content.
 * **Sign Language** &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For most people who are Deaf, sign language is their native language, and some do not understand written language well.
+* **Media player** &mdash; Media players have different levels of accessibility support. For example, some provide a separate audio track for description and some use the caption file to provide an _interactive transcript_.
 * **Video and Audio Content** &mdash; There are also accessibility requirements for the video or audio content itself. For example, in videos, avoid flashing that can cause seizures.
 
 ## Making Media Accessible
