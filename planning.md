@@ -56,7 +56,7 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 ## What does my video need to be accessible?
 
 <div id="tree-b" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
-<p>Is there speech or other audio</strong> that is needed to understand the content?</p>
+<p><strong>Is there speech or other audio</strong> that is needed to understand the content?</p>
     <ul>
       <li>If yes,
         <ul>
