@@ -19,7 +19,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides guidance on creating transcripts.
+This page provides guidance on understanding and creating transcripts.
 
 {::nomarkdown}
 {% include box.html type="end" %}
