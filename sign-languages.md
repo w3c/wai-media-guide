@@ -37,6 +37,8 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include toc.html type="end" %}
 {:/}
 
+**[temporary navigation: back to main page](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/)**
+
 ## ...
 
 Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning.
