@@ -73,7 +73,7 @@ This page addresses developing captions for pre-recorded media. Live captions ar
 </ul>
 </div>
 
-## Captions Considerations
+## Skills and Tools
 
 Creating captions requires typing up audio (&quot;transcribing&quot;) and formatting it in a file with timestamps. It is fairly difficult to transcribe an audio file, and takes quite a bit of time for people who don't have the software and skill for it. The file format for captions are simple, yet it's tedious to add timestamps, especially without software or service for developing caption files.
 
