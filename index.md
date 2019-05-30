@@ -53,10 +53,10 @@ The following elements make media accessible to people who cannot hear, people w
 
 This resource walks you through understanding accessible media, whether you are outsourcing some development or developing it all in-house.
 * [Planning Media Accessibility](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/planning/) &mdash; helps you **figure out what your specific video or audio needs,** and links to standards.
-* [Creating Video and Audio Content](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/media-content/)
-* [Creating Audio Description of Visual Information](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/description/)
-* [Creating Captions](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/)
-* [Creating Transcripts](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/transcripts/)
+* [Video and Audio Content](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/media-content/)
+* [Audio Description of Visual Information](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/description/)
+* [Captions](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/)
+* [Transcripts](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/transcripts/)
 * [Accessible Media Player](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/player/)
 
 ## Example
