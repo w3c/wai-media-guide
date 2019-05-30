@@ -1,7 +1,7 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
-title: "Creating Transcripts"   # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Create Transcripts" # A short title that is used in the navigation
+title: "Transcripts"   # Do not translate "title:". Do translate the text after "title:".
+nav_title: "Transcripts" # A short title that is used in the navigation
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-04-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translator: "@@"   # Replace @@ with name or names separated with a comma
@@ -30,7 +30,7 @@ This page provides guidance on creating transcripts.
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
-{::options toc_levels="2" /}
+{::options toc_levels="2,3" /}
 {:toc}
 
 {::nomarkdown}
@@ -71,7 +71,7 @@ Interactive transcripts highlight text phrases as they are spoken. Users can sel
 </ul>
 </div>
 
-### Providing a Descriptive Transcript for Your Videos
+#### Providing a Descriptive Transcript for Your Videos
 
 <p>Descriptive transcripts are not required to meet WCAG Level AA. However, they:</p>
 <ul>
@@ -107,7 +107,7 @@ This example is for developing a descriptive transcript from:
 {% include box.html type="end" %}
 {:/}
 
-## What to Include in Transcripts
+### What to Include in Transcripts
 
 In basic transcripts, include all speech and other relevant non-speech sound, such as this-good-example.
 
@@ -117,7 +117,7 @@ Add information to make the trascript more useful. For example, add headings, li
 
 {% include excol.html type="start" id="" %}
 
-### Tips
+#### Tips
 
 {% include excol.html type="middle" %}
 
@@ -161,7 +161,7 @@ Transcripts generally include all of the audio information from the captions, an
 
 {% include excol.html type="end" %}
 
-## How to Format Transcripts
+### How to Format Transcripts
 
 Most transcripts on the web are provided in HTML. There is not a set format for transcripts. You can choose how to present them based on your content.
 
@@ -179,7 +179,7 @@ A transcript of a podcast can be simple text paragraphs with the speakers identi
 
 A descriptive transcript can be in a table so that readers can easily read only the audio information down a column if they choose. A [descriptive transcript example is below](#descriptive).
 
-## Where to Put Transcripts
+### Where to Put Transcripts
 
 Transcripts can be:
 * Included on the same web page with the media. ([example decriptive transcript at the bottom of same page with video](https://www.w3.org/WAI/perspective-videos/captions/#transcript))
