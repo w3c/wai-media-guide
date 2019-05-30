@@ -225,6 +225,7 @@ Accessibility requirements for video and audio are different based on if they ar
 
 ### More
 
+...Providing a descriptive transcript for videos (or basic transcript for audio-only) meets a wide range of accesibility needs.]...<br>
 Although descriptive transcripts are not required at WCAG Level AA, they are:
 * Needed for most videos to be accessible to people who are Deaf-blind
 * Easy and inexpensive to develop using captions and audio description that you already have to meet Level AA
