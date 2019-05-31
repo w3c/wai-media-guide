@@ -60,7 +60,7 @@ Spoken audio **translated into another language** is called:
 * _subtitles_ in areas that use "caption" terminology
 * _interlingual subtitles_ in areas that use "intralingual subtitles" terminology
 
-_Subtitles_ are implemented like captions. Subtitles are usually only the spoken audio (for people who can hear the audio but do not know the spoken language). They can be a translation of the caption content, including non-speech audio information.
+_Subtitles_ are implemented like captions. Subtitles/intralingual subtitles are usually only the spoken audio (for people who can hear the audio but do not know the spoken language). They can be a translation of the caption content, including non-speech audio information.
 
 #### Interactive Transcripts from Captions
 
