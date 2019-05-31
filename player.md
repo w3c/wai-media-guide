@@ -13,6 +13,8 @@ github:
    repository: w3c/wai-media-guide
    path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". 
+navigation:
+  previous:     /design-develop/media/sign-languages/
 ---
 
 {::nomarkdown}
@@ -57,4 +59,4 @@ The following resource lists accessibility support in several players: **...[old
 Each media player provides documentation of the steps to set it up in a web page. For example [AblePlayer Setup Steps](setup-step-1-use-html5-doctype).
 
 
-<p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
+

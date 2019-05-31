@@ -13,6 +13,9 @@ github:
    repository: w3c/wai-media-guide
    path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". 
+navigation:
+  previous: /design-develop/media/planning/
+  next:     /design-develop/media/description/
 ---
 
 {::nomarkdown}
@@ -151,4 +154,4 @@ An example of this is the [Web Accessibility Perspectives: Video Captions](https
 
 **See more information in [Creating Audio Description of Visual Information](https://deploy-preview-6--wai-media-guide.netlify.com/design-develop/media-guide/description/).**
 
-<p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
+

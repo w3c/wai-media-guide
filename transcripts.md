@@ -13,6 +13,9 @@ github:
    repository: w3c/wai-media-guide
    path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". 
+navigation:
+  previous: /design-develop/media/captions/
+  next:     /design-develop/media/sign-languages/
 ---
 
 {::nomarkdown}
@@ -274,9 +277,6 @@ That's the situation for everyone who can't hear.
 {% include box.html type="end" %}
 {:/}
 
-Notice that the single lines in the captionfiles have been grouped together in table cells.
+Notice that the single lines in the caption files have been grouped together in table cells.
 
 <p style="text-align:center"><em>[? detailed instructions &/or video showing slh's process for quickly developing descriptive transcript from the 2 VTT files]</em></p>
-
-<p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
-

@@ -13,6 +13,8 @@ github:
    repository: w3c/wai-media-guide
    path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". 
+navigation:
+  next: /design-develop/media/planning/
 ---
 
 {::nomarkdown}

@@ -7,12 +7,15 @@ last_updated: 2019-04-10   # Put the date of this translation YYYY-MM-DD (with m
 # translator: "@@"   # Replace @@ with name or names separated with a comma
 # contributors: "@@"   # Replace @@ with name(s) or delete this line
 permalink: /design-develop/media/planning/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
-ref: /design-develop/media/planning   # Do not change this
+ref: /design-develop/media/planning/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
    path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". 
+navigation:
+  previous: /design-develop/media/
+  next:     /design-develop/media/media-content/
 ---
 
 {::nomarkdown}
@@ -256,4 +259,4 @@ To learn more about WCAG standards for media, see [Understanding Guideline 1.2: 
 
 
 
-<p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
+

@@ -13,6 +13,9 @@ github:
    repository: w3c/wai-media-guide
    path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". 
+navigation:
+  previous: /design-develop/media/description/
+  next:     /design-develop/media/transcripts/
 ---
 
 {::nomarkdown}
@@ -51,7 +54,9 @@ Most are "closed captions" that can be hidden or shown by people watching the vi
 
 #### Related to Captions
 
-Caption files are used by media players to provide _interactive transcripts_. Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. (Some players provide interactive transcript funcationality, and some do not.) <img src="{{ "/content-images/interactive-transcript.png" | relative_url }}" alt="">
+Caption files are used by media players to provide _interactive transcripts_. Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. (Some players provide interactive transcript functionality, and some do not.) 
+
+<img src="{{ "/content-images/interactive-transcript.png" | relative_url }}" alt="">
 
 _Subtitles_ are the spoken audio translated into another language. They are implemented like captions. Subtitles can be only the spoken audio (for people who can hear the audio) or can be a translation of the caption content including non-speech audio information.
 
@@ -251,4 +256,4 @@ WEBVTT
 Other caption formats are: Timed Text Markup Language ([TTML](https://www.w3.org/TR/ttml2/)) and [SRT](https://matroska.org/technical/specs/subtitles/srt.html).
 
 
-<p style="text-align:center"><strong>[ < Previous &nbsp;&nbsp;&nbsp; Next > ]</strong></p>
+

@@ -1,0 +1,47 @@
+{%- if page.lang -%}{%- assign lang = page.lang -%}{%- else -%}{%- assign lang = "en" -%}{%- endif -%}
+{%- if page.navigation -%}
+{%- assign prev=site.documents | where:"ref", page.navigation.previous | where: "lang", lang | first -%}
+{%- unless prev.url -%}
+  {%- assign prev=site.pages | where:"ref", page.navigation.previous | where: "lang", lang | first -%}
+{% endunless %}
+
+{%- assign next=site.documents | where:"ref", page.navigation.next | where: "lang", lang | first -%}
+{%- unless next.url -%}
+  {%- assign next=site.pages | where:"ref", page.navigation.next | where: "lang", lang | first -%}
+{% endunless %}
+
+{%- assign col = site.collections | where: "label", page.collection | first -%}
+{%- unless col.prevnext == false -%}
+{%- if page.group -%}
+  {%- assign docs = col.docs | where: "group", page.group | where: "lang", lang -%}
+{%- else -%}
+  {%- assign docs = col.docs | where: "lang", lang -%}
+{%- endif -%}
+<nav class="pager" aria-label="Previous/Next Page" style="clear: both;">
+  <ul>
+    {%- if page.navigation.previous -%}
+    <li class="pager--item previous">
+      <a href="{{prev.url | relative_url }}">
+        {% include_cached icon.html name="arrow-left" class="pager--item-icon" %}
+        <span class="pager--item-text">
+          <span class="pager--item-text-direction">{% include t.html t="Previous" %}:</span>
+          <span class="pager--item-text-target">{% if prev.nav_title %}{{prev.nav_title}}{% else %}{{prev.title}}{% endif %}</span>
+        </span>
+      </a>
+    </li>
+    {%- endif -%}
+    {%- if page.navigation.next -%}
+    <li class="pager--item next">
+      <a href="{{next.url | relative_url }}">
+        {% include_cached icon.html name="arrow-right" class="pager--item-icon" %}
+        <span class="pager--item-text">
+          <span class="pager--item-text-direction">{% include t.html t="Next" %}:</span>
+          <span class="pager--item-text-target">{% if next.nav_title %}{{next.nav_title}}{% else %}{{next.title}}{% endif %}</span>
+        </span>
+      </a>
+    </li>
+  </ul>
+  {%- endif -%}
+</nav>
+{%- endunless -%}
+{%- endif -%}
