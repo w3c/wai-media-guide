@@ -1,7 +1,7 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
-title: "Captions"   # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Captions" # A short title that is used in the navigation
+title: "Captions/Subtitles"   # Do not translate "title:". Do translate the text after "title:".
+nav_title: "Captions/Subtitles" # A short title that is used in the navigation
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-04-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translator: "@@"   # Replace @@ with name or names separated with a comma
@@ -22,7 +22,7 @@ navigation:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides guidance on understanding and creating captions.
+This page provides guidance on understanding and creating captions and subtitles.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -44,7 +44,7 @@ _Captions are only one aspect of making audio and video accessible. For more, se
 
 ## Introduction
 
-_Who:_ Captions provide content to people who are Deaf and others who cannot hear the audio. They are also used by people who process written information better than audio.
+_Who:_ Captions (also called "intralingual subtitles") provide content to people who are Deaf and others who cannot hear the audio. They are also used by people who process written information better than audio.
 
 <img src="{{ "/content-images/captions.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
@@ -52,13 +52,21 @@ _What:_ Captions are a text version of the speech and non-speech audio informati
 
 Most are "closed captions" that can be hidden or shown by people watching the video. They can be "open captions" that are always displayed and cannot be turned off.
 
-#### Related to Captions
+### Captions and Subtitles
 
-Caption files are used by media players to provide _interactive transcripts_. Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. (Some players provide interactive transcript functionality, and some do not.) 
+Captions are called "intralingual subtitles" in some areas. This resource uses the term "captions" throughout.
+
+Spoken audio **translated into another language** is called:
+* _subtitles_ in areas that use "caption" terminology
+* _interlingual subtitles_ in areas that use "intralingual subtitles" terminology
+
+_Subtitles_ are implemented like captions. Subtitles are usually only the spoken audio (for people who can hear the audio but do not know the spoken language). They can be a translation of the caption content, including non-speech audio information.
+
+#### Interactive Transcripts from Captions
+
+Caption files are used by media players to provide _interactive transcripts_. Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. Some players provide interactive transcript functionality, and some do not.)
 
 <img src="{{ "/content-images/interactive-transcript.png" | relative_url }}" alt="">
-
-_Subtitles_ are the spoken audio translated into another language. They are implemented like captions. Subtitles can be only the spoken audio (for people who can hear the audio) or can be a translation of the caption content including non-speech audio information.
 
 #### Notes
 
