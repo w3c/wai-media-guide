@@ -45,7 +45,7 @@ This resource helps you make your media:
 
 The following elements make media accessible to people who cannot hear, people who cannot see, and others. Some media needs all of these elements, and others need only a transcript.
 
-* **Captions** &mdash; Captions provide content to people who are Deaf and others who cannot hear the audio. Captions are a text version of the speech and non-speech audio information needed to understand the content. _Subtitles_ are the spoken audio translated into another language.
+* **Captions/Subtitles** &mdash; Captions (also called "intralingual subtitles") provide content to people who are Deaf and others who cannot hear the audio. Captions are a text version of the speech and non-speech audio information needed to understand the content. _Subtitles_ are the spoken audio translated into another language.
 * **Transcripts** &mdash; Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. _Descriptive transcripts_ also include visual information needed to understand the content. Descriptive transcripts are required to provide content to people who are both Deaf and blind.
 * **Audio Description** &mdash; Audio description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content.
 * **Sign Language** &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For most people who are Deaf, sign language is their native language, and some do not understand written language well.
@@ -58,7 +58,7 @@ This resource walks you through understanding accessible media, whether you are 
 * [Planning Media Accessibility](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/planning/) &mdash; helps you **figure out what your specific video or audio needs,** and links to standards.
 * [Video and Audio Content](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/media-content/)
 * [Audio Description of Visual Information](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/description/)
-* [Captions](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/)
+* [Captions/Subtitles](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/)
 * [Transcripts](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/transcripts/)
 * [Accessible Media Player](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/player/)
 
