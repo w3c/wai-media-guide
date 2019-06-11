@@ -21,7 +21,7 @@ navigation:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This resource helps you make your media:
+This Web Accessibility Initiative (WAI) resource helps you make your media:
 * accessible to people with disabilities
 * meet international standards
 
