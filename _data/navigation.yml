@@ -159,11 +159,23 @@
     url: "/tips/designing/"
   - name: Tips for Developing
     url: "/tips/developing/"
-  - name: Making Video & Audio Accessible
-    url: "/design-develop/media-guide/"
-#   pages:
-#     - name: Sub-Page
-#       url: "/design-develop/media-guide/sub-page-permalink/"
+  - name: Audio & Video Media
+    url: "/design-develop/media/"
+    pages:
+      - name: Planning Media
+        url: "/design-develop/media/planning/"        
+      - name: Audio & Video Content
+        url: "/design-develop/media/media-content/"
+      - name: Description
+        url: "/design-develop/media/description/"
+      - name: Captions/Subtitles
+        url: "/design-develop/media/captions/"
+      - name: Transcripts
+        url: "/design-develop/media/transcripts/"
+      - name: Sign Languages
+        url: "/design-develop/media/sign-languages/"
+      - name: Media Player
+        url: "/design-develop/media/player/"
   - name: Tutorials
     url: "https://www.w3.org/WAI/tutorials/"
     different: true
