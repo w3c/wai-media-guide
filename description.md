@@ -2,6 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 title: "Audio Description of Visual Information"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Audio Description" # A short title that is used in the navigation
+doc-note-type: draft
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-04-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translator: "@@"   # Replace @@ with name or names separated with a comma
