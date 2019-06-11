@@ -46,6 +46,8 @@ _Who:_ Audio description provides content to people who are blind and others who
 
 _What:_ Audio description describes visual information needed to understand the content. It is usually narration added to the soundtrack.
 
+_Example:_ [Video that includes audio description of the visual information (YouTube)](https://www.youtube.com/watch?v=4qIordU8vT8)
+
 <p style="text-align:center"><em>[optional image: blind person listening to video]</em></p>
 
 #### Terminology
