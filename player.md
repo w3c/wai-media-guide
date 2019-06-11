@@ -50,7 +50,7 @@ HTML5 lets you embed audio and video with the ```<audio>```, ```<video>```, and 
 
 Several resources on the web provide guidance on embedding audio and video in HTML5. For example, [Video and audio content]( https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content) and [```<video>```: The Video Embed element]( https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video).
 
-Accessible media players provide a user interface that works without a keyboard, through speech interface, and by screen reader users. …maybe list more specifics here, or just rely on the pointed-to-listing, &/or say More details are in the [Media Accessibility User Requirements document]( https://www.w3.org/TR/media-accessibility-reqs/) – but probably not 'cause that's more info than most people really need here…
+Accessible media players provide a user interface that works without a keyboard, through speech interface, and by screen reader users. ... needs to support: keyboard navigation, audio descriptions, captions, transcripts... maybe list more specifics here, or just rely on the pointed-to-listing, &/or say More details are in the [Media Accessibility User Requirements document]( https://www.w3.org/TR/media-accessibility-reqs/) – but probably not 'cause that's more info than most people really need here…
 
 **Rather than coding all the things needed to make a player support accessibility, most organizations choose to use an existing player with good accessibility support.** There are players developed specifically for accessibility. Some are free, open source and some are commercial.
 
