@@ -1,0 +1,11 @@
+[Settings]
+
+ID = "wai-media-guide"
+
+[build]
+
+command = "bundle exec jekyll build --config '_config.yml,_config_staging.yml'"
+
+[[redirects]]
+  from = "/"
+  to = "/design-develop/media/"
