@@ -64,7 +64,7 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
     <ul>
       <li>If yes,
         <ul>
-          <li><strong>[_] < a href="av-content#audio-only-and-videos">Audio content</a> </strong> that works for people who cannot hear well or cannot see.</li>  
+          <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> </strong> that works for people who cannot hear well or cannot see.</li>  
           <li><strong>[_] <a href="/design-develop/media/captions">Captions</a> </strong>that provide the information as text synchronized with the audio for people who are Deaf or hard of hearing.</li>
           <li>[_] <em>Optionally,</em> <a href="/design-develop/media/transcripts">Transcript of audio information</a> that provides the text separate from the video.<br><em>(This transcript is the same text from the captions file, in a different format.)</em></li>
         </ul>
