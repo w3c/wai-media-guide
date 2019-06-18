@@ -43,6 +43,7 @@ This page addresses accessibility considerations for planning and producing vide
 _This page covers only some aspects of making audio and video accessible. For more, see [Making Video and Audio Accessible - Introduction](http://@@)._
 
 ## Introduction
+{:.no_toc}
 
 This page introduces things to consider when planning, scripting, storyboarding, recording, and producing audio and video.
 
