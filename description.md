@@ -57,10 +57,6 @@ Audio description is called "described video" in some areas, such as Canada.
 
 This page uses "described video" in some places as a shortened form of "a video that includes audio description of the visual information".
 
-#### Scope
-
-This page addresses common types of videos designed for the web such as instructional videos, training videos, recordings of presentations, and such. It does **not** address all the issues around full-feature movies, television shows, and such.
-
 #### Audio Description Considerations
 
 When accessibility is considered before videos are produced, it significantly cuts down on cost and effort to develop audio description. For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers as the video is planned and created, and you don't need separate audio description, thus there is no additional cost.
