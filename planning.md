@@ -88,7 +88,8 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 <p><strong>[_] <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/player/">Media player</a> </strong>that ...</p>
 </div>
 
-### Informing Users When None Needed {#none}
+## Informing Users When None Needed {#none}
+{:.no_toc}
 
 <p>If your video does not need captions (because there is no substantive audio content) or does not need audio description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it. For example:</p>
 
