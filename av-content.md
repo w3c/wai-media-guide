@@ -119,7 +119,7 @@ For many videos, the best way to handle audio description is not to need it at a
   </tr>
 </table>
 
-Guidance on what to include is in the "Creating Audio Description of Visual Information" page,  [Tips for Writing Description section]https://deploy-preview-6--wai-media-guide.netlify.com/design-develop/media-guide/description/#tips-for-writing-description).
+Guidance on what to include is in the "Creating Audio Description of Visual Information" page, [Tips for Writing Description section](/description/#tips-for-writing-description).
 
 #### Time for Description
 
@@ -154,4 +154,4 @@ An example of this is the [Web Accessibility Perspectives: Video Captions](https
 
 #### More About Audio Description
 
-**See more information in [Creating Audio Description of Visual Information](https://deploy-preview-6--wai-media-guide.netlify.com/design-develop/media-guide/description/).**
+**See more information in [Creating Audio Description of Visual Information](/description/).**
