@@ -71,13 +71,15 @@ If you have live captions and you post a recording, you will probably need to do
 
 This rest of this page addresses developing captions for pre-recorded media.
 
-### Interactive Transcripts from Captions {:.no_toc}
+### Interactive Transcripts from Captions
+{:.no_toc}
 
 Caption files are used by media players to provide _interactive transcripts_. Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. Some players provide interactive transcript functionality, and some do not.)
 
 <img src="{{ "/content-images/interactive-transcript.png" | relative_url }}" alt="">
 
-### Notes {:.no_toc}
+### Notes
+{:.no_toc}
 
 For optimum accessibility, provide a separate caption file of the audio description.
 
