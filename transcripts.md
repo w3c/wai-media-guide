@@ -75,7 +75,8 @@ Interactive transcripts highlight text phrases as they are spoken. Users can sel
 </ul>
 </div>
 
-#### Providing a Descriptive Transcript for Your Videos
+### Providing a Descriptive Transcript for Your Videos
+{:.no_toc}
 
 <p>Descriptive transcripts are not required to meet WCAG Level AA. However, they:</p>
 <ul>
@@ -84,7 +85,7 @@ Interactive transcripts highlight text phrases as they are spoken. Users can sel
   <li><strong>are easy and inexpensive to develop</strong> using captions and audio description that you already have to meet Level AA</li>
 </ul>
 
-## Creeating Transcripts
+## Creating Transcripts
 
 **Transcripts and captions include the same text, so one can be used to develop the other.**
 
