@@ -135,10 +135,10 @@ Include specific accessibility requirements in your:
 Here is an example workflow for developing an accessible video, with notes on who develops the material:
 
 {::nomarkdown}
-{% include box.html type="start" title="Workflow and Responsibilities" class="" %}
+{% include box.html type="start" title="Workflow and Responsibilities @@ TEST @@" class="" %}
 {:/}
 
-1. Address accessibility in **[video content](av-content)** as the video is planned and produced.<br>_By:_ Script writers, videographers, producers, and others.
+1. Address accessibility in **[video content](/av-content)** as the video is planned and produced.<br>_By:_ Script writers, videographers, producers, and others.
 
 2. Develop an **[audio described version](description)** of the video at the same time as the main video, if needed.<br>_By:_ The same people doing the main video also do the describe version.
 
