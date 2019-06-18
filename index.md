@@ -53,11 +53,11 @@ The following elements make media accessible to people who cannot hear, people w
 * **Media player** &mdash; Media players have different levels of accessibility support. For example, some provide a separate audio track for description and some use the caption file to provide an _interactive transcript_.
 * **Video and Audio Content** &mdash; There are also accessibility requirements for the video or audio content itself. For example, in videos, avoid flashing that can cause seizures.
 
-## Making Media Accessible
+## Making Media Accessible @@ test @@
 
 This resource walks you through understanding accessible media, whether you are outsourcing it or creating it in-house.
-* [Planning Media Accessibility](/planning/) &mdash; helps you **figure out what your specific video or audio needs,** and links to standards.
-* [Video and Audio Content](/av-content/)
+* [Planning Media Accessibility](/design-develop/media/planning/) &mdash; helps you **figure out what your specific video or audio needs,** and links to standards.
+* [Video and Audio Content](av-content)
 * [Audio Description of Visual Information](/description/)
 * [Captions/Subtitles](/captions/)
 * [Transcripts](/transcripts/)
