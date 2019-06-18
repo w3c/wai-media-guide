@@ -63,7 +63,7 @@ Spoken audio **translated into another language** is called:
 
 _Subtitles_ are implemented like captions. Subtitles/intralingual subtitles are usually only the spoken audio (for people who can hear the audio but do not know the spoken language). They can be a translation of the caption content, including non-speech audio information.
 
-#### Live Captions
+### Live Captions
 
 Live captions are usually done by professional Communication Access Realtime Translation (CART) providers. This page addresses developing captions for pre-recorded media.
 
