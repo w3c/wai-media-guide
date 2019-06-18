@@ -44,16 +44,16 @@ This page helps you plan accessible media. It:
 {% include toc.html type="end" %}
 {:/}
 
-_For brief descriptions of captions, transcripts, audio description, and sign language, see the previous page: [Making Video and Audio Accessible - Introduction](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/)._
+_For brief descriptions of captions, transcripts, audio description, and sign language, see the previous page: [Making Video and Audio Accessible - Introduction](/index/)._
 
 
 ## What does my audio-only (e.g., podcast) need to be accessible?
 
 <div id="tree-a" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
 <ul>
-  <li><strong>[_] <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/media-content/#audio-only-and-videos">Content</a> </strong>that ...</li>   
-  <li><strong>[_] <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/transcripts/">Transcript</a> </strong>that provides the audio information as text to people who are Deaf or hard of hearing.</li>
-  <li>[_] <em>Optionally,</em> <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/">Captions</a> that provides text synchronized with the audio for people who are hard of hearing and want to listen the audio.</li>
+  <li><strong>[_] <a href="/av-content/#audio-only-and-videos">Content</a> </strong>that ...</li>   
+  <li><strong>[_] <a href="/transcripts/">Transcript</a> </strong>that provides the audio information as text to people who are Deaf or hard of hearing.</li>
+  <li>[_] <em>Optionally,</em> <a href="/captions/">Captions</a> that provides text synchronized with the audio for people who are hard of hearing and want to listen the audio.</li>
 </ul>
 </div>
 
@@ -64,9 +64,9 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
     <ul>
       <li>If yes,
         <ul>
-          <li><strong>[_] <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/media-content/#audio-only-and-videos">Audio content</a> </strong>that ...</li>  
-          <li><strong>[_] <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/">Captions</a> </strong>that provide the information as text synchronized with the audio for people who are Deaf or hard of hearing.</li>
-          <li>[_] <em>Optionally,</em> <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/transcripts/">Transcript of audio information</a> that provides the text separate from the video.<br><em>(This transcript is the same text from the captions file, in a different format.)</em></li>
+          <li><strong>[_] <a href="/av-content/#audio-only-and-videos">Audio content</a> </strong>that ...</li>  
+          <li><strong>[_] <a href="/captions/">Captions</a> </strong>that provide the information as text synchronized with the audio for people who are Deaf or hard of hearing.</li>
+          <li>[_] <em>Optionally,</em> <a href="/transcripts/">Transcript of audio information</a> that provides the text separate from the video.<br><em>(This transcript is the same text from the captions file, in a different format.)</em></li>
         </ul>
       </li>
       <li>If no, <a href="#none">inform users</a>.</li>
@@ -76,16 +76,16 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
     <ul>
       <li>If yes,
         <ul>
-          <li><strong>[_] <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/media-content/">Video content</a> </strong>that ...</li>  
-          <li><strong>[_] <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/description/">Audio description of the visual information</a> </strong>that provides the information to people who are blind and want to listen to the video.</li>
-          <li><strong>[_] <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/transcripts/">Descriptive transcript</a> </strong>that provides the audio and video information to people who are Deaf-blind.<br><em>(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)</em></li>
-          <li>[_] <em>Optionally,</em> <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/sign-language/">Sign language(s)</a> that ...</li>  
+          <li><strong>[_] <a href="/av-content/">Video content</a> </strong>that ...</li>  
+          <li><strong>[_] <a href="/description/">Audio description of the visual information</a> </strong>that provides the information to people who are blind and want to listen to the video.</li>
+          <li><strong>[_] <a href="/transcripts/">Descriptive transcript</a> </strong>that provides the audio and video information to people who are Deaf-blind.<br><em>(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)</em></li>
+          <li>[_] <em>Optionally,</em> <a href="/sign-language/">Sign language(s)</a> that ...</li>  
         </ul>
       </li>
       <li>If no, <a href="#none">inform users</a>.</li>
     </ul>
 
-<p><strong>[_] <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/player/">Media player</a> </strong>that ...</p>
+<p><strong>[_] <a href="/player/">Media player</a> </strong>that ...</p>
 </div>
 
 ## Informing Users When None Needed {#none}
@@ -138,24 +138,24 @@ Here is an example workflow for developing an accessible video, with notes on wh
 {% include box.html type="start" title="Workflow and Responsibilities" class="" %}
 {:/}
 
-1. Address accessibility in **[video content](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/media-content/)** as the video is planned and produced.<br>_By:_ Script writers, videographers, producers, and others.
+1. Address accessibility in **[video content](/av-content/)** as the video is planned and produced.<br>_By:_ Script writers, videographers, producers, and others.
 
-2. Develop an **[audio described version](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/description/)** of the video at the same time as the main video, if needed.<br>_By:_ The same people doing the main video also do the describe version.
+2. Develop an **[audio described version](/description/)** of the video at the same time as the main video, if needed.<br>_By:_ The same people doing the main video also do the describe version.
 
-3. Develop **[captions](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/)** for the main video, for the audio described version, and of the audio description itself.<br>_By:_ Usually if the video is professionally produced, the producers provide captions. Sometimes when informal videos are developed in-house, captions are outsourced.
+3. Develop **[captions](/captions/)** for the main video, for the audio described version, and of the audio description itself.<br>_By:_ Usually if the video is professionally produced, the producers provide captions. Sometimes when informal videos are developed in-house, captions are outsourced.
 
-4. Develop a **[descriptive transcript](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/transcripts/)** using the text from the caption files.<br>_By:_ Often transcripts are developed in-house from caption files.
+4. Develop a **[descriptive transcript](/transcripts/)** using the text from the caption files.<br>_By:_ Often transcripts are developed in-house from caption files.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
 To help you plan in-house and outsourced work, the sub-pages of this resource include **considerations, skills, and tools needed** for creating accessible media:
-* [Audio Description Considerations](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/description/#audio-description-considerations)
-* [Captions, Skills and Tools](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/#skills-and-tools) and <a href="https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/captions/#automatic-captions-are-not-sufficient">Automatic Captions are Not Sufficient</a>
-* [Transcripts, Skills and Tools](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/transcripts/#skills-and-tools)
+* [Audio Description Considerations](/description/#audio-description-considerations)
+* [Captions, Skills and Tools](/captions/#skills-and-tools) and <a href="/captions/#automatic-captions-are-not-sufficient">Automatic Captions are Not Sufficient</a>
+* [Transcripts, Skills and Tools](/transcripts/#skills-and-tools)
 
-When planning for accessible media, it maybe helpful to communicate the **[additional benefits](https://deploy-preview-7--wai-media-guide.netlify.com/design-develop/media/#additional-benefits) to all users** and to your organization, such as search engine optimization (SEO).
+When planning for accessible media, it maybe helpful to communicate the **[additional benefits](/index#additional-benefits) to all users** and to your organization, such as search engine optimization (SEO).
 
 ## Standards
 
