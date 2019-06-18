@@ -162,7 +162,7 @@
   - name: Audio & Video Media
     url: "/design-develop/media/"
     pages:
-      - name: Planning Media
+      - name: Planning
         url: "/design-develop/media/planning/"        
       - name: Audio & Video Content
         url: "/design-develop/media/av-content/"
