@@ -259,6 +259,8 @@ WEBVTT
 ```
 
 {::nomarkdown}
+
+.
 {% include box.html type="end" %}
 {:/}
 
