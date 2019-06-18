@@ -26,7 +26,7 @@ navigation:
 This page helps you plan accessible media. It:
 * helps you **figure out what your specific audio or video needs** (captions, audio description, a basic transcript, or a descriptive transcript)
 * helps you plan what to develop in-house and what to outsource
-* shows the Web Content Accessibility Guidelines (<a href="https://www.w3.org/WAI/standards-guidelines/wcag">WCAG</a>) standards for media accessibility media
+* shows the Web Content Accessibility Guidelines (<a href="https://www.w3.org/WAI/standards-guidelines/wcag">WCAG</a>) standards for audio and video media
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -51,9 +51,9 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 
 <div id="tree-a" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
 <ul>
-  <li><strong>[_] <a href="av-content#audio-only-and-videos">Content</a> </strong>that ...</li>   
-  <li><strong>[_] <a href="transcripts">Transcript</a> </strong>that provides the audio information as text to people who are Deaf or hard of hearing.</li>
-  <li>[_] <em>Optionally,</em> <a href="captions">Captions</a> that provides text synchronized with the audio for people who are hard of hearing and want to listen the audio.</li>
+  <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Content</a> </strong>that ...</li>   
+  <li><strong>[_] <a href="/design-develop/media/transcripts">Transcript</a> </strong>that provides the audio information as text to people who are Deaf or hard of hearing.</li>
+  <li>[_] <em>Optionally,</em> <a href="/design-develop/media/captions">Captions</a> that provides text synchronized with the audio for people who are hard of hearing and want to listen the audio.</li>
 </ul>
 </div>
 
@@ -242,7 +242,7 @@ Accessibility requirements for video and audio are different based on if they ar
 
 ### More
 
-...Providing a descriptive transcript for videos (or basic transcript for audio-only) meets a wide range of accesibility needs.]...<br>
+...Providing a descriptive transcript for videos (or basic transcript for audio-only) meets a wide range of accessibility needs.]...<br>
 @@
 <p>Descriptive transcripts are not required to meet WCAG Level AA. However, they:</p>
 <ul>
