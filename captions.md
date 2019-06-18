@@ -63,6 +63,10 @@ Spoken audio **translated into another language** is called:
 
 _Subtitles_ are implemented like captions. Subtitles/intralingual subtitles are usually only the spoken audio (for people who can hear the audio but do not know the spoken language). They can be a translation of the caption content, including non-speech audio information.
 
+#### Live Captions
+
+Live captions are usually done by professional Communication Access Realtime Translation (CART) providers. This page addresses developing captions for pre-recorded media.
+
 #### Interactive Transcripts from Captions
 
 Caption files are used by media players to provide _interactive transcripts_. Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. Some players provide interactive transcript functionality, and some do not.)
@@ -74,10 +78,6 @@ Caption files are used by media players to provide _interactive transcripts_. In
 For optimum accessibility, provide a separate caption file of the audio description.
 
 **Captions and transcripts include the same text, so one can be used to develop the other.**
-
-#### Scope
-
-This page addresses developing captions for pre-recorded media. Live captions are usually done by professional Communication Access Realtime Translation (CART) providers. Live captions are not addressed on this page.
 
 ## Does my Audio or Video Need Captions?
 
