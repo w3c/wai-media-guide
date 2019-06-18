@@ -57,7 +57,7 @@ Audio description is called "described video" in some areas, such as Canada.
 
 This page uses "described video" in some places as a shortened form of "a video that includes audio description of the visual information".
 
-#### Audio Description Considerations
+### Audio Description Considerations
 
 When accessibility is considered before videos are produced, it significantly cuts down on cost and effort to develop audio description. For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers as the video is planned and created, and you don't need separate audio description, thus there is no additional cost.
 
@@ -70,7 +70,9 @@ To add audio description to an existing video, you'll likely **need skills and t
 
 ## What Description to Provide for My Video?
 
-#### Content and Timing Considerations
+### Content and Timing Considerations
+{:.no_toc}
+
 First, figure out these issues about your video content and timing:
 * **Integrated** &mdash; For new videos, can the speakers describe the relevant visual information as the video is recorded? This works for well for some videos, such as presentations and instructional videos. For examples, see the "Creating Audio and Video Content" page, [Integrated Description section](@@).
 
