@@ -196,7 +196,7 @@ Here is an example workflow for developing an accessible video, with notes on wh
 
 5. Implement it in an **[accesible media player](player)** (usually an existing player with good accessibility support).<br>_By:_ Usually in-house web developers.
 
-@@ sign languages ??
+_@@ sign languages ? ([survey results](https://www.w3.org/2002/09/wbs/35532/AVmedia-21-jun/results#xsign))_
 
 {::nomarkdown}
 {% include box.html type="end" %}
