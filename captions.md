@@ -85,12 +85,43 @@ For optimum accessibility, provide a separate caption file of the audio descript
 
 **Captions and transcripts include the same text, so one can be used to develop the other.**
 
-## Does my Audio or Video Need Captions?
+## Does My Media Need Captions?
 
+**Audio-only (e.g., podcast):**
 <div id="tree-a" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
-<ul>
-  <li>< ...</li>
-</ul>
+  <ul>
+    <li>For live:
+      <ul>
+        <li>Captions are required to provide the audio content to people who are Deaf or hard of hearing.</li>
+      </ul>
+    </li>
+    <li>For pre-recorded:
+      <ul>
+        <li>Captions are **_not_** required. (Your audio content is provided in a [transcript](/design-develop/media/transcripts/).)</li>
+        <li>Captions are useful for who are hard of hearing to get the richness of listening to the audio and fill in what they don’t hear well by reading the captions.</li>
+      </ul>
+    </li>
+  </ul>
+</div>
+**Video-only (no audio content):**
+<div id="tree-a3" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
+  <ul>
+    <li>For live and pre-recorded:
+      <ul>
+        <li>Captions are **_not_** required (because there is no audio information).</li>
+      </ul>
+    </li>
+  </ul>
+</div>
+**Video with audio:**
+<div id="tree-a2" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
+  <ul>
+    <li>For live and pre-recorded:
+      <ul>
+        <li>Captions are required to provide the audio content to people who are Deaf or hard of hearing. </li>
+      </ul>
+    </li>
+  </ul>
 </div>
 
 ## Skills and Tools
