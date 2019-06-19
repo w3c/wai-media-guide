@@ -48,10 +48,10 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 
 
 ## What does my audio-only (e.g., podcast) need to be accessible?
-<div id="tree-ap" style="border: solid 1px #DDD; padding-bottom: 0;">
+<div id="tree-ap" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Pre-recorded audio:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <ul style="padding-bottom: 11px; padding-top: 0; margin-bottom: 0;">
+    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
       <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> </strong> that works for people who cannot hear well or cannot see.</li>
       <li><strong>[_] <a href="/design-develop/media/transcripts">Transcript</a> </strong> that provides the audio information as text to people who are Deaf or hard of hearing.</li>
       <li>[_] <em>Ideally,</em> <a href="/design-develop/media/captions">Captions</a> that provide text synchronized with the audio for people who are hard of hearing and want to listen the audio.</li>
@@ -59,10 +59,11 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
     </ul>
   </div>
 </div>
+
 <div id="tree-la" style="border: solid 1px #DDD; padding-bottom: 0;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Live audio:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <ul style="padding-bottom: 11px; padding-top: 0; margin-bottom: 0;">
+    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
       <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> </strong> that works for people who cannot hear well or cannot see.</li>
       <li><strong>[_] <a href="/design-develop/media/captions">Captions</a></strong> that provide text synchronized with the audio for people who are Deaf or hard of hearing.</li>
       <li>[_] <em>Ideally,</em> <a href="/design-develop/media/transcripts">Transcript</a> that provides the audio information as text to people who are Deaf-blind and cannot see captions (and use Braille).</li>
@@ -70,12 +71,12 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
     </ul>
   </div>
 </div>
+
 ## What does my video need to be accessible?
-<div id="tree-vp" style="border: solid 1px #DDD; padding-bottom: 0;">
+
+<div id="tree-vp" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Pre-recorded video:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;"> 
-    <!--    <ul style="padding-bottom: 11px; padding-top: 0; margin-bottom: 0;"> -->
-    
     <p><strong>Is there speech or other audio</strong> that is needed to understand the content?</p>
     <ul>
       <li>If yes,
@@ -101,13 +102,14 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
       </li>
       <li>If no, <a href="#none">inform users</a>.</li>
     </ul>
-    <p><strong>[_] <a href="/design-develop/media/player">Media player</a> </strong> that supports accessibility.</p>
+    <p style="padding-bottom: 11px; margin-bottom: 0;"><strong>[_] <a href="/design-develop/media/player">Media player</a> </strong> that supports accessibility.</p>
   </div>
 </div>
+
 <div id="tree-lv" style="border: solid 1px #DDD; padding-bottom: 0;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Live video:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;"> 
-    <!--    <ul style="padding-bottom: 11px; padding-top: 0; margin-bottom: 0;"> -->
+    <!--    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;"> -->
     <p><strong>Is there speech or other audio</strong> that is needed to understand the content?</p>
     <ul>
       <li>If yes,
@@ -132,7 +134,7 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
       </li>
       <li>If no, <a href="#none">inform users</a>.</li>
     </ul>
-    <p><strong>[_] <a href="/design-develop/media/player">Media player</a></strong> that supports accessibility.</p>
+    <p style="padding-bottom: 11px; margin-bottom: 0;"><strong>[_] <a href="/design-develop/media/player">Media player</a></strong> that supports accessibility.</p>
   </div>
 </div>
 
