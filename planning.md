@@ -58,7 +58,7 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
     <li>[_] <em>Ideally,</em> <a href="/design-develop/media/sign-languages">Sign language(s)</a> that provides the audio information to people who are Deaf and do not read text well.</li>
   </ul>
 </div>
-</div
+</div>
 
 <div id="tree-la" style="border: solid 1px #DDD; padding-bottom: 0;">
   <p style="background:#FFF; padding: 5px 0 0 11px; font-weight:bold; margin: 0;">Live Audio:</p>
