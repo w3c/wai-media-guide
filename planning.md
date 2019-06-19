@@ -48,76 +48,92 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 
 
 ## What does my audio-only (e.g., podcast) need to be accessible?
-
 <div id="tree-ap" style="border: solid 1px #DDD; padding-bottom: 0;">
-  <p style="background:#FFF; padding: 5px 0 0 11px; font-weight:bold; margin: 0;">Pre-recorded Audio:</p>
+  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Pre-recorded audio:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <ul style="padding-bottom: 11px; padding-top: 0; margin-bottom: 0;">    <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> </strong>that works for people who cannot hear well or cannot see.</li>
-    <li><strong>[_] <a href="/design-develop/media/transcripts">Transcript</a> </strong>that provides the audio information as text to people who are Deaf or hard of hearing.</li>
-    <li>[_] <em>Ideally,</em> <a href="/design-develop/media/captions">Captions</a> that provide text synchronized with the audio for people who are hard of hearing and want to listen the audio.</li>
-    <li>[_] <em>Ideally,</em> <a href="/design-develop/media/sign-languages">Sign language(s)</a> that provides the audio information to people who are Deaf and do not read text well.</li>
-  </ul>
+    <ul style="padding-bottom: 11px; padding-top: 0; margin-bottom: 0;">
+      <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> </strong> that works for people who cannot hear well or cannot see.</li>
+      <li><strong>[_] <a href="/design-develop/media/transcripts">Transcript</a> </strong> that provides the audio information as text to people who are Deaf or hard of hearing.</li>
+      <li>[_] <em>Ideally,</em> <a href="/design-develop/media/captions">Captions</a> that provide text synchronized with the audio for people who are hard of hearing and want to listen the audio.</li>
+      <li>[_] <em>Ideally,</em> <a href="/design-develop/media/sign-languages">Sign language(s)</a> that provides the audio information to people who are Deaf and do not read text well.</li>
+    </ul>
+  </div>
 </div>
-</div>
-
 <div id="tree-la" style="border: solid 1px #DDD; padding-bottom: 0;">
-  <p style="background:#FFF; padding: 5px 0 0 11px; font-weight:bold; margin: 0;">Live Audio:</p>
+  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Live audio:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <ul style="padding-bottom: 11px; padding-top: 0; margin-bottom: 0;">    <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> </strong>that works for people who cannot hear well or cannot see.</li>
-    <li><strong>[_] <a href="/design-develop/media/captions">Captions</a></strong> that provide text synchronized with the audio for people who are Deaf or hard of hearing.</li>
-    <li>[_] <em>Ideally,</em> <a href="/design-develop/media/transcripts">Transcript</a> that provides the audio information as text to people who are Deaf-blind and cannot see captions (and use Braille).</li>
-    <li>[_] <em>Ideally,</em> <a href="/design-develop/media/sign-languages">Sign language(s)</a> that provides the audio information to people who are Deaf and do not read text well.</li>
-  </ul>
+    <ul style="padding-bottom: 11px; padding-top: 0; margin-bottom: 0;">
+      <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> </strong> that works for people who cannot hear well or cannot see.</li>
+      <li><strong>[_] <a href="/design-develop/media/captions">Captions</a></strong> that provide text synchronized with the audio for people who are Deaf or hard of hearing.</li>
+      <li>[_] <em>Ideally,</em> <a href="/design-develop/media/transcripts">Transcript</a> that provides the audio information as text to people who are Deaf-blind and cannot see captions (and use Braille).</li>
+      <li>[_] <em>Ideally,</em> <a href="/design-develop/media/sign-languages">Sign language(s)</a> that provides the audio information to people who are Deaf and do not read text well.</li>
+    </ul>
+  </div>
 </div>
-</div>
-
 ## What does my video need to be accessible?
-
-{::nomarkdown}
-{% include box.html type="start" title="Pre-recorded video:" class="" %}
-{:/}
-
-<div id="tree-pv" style="background:#D9EDF7;">
-<p><strong>Is there speech or other audio</strong> that is needed to understand the content?</p>
+<div id="tree-vp" style="border: solid 1px #DDD; padding-bottom: 0;">
+  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Pre-recorded video:</p>
+  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;"> 
+    <!--    <ul style="padding-bottom: 11px; padding-top: 0; margin-bottom: 0;"> -->
+    
+    <p><strong>Is there speech or other audio</strong> that is needed to understand the content?</p>
     <ul>
       <li>If yes,
         <ul>
-          <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> </strong> that works for people who cannot hear well or cannot see.</li>  
-          <li><strong>[_] <a href="/design-develop/media/captions">Captions</a> </strong>that provide the information as text synchronized with the audio for people who are Deaf or hard of hearing.</li>
-          <li>[_] <em>Ideally,</em> <a href="/design-develop/media/transcripts">Transcript of audio information</a> that provides the text separate from the video.<br><em>(This transcript is the same text from the captions file, in a different format.)</em></li>
-          <li>[_] <em>Ideally,</em> <a href="/design-develop/media/sign-languages">Sign language(s)</a> that provides the audio information.</li>  
+          <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> </strong> that works for people who cannot hear well or cannot see.</li>
+          <li><strong>[_] <a href="/design-develop/media/captions">Captions</a> </strong> that provide the information as text synchronized with the audio for people who are Deaf or hard of hearing.</li>
+          <li>[_] <em>Ideally,</em> <a href="/design-develop/media/transcripts">Transcript of audio information</a> that provides the text separate from the video.<br>
+            <em>(This transcript is the same text from the captions file, in a different format.)</em></li>
+          <li>[_] <em>Ideally,</em> <a href="/design-develop/media/sign-languages">Sign language(s)</a> that provides the audio information.</li>
         </ul>
       </li>
       <li>If no, <a href="#none">inform users</a>.</li>
     </ul>
-
-<p><strong>Is there visual information</strong> that is needed to understand the content?</p>
+    <p><strong>Is there visual information</strong> that is needed to understand the content?</p>
     <ul>
       <li>If yes,
         <ul>
-          <li><strong>[_] <a href="/design-develop/media/av-content">Video content</a> </strong>that works for people who cannot see well.</li>  
-          <li><strong>[_] <a href="/design-develop/media/description">Audio description of the visual information</a> </strong>that provides the information to people who are blind and want to listen to the video.</li>
-          <li><strong>[_] <a href="/design-develop/media/transcripts">Descriptive transcript</a> </strong>that provides the audio and video information to people who are Deaf-blind.<br><em>(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)</em></li>
+          <li><strong>[_] <a href="/design-develop/media/av-content">Video content</a> </strong> that works for people who cannot see well.</li>
+          <li><strong>[_] <a href="/design-develop/media/description">Audio description of the visual information</a> </strong> that provides the information to people who are blind and want to listen to the video.</li>
+          <li><strong>[_] <a href="/design-develop/media/transcripts">Descriptive transcript</a> </strong> that provides the audio and video information to people who are Deaf-blind.<br>
+            <em>(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)</em></li>
         </ul>
       </li>
       <li>If no, <a href="#none">inform users</a>.</li>
     </ul>
-
-<p><strong>[_] <a href="/design-develop/media/player">Media player</a> </strong>that supports accessibility.</p>
+    <p><strong>[_] <a href="/design-develop/media/player">Media player</a> </strong> that supports accessibility.</p>
+  </div>
 </div>
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-
 <div id="tree-lv" style="border: solid 1px #DDD; padding-bottom: 0;">
-  <p style="background:#FFF; padding: 5px 0 0 11px; font-weight:bold; margin: 0;">Live video:</p>
-  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <ul style="padding-bottom: 11px; padding-top: 0; margin-bottom: 0;">    <li><strong>[_] <a href="/design-develop/media/captions">Captions</a></strong> that provide text synchronized with the audio for people who are Deaf or hard of hearing.</li>
-    <li>[_] <em>Ideally,</em> ... @@</li>
-  </ul>
-</div>
+  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Live video:</p>
+  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;"> 
+    <!--    <ul style="padding-bottom: 11px; padding-top: 0; margin-bottom: 0;"> -->
+    <p><strong>Is there speech or other audio</strong> that is needed to understand the content?</p>
+    <ul>
+      <li>If yes,
+        <ul>
+          <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a></strong> that works for people who cannot hear well or cannot see.</li>
+          <li><strong>[_] <a href="/design-develop/media/captions">Captions</a></strong> that provide the information as text synchronized with the audio for people who are Deaf or hard of hearing.</li>
+          <li>[_] <em>Ideally,</em> <a href="/design-develop/media/transcripts">Transcript of audio information</a> that provides the text separate from the video.</li>
+          <li>[_] <em>Ideally,</em> <a href="/design-develop/media/sign-languages">Sign language(s)</a> that provides the audio information.</li>
+        </ul>
+      </li>
+      <li>If no, <a href="#none">inform users</a>.</li>
+    </ul>
+    <p><strong>Is there visual information</strong> that is needed to understand the content?</p>
+    <ul>
+      <li>If yes,
+        <ul>
+          <li><strong>[_] <a href="/design-develop/media/av-content">Video content</a></strong> that works for people who cannot see well.</li>
+          <li>[_] <em>Ideally, </em><a href="/design-develop/media/description">Audio description of the visual information</a> that provides the information to people who are blind and want to listen to the video.</li>
+          <li>[_] <em>Ideally,</em> <a href="/design-develop/media/transcripts">Descriptive transcript</a> that provides the audio and video information to people who are Deaf-blind.<em><strong> </strong></em><br>
+            <em>(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)</em></li>
+        </ul>
+      </li>
+      <li>If no, <a href="#none">inform users</a>.</li>
+    </ul>
+    <p><strong>[_] <a href="/design-develop/media/player">Media player</a></strong> that supports accessibility.</p>
+  </div>
 </div>
 
 ## Informing Users When None Needed {#none}
