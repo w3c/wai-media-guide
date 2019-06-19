@@ -166,7 +166,19 @@ When planning for accessible media, it maybe helpful to communicate the **[addit
 
 Web Content Accessibility Guidelines (WCAG) is introduced in the [WCAG Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
-WCAG includes requirements for video and audio (&quot;media&quot;), at [Level](https://www.w3.org/WAI/WCAG21/Understanding/conformance.html#uc-levels-head) A, AA, and AAA. Most media is required by governing policies to meet Level AA &mdash; which includes both A and AA listed in the tables below.
+{::nomarkdown}
+{% include box.html type="start" class="" %}
+{:/}
+
+This resource uses most WCAG terminology, with a few differences:
+* "time-based media" in WCAG = "audio and video media" in this resource
+* "[alternative for time based media](https://www.w3.org/TR/WCAG#alt-time-based-mediadef)" in WCAG = "descriptive transcript" in this resource
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+WCAG includes requirements for audio and video media, at [Level](https://www.w3.org/WAI/WCAG21/Understanding/conformance.html#uc-levels-head) A, AA, and AAA. Most media is required by governing policies to meet Level AA &mdash; which includes both A and AA listed in the tables below.
 
 Accessibility requirements for video and audio are different based on if they are:
 * pre-recorded or live
@@ -177,7 +189,7 @@ Accessibility requirements for video and audio are different based on if they ar
 <table class="quiet">
 <tr>
 <th scope="col">&nbsp;</th>
-<th scope="col">Transcript <span class="normal-weight">(@@including auditory and visual content)</span></th>
+<th scope="col">Transcript <span class="normal-weight">(including auditory and visual content)</span></th>
 <th scope="col">Captions</th>
 <th scope="col">Audio Description <span class="normal-weight">(if visual content not in audio)</span></th>
 <th scope="col">Sign Language</th>
@@ -246,10 +258,6 @@ Accessibility requirements for video and audio are different based on if they ar
 ### More about Standards
 
 To learn more about WCAG standards for media, see [Understanding Guideline 1.2: Time-based Media](https://www.w3.org/WAI/WCAG21/Understanding/time-based-media).
-
-This resource uses most WCAG terminology, with a few differences:
-* "time-based media" in WCAG = "audio and video media" in this resource.
-* "[https://www.w3.org/TR/WCAG#alt-time-based-mediadef alternative for time based media]" in WCAG" = "transcript" in this resource.
 
 ### Descriptive Transcripts
 
