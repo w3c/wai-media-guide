@@ -1,6 +1,7 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 title: "Accessible Media Players"   # Do not translate "title:". Do translate the text after "title:".
+title_html: "Accessible Media Players<br><span style='background:yellow; font-size:65%'>Note: This page is not ready for detailed review yet.</span>"
 nav_title: "Media Player" # A short title that is used in the navigation
 doc-note-type: draft
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
