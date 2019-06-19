@@ -19,30 +19,6 @@ navigation:
   next:     /design-develop/media/player/
 ---
 
-{::nomarkdown}
-{% include box.html type="start" title="Summary" class="" %}
-{:/}
-
-...
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-{::nomarkdown}
-{% include toc.html type="start" title="Page Contents" %}
-{:/}
-
-- This will be replaced by an automatically generated TOC when using Markdown formatting.
-{::options toc_levels="2" /}
-{:toc}
-
-{::nomarkdown}
-{% include toc.html type="end" %}
-{:/}
-
-## ...
-
 Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning.
 
 For most people who are Deaf, sign language is their native language, and some do not read or understand written language well.
