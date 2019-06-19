@@ -122,7 +122,7 @@ For audio-only, captions enable people who are hard of hearing to get the richne
 
 For videos, captions enable people who are Deaf or hard of hearing to see the visual content and read the captions at the same time. 
 
-Separate transcripts are required to provide access to people who are Deaf-blind and use braille. (Also, some people without disabilities prefer to skim or read transcripts at their own pace, rather than listening to audio or watching video.)
+Transcripts are required to provide access to people who are Deaf-blind and use braille. (Also, transcripts have several [additional benefits](index#additional-benefits) to all users.)
 
 ## Planning Accessible Audio and Video
 
