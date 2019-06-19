@@ -53,24 +53,12 @@ _Example:_ [Video that includes audio description of the visual information (You
 
 <p style="text-align:center"><em>[optional image: blind person listening to video]</em></p>
 
-#### Terminology
+### Terminology
+{:.no_toc}
 
 Audio description is called "described video" in some areas, such as Canada.
 
 This page uses "described video" in some places as a shortened form of "a video that includes audio description of the visual information".
-
-### Audio Description Considerations
-
-When accessibility is considered before videos are produced, it significantly cuts down on cost and effort to develop audio description. For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers as the video is planned and created, and you don't need separate audio description, thus there is no additional cost.
-
-To add audio description to _an existing video_, you'll likely **need skills and tools** to:
-* write it
-* narrate it
-* record it
-* integrate it in new audio and/or video files
-&mdash; as described on this page.
-
-Information for addressing audio description in _new videos_ is in the "Creating Audio and Video Content" page, [Plan for Audio Description of Visual Information section](/design-develop/media/av-content/#plan-for-audio-description-of-visual-information).
 
 ## Does My Media Need Description?
 
@@ -87,13 +75,13 @@ Information for addressing audio description in _new videos_ is in the "Creating
   </div>
 </div>
 
-<div id="tree-vb" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
-  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video</p>
+<div id="tree-video" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
+  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
       <li>For pre-recorded:
         <ul>
-          <li>Description of important visual information is <strong><em>required</em></strong> to provide the information to people who are blind and want to listen to the video.<li>
+          <li>Description of important visual information is <em><strong>required</strong></em> to provide the information to people who are blind and want to listen to the video.</li>
         </ul>
       </li>
       <li>For live:
@@ -105,12 +93,26 @@ Information for addressing audio description in _new videos_ is in the "Creating
   </div>
 </div>
 
+## Audio Description Considerations
+
+When accessibility is considered before videos are produced, it significantly cuts down on cost and effort to develop audio description. For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers as the video is planned and created, and you don't need separate audio description, thus there is no additional cost.
+
+To add audio description to _an existing video_, you'll likely **need skills and tools** to:
+* write it
+* narrate it
+* record it
+* integrate it in new audio and/or video files
+&mdash; as described on this page.
+
+Information for addressing audio description in _new videos_ is in the "Creating Audio and Video Content" page, [Plan for Audio Description of Visual Information section](/design-develop/media/av-content/#plan-for-audio-description-of-visual-information).
+
 ## What Description to Provide for My Video?
 
 First, figure out these issues about your video content and timing:
 
 * **Integrated** &mdash; For new videos, can the speakers describe the relevant visual information as the video is recorded? This works for well for some videos, such as presentations and instructional videos. For examples, see the "Creating Audio and Video Content" page, [Integrated Description section](/design-develop/media/av-content/#integrate-description).
 
+<a id="space"> </a>
 * **Space in audio** &mdash; Is there enough space in the main audio for the description? That is, are there sufficient pauses throughout the narration or speaking where the relevant description will fit? For example,
    * If the only description needed is at the beginning of the video where these is a text title and background music, then: Yes, there is enough space.
    * I the speaker talks continually without pausing, then: No, there is not enough space for description.
