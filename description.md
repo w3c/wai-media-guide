@@ -179,6 +179,7 @@ More guidance on writing descriptions: [Description Tip Sheet [icon]](https://dc
 #### Tips for Recording Descriptions
 
 * Use a voice, style, and delivery that is distinguishable from other voices used in the video.
+* When recording a single file with timed descriptions, voice the descriptions at the same time as the visual content, or right before the visual content. Don't put the description after the visual content.
 * See [guidance on audio content](/design-develop/media/av-content/#audio)
 
 #### Tips for Combining Audio Files
