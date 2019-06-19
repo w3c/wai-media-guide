@@ -65,7 +65,7 @@ _Subtitles_ are implemented like captions. Subtitles/intralingual subtitles are 
 
 ### Live Captions
 
-Live captions are usually done by professional Communication Access Realtime Translation (CART) providers. (It is also known as computer aided real–time captioning and live captioning.) Live captions can be done by in-person or remote CART services. That is, the person doing the CART does not have to be at the same location as the live action; they can be doing the live captions by listening to the audio over a phone or Internet connection.
+Live captions are usually done by professional real-time captioners (also called Communication Access Realtime Translation (CART) providers). Live captions can be done by in-person or remote CART services. That is, the person doing the CART does not have to be at the same location as the live action; they can be doing the live captions by listening to the audio over a phone or Internet connection.
 
 If you have live captions and you post a recording, you will probably need to do minor editing for accuracy.
 
