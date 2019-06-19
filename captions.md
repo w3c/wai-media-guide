@@ -86,44 +86,47 @@ For optimum accessibility, provide a separate caption file of the audio descript
 **Captions and transcripts include the same text, so one can be used to develop the other.**
 
 ## Does My Media Need Captions?
-
-**Audio-only (e.g., podcast):**
-<div id="tree-a" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
-  <ul>
-    <li>For pre-recorded:
-      <ul>
-        <li>Captions are <strong><em>not</em></strong> required. (Your audio content is provided in a <a href="/design-develop/media/transcripts/">transcript</a>.)</li>
-        <li>Captions are useful for who are hard of hearing to get the richness of listening to the audio and fill in what they don’t hear well by reading the captions.</li>
-      </ul>
-    </li>
-    <li>For live:
-      <ul>
-        <li>Captions are <strong><em>required</em></strong> to provide the audio content to people who are Deaf or hard of hearing.</li>
-      </ul>
-    </li>
-  </ul>
+<div id="tree-ao" style="border: solid 1px #DDD; padding-bottom: 0;">
+  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
+  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
+    <ul style="padding-bottom: 11px; padding-top: 0; margin-bottom: 0;">
+      <li>For pre-recorded:
+        <ul>
+          <li>Captions are <strong><em>not</em></strong> required. (Your audio content is provided in a <a href="/design-develop/media/transcripts/">transcript</a>.)</li>
+          <li>Captions are useful for who are hard of hearing to get the richness of listening to the audio and fill in what they don’t hear well by reading the captions.</li>
+        </ul>
+      </li>
+      <li>For live:
+        <ul>
+          <li>Captions are <strong><em>required</em></strong> to provide the audio content to people who are Deaf or hard of hearing.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
 </div>
-
-**Video-only (no audio content):**
-<div id="tree-a3" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
-  <ul>
-    <li>For pre-recorded and live:
-      <ul>
-        <li>Captions are <strong><em>not</em></strong> required (because there is no audio information).</li>
-      </ul>
-    </li>
-  </ul>
+<div id="tree-vo" style="border: solid 1px #DDD; padding-bottom: 0;">
+  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video-only (no audio content):</p>
+  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
+    <ul style="padding-bottom: 11px; padding-top: 0; margin-bottom: 0;">
+      <li>For pre-recorded and live:
+        <ul>
+          <li>Captions are <strong><em>not</em></strong> required (because there is no audio information).</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
 </div>
-
-**Video with audio:**
-<div id="tree-a2" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
-  <ul>
-    <li>For pre-recorded and live:
-      <ul>
-        <li>Captions are <strong><em>required</em></strong> to provide the audio content to people who are Deaf or hard of hearing. </li>
-      </ul>
-    </li>
-  </ul>
+<div id="tree-va" style="border: solid 1px #DDD; padding-bottom: 0;">
+  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video with audio content:</p>
+  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
+    <ul style="padding-bottom: 11px; padding-top: 0; margin-bottom: 0;">
+      <li>For pre-recorded and live:
+        <ul>
+          <li>Captions are <strong><em>required</em></strong> to provide the audio content to people who are Deaf or hard of hearing. </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
 </div>
 
 ## Skills and Tools
