@@ -49,11 +49,8 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 
 ## What does my audio-only (e.g., podcast) need to be accessible?
 
-{::nomarkdown}
-{% include box.html type="start" title="Pre-recorded audio:" class="" %}
-{:/}
-
-<div id="tree-ap" style="background:#D9EDF7;">
+<div id="tree-ap" style="background:#D9EDF7; border: solid 1px #DDD; padding-left: 11px; padding-right: 5px;">
+<p style="background:#FFF;>Pre-recorded Audio:</p>
   <ul>
     <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> </strong>that works for people who cannot hear well or cannot see.</li>
     <li><strong>[_] <a href="/design-develop/media/transcripts">Transcript</a> </strong>that provides the audio information as text to people who are Deaf or hard of hearing.</li>
@@ -61,10 +58,6 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
     <li>[_] <em>Ideally,</em> <a href="/design-develop/media/sign-languages">Sign language(s)</a> that provides the audio information to people who are Deaf and do not read text well.</li>
   </ul>
 </div>
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
 
 {::nomarkdown}
 {% include box.html type="start" title="Live audio:" class="" %}
@@ -130,7 +123,7 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 <div id="tree-vl" style="background:#D9EDF7;">
   <ul>
     <li><strong>[_] <a href="/design-develop/media/captions">Captions</a></strong> that provide text synchronized with the audio for people who are Deaf or hard of hearing.</li>
-    <li>[_] <em>Ideally,</em> live video also includes the accessibility elements indicated in the previous section for pre-recorded video.</li>
+    <li>[_] <em>Ideally,</em> ... @@</li>
   </ul>
 </div>
 
