@@ -147,9 +147,9 @@ Here is an example workflow for developing an accessible video, with notes on wh
 
 4. Develop a **[descriptive transcript](transcripts)** using the text from the caption files.<br>_By:_ Often transcripts are developed in-house from caption files.
 
-@@ sign languages ??
-
 5. Implement it in an **[accesible media player](player)** (usually an existing player with good accessibility support).<br>_By:_ Usually in-house web developers.
+
+@@ sign languages ??
 
 {::nomarkdown}
 {% include box.html type="end" %}
