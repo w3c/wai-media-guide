@@ -49,6 +49,12 @@ This page introduces things to consider when planning, scripting, storyboarding,
 
 ## Audio
 
+### Create high-quality audio
+
+* Use high-quality microphone(s) and recording software.
+* When feasible, record in a room that is isolated from all external sounds.
+* Avoid rooms with hard surfaces, such as tile or wood floors.
+
 ### Speak clearly
 
 Speak clearly. Speak as slowly as appropriate. This will enable listeners to understand better, and make the timing better for captions and sign language.
@@ -57,13 +63,7 @@ Speak clearly. Speak as slowly as appropriate. This will enable listeners to und
 
 Avoid or explain jargon, acronyms, and idioms. For example, expressions such as “raising the bar” can be interpreted literally by some people with cognitive disabilities and can be confusing.
 
-### Capture high-quality audio
-
-Ensure high quality audio. Use a good microphone(s0.
-
 ### Use low background audio in recording and post-production
-
-When recording, make sure there is not distracting background noise.
 
 When the main audio is a person speaking and you have background music, set the levels so people with hearing or cognitive disabilities can easily distinguish the speaking from the background.
 
