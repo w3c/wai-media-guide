@@ -86,6 +86,7 @@ For optimum accessibility, provide a separate caption file of the audio descript
 **Captions and transcripts include the same text, so one can be used to develop the other.**
 
 ## Does My Media Need Captions?
+
 <div id="tree-ao" style="border: solid 1px #DDD; padding-bottom: 0;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
@@ -104,6 +105,9 @@ For optimum accessibility, provide a separate caption file of the audio descript
     </ul>
   </div>
 </div>
+
+<br>
+
 <div id="tree-vo" style="border: solid 1px #DDD; padding-bottom: 0;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video-only (no audio content):</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
@@ -116,6 +120,9 @@ For optimum accessibility, provide a separate caption file of the audio descript
     </ul>
   </div>
 </div>
+
+<br>
+
 <div id="tree-va" style="border: solid 1px #DDD; padding-bottom: 0;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video with audio content:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
