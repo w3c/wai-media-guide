@@ -47,13 +47,23 @@ _This page covers only some aspects of making audio and video accessible. For mo
 
 This page introduces things to consider when planning, scripting, storyboarding, recording, and producing audio and video.
 
-## Audio-Only and Videos
+## Audio
 
-### High-Quality Audio
+### Speak clearly
 
-... good microphone, speak slowly and clearly, low background noise, etc...
+Speak clearly. Speak as slowly as appropriate. This will enable listeners to understand better, and make the timing better for captions and sign language.
 
-### Low Background Audio
+## Use clear language
+
+Avoid or explain jargon, acronyms, and idioms. For example, expressions such as “raising the bar” can be interpreted literally by some people with cognitive disabilities and can be confusing.
+
+### Capture high-quality audio
+
+Ensure high quality audio. Use a good microphone(s0.
+
+### Low background audio in recording and post-production
+
+When recording, make sure there is not distracting background noise.
 
 When the main audio is a person speaking and you have background music, set the levels so people with hearing or cognitive disabilities can easily distinguish the speaking from the background.
 
@@ -72,15 +82,23 @@ Say:
 
 <span style="color:#585858; font-style:italic;">More information that primarily addresses web pages, yet is relevant to audio and video, is in [Understanding Success Criterion 1.3.3: Sensory Characteristics](https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html).</span>
 
-## Videos
+### Give people time to process information
 
-... face the camera when appropriate (some people "lip-read")...
+Pause between topics.
 
-### Avoid Causing Seizures
+## Video
+
+**_Note:_ Above applies to the audio aspects of videos.**
+
+### Avoid causing seizures
 
 Avoid anything that flashes more than three times in any one second period. 
 
 <span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 2.3.2: Three Flashes](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes.html) and [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold.html)</span>
+
+### Consider speaker visbility
+
+Some people use mouth movement to help understand spoken language. When feasible, ensure that the speaker's face is visibile and in good light.
 
 ### Make overlay text readable
 
@@ -88,7 +106,7 @@ For any text, consider the font family, size, and contrast between the text and 
 
 <span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 1.4.3: Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) and [Understanding Success Criterion 1.4.6: Contrast (Enhanced)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced).</span>
 
-### Plan for Audio Description of Visual Information
+### Plan for audio description of visual information
 
 _Audio description_ provides content to people who are blind and others who cannot see the video adequately. It describes the visual information needed to understand the content.
 
@@ -96,7 +114,7 @@ Plan to either:
 * Integrate description of the visual information that users need to understand into the main audio content, _**or**_
 * Record extra time for scenes that need description of the visual information.
 
-#### Integrate Description
+#### Integrate description
 
 For many videos, the best way to handle audio description is not to need it at all &mdash; that is, all the visual information that users need to understand the content is integrated in the main audio. When planned in advance, this is fairly simple for many types of videos on the web, such as presentations and instructional videos. For example:
 
@@ -121,7 +139,7 @@ For many videos, the best way to handle audio description is not to need it at a
 
 Guidance on what to include is in the "Creating Audio Description of Visual Information" page, [Tips for Writing Description section](/description/#tips-for-writing-description).
 
-#### Time for Description
+#### Time for description
 
 For some types of videos, the description of the visual information cannot be smoothly handled by the speakers and narrator in the main video, because it would make the default video too much longer or more cumbersome. In that case, you will have the description separate. You can make the described version smoother by planning for the description.
 
@@ -152,6 +170,6 @@ Where the description is longer that you want to leave space in the main audio, 
 
 An example of this is the [Web Accessibility Perspectives: Video Captions](https://www.w3.org/WAI/perspective-videos/captions/) video. The main video is 48 seconds long. The described version is 1 minute and 18 seconds long, yet there are no pauses in the visual aspect of the video.
 
-#### More About Audio Description
+#### More about audio description
 
-**See more information in [Creating Audio Description of Visual Information](/description/).**
+**See more information in [Audio Description of Visual Information](/design-develop/media/description/).**
