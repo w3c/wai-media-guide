@@ -63,17 +63,49 @@ This page uses "described video" in some places as a shortened form of "a video 
 
 When accessibility is considered before videos are produced, it significantly cuts down on cost and effort to develop audio description. For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers as the video is planned and created, and you don't need separate audio description, thus there is no additional cost.
 
-To add audio description to an existing video, you'll likely **need skills and tools** to:
+To add audio description to _an existing video_, you'll likely **need skills and tools** to:
 * write it
 * narrate it
 * record it
 * integrate it in new audio and/or video files
 &mdash; as described on this page.
 
-## What Description to Provide for My Video?
+Information for addressing audio description in _new videos_ is in the "Creating Audio and Video Content" page, [Plan for Audio Description of Visual Information section](/design-develop/media/av-content/#plan-for-audio-description-of-visual-information).
 
-### Content and Timing Considerations
-{:.no_toc}
+## Does My Media Need Description?
+
+<div id="tree-ano" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
+  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
+  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
+    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
+      <li>For pre-recorded and live:
+        <ul>
+          <li>Description is <strong><em>not</em></strong> required (because there is no visual information).</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div id="tree-vb" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
+  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video</p>
+  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
+    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
+      <li>For pre-recorded:
+        <ul>
+          <li>Description of important visual information is <strong><em>required</em></strong> to provide the information to people who are blind and want to listen to the video.<li>
+        </ul>
+      </li>
+      <li>For live:
+        <ul>
+          <li>Description of important visual information would be useful for people who are blind. It is not required to meet most minimum accessibility standards.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+
+## What Description to Provide for My Video?
 
 First, figure out these issues about your video content and timing:
 
@@ -85,29 +117,36 @@ First, figure out these issues about your video content and timing:
 
 * **Media player support** &mdash; Does the media player, platform, or plug-in that you are using provide functionality for a separate audio file? Information about player functionality is in [Accessible Media Players](/design-develop/media/av-content/#integrate-description).
 
-<div id="tree" style="background:#D9EDF7; border: solid 1px #999; padding: 5px;" markdown="1">
+***Use the information from above to answer the following questions*** in order to determine how to provide audio description for your video.
 
-Use the information from above to answer the following questions in order to determine how to provide audio description for your video.
-
-<h3 style="font-weight:bold; color:#000;">For New Videos:</h3>
-
-* Can the speakers describe the visual information in the main audio?
-	* **If yes**, provide integrated description. No separate audio description is needed.
-	* **If no**, can you smoothly provide enough space in the main audio for the description? And will you use a media player that supports a separate audio track for the description?
-		* **If yes**, provide description in a separate audio file, _**or**_ provide a separate described video.
-		* **If no**, provide a separate described video.
-		
-<h3 style="font-weight:bold; color:#000;">For Existing Videos:</h3>
-
-* Is there enough space in the main audio for the description? And will you use a media player that supports a separate audio track for the description?
-	* **If yes**, provide description in a separate audio file, _**or**_ provide a separate described video.
-	* **If no**, provide a separate described video.
-	
+<div id="tree-new" style="border: solid 1px #DDD; padding-bottom: 0;">
+  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">New videos:</p>
+  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
+    <p><strong>Can the speakers describe the visual information in the main audio?</p>
+    <ul style="padding-bottom: 11px; padding-top: 0; margin-top:0; margin-bottom: 0;">
+      <li>If yes, provide <strong>integrated description</strong>. No separate audio description is needed. </li>
+      <li>If no, can you smoothly provide enough space in the main audio for the description? <strong>And</strong> will you use a media player that supports a separate audio track for the description?
+        <ul>
+          <li>If yes, provide  description in a <strong>separate audio file</strong>,<br>
+            <em><strong>or</strong></em> provide a <strong>separate described  video</strong>. </li>
+          <li>If no, provide a <strong>separate described  video</strong>. </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
 </div>
 
-#### Planning New Videos
-
-Information for addressing audio description in new videos is in the "Creating Audio and Video Content" page, [Plan for Audio Description of Visual Information section](/design-develop/media/av-content/#plan-for-audio-description-of-visual-information).
+<div id="tree-existing" style="border: solid 1px #DDD; padding-bottom: 0;">
+  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Existing videos:</p>
+  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
+    <p><strong>Is there enough space in the main audio for the description? <strong>And</strong> will you use a media player that supports a separate audio track for the description?</p>
+    <ul style="padding-bottom: 11px; padding-top: 0; margin-top:0; margin-bottom: 0;">
+      <li>If yes, provide  description in a <strong>separate audio file</strong>,<br>
+        <em><strong>or</strong></em> provide a <strong>separate described  video</strong>. </li>
+      <li>If no, provide a <strong>separate described  video</strong>.</li>
+    </ul>
+  </div>
+</div>
 
 ## Options
 
@@ -223,4 +262,3 @@ WEBVTT
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
-
