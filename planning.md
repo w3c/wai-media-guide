@@ -172,13 +172,13 @@ Web Content Accessibility Guidelines (WCAG) is introduced in the [WCAG Overview]
 
 This resource uses most WCAG terminology, with a few differences:
 * "time-based media" in WCAG = "audio and video media" in this resource
-* "[alternative for time based media](https://www.w3.org/TR/WCAG#alt-time-based-mediadef)" in WCAG = "descriptive transcript" in this resource
+* "[alternative for time based media](https://www.w3.org/TR/WCAG#alt-time-based-mediadef)" in WCAG = "transcript" for audio-only and "descriptive transcript" for video in this resource
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-WCAG includes requirements for audio and video media, at [Level](https://www.w3.org/WAI/WCAG21/Understanding/conformance.html#uc-levels-head) A, AA, and AAA. Most media is required by governing policies to meet Level AA &mdash; which includes both A and AA listed in the tables below.
+WCAG includes requirements for audio and video media at [Level](https://www.w3.org/WAI/WCAG21/Understanding/conformance.html#uc-levels-head) A, AA, and AAA. Most media is required by governing policies to meet Level AA &mdash; which includes both A and AA listed in the tables below.
 
 Accessibility requirements for video and audio are different based on if they are:
 * pre-recorded or live
@@ -261,7 +261,7 @@ To learn more about WCAG standards for media, see [Understanding Guideline 1.2: 
 
 ### Descriptive Transcripts
 
-<p>Although WCAG Level AA does not require descriptive transcripts for videos (or basic transcript for audio-only), we recommend them because they:</p>
+<p>Although WCAG Level AA does not require descriptive transcripts for videos, we recommend them because they:</p>
 <ul>
   <li>are needed for most videos to be accessible to people who are &quot;Deaf-blind&quot;</li>
   <li>meet a wide range of accessibility needs</li>
