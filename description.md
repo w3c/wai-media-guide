@@ -13,7 +13,8 @@ layout: default
 github:
    repository: w3c/wai-media-guide
    path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
-footer: >   # Translate all the words below, including "Date:" and "Editor:". 
+footer: >   # Translate all the words below, including "Date:" and "Editor:".
+   <p> ... Tips References: <a href="https://dcmp.org/learn/227">Description Tip Sheet [offsite icon]</a> and <a href="http://www.descriptionkey.org/how_to_describe.html">How to Describe [offsite icon]</a>. ...</p>
 navigation:
   previous: /design-develop/media/media-content/
   next:     /design-develop/media/captions/
@@ -167,13 +168,21 @@ _{include or not based on decisions in [Open Issues, Coverage of Options](https:
 
 ## Tips
 
-#### Tips For Writing Descriptions
+### Tips for Writing Descriptions
 
-...
+* Describe the visual elements that are important to understand what the video is communicating.
+* Describe objectively, without interpretation, censorship, or comment.
+* Write description in present tense, active voice, and in third-person narrative style.
+
+More guidance on writing descriptions: [Description Tip Sheet [icon]](https://dcmp.org/learn/227) and [How to Describe [icon]](http://www.descriptionkey.org/how_to_describe.html)
 
 #### Tips for Recording Descriptions
 
-...
+* Use a voice, style, and delivery that is distinguishable from other voices used in the video.
+* See [guidance on audio content](/design-develop/media/av-content/#audio)
 
 #### Tips for Combining Audio Files
-...
+
+* Put descriptions at the same time as the visual content, or right before the visual content. Don't put the description after the visual content.
+
+* When mixing the descriptions with the main audio, lower the main audio level when the description plays and raise the description audio level. When the description is finished playing, lower the description audio level and raise the main audio level to its normal setting. Repeat this process (known as "ducking") for every description instance.
