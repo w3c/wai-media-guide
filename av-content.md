@@ -53,7 +53,7 @@ This page introduces things to consider when planning, scripting, storyboarding,
 
 Speak clearly. Speak as slowly as appropriate. This will enable listeners to understand better, and make the timing better for captions and sign language.
 
-## Use clear language
+### Use clear language
 
 Avoid or explain jargon, acronyms, and idioms. For example, expressions such as “raising the bar” can be interpreted literally by some people with cognitive disabilities and can be confusing.
 
@@ -61,7 +61,7 @@ Avoid or explain jargon, acronyms, and idioms. For example, expressions such as 
 
 Ensure high quality audio. Use a good microphone(s0.
 
-### Low background audio in recording and post-production
+### Use low background audio in recording and post-production
 
 When recording, make sure there is not distracting background noise.
 
