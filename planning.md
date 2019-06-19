@@ -49,7 +49,8 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 
 ## What does my audio-only (e.g., podcast) need to be accessible?
 
-<div id="tree-a" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
+Pre-recorded:
+<div id="tree-ap" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
 <ul>
   <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> </strong>that works for people who cannot hear well or cannot see.</li>   
   <li><strong>[_] <a href="/design-develop/media/transcripts">Transcript</a> </strong>that provides the audio information as text to people who are Deaf or hard of hearing.</li>
@@ -58,9 +59,19 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 </ul>
 </div>
 
+Live:
+<div id="tree-ap" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
+<ul>
+  <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> </strong>that works for people who cannot hear well or cannot see.</li>
+  <li><strong>[_] <a href="/design-develop/media/captions">Captions</a> that provides text synchronized with the audio for people who are Deaf or hard of hearing.</li>
+  <li>[_] <em>Optionally,</em> <a href="/design-develop/media/transcripts">Transcript</a> </strong>that provides the audio information as text to people who are Deaf-blind and cannot see captions (and use Braille).</li>
+  <li>[_] <em>Optionally,</em> <a href="/design-develop/media/sign-languages">Sign language(s)</a> that provides the audio information.</li>
+</ul>
+</div>
+
 ## What does my video need to be accessible?
 
-<div id="tree-b" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
+<div id="tree-vp" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
 <p><strong>Is there speech or other audio</strong> that is needed to understand the content?</p>
     <ul>
       <li>If yes,
