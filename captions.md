@@ -89,7 +89,7 @@ For optimum accessibility, provide a separate caption file of the audio descript
 <div id="tree-ao" style="border: solid 1px #DDD; padding-bottom: 0;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <ul style="padding-bottom: 11px; padding-top: 0; margin-bottom: 0;">
+    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
       <li>For pre-recorded:
         <ul>
           <li>Captions are <strong><em>not</em></strong> required. (Your audio content is provided in a <a href="/design-develop/media/transcripts/">transcript</a>.)</li>
@@ -107,7 +107,7 @@ For optimum accessibility, provide a separate caption file of the audio descript
 <div id="tree-vo" style="border: solid 1px #DDD; padding-bottom: 0;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video-only (no audio content):</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <ul style="padding-bottom: 11px; padding-top: 0; margin-bottom: 0;">
+    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
       <li>For pre-recorded and live:
         <ul>
           <li>Captions are <strong><em>not</em></strong> required (because there is no audio information).</li>
@@ -119,7 +119,7 @@ For optimum accessibility, provide a separate caption file of the audio descript
 <div id="tree-va" style="border: solid 1px #DDD; padding-bottom: 0;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video with audio content:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <ul style="padding-bottom: 11px; padding-top: 0; margin-bottom: 0;">
+    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
       <li>For pre-recorded and live:
         <ul>
           <li>Captions are <strong><em>required</em></strong> to provide the audio content to people who are Deaf or hard of hearing. </li>
