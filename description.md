@@ -75,13 +75,14 @@ To add audio description to an existing video, you'll likely **need skills and t
 {:.no_toc}
 
 First, figure out these issues about your video content and timing:
-* **Integrated** &mdash; For new videos, can the speakers describe the relevant visual information as the video is recorded? This works for well for some videos, such as presentations and instructional videos. For examples, see the "Creating Audio and Video Content" page, [Integrated Description section](@@).
+
+* **Integrated** &mdash; For new videos, can the speakers describe the relevant visual information as the video is recorded? This works for well for some videos, such as presentations and instructional videos. For examples, see the "Creating Audio and Video Content" page, [Integrated Description section](/design-develop/media/av-content/#integrate-description).
 
 * **Space in audio** &mdash; Is there enough space in the main audio for the description? That is, are there sufficient pauses throughout the narration or speaking where the relevant description will fit? For example,
    * If the only description needed is at the beginning of the video where these is a text title and background music, then: Yes, there is enough space.
    * I the speaker talks continually without pausing, then: No, there is not enough space for description.
 
-* **Media player support** &mdash; Does the media player, platform, or plug-in that you are using provide functionality for a separate audio file? The Accessible Media Player pages lists [Support for Separate Audio Files](@@#support-for-separate-audio-files).
+* **Media player support** &mdash; Does the media player, platform, or plug-in that you are using provide functionality for a separate audio file? Information about player functionality is in [Accessible Media Players](/design-develop/media/av-content/#integrate-description).
 
 <div id="tree" style="background:#D9EDF7; border: solid 1px #999; padding: 5px;" markdown="1">
 
@@ -105,7 +106,7 @@ Use the information from above to answer the following questions in order to det
 
 #### Planning New Videos
 
-Information for addressing audio description in new videos is in the "Creating Audio and Video Content" page, [Plan for Audio Description of Visual Information section](@@).
+Information for addressing audio description in new videos is in the "Creating Audio and Video Content" page, [Plan for Audio Description of Visual Information section](/design-develop/media/av-content/#plan-for-audio-description-of-visual-information).
 
 ## Options
 
@@ -114,7 +115,7 @@ Depending on your video situation, do one of the options below &mdash; as determ
 ### Creating Integrated Description
 
 The process to develop a video with integrated description is basically:
-1. When writing the script, make sure all relevant visual information is included. See [Tips for Describing – Writing below](http://@@).
+1. When writing the script, make sure all relevant visual information is included. See [Tips for Writing Descriptions below](#writing).
 
 Before finalizing the video, check to confirm that all relevant visual information is covered in the audio.
 
@@ -123,9 +124,9 @@ Before finalizing the video, check to confirm that all relevant visual informati
 If the descriptions fit in the spaces _(as described in @@ above)_, you need to develop a separate audio file. This requires skills and software for audio recording and video editing. Depending on the player that you are using, you might need video software to regenerate the video.
 
 The process to develop a separate audio file is basically:
-1. Write out the descriptions. See [Tips for Describing - Writing below](http://@@).
-2. Record the descriptions. See [Tips for Describing - Recording below](http://@@).
-3. Create a new audio file by combining the original audio and the new description audio. See [Tips for Describing – Combining Audio Files below](http://@@).
+1. Write out the descriptions. See [Tips for Writing Descriptions below](#writing).
+2. Record the descriptions. See [Tips for Recording Descriptions below](#recording).
+3. Create a new audio file by combining the original audio and the new description audio. See [Tips for Combining Audio Files below](#combining).
 4. Provide the file(s):
 * _**If**_ your player uses separate video and audio tracks,<br>you're done.
 * _**If**_ your player uses a single video file that includes the audio,<br>generate the new described video with the audio file that you just created.
@@ -137,9 +138,9 @@ The process to develop a separate audio file is basically:
 If all the descriptions do **not** fit in the spaces _(as described in @@ above)_, you'll need to develop a separate audio file and also edit the visual track. This requires skills and software for audio recording, audio editing, and video editing.
 
 The process to develop a separate audio file and edit the visual track is basically:
-1. Write out the descriptions. See [Tips for Describing - Writing below](http://@@).
-2. Record the descriptions. See [Tips for Describing - Recording below](http://@@).
-3. Create a new audio file by combining the original audio and the new description audio. See [Tips for Describing – Combining Audio Files below](http://@@).
+1. Write out the descriptions. See [Tips for Writing Descriptions below](#writing).
+2. Record the descriptions. See [Tips for Recording Descriptions below](#recording).
+3. Create a new audio file by combining the original audio and the new description audio. See [Tips for Combining Audio Files below](#combining).
 4. Create a new video:
 	* _**If**_ you have source video with longer scenes _(as described in @@ above)_, recut the scenes longer to fill in the visual space where you need to accommodate the time for the description.
 	* _**If  not or you're adding to an existing video**_, you will need to leave a static image in the video while the description is playing in the audio. (For example, this video pauses at 00:00 for the audio description.)
@@ -153,10 +154,10 @@ This requires skills and software for audio recording and audio editing.
 _(Per above, this approach only works when there enough space in the main audio for the description, and the media player supports a separate audio track for the description.)_
 
 The process to develop description in a separate audio file is basically:
-1. Write out the descriptions. See [Tips for Describing – Writing below](http://@@).
-2. Record the descriptions. See [Tips for Describing - Recording below](http://@@).
+1. Write out the descriptions. See [Tips for Writing Descriptions below](#writing).
+2. Record the descriptions. See [Tips for Recording Descriptions below](#recording).
 3. Provide synching data for the audio file … @@...
-4. Provide a caption file of the description. [Example VTT file of audio description](http://@@)
+4. Provide a caption file of the description. [Example VTT file of audio description](#vtt)
 5. Ensure the files are integrated with the player on the web page.
 
 #### Other Options
@@ -166,24 +167,59 @@ _{include or not based on decisions in [Open Issues, Coverage of Options](https:
 
 … Another option is to provide functionality for the video to pause for the description. This is not suggested in most cases because it requires extra coding and provides a less-than-optimum user experience.
 
+{% include_cached excol.html type="start" id="tips" %}
+
 ## Tips
 
-### Tips for Writing Descriptions
+{% include_cached excol.html type="middle" %}
+
+### Tips for Writing Descriptions {#writing}
+{:.no_toc}
 
 * Describe the visual elements that are important to understand what the video is communicating.
 * Describe objectively, without interpretation, censorship, or comment.
 * Write description in present tense, active voice, and in third-person narrative style.
 
-More guidance on writing descriptions: [Description Tip Sheet [icon]](https://dcmp.org/learn/227) and [How to Describe [icon]](http://www.descriptionkey.org/how_to_describe.html)
+More guidance on writing descriptions: [Description Tip Sheet [icon]](https://dcmp.org/learn/227) and [How to Describe [icon]](http://www.descriptionkey.org/how_to_describe.html).
 
-#### Tips for Recording Descriptions
+### Tips for Recording Descriptions {#recording}
+{:.no_toc}
 
 * Use a voice, style, and delivery that is distinguishable from other voices used in the video.
 * When recording a single file with timed descriptions, voice the descriptions at the same time as the visual content, or right before the visual content. Don't put the description after the visual content.
-* See [guidance on audio content](/design-develop/media/av-content/#audio)
+* See [guidance on audio content](/design-develop/media/av-content/#audio).
 
-#### Tips for Combining Audio Files
+### Tips for Combining Audio Files {#combining}
+{:.no_toc}
 
 * Put descriptions at the same time as the visual content, or right before the visual content. Don't put the description after the visual content.
 
 * When mixing the descriptions with the main audio, lower the main audio level when the description plays and raise the description audio level. When the description is finished playing, lower the description audio level and raise the main audio level to its normal setting. Repeat this process (known as "ducking") for every description instance.
+
+{% include_cached excol.html type="end" %}
+
+
+{::nomarkdown}
+{% include box.html type="start" title="Example VTT file of audio description" class="" id="vtt" %}
+{:/}
+
+```
+WEBVTT
+
+00:00:04.000 --> 00:00:07.980
+<v Audio Descriptions>A man sitting at a desk starts watching a video on his computer. 
+
+00:00:17.260 --> 00:00:20.780
+<v Audio Descriptions>The video on his computer shows a person speaking to the camera.
+
+00:00:20.780 --> 00:00:23.140
+<v Audio Descriptions>It is playing with no audio.
+
+00:00:26.880 --> 00:00:29.620
+<v Audio Descriptions>The man watching the video has a hearing aid.
+```
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
