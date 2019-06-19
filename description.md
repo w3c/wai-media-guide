@@ -1,6 +1,7 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 title: "Audio Description of Visual Information"   # Do not translate "title:". Do translate the text after "title:".
+title_html: "Audio Description of Visual Information<br><span style='background:yellow; font-size:65%'>Note: This page will be ready for detailed review by Wednesday night (19 June).</span>"
 nav_title: "Audio Description" # A short title that is used in the navigation
 doc-note-type: draft
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
