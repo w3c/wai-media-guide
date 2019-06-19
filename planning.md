@@ -53,7 +53,7 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 {% include box.html type="start" title="Pre-recorded:" class="" %}
 {:/}
 
-<div id="tree-test" style="background:#D9EDF7;">
+<div id="tree-ap" style="background:#D9EDF7;">
   <ul>
     <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> </strong>that works for people who cannot hear well or cannot see.</li>
     <li><strong>[_] <a href="/design-develop/media/transcripts">Transcript</a> </strong>that provides the audio information as text to people who are Deaf or hard of hearing.</li>
@@ -66,18 +66,11 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 {% include box.html type="end" %}
 {:/}
 
-Pre-recorded:
-<div id="tree-ap" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
-  <ul>
-    <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> </strong>that works for people who cannot hear well or cannot see.</li>
-    <li><strong>[_] <a href="/design-develop/media/transcripts">Transcript</a> </strong>that provides the audio information as text to people who are Deaf or hard of hearing.</li>
-    <li>[_] <em>Ideally,</em> <a href="/design-develop/media/captions">Captions</a> that provide text synchronized with the audio for people who are hard of hearing and want to listen the audio.</li>
-    <li>[_] <em>Ideally,</em> <a href="/design-develop/media/sign-languages">Sign language(s)</a> that provides the audio information to people who are Deaf and do not read text well.</li>
-  </ul>
-</div>
+{::nomarkdown}
+{% include box.html type="start" title="Live:" class="" %}
+{:/}
 
-Live:
-<div id="tree-al" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
+<div id="tree-al" style="background:#D9EDF7;">
   <ul>
     <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> </strong>that works for people who cannot hear well or cannot see.</li>
     <li><strong>[_] <a href="/design-develop/media/captions">Captions</a></strong> that provide text synchronized with the audio for people who are Deaf or hard of hearing.</li>
@@ -86,9 +79,17 @@ Live:
   </ul>
 </div>
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 ## What does my video need to be accessible?
 
-<div id="tree-vp" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
+{::nomarkdown}
+{% include box.html type="start" title="Pre-recorded:" class="" %}
+{:/}
+
+<div id="tree-vp" style="background:#D9EDF7;">
 <p><strong>Is there speech or other audio</strong> that is needed to understand the content?</p>
     <ul>
       <li>If yes,
@@ -117,7 +118,23 @@ Live:
 <p><strong>[_] <a href="/design-develop/media/player">Media player</a> </strong>that supports accessibility.</p>
 </div>
 
-@@live
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+
+{::nomarkdown}
+{% include box.html type="start" title="Live:" class="" %}
+{:/}
+
+<div id="tree-vl" style="background:#D9EDF7;">
+  <p><strong><a href="/design-develop/media/captions">Captions</a> </strong> are required for live video with audio content.<br><em>Ideally, </em> live video also includes the accessibility elements indicated in the previous section for pre-recorded video.
+</div>
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 
 ## Informing Users When None Needed {#none}
 {:.no_toc}
