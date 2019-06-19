@@ -128,7 +128,7 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 {:/}
 
 <div id="tree-vl" style="background:#D9EDF7;">
-  <p><strong><a href="/design-develop/media/captions">Captions</a> </strong> are required for live video with audio content.<br><em>Ideally, </em> live video also includes the accessibility elements indicated in the previous section for pre-recorded video.
+  <p><strong><a href="/design-develop/media/captions">Captions</a> </strong> are required for live video with audio content.<br><em>Ideally, </em> live video also includes the accessibility elements indicated in the previous section for pre-recorded video.</p>
 </div>
 
 {::nomarkdown}
