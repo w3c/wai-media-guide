@@ -29,6 +29,7 @@ This page addresses accessibility considerations for planning and producing vide
 {% include box.html type="end" %}
 {:/}
 
+{::options toc_levels="2" /}
 {::nomarkdown}
 {% include toc.html type="start" title="Page Contents" %}
 {:/}
