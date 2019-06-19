@@ -171,7 +171,7 @@ Accessibility requirements for video and audio are different based on if they ar
 
 ### Pre-Recorded
 
-<table class="quiet dense">
+<table class="quiet">
 <tr>
 <th scope="col">&nbsp;</th>
 <th scope="col">Transcript <span class="normal-weight">(@@including auditory and visual content)</span></th>
