@@ -50,7 +50,7 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 ## What does my audio-only (e.g., podcast) need to be accessible?
 
 <div id="tree-ap" style="background:#D9EDF7; border: solid 1px #DDD; padding-left: 11px; padding-right: 5px;">
-<p style="background:#FFF;>Pre-recorded Audio:</p>
+<p style="background:#FFF; border: solid 1px #DDD;">Pre-recorded Audio:</p>
   <ul>
     <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> </strong>that works for people who cannot hear well or cannot see.</li>
     <li><strong>[_] <a href="/design-develop/media/transcripts">Transcript</a> </strong>that provides the audio information as text to people who are Deaf or hard of hearing.</li>
