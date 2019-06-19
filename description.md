@@ -121,13 +121,13 @@ First, figure out these issues about your video content and timing:
 
 ***Use the information from above to answer the following questions*** in order to determine how to provide audio description for your video.
 
-<div id="tree-new" style="border: solid 1px #DDD; padding-bottom: 0;">
-  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">New videos:</p>
+<div id="tree-new" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
+  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <p><strong>Can the speakers describe the visual information in the main audio?</p>
+    <p>Can the speakers describe the visual information in the main audio?</p>
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top:0; margin-bottom: 0;">
       <li>If yes, provide <strong>integrated description</strong>. No separate audio description is needed. </li>
-      <li>If no, can you smoothly provide enough space in the main audio for the description? <strong>And</strong> will you use a media player that supports a separate audio track for the description?
+      <li>If no, can you smoothly provide enough space in the main audio for the description? <em>And</em> will you use a media player that supports a separate audio track for the description?
         <ul>
           <li>If yes, provide  description in a <strong>separate audio file</strong>,<br>
             <em><strong>or</strong></em> provide a <strong>separate described  video</strong>. </li>
@@ -141,7 +141,7 @@ First, figure out these issues about your video content and timing:
 <div id="tree-existing" style="border: solid 1px #DDD; padding-bottom: 0;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Existing videos:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <p><strong>Is there enough space in the main audio for the description? <strong>And</strong> will you use a media player that supports a separate audio track for the description?</p>
+    <p>Is there enough space in the main audio for the description? <em>And</em> will you use a media player that supports a separate audio track for the description?</p>
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top:0; margin-bottom: 0;">
       <li>If yes, provide  description in a <strong>separate audio file</strong>,<br>
         <em><strong>or</strong></em> provide a <strong>separate described  video</strong>. </li>
@@ -163,7 +163,7 @@ Before finalizing the video, check to confirm that all relevant visual informati
 
 ### Creating a Separate Described Video - If Descriptions Fit in Spaces
 
-If the descriptions fit in the spaces _(as described in @@ above)_, you need to develop a separate audio file. This requires skills and software for audio recording and video editing. Depending on the player that you are using, you might need video software to regenerate the video.
+If the descriptions fit in the spaces _(as described in [Space in audio above](#space)_, @@ you need to develop a separate audio file. This requires skills and software for audio recording and video editing. Depending on the player that you are using, you might need video software to regenerate the video.
 
 The process to develop a separate audio file is basically:
 1. Write out the descriptions. See [Tips for Writing Descriptions below](#writing).
@@ -177,7 +177,7 @@ The process to develop a separate audio file is basically:
 
 ### Creating a Separate Described Video - If Descriptions Do Not Fit in Spaces
 
-If all the descriptions do **not** fit in the spaces _(as described in @@ above)_, you'll need to develop a separate audio file and also edit the visual track. This requires skills and software for audio recording, audio editing, and video editing.
+If all the descriptions do **not** fit in the spaces _(as described in [Space in audio above](#space)_, @@you'll need to develop a separate audio file and also edit the visual track. This requires skills and software for audio recording, audio editing, and video editing.
 
 The process to develop a separate audio file and edit the visual track is basically:
 1. Write out the descriptions. See [Tips for Writing Descriptions below](#writing).
