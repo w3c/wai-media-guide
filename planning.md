@@ -50,7 +50,7 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 ## What does my audio-only (e.g., podcast) need to be accessible?
 
 {::nomarkdown}
-{% include box.html type="start" title="Pre-recorded:" class="" %}
+{% include box.html type="start" title="Pre-recorded audio:" class="" %}
 {:/}
 
 <div id="tree-ap" style="background:#D9EDF7;">
@@ -67,7 +67,7 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Live:" class="" %}
+{% include box.html type="start" title="Live audio:" class="" %}
 {:/}
 
 <div id="tree-al" style="background:#D9EDF7;">
@@ -86,7 +86,7 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 ## What does my video need to be accessible?
 
 {::nomarkdown}
-{% include box.html type="start" title="Pre-recorded:" class="" %}
+{% include box.html type="start" title="Pre-recorded video:" class="" %}
 {:/}
 
 <div id="tree-vp" style="background:#D9EDF7;">
@@ -124,11 +124,14 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 
 
 {::nomarkdown}
-{% include box.html type="start" title="Live:" class="" %}
+{% include box.html type="start" title="Live video:" class="" %}
 {:/}
 
 <div id="tree-vl" style="background:#D9EDF7;">
-  <p><strong><a href="/design-develop/media/captions">Captions</a> </strong> are required for live video with audio content.<br><em>Ideally, </em> live video also includes the accessibility elements indicated in the previous section for pre-recorded video.</p>
+  <ul>
+    <li><strong>[_] <a href="/design-develop/media/captions">Captions</a></strong> that provide text synchronized with the audio for people who are Deaf or hard of hearing.</li>
+    <li>[_] <em>Ideally,</em> live video also includes the accessibility elements indicated in the previous section for pre-recorded video.</li>
+  </ul>
 </div>
 
 {::nomarkdown}
