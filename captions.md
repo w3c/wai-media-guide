@@ -285,7 +285,7 @@ WEBVTT
 	
 Other caption formats are: Timed Text Markup Language ([TTML](https://www.w3.org/TR/ttml2/)) and [SRT](https://matroska.org/technical/specs/subtitles/srt.html).
 
-### Other Options
+## Other Options
 {:.no_toc}
 
 Options for caption types include pop-on, roll-up, paint-on. Pop-on is used for most web videos.
