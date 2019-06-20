@@ -50,7 +50,7 @@ _Transcripts are only one aspect of making audio and video accessible. For more,
 
 Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content.
 
-<img src="{{ "/content-images/braille.jpg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-media-guide/braille.jpg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 **_Descriptive transcripts_** also include visual information needed to understand the content.
 
@@ -60,7 +60,7 @@ If you provide a descriptive transcript, you do not need a separate basic transc
 
 Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. (This is a feature of the media player. It uses the captions file.)
 
-<img src="{{ "/content-images/interactive-transcript.png" | relative_url }}" alt="">
+<img src="{{ "/content-images/wai-media-guide/interactive-transcript.png" | relative_url }}" alt="">
 
 ### Skills and Tools
 

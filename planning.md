@@ -175,7 +175,7 @@ Transcripts are required to provide access to people who are Deaf-blind and use 
 
 ## Planning Accessible Audio and Video
 
-<img src="{{ "/content-images/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-media-guide/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 Include specific accessibility requirements in your:
 * Project requirements - internal and external

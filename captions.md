@@ -47,7 +47,7 @@ _Captions are only one aspect of making audio and video accessible. For more, se
 
 _Who:_ Captions (also called "intralingual subtitles") provide content to people who are Deaf and others who cannot hear the audio. They are also used by people who process written information better than audio.
 
-<img src="{{ "/content-images/captions.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-media-guide/captions.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 _What:_ Captions are a text version of the speech and non-speech audio information needed to understand the content. They are displayed within the media player and are synchronized with the audio.
 
@@ -76,7 +76,7 @@ This rest of this page addresses developing captions for pre-recorded media.
 
 Caption files are used by media players to provide _interactive transcripts_. Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. Some players provide interactive transcript functionality, and some do not.)
 
-<img src="{{ "/content-images/interactive-transcript.png" | relative_url }}" alt="">
+<img src="{{ "/content-images/wai-media-guide/interactive-transcript.png" | relative_url }}" alt="">
 
 ### Notes
 {:.no_toc}
