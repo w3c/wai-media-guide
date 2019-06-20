@@ -119,7 +119,7 @@ In basic transcripts, include all speech and other relevant non-speech sound, su
 
 In descriptive transcripts, also include description of the visual information.
 
-Add information to make the trascript more useful. For example, add headings, links, a summary, and maybe time stamps, as described in the Tips below.
+Add information to make the transcript more useful. For example, add headings, links, a summary, and maybe time stamps, as described in the Tips below.
 
 {% include excol.html type="start" id="" %}
 
