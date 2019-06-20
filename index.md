@@ -46,25 +46,25 @@ This Web Accessibility Initiative (WAI) resource helps you make your media:
 
 The following elements make media accessible to people who cannot hear, people who cannot see, and others. Some media needs all of these elements, and others need only a transcript.
 
-* **[Captions/Subtitles](captions)** &mdash; Captions (also called "intralingual subtitles") provide content to people who are Deaf and others who cannot hear the audio. Captions are a text version of the speech and non-speech audio information needed to understand the content. _Subtitles_ are the spoken audio translated into another language.
-* **[Transcripts](transcripts)** &mdash; Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. _Descriptive transcripts_ also include visual information needed to understand the content. Descriptive transcripts are required to provide content to people who are both Deaf and blind.
-* **[Audio Description of Visual Information](description)** &mdash; Audio description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content.
-* **[Sign Languages](sign-languages)** &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For most people who are Deaf, sign language is their native language, and some do not understand written language well. (Sign language is not required to meet most minimum accessibility standards.)
-* **[Media Player](player)** &mdash; Media players have different levels of accessibility support. For example, some provide a separate audio track for description and some use the caption file to provide an _interactive transcript_.
-* **[Video and Audio Content](av-content)** &mdash; There are also accessibility requirements for the video or audio content itself. For example, in videos, avoid flashing that can cause seizures.
+* **[Captions/Subtitles](/design-develop/media/captions/)** &mdash; Captions (also called "intralingual subtitles") provide content to people who are Deaf and others who cannot hear the audio. Captions are a text version of the speech and non-speech audio information needed to understand the content. _Subtitles_ are the spoken audio translated into another language.
+* **[Transcripts](/design-develop/media/transcripts/)** &mdash; Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. _Descriptive transcripts_ also include visual information needed to understand the content. Descriptive transcripts are required to provide content to people who are both Deaf and blind.
+* **[Audio Description of Visual Information](/design-develop/media/description/)** &mdash; Audio description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content.
+* **[Sign Languages](/design-develop/media/sign-languages/)** &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For most people who are Deaf, sign language is their native language, and some do not understand written language well. (Sign language is not required to meet most minimum accessibility standards.)
+* **[Media Player](/design-develop/media/player/)** &mdash; Media players have different levels of accessibility support. For example, some provide a separate audio track for description and some use the caption file to provide an _interactive transcript_.
+* **[Video and Audio Content](/design-develop/media/av-content/)** &mdash; There are also accessibility requirements for the video or audio content itself. For example, in videos, avoid flashing that can cause seizures.
 
 ## Making Audio and Video Media Accessible
 
 This resource walks you through understanding accessible media, whether you are outsourcing it or creating it in-house.
 
-**[Planning Accessible Audio and Video Media](planning)**:
+**[Planning Accessible Audio and Video Media](/design-develop/media/planning/)**:
 * helps you **figure out what your specific audio or video needs** (captions, audio description, a basic transcript, or a descriptive transcript)
 * helps you plan what to develop in-house and what to outsource
 * shows the Web Content Accessibility Guidelines (WCAG) standards for audio and video media
 
 ## Example
 
-An example accessible video is [Video Captions](https://www.w3.org/WAI/perspective-videos/captions/). That page provides:
+An example accessible video is [Video Captions](/perspective-videos/captions/). That page provides:
 * video and audio content with accessibility considerations, such as low background audio
 * an audio described version of the video
 * captions

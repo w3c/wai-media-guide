@@ -72,7 +72,7 @@ Specifically, make the background sounds at least 20 decibels lower than the for
 
 <span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 1.4.7: Low or No Background Audio](https://www.w3.org/WAI/WCAG21/Understanding/low-or-no-background-audio.html).</span>
 
-### Provide redundancy for sensory charachteristics
+### Provide redundancy for sensory characteristics
 
 Make your information work for people who cannot see and/or cannot hear.
 
@@ -97,9 +97,9 @@ Avoid anything that flashes more than three times in any one second period.
 
 <span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 2.3.2: Three Flashes](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes.html) and [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold.html)</span>
 
-### Consider speaker visbility
+### Consider speaker visibility
 
-Some people use mouth movement to help understand spoken language. When feasible, ensure that the speaker's face is visibile and in good light.
+Some people use mouth movement to help understand spoken language. When feasible, ensure that the speaker's face is visible and in good light.
 
 ### Make overlay text readable
 
@@ -138,7 +138,7 @@ For many videos, the best way to handle audio description is not to need it at a
   </tr>
 </table>
 
-Guidance on what to include is in the "Creating Audio Description of Visual Information" page, [Tips for Writing Description section](/description/#tips-for-writing-description).
+Guidance on what to include is in the "Creating Audio Description of Visual Information" page, [Tips for Writing Description section](/design-develop/media/description/#tips-for-writing-description).
 
 #### Time for description
 

@@ -131,7 +131,7 @@ Keep in mind that the main purpose of a descriptive transcript is to provide the
 
 Transcripts generally include all of the audio information from the captions, and additional information. See the guidance under [For captions and transcripts[]@@). _{can we programmatically put one source here & there so users don't have to go elsewhere to get it, and we only have to update it in one places?}_
 
-* **If you're starting with a captions file, edit the line breaks.** Put the information in logical paragraphs, lists, and sections. For example, in the example excerpts above, 6 lines of captions are grouped into 2 paragraghs of text (in table cells).
+* **If you're starting with a captions file, edit the line breaks.** Put the information in logical paragraphs, lists, and sections. For example, in the example excerpts above, 6 lines of captions are grouped into 2 paragraphs of text (in table cells).
 
 * **Add navigation and clarifications:**
    * Add headings and links where it will make the transcript more usable. This also helps with SEO. For example:
@@ -188,7 +188,7 @@ A descriptive transcript can be in a table so that readers can easily read only 
 ### Where to Put Transcripts
 
 Transcripts can be:
-* Included on the same web page with the media. ([example decriptive transcript at the bottom of same page with video](https://www.w3.org/WAI/perspective-videos/captions/#transcript))
+* Included on the same web page with the media. ([example descriptive transcript at the bottom of same page with video](https://www.w3.org/WAI/perspective-videos/captions/#transcript))
 * Provided on a separate web page. ([example podcast transcript on separate page](https://www.w3.org/WAI/highlights/200606wcag2interview.html))
 
 Make sure it is easy for users to know that a transcript is available and to get to the transcript.

@@ -26,7 +26,7 @@ navigation:
 This page helps you plan accessible media. It:
 * helps you **figure out what your specific audio or video needs** (captions, audio description, a basic transcript, or a descriptive transcript)
 * helps you plan what to develop in-house and what to outsource
-* shows the Web Content Accessibility Guidelines (<a href="https://www.w3.org/WAI/standards-guidelines/wcag">WCAG</a>) standards for audio and video media
+* shows the Web Content Accessibility Guidelines ([WCAG](/standards-guidelines/wcag/) standards for audio and video media
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -171,7 +171,7 @@ For audio-only, captions enable people who are hard of hearing to get the richne
 
 For videos, captions enable people who are Deaf or hard of hearing to see the visual content and read the captions at the same time. 
 
-Transcripts are required to provide access to people who are Deaf-blind and use braille. (Also, transcripts have several [additional benefits](index#additional-benefits) to all users.)
+Transcripts are required to provide access to people who are Deaf-blind and use braille. (Also, transcripts have several [additional benefits](/design-develop/media/#additional-benefits) to all users.)
 
 ## Planning Accessible Audio and Video
 
@@ -188,15 +188,15 @@ Here is an example workflow for developing an accessible video, with notes on wh
 {% include box.html type="start" title="Workflow and Responsibilities" class="" %}
 {:/}
 
-1. Address accessibility in **[video content](/av-content)** as the video is planned and produced.<br>_By:_ Script writers, videographers, producers, and others.
+1. Address accessibility in **[video content](/design-develop/media/av-content/)** as the video is planned and produced.<br>_By:_ Script writers, videographers, producers, and others.
 
-2. Develop an **[audio described version](/design-develop/media/description)** of the video at the same time as the main video, if needed.<br>_By:_ The same people doing the main video also do the describe version.
+2. Develop an **[audio described version](/design-develop/media/description/)** of the video at the same time as the main video, if needed.<br>_By:_ The same people doing the main video also do the describe version.
 
-3. Develop **[captions](captions)** for the main video, for the audio described version, and of the audio description itself.<br>_By:_ Usually if the video is professionally produced, the producers provide captions. Sometimes when informal videos are developed in-house, captions are outsourced.
+3. Develop **[captions](/design-develop/media/captions/)** for the main video, for the audio described version, and of the audio description itself.<br>_By:_ Usually if the video is professionally produced, the producers provide captions. Sometimes when informal videos are developed in-house, captions are outsourced.
 
-4. Develop a **[descriptive transcript](transcripts)** using the text from the caption files.<br>_By:_ Often transcripts are developed in-house from caption files.
+4. Develop a **[descriptive transcript](/design-develop/media/transcripts/)** using the text from the caption files.<br>_By:_ Often transcripts are developed in-house from caption files.
 
-5. Implement it in an **[accesible media player](player)** (usually an existing player with good accessibility support).<br>_By:_ Usually in-house web developers.
+5. Implement it in an **[accesible media player](/design-develop/media/player/)** (usually an existing player with good accessibility support).<br>_By:_ Usually in-house web developers.
 
 _@@ sign languages ? ([survey results](https://www.w3.org/2002/09/wbs/35532/AVmedia-21-jun/results#xsign))_
 
@@ -210,7 +210,7 @@ To help you plan in-house and outsourced work, the sub-pages of this resource in
 * [Transcripts, Skills and Tools](/design-develop/media/transcripts/#skills-and-tools)
 * [Media Palyers, Skills and Tools](/design-develop/media/player/#skills-and-tools)
 
-When planning for accessible media, it maybe helpful to communicate the **[additional benefits](index#additional-benefits) to all users** and to your organization, such as search engine optimization (SEO).
+When planning for accessible media, it maybe helpful to communicate the **[additional benefits](/design-develop/media/#additional-benefits) to all users** and to your organization, such as search engine optimization (SEO).
 
 ## Standards
 

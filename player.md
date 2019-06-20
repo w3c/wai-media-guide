@@ -47,7 +47,7 @@ Setting up an accessible media player requires HTML 5 skills.
 
 ## HTML 5
 
-HTML 5 lets you embed audio and video with the ```<audio>```, ```<video>```, and ```<track>``` elements. There are JavaScript APIs for controlling them. Several resources on the web provide guidance on embedding audio and video in HTML5. For example, [Video and audio content]( https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content) and [```<video>```: The Video Embed element]( https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video).
+HTML 5 lets you embed audio and video with the ```<audio>```, ```<video>```, and ```<track>``` elements. There are JavaScript APIs for controlling them. Several resources on the web provide guidance on embedding audio and video in HTML5. For example, [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content) and [```<video>```: The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video).
 
 Modern browsers will provide a default player &mdash; usually within the web page, or with the QuickTime player on iPhones. These default players have different user interfaces, and most have **limited functionality** to support accessibility.
 
@@ -55,7 +55,7 @@ Modern browsers will provide a default player &mdash; usually within the web pag
 
 ## Media Player Support for Accessibility
 
-Accessible media players provide a user interface that works without a keyboard, through speech interface, and by screen reader users. They audio description, captions, and transcripts. More details are in the [Media Accessibility User Requirements document]( https://www.w3.org/TR/media-accessibility-reqs/) _{@@ include that link or not because that's much more info than most people really need here}_.
+Accessible media players provide a user interface that works without a keyboard, through speech interface, and by screen reader users. They audio description, captions, and transcripts. More details are in the [Media Accessibility User Requirements document](https://www.w3.org/TR/media-accessibility-reqs/) _{@@ include that link or not because that's much more info than most people really need here}_.
 
 There are players developed specifically for accessibility. Some are free, open source and some are commercial.
 
