@@ -205,9 +205,10 @@ _@@ sign languages ? ([survey results](https://www.w3.org/2002/09/wbs/35532/AVme
 {:/}
 
 To help you plan in-house and outsourced work, the sub-pages of this resource include **considerations, skills, and tools needed** for creating accessible media:
-* [Audio Description Considerations](description#audio-description-considerations)
-* [Captions, Skills and Tools](captions#skills-and-tools) and <a href="/design-develop/media/captions#automatic-captions-are-not-sufficient">Automatic Captions are Not Sufficient</a>
-* [Transcripts, Skills and Tools](transcripts#skills-and-tools)
+* [Audio Description Considerations](/design-develop/media/description/#audio-description-considerations)
+* [Captions, Skills and Tools](/design-develop/media/captions/#skills-and-tools) and [Automatic Captions are Not Sufficient](/design-develop/media/captions/#automatic-captions-are-not-sufficient)
+* [Transcripts, Skills and Tools](/design-develop/media/transcripts/#skills-and-tools)
+* [Media Palyers, Skills and Tools](/design-develop/media/player/#skills-and-tools)
 
 When planning for accessible media, it maybe helpful to communicate the **[additional benefits](index#additional-benefits) to all users** and to your organization, such as search engine optimization (SEO).
 
