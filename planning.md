@@ -17,6 +17,17 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 navigation:
   previous: /design-develop/media/
   next:     /design-develop/media/media-content/
+inline_css: >
+  :root {
+    --cloudy-subtle: #dce4e8;
+    --red-subtle: #e8dce4;
+  }
+  .box-checklist, .box-h-checklist {
+    background-color: var(--cloudy-subtle);
+  }
+  .box-h-checklist {
+    color: var(--dk-blue);
+  }
 ---
 
 {::nomarkdown}
@@ -50,7 +61,7 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 ## What does my audio-only (e.g., podcast) need to be accessible?
 
 {::nomarkdown}
-{% include box.html type="start" title="Pre-Recorded audio:" class="" id="tree-ap" %}
+{% include box.html type="start" title="Pre-Recorded audio:" class="checklist" id="tree-ap" %}
 {:/}
 
 -   **[Audio content](/design-develop/media/av-content/#audio-only-and-videos)** that works for people who cannot hear well or cannot see.
@@ -64,7 +75,7 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Live audio:" class="" id="tree-la" %}
+{% include box.html type="start" title="Live audio:" class="checklist" id="tree-la" %}
 {:/}
 
 -   **[Audio content](/design-develop/media/av-content/#audio-only-and-videos)** that works for people who cannot hear well or cannot see.
@@ -80,7 +91,7 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
 ## What does my video need to be accessible?
 
 {::nomarkdown}
-{% include box.html type="start" title="Pre-Recorded video:" class="" id="tree-vp" %}
+{% include box.html type="start" title="Pre-Recorded video:" class="checklist" id="tree-vp" %}
 {:/}
 
 **Is there speech or other audio** that is needed to understand the
@@ -120,7 +131,7 @@ accessibility.
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Live video:" class="" id="tree-lv" %}
+{% include box.html type="start" title="Live video:" class="checklist" id="tree-lv" %}
 {:/}
 
 **Is there speech or other audio** that is needed to understand the
