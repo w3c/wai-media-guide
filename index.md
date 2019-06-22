@@ -22,7 +22,7 @@ navigation:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This Web Accessibility Initiative (WAI) resource helps you make your media:
+This Web Accessibility Initiative (WAI) resource helps you make your audio and video media:
 * accessible to people with disabilities
 * meet international standards
 
@@ -42,9 +42,9 @@ This Web Accessibility Initiative (WAI) resource helps you make your media:
 {% include toc.html type="end" %}
 {:/}
 
-## Elements of Accessible Audio and Video Media
+## Accessible Audio and Video Media
 
-The following elements make media accessible to people who cannot hear, people who cannot see, and others. Some media needs all of these elements, and others need only a transcript.
+The following make media accessible to people who cannot hear, people who cannot see, and others. Some media needs all of these, and others need only a transcript.
 
 * **[Captions/Subtitles](/design-develop/media/captions/)** &mdash; Captions (also called "intralingual subtitles") provide content to people who are Deaf and others who cannot hear the audio. Captions are a text version of the speech and non-speech audio information needed to understand the content. _Subtitles_ are the spoken audio translated into another language.
 * **[Transcripts](/design-develop/media/transcripts/)** &mdash; Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. _Descriptive transcripts_ also include visual information needed to understand the content. Descriptive transcripts are required to provide content to people who are both Deaf and blind.
