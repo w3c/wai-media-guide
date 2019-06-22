@@ -42,7 +42,7 @@ This Web Accessibility Initiative (WAI) resource helps you make your audio and v
 {% include toc.html type="end" %}
 {:/}
 
-## Accessible Audio and Video Media
+## Aspects of Accessible Audio and Video
 
 The following make media accessible to people who cannot hear, people who cannot see, and others. Some media needs all of these, and others need only a transcript.
 
