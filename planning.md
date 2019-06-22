@@ -319,7 +319,7 @@ Other WCAG requirements related to audio and video include:
 <p>Although WCAG Level AA does not require descriptive transcripts for videos, we recommend them because they:</p>
 <ul>
   <li>are needed for most videos to be accessible to people who are &quot;Deaf-blind&quot;</li>
-  <li>meet a wide range of accessibility needs</li>
+  <li>meet a wide range of accessibility needs, including people who process text better that auditory information and people who get distracted by moving visuals</li>
   <li>provide <a href="/design-develop/media/#additional-benefits">additional benefits</a> for users <em>without</em> disabilities, and for your organization (for example, <abbr title="search engine optimization"> SEO</abbr>)</li>
   <li><strong>are easy and inexpensive to develop</strong> using captions and audio description that you already have to meet Level AA</li>
 </ul>
