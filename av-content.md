@@ -48,6 +48,8 @@ _This page covers only some aspects of making audio and video accessible. For mo
 
 This page introduces things to consider when planning, scripting, storyboarding, recording, and producing audio and video.
 
+Some are indicated as Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)) requirements. Others are good practice.
+
 ## Audio
 
 ### Create high-quality audio
@@ -64,15 +66,15 @@ Speak clearly. Speak as slowly as appropriate. This will enable listeners to und
 
 Avoid or explain jargon, acronyms, and idioms. For example, expressions such as “raising the bar” can be interpreted literally by some people with cognitive disabilities and can be confusing.
 
-### Use low background audio in recording and post-production
+### Use low background audio in recording and post-production (WCAG AAA)
 
 When the main audio is a person speaking and you have background music, set the levels so people with hearing or cognitive disabilities can easily distinguish the speaking from the background.
 
 Specifically, make the background sounds at least 20 decibels lower than the foreground speech content (with the exception of occasional sounds that last for only one or two seconds).
 
-<span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 1.4.7: Low or No Background Audio](https://www.w3.org/WAI/WCAG21/Understanding/low-or-no-background-audio.html).</span>
+<span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 1.4.7: Low or No Background Audio (AAA)](https://www.w3.org/WAI/WCAG21/Understanding/low-or-no-background-audio.html).</span>
 
-### Provide redundancy for sensory characteristics
+### Provide redundancy for sensory characteristics (WCAG A)
 
 Make your information work for people who cannot see and/or cannot hear.
 
@@ -81,7 +83,7 @@ For example, instead of saying:
 Say:
 <blockquote>Attach the small ring to the green end, which is the larger end.</blockquote>
 
-<span style="color:#585858; font-style:italic;">More information that primarily addresses web pages, yet is relevant to audio and video, is in [Understanding Success Criterion 1.3.3: Sensory Characteristics](https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html).</span>
+<span style="color:#585858; font-style:italic;">More information that primarily addresses web pages, yet is relevant to audio and video, is in [Understanding Success Criterion 1.3.3: Sensory Characteristics (A)](https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html).</span>
 
 ### Give people time to process information
 
@@ -91,21 +93,21 @@ Pause between topics.
 
 **_Note:_ Above applies to the audio aspects of videos.**
 
-### Avoid causing seizures
+### Avoid causing seizures (WCAG A)
 
 Avoid anything that flashes more than three times in any one second period. 
 
-<span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 2.3.2: Three Flashes](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes.html) and [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold.html)</span>
+<span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 2.3.2: Three Flashes (AAA)](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes.html) and [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold (A)](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold.html)</span>
 
 ### Consider speaker visibility
 
 Some people use mouth movement to help understand spoken language. When feasible, ensure that the speaker's face is visible and in good light.
 
-### Make overlay text readable
+### Make overlay text readable (WCAG AA, AAA)
 
 For any text, consider the font family, size, and contrast between the text and background.
 
-<span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 1.4.3: Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) and [Understanding Success Criterion 1.4.6: Contrast (Enhanced)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced).</span>
+<span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 1.4.3: Contrast (Minimum) (AA)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) and [Understanding Success Criterion 1.4.6: Contrast (Enhanced) (AAA)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced).</span>
 
 ### Plan for audio description of visual information
 
