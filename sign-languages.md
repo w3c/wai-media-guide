@@ -23,6 +23,8 @@ Sign languages use hand and arm movements, facial expressions, and body position
 
 For most people who are Deaf, sign language is their native language, and some do not read or understand written language well.
 
+Not everyone who is Deaf knows sign languages, especially if they became Deaf later in life.
+
 Note that there are different sign languages in different regions and countries; for example, American Sign Language (ASL), British Sign Language (BSL), and Auslan (Australian Sign Language) are all different.
 
 Sign language is not required to meet most minimum accessibility standards.
