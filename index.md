@@ -44,16 +44,24 @@ This Web Accessibility Initiative (WAI) resource helps you make your audio and v
 
 ## Understanding User Experiences
 
-It's easy to understand that a person who is Deaf can't hear the audio, so you need to provide important audio information in another form. Here are some other considerations to help you understand the user experience behind making audio and video accessible:
-* Many people who are **Deaf** can read text well, and use _captions_. Some cannot, and prefer _sign language_.
+It's easy to understand that a person who is Deaf can't hear the audio, so you need to provide important audio information in another form. Here are some other considerations to help you understand the user experience behind making audio and video accessible. _(Descriptions of each aspect is below on this page.)_
+* Many people who are **Deaf** can read text well, and use _transcripts_ or _captions_. Some cannot, and prefer _sign language_.
 * Many people who are **hard of hearing** like to listen to the audio to hear what they can, and have _captions_ to fill in what they can't hear adequately.
 * Some people who have **difficulty processing auditory information** also use _captions_. Many need _transcripts_ so they can read at their own pace.
-* People who are **blind** need to know the relevant visual information in a video. _Audio description of visual information_ can be provided separate from the main video.
+* People who are **blind** need to know the relevant visual information in a video.  _Audio description of visual information_ can be provided separate from the main video.
 * People who are **Deaf-blind** need the audio information and the visual information in text so they can read it with Braille. They need _descriptive transcripts_.
 * Some people **cannot focus and comprehend auditory or visual information** when there is changing visuals. For most videos, they also need _descriptive transcripts_.
 
+## How to Make Audio and Video Accessible
 
-## Aspects of Accessible Audio and Video
+This resource walks you through understanding accessible media, whether you are outsourcing it or creating it in-house.
+
+**[Planning Accessible Audio and Video Media](/design-develop/media/planning/)**:
+* helps you **figure out what your specific audio or video needs**
+* helps you plan what to develop in-house and what to outsource
+* shows the Web Content Accessibility Guidelines (WCAG) standards for audio and video media
+
+## Aspects of Accessible Audio and Video {#descriptions}
 
 The following make media accessible to people who cannot hear, people who cannot see, and others. Some media needs all of these, and others need only a transcript.
 
@@ -63,15 +71,6 @@ The following make media accessible to people who cannot hear, people who cannot
 * **[Sign Languages](/design-develop/media/sign-languages/)** &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For most people who are Deaf, sign language is their native language, and some do not understand written language well. (Sign language is not required to meet most minimum accessibility standards.)
 * **[Media Player](/design-develop/media/player/)** &mdash; Media players have different levels of accessibility support. For example, some provide a separate audio track for description and some use the caption file to provide an _interactive transcript_.
 * **[Video and Audio Content](/design-develop/media/av-content/)** &mdash; There are also accessibility requirements for the video or audio content itself. For example, in videos, avoid flashing that can cause seizures.
-
-## Making Audio and Video Media Accessible
-
-This resource walks you through understanding accessible media, whether you are outsourcing it or creating it in-house.
-
-**[Planning Accessible Audio and Video Media](/design-develop/media/planning/)**:
-* helps you **figure out what your specific audio or video needs** (captions, audio description, a basic transcript, or a descriptive transcript)
-* helps you plan what to develop in-house and what to outsource
-* shows the Web Content Accessibility Guidelines (WCAG) standards for audio and video media
 
 ## Example
 
