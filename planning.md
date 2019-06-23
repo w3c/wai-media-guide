@@ -24,8 +24,8 @@ navigation:
 {:/}
 
 This page helps you plan accessible media. It:
-* helps you **figure out what your specific audio or video needs** (captions, audio description, a basic transcript, or a descriptive transcript)
-* helps you plan what to develop in-house and what to outsource
+* helps you **figure out what your specific audio or video needs** (captions, audio description, a transcript, etc.)
+* helps with project management and planning what to develop in-house and what to outsource
 * shows the Web Content Accessibility Guidelines ([WCAG](/standards-guidelines/wcag/) standards for audio and video media
 
 {::nomarkdown}
@@ -44,10 +44,29 @@ This page helps you plan accessible media. It:
 {% include toc.html type="end" %}
 {:/}
 
-_For brief descriptions of captions, transcripts, audio description, and sign language, see the previous page: [Making Video and Audio Accessible - Introduction](index)._
+## Introduction
 
+For background, see _[Making Video and Audio Accessible - Introduction](index)_ that provides:
+* brief descriptions of captions, transcripts, audio description, sign language, and media player accessibility
+* examples of user experiences to help you understand why who needs what
 
-## Audio-only checklist for accessibility
+What accessibility features you provide with your media will likely be influenced by:
+* governmental regulations and other policy requirements
+* budget and time constraints
+* user needs
+
+This resource endeavors to help you know the minimum requirements and encourages you to meet all user needs.
+
+## Checklists
+
+The checklists below:
+* include all that is needed to meet user needs (including what goes beyond most accessibility standards and policies)
+* indicate what is required in Web Content Accessibility Guidelines (WCAG) at Level A, AA, and AAA. _(For an explanation of all that, jump down to the [Standards section of this page](#standards)_
+
+### Audio-only Checklist
+
+This section covers things like podcasts that don't have video.
+
 <div id="tree-ap" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Pre-recorded audio:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
@@ -72,7 +91,7 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
   </div>
 </div>
 
-## Video checklist for accessibility
+### Video Checklist
 
 <div id="tree-vp" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Pre-recorded video:</p>
@@ -169,7 +188,7 @@ For videos, captions enable people who are Deaf or hard of hearing to see the vi
 
 Transcripts are required to provide access to people who are Deaf-blind and use braille. (Also, transcripts have several [additional benefits](/design-develop/media/#additional-benefits) to all users.)
 
-## Planning Accessible Audio and Video
+## Project Management
 
 <img src="{{ "/content-images/wai-media-guide/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
