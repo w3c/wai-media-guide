@@ -250,6 +250,7 @@ Accessibility requirements for video and audio are different based on if they ar
 * video with audio, video without audio (video only), or audio only
 
 ### Pre-Recorded
+{:.no_toc}
 
 <table class="quiet">
 <tr>
@@ -288,6 +289,7 @@ Accessibility requirements for video and audio are different based on if they ar
 </table>
 
 ### Live
+{:.no_toc}
 
 <table class="quiet">
 <tr>
@@ -321,6 +323,7 @@ Accessibility requirements for video and audio are different based on if they ar
 </table>
 
 ### More about Standards
+{:.no_toc}
 
 To learn more about WCAG standards for media, see [Understanding Guideline 1.2: Time-based Media](https://www.w3.org/WAI/WCAG21/Understanding/time-based-media).
 
@@ -330,6 +333,7 @@ Other WCAG requirements related to audio and video include:
 * [1.4.2 Audio Control](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-dis-audio.html) (Level A) If any audio on a Web page plays automatically for more than 3 seconds, either a mechanism is available to pause or stop the audio, or a mechanism is available to control audio volume...
 
 ### Descriptive Transcripts
+{:.no_toc}
 
 <p>Although WCAG Level AA does not require descriptive transcripts for videos, we recommend them because they:</p>
 <ul>
