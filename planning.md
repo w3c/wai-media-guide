@@ -26,7 +26,7 @@ navigation:
 This page helps you plan accessible media. It:
 * helps you **figure out what your specific audio or video needs** (captions, audio description, a transcript, etc.)
 * helps with project management and planning what to develop in-house and what to outsource
-* shows the Web Content Accessibility Guidelines ([WCAG](/standards-guidelines/wcag/) standards for audio and video media
+* shows the Web Content Accessibility Guidelines ([WCAG](/standards-guidelines/wcag/)) standards for audio and video media
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -37,7 +37,7 @@ This page helps you plan accessible media. It:
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
-{::options toc_levels="2" /}
+{::options toc_levels="2,3" /}
 {:toc}
 
 {::nomarkdown}
@@ -60,8 +60,8 @@ This resource endeavors to help you know the minimum requirements and encourages
 ## Checklists
 
 The checklists below:
-* include all that is needed to meet user needs (including what goes beyond most accessibility standards and policies)
-* indicate what is required in Web Content Accessibility Guidelines (WCAG) at Level A, AA, and AAA. _(For an explanation of all that, jump down to the [Standards section of this page](#standards)_
+* include all that is needed to meet user needs (including what goes beyond minimum accessibility standards and policies)
+* indicate what is required in Web Content Accessibility Guidelines (WCAG) at Level A, AA, and AAA. _(For an explanation of all that, jump down to the [Standards section of this page](#standards).)_
 
 ### Audio-only Checklist
 
@@ -153,7 +153,7 @@ This section covers things like podcasts that don't have video.
   </div>
 </div>
 
-## Informing Users When None Needed {#none}
+### Informing Users When None Needed {#none}
 {:.no_toc}
 
 <p>If your video does not need captions (because there is no substantive audio content) or does not need audio description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it. For example:</p>
@@ -178,7 +178,7 @@ Audio description not needed: This video does not include audio description beca
 {% include box.html type="end" %}
 {:/}
 
-## Both Captions and a Transcript
+### Both Captions and a Transcript {#captions-and-transcript}
 
 Ideally you provide captions and a separate transcript.
 
