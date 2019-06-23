@@ -42,15 +42,15 @@ This Web Accessibility Initiative (WAI) resource helps you make your audio and v
 {% include toc.html type="end" %}
 {:/}
 
-## User Experiences
+## Understanding User Experiences
 
-It's easy to understand that a person who is Deaf can't hear the audio, so you need to provide the important audio information in another form. Here are some other things to help you understand the user experience behind making audio and video accessible:
+It's easy to understand that a person who is Deaf can't hear the audio, so you need to provide important audio information in another form. Here are some other considerations to help you understand the user experience behind making audio and video accessible:
 * Many people who are **Deaf** can read text well, and use _captions_. Some cannot, and prefer _sign language_.
 * Many people who are **hard of hearing** like to listen to the audio to hear what they can, and have _captions_ to fill in what they can't hear adequately.
-* Some people who have **trouble processing auditory information** also use _captions_. Many need _transcripts_ that they can read at their own pace.
+* Some people who have **difficulty processing auditory information** also use _captions_. Many need _transcripts_ so they can read at their own pace.
 * People who are **blind** need to know the relevant visual information in a video. _Audio description of visual information_ can be provided separate from the main video.
 * People who are **Deaf-blind** need the audio information and the visual information in text so they can read it with Braille. They need _descriptive transcripts_.
-* Some people have **trouble focusing when there is moving visual information**. For most videos, they also need _descriptive transcripts_.
+* Some people **cannot focus and comprehend auditory or visual information** when there is changing visuals. For most videos, they also need _descriptive transcripts_.
 
 
 ## Aspects of Accessible Audio and Video
