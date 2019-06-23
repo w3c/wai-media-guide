@@ -47,15 +47,15 @@ This page helps you plan accessible media. It:
 _For brief descriptions of captions, transcripts, audio description, and sign language, see the previous page: [Making Video and Audio Accessible - Introduction](index)._
 
 
-## What does my audio-only (e.g., podcast) need to be accessible?
+## Audio-only checklist for accessibility
 <div id="tree-ap" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Pre-recorded audio:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
-      <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> </strong> that works for people who cannot hear well or cannot see.</li>
-      <li><strong>[_] <a href="/design-develop/media/transcripts">Transcript</a> </strong> that provides the audio information as text to people who are Deaf or hard of hearing.</li>
-      <li>[_] <em>Ideally,</em> <a href="/design-develop/media/captions">Captions</a> that provide text synchronized with the audio for people who are hard of hearing and want to listen the audio.</li>
-      <li>[_] <em>Ideally,</em> <a href="/design-develop/media/sign-languages">Sign language(s)</a> that provides the audio information to people who are Deaf and do not read text well.</li>
+      <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> (A) </strong> that is accessible; for example, what is said and how it's recorded</li>
+      <li><strong>[_] <a href="/design-develop/media/transcripts">Transcript</a> (A)</strong> separate from the audio</li>
+      <li>[_] <a href="/design-develop/media/captions">Captions</a> synched with the audio</li>
+      <li>[_]<em> </em><a href="/design-develop/media/sign-languages">Sign language(s)</a> (AAA)</li>
     </ul>
   </div>
 </div>
@@ -64,15 +64,15 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Live audio:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
-      <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> </strong> that works for people who cannot hear well or cannot see.</li>
-      <li><strong>[_] <a href="/design-develop/media/captions">Captions</a></strong> that provide text synchronized with the audio for people who are Deaf or hard of hearing.</li>
-      <li>[_] <em>Ideally,</em> <a href="/design-develop/media/transcripts">Transcript</a> that provides the audio information as text to people who are Deaf-blind and cannot see captions (and use Braille).</li>
-      <li>[_] <em>Ideally,</em> <a href="/design-develop/media/sign-languages">Sign language(s)</a> that provides the audio information to people who are Deaf and do not read text well.</li>
+      <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> (A) </strong> that is accessible; for example, what is said and how it's captured</li>
+      <li><strong>[_] <a href="/design-develop/media/captions">Captions</a></strong> <strong>(AA)</strong></li>
+      <li>[_] <a href="/design-develop/media/transcripts">Transcript</a> (AAA)</li>
+      <li>[_] <a href="/design-develop/media/sign-languages">Sign language(s)</a></li>
     </ul>
   </div>
 </div>
 
-## What does my video need to be accessible?
+## Video checklist for accessibility
 
 <div id="tree-vp" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Pre-recorded video:</p>
@@ -81,11 +81,10 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
     <ul>
       <li>If yes,
         <ul>
-          <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> </strong> that works for people who cannot hear well or cannot see.</li>
-          <li><strong>[_] <a href="/design-develop/media/captions">Captions</a> </strong> that provide the information as text synchronized with the audio for people who are Deaf or hard of hearing.</li>
-          <li>[_] <em>Ideally,</em> <a href="/design-develop/media/transcripts">Transcript of audio information</a> that provides the text separate from the video.<br>
-            <em>(This transcript is the same text from the captions file, in a different format.)</em></li>
-          <li>[_] <em>Ideally,</em> <a href="/design-develop/media/sign-languages">Sign language(s)</a> that provides the audio information.</li>
+          <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> (A) </strong> that is accessible; for example, what is said and how it's recorded</li>
+          <li><strong>[_] <a href="/design-develop/media/captions">Captions</a> </strong> <strong>(AA)</strong></li>
+          <li>[_] <a href="/design-develop/media/transcripts">Transcript of audio information</a> (AAA) <em>(The same text from the captions file, in a different format.)</em></li>
+          <li>[_] <a href="/design-develop/media/sign-languages">Sign language(s)</a> (AAA)</li>
         </ul>
       </li>
       <li>If no, <a href="#none">inform users</a>.</li>
@@ -94,15 +93,14 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
     <ul>
       <li>If yes,
         <ul>
-          <li><strong>[_] <a href="/design-develop/media/av-content">Video content</a> </strong> that works for people who cannot see well.</li>
-          <li><strong>[_] <a href="/design-develop/media/description">Audio description of the visual information</a> </strong> that provides the information to people who are blind and want to listen to the video.</li>
-          <li><strong>[_] <a href="/design-develop/media/transcripts">Descriptive transcript</a> </strong> that provides the audio and video information to people who are Deaf-blind.<br>
-            <em>(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)</em></li>
+          <li><strong>[_] <a href="/design-develop/media/av-content">Video content</a> (A) </strong> that is accessible; for example, doesn't cause seizures</li>
+          <li><strong>[_] <a href="/design-develop/media/description">Audio description of the visual information</a> (A/AA)</strong></li>
+          <li><strong>[_] <a href="/design-develop/media/transcripts">Descriptive transcript</a> (AAA) </strong><em>(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)</em></li>
         </ul>
       </li>
       <li>If no, <a href="#none">inform users</a>.</li>
     </ul>
-    <p style="padding-bottom: 11px; margin-bottom: 0;"><strong>[_] <a href="/design-develop/media/player">Media player</a> </strong> that supports accessibility.</p>
+    <p style="padding-bottom: 11px; margin-bottom: 0;"><strong>[_] <a href="/design-develop/media/player">Media player</a> (A) </strong> that supports accessibility.</p>
   </div>
 </div>
 
@@ -114,10 +112,10 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
     <ul>
       <li>If yes,
         <ul>
-          <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a></strong> that works for people who cannot hear well or cannot see.</li>
-          <li><strong>[_] <a href="/design-develop/media/captions">Captions</a></strong> that provide the information as text synchronized with the audio for people who are Deaf or hard of hearing.</li>
-          <li>[_] <em>Ideally,</em> <a href="/design-develop/media/transcripts">Transcript of audio information</a> that provides the text separate from the video.</li>
-          <li>[_] <em>Ideally,</em> <a href="/design-develop/media/sign-languages">Sign language(s)</a> that provides the audio information.</li>
+          <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> (A) </strong> that is accessible; for example, what is said and how it's captured</li>
+          <li><strong>[_] <a href="/design-develop/media/captions">Captions</a> (AA)</strong></li>
+          <li>[_] @@ need to say in format available to Braille?</li>
+          <li>[_] <a href="/design-develop/media/sign-languages">Sign language(s)</a></li>
         </ul>
       </li>
       <li>If no, <a href="#none">inform users</a>.</li>
@@ -126,15 +124,13 @@ _For brief descriptions of captions, transcripts, audio description, and sign la
     <ul>
       <li>If yes,
         <ul>
-          <li><strong>[_] <a href="/design-develop/media/av-content">Video content</a></strong> that works for people who cannot see well.</li>
-          <li>[_] <em>Ideally, </em><a href="/design-develop/media/description">Audio description of the visual information</a> that provides the information to people who are blind and want to listen to the video.</li>
-          <li>[_] <em>Ideally,</em> <a href="/design-develop/media/transcripts">Descriptive transcript</a> that provides the audio and video information to people who are Deaf-blind.<em><strong> </strong></em><br>
-            <em>(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)</em></li>
+          <li><strong>[_] <a href="/design-develop/media/av-content">Video content</a> (A) </strong> that is accessible; for example, doesn't cause seizures</li>
+          <li>[_] @@ Description of the visual information - also provided as a text stream available to Braille ?</li>
         </ul>
       </li>
       <li>If no, <a href="#none">inform users</a>.</li>
     </ul>
-    <p style="padding-bottom: 11px; margin-bottom: 0;"><strong>[_] <a href="/design-develop/media/player">Media player</a></strong> that supports accessibility.</p>
+    <p style="padding-bottom: 11px; margin-bottom: 0;"><strong>[_] <a href="/design-develop/media/player">Media player</a> (A) </strong> that supports accessibility.</p>
   </div>
 </div>
 
@@ -319,7 +315,7 @@ Other WCAG requirements related to audio and video include:
 <p>Although WCAG Level AA does not require descriptive transcripts for videos, we recommend them because they:</p>
 <ul>
   <li>are needed for most videos to be accessible to people who are &quot;Deaf-blind&quot;</li>
-  <li>meet a wide range of accessibility needs, including people who process text better that auditory information and people who get distracted by moving visuals</li>
+  <li>meet a wide range of accessibility needs</li>
   <li>provide <a href="/design-develop/media/#additional-benefits">additional benefits</a> for users <em>without</em> disabilities, and for your organization (for example, <abbr title="search engine optimization"> SEO</abbr>)</li>
   <li><strong>are easy and inexpensive to develop</strong> using captions and audio description that you already have to meet Level AA</li>
 </ul>
