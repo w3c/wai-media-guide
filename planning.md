@@ -16,7 +16,7 @@ github:
 footer: >   # Translate all the words below, including "Date:" and "Editor:". 
 navigation:
   previous: /design-develop/media/
-  next:     /design-develop/media/media-content/
+  next:     /design-develop/media/av-content/
 ---
 
 {::nomarkdown}
