@@ -19,14 +19,16 @@ navigation:
   next:     /design-develop/media/media-content/
 inline_css: >
   :root {
-    --cloudy-subtle: #dce4e8;
-    --red-subtle: #e8dce4;
+    --cloudy-subtle: #d0e1f1;
+    --red-subtle: #f1d0e1;
   }
   .box-checklist, .box-h-checklist {
     background-color: var(--cloudy-subtle);
   }
   .box-h-checklist {
     color: var(--dk-blue);
+    border-bottom: solid 1px var(--line-grey);
+    background-color: var(--pure-white);
   }
 ---
 
