@@ -101,7 +101,7 @@ This section covers things like podcasts that don't have video.
 {% include box.html type="start" title="Pre-recorded video:" class="highlighted" id="tree-vp" %}
 {:/}
 
-**Is there speech or other audio** that is needed to understand the
+**Does the video have speech or other audio** that is needed to understand the
 content?
 
 -   If yes,
@@ -112,7 +112,7 @@ content?
     {:.checkbox}
 -   If no, [inform users](#none).
 
-**Is there visual information** that is needed to understand the
+**Does the video have visual information** that is needed to understand the
 content?
 
 -   If yes,
