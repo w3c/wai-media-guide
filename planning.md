@@ -67,91 +67,99 @@ The checklists below:
 
 This section covers things like podcasts that don't have video.
 
-<div id="tree-ap" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
-  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Pre-recorded audio:</p>
-  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
-      <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> (A) </strong> that is accessible; for example, what is said and how it's recorded</li>
-      <li><strong>[_] <a href="/design-develop/media/transcripts">Transcript</a> (A)</strong> separate from the audio</li>
-      <li>[_] <a href="/design-develop/media/captions">Captions</a> synched with the audio</li>
-      <li>[_]<em> </em><a href="/design-develop/media/sign-languages">Sign language(s)</a> (AAA)</li>
-    </ul>
-  </div>
-</div>
+{::nomarkdown}
+{% include box.html type="start" title="Pre-recorded audio:" class="highlighted" id="tree-ap" %}
+{:/}
 
-<div id="tree-la" style="border: solid 1px #DDD; padding-bottom: 0;">
-  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Live audio:</p>
-  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
-      <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> (A) </strong> that is accessible; for example, what is said and how it's captured</li>
-      <li><strong>[_] <a href="/design-develop/media/captions">Captions</a></strong> <strong>(AA)</strong></li>
-      <li>[_] <a href="/design-develop/media/transcripts">Transcript</a> (AAA)</li>
-      <li>[_] <a href="/design-develop/media/sign-languages">Sign language(s)</a></li>
-    </ul>
-  </div>
-</div>
+-   **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** that is accessible; for example, what is said and how it's recorded
+-   **[Transcript](/design-develop/media/transcripts/) (A)** separate from the audio
+-   [Captions](/design-develop/media/captions/) synched with the audio
+-   [Sign language(s)](/design-develop/media/sign-languages/) (AAA)
+{:.checkbox}
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
+{% include box.html type="start" title="Live audio:" class="highlighted" id="tree-la" %}
+{:/}
+
+-   **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** that is accessible; for example, what is said and how it's recorded
+-   **[Captions](/design-develop/media/captions/) (AA)**
+-   [Transcript](/design-develop/media/transcripts/) (AAA)
+-   [Sign language(s)](/design-develop/media/sign-languages/)
+{:.checkbox}
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 ### Video Checklist
 
-<div id="tree-vp" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
-  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Pre-recorded video:</p>
-  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;"> 
-    <p><strong>Is there speech or other audio</strong> that is needed to understand the content?</p>
-    <ul>
-      <li>If yes,
-        <ul>
-          <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> (A) </strong> that is accessible; for example, what is said and how it's recorded</li>
-          <li><strong>[_] <a href="/design-develop/media/captions">Captions</a> </strong> <strong>(AA)</strong></li>
-          <li>[_] <a href="/design-develop/media/transcripts">Transcript of audio information</a> (AAA) <em>(The same text from the captions file, in a different format.)</em></li>
-          <li>[_] <a href="/design-develop/media/sign-languages">Sign language(s)</a> (AAA)</li>
-        </ul>
-      </li>
-      <li>If no, <a href="#none">inform users</a>.</li>
-    </ul>
-    <p><strong>Is there visual information</strong> that is needed to understand the content?</p>
-    <ul>
-      <li>If yes,
-        <ul>
-          <li><strong>[_] <a href="/design-develop/media/av-content">Video content</a> (A) </strong> that is accessible; for example, doesn't cause seizures</li>
-          <li><strong>[_] <a href="/design-develop/media/description">Audio description of the visual information</a> (A/AA)</strong></li>
-          <li><strong>[_] <a href="/design-develop/media/transcripts">Descriptive transcript</a> (AAA) </strong><em>(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)</em></li>
-        </ul>
-      </li>
-      <li>If no, <a href="#none">inform users</a>.</li>
-    </ul>
-    <p style="padding-bottom: 11px; margin-bottom: 0;"><strong>[_] <a href="/design-develop/media/player">Media player</a> (A) </strong> that supports accessibility.</p>
-  </div>
-</div>
+{::nomarkdown}
+{% include box.html type="start" title="Pre-recorded video:" class="highlighted" id="tree-vp" %}
+{:/}
 
-<div id="tree-lv" style="border: solid 1px #DDD; padding-bottom: 0;">
-  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Live video:</p>
-  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;"> 
-    <!--    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;"> -->
-    <p><strong>Is there speech or other audio</strong> that is needed to understand the content?</p>
-    <ul>
-      <li>If yes,
-        <ul>
-          <li><strong>[_] <a href="/design-develop/media/av-content#audio-only-and-videos">Audio content</a> (A) </strong> that is accessible; for example, what is said and how it's captured</li>
-          <li><strong>[_] <a href="/design-develop/media/captions">Captions</a> (AA)</strong></li>
-          <li>[_] @@ need to say in format available to Braille?</li>
-          <li>[_] <a href="/design-develop/media/sign-languages">Sign language(s)</a></li>
-        </ul>
-      </li>
-      <li>If no, <a href="#none">inform users</a>.</li>
-    </ul>
-    <p><strong>Is there visual information</strong> that is needed to understand the content?</p>
-    <ul>
-      <li>If yes,
-        <ul>
-          <li><strong>[_] <a href="/design-develop/media/av-content">Video content</a> (A) </strong> that is accessible; for example, doesn't cause seizures</li>
-          <li>[_] @@ Description of the visual information - also provided as a text stream available to Braille ?</li>
-        </ul>
-      </li>
-      <li>If no, <a href="#none">inform users</a>.</li>
-    </ul>
-    <p style="padding-bottom: 11px; margin-bottom: 0;"><strong>[_] <a href="/design-develop/media/player">Media player</a> (A) </strong> that supports accessibility.</p>
-  </div>
-</div>
+**Is there speech or other audio** that is needed to understand the
+content?
+
+-   If yes,
+    -   **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** that is accessible; for example, what is said and how it's recorded
+    -   **[Captions](/design-develop/media/captions/)** **(AA)**
+    -   [Transcript of audio information](/design-develop/media/transcripts/) (AAA) *(The same text from the captions file, in a different format.)*
+    -   [Sign language(s)](/design-develop/media/sign-languages/) (AAA)
+    {:.checkbox}
+-   If no, [inform users](#none).
+
+**Is there visual information** that is needed to understand the
+content?
+
+-   If yes,
+    -   **[Video content](/design-develop/media/av-content) (A)** that is accessible; for example, doesn't cause seizures
+    -   **[Audio description of the visual information](/design-develop/media/description) (A/AA)**
+    -   **[Descriptive transcript](/design-develop/media/transcripts) (AAA)** *(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)*
+    {:.checkbox}
+-   If no, [inform users](#none).
+
+![]({{ "/assets/images/checkbox.svg" | relative_url }}) **[Media player](/design-develop/media/player) (A)** that
+supports accessibility.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
+{% include box.html type="start" title="Live video:" class="highlighted" id="tree-lv" %}
+{:/}
+
+**Is there speech or other audio** that is needed to understand the
+content?
+
+-   If yes,
+    -   **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** that is accessible; for example, what is said and how it's captured
+    -   **[Captions](/design-develop/media/captions/) (AA)**
+    -   @@ need to say in format available to Braille?
+    -   [Sign language(s)](/design-develop/media/sign-languages/)
+    {:.checkbox}
+-   If no, [inform users](#none).
+
+**Is there visual information** that is needed to understand the
+content?
+
+-   If yes,
+    -   **[Video content](/design-develop/media/av-content/) (A)** that is accessible; for example, doesn't cause seizures
+    -   @@ Description of the visual information - also provided as a text stream available to Braille ?
+    {:.checkbox}
+-   If no, [inform users](#none).
+
+![]({{ "/assets/images/checkbox.svg" | relative_url }}) **[Media player](/design-develop/media/player) (A)** that
+supports accessibility.
+
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 ### Informing Users When None Needed {#none}
 {:.no_toc}
