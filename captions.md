@@ -134,7 +134,7 @@ For optimum accessibility, provide a separate caption file of the audio descript
 
 ## Skills and Tools
 
-Creating captions requires typing up audio (&quot;transcribing&quot;) and formatting it in a file with timestamps. It is fairly difficult to transcribe an audio file, and takes quite a bit of time for people who don't have the software and skill for it. The file format for captions are simple, yet it's tedious to add timestamps, especially without software or service for developing caption files.
+Creating captions requires typing up the audio (&quot;transcribing&quot;) and formatting it in a file with timestamps. Transcribing an audio file is fairly difficult and takes quite a bit of time for people who don't have the software and skill for it. The file format for captions are simple, yet it's tedious to add timestamps, especially without software or service for developing caption files.
 
 **Good captioning requires knowledge of which non-speech audio information should be included in the captions, and (@@Chris).**
 
