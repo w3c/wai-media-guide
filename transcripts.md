@@ -17,7 +17,8 @@ github:
 footer: >   # Translate all the words below, including "Date:" and "Editor:". 
 navigation:
   previous: /design-develop/media/captions/
-  next:     /design-develop/media/sign-languages/
+  next:     /design-develop/media/transcribing/
+
 ---
 
 {::nomarkdown}
