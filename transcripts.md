@@ -193,7 +193,11 @@ Transcripts can be:
 
 Make sure it is easy for users to know that a transcript is available and to get to the transcript.
 
+{% include excol.html type="start" id="example-descriptive" %}
+
 ## Example Descriptive Transcript from Caption Files
+
+{% include excol.html type="middle" %}
 
 Below is an example of caption files used to create a descriptive transcript.
 
@@ -280,6 +284,8 @@ That's the situation for everyone who can't hear.
 {% include box.html type="end" %}
 {:/}
 
-Notice that the single lines in the caption files have been grouped together in table cells.
+**Notice that the single lines in the caption files have been grouped together in table cells.**
 
 <p style="text-align:center"><em>[? detailed instructions &/or video showing slh's process for quickly developing descriptive transcript from the 2 VTT files]</em></p>
+
+{% include excol.html type="end" %}
