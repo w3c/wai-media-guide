@@ -67,34 +67,15 @@ Therefore, plan to spend time correcting automatically-generated transcription.
 
 More details on options and tools are in: Transcripts on the Web, [How to get or make transcripts [icon]]( http://www.uiaccess.com/transcripts/transcripts_on_the_web.html#justdoit).
 
-{@@ update ^^^ !}
+{@@ update^^^ !}
 
 ## What to Transcribe
 
-### What to Included in Caption Files
+Keep in mind that the main purpose is to provide information to people who cannot hear the audio. That will help you know what to sounds to transcribe, and what are not needed. The following are common practices, not requirements.
 
-Include in the captions file:
-* All speech and other relevant non-speech sound, such as this-good-example.
-* The time each phrase should be displayed.
-* Speaker identification, for example, in interviews.
+* Include all speech.
 
-{% include excol.html type="start" id="" %}
-
-#### Tips for Caption Content
-
-{% include excol.html type="middle" %}
-
-Keep in mind that the main purpose of the captions is to provide information to people who cannot hear the audio. That will help you know what to sounds to transcribe, and what are not needed. The following are common practices, not requirements.
-
-##### Specific for captions
-
-* Captions are one or two rows. ?? character length
-
-* Put a new sentence on a new line.
-
-* If you need to break a sentence into multiple segments, break it at a logical phrase.
-
-##### For captions and transcripts
+* Inlude relevant non-speech sound, such as {@@ example, example, example}.
 
 * Identify the speakers as relevant. Often it is best to use the full name the first time and single name throughout &mdash; either first/given or last/family depending on the formality.
 
@@ -135,6 +116,14 @@ You can caption:<br>
 
 * [@@ Do not caption the same, or nearly the same, information that is already shown onscreen. https://dcmp.org/learn/225 ]
 
-{% include excol.html type="end" %}
 
+@@@@@@@@@@@@@@@@@@@@@@@@@@
 
+put back in captions page?
+
+### What to Included in Caption Files
+* The time each phrase should be displayed.
+### Specific for captions
+* Captions are one or two rows. ?? character length
+* Put a new sentence on a new line.
+* If you need to break a sentence into multiple segments, break it at a logical phrase.
