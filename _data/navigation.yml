@@ -172,6 +172,8 @@
         url: "/design-develop/media/captions/"
       - name: Transcripts
         url: "/design-develop/media/transcripts/"
+      - name: Transcribing Audio to Text
+        url: "/design-develop/media/transcribing/"
       - name: Sign Languages
         url: "/design-develop/media/sign-languages/"
       - name: Media Player
