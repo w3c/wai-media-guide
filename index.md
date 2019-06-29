@@ -90,6 +90,6 @@ And captions can be:
 * Used in quiet environments where users cannot turn on sound. For example, a library, when others are sleeping, and another.
 * Used by people who cannot understand the spoken language well and can understand the written language better. For example, people who are not native speakers of the language.
 * Used by people to help them learn to read. For example, children, adults, and people learning a new language.
-* Used to better understand content since users can hear the information in audio and see it in text at the same time. For example, {some data like [this](https://www.3playmedia.com/2019/02/21/8-benefits-of-transcribing-captioning-videos/)}.
+* Used to better understand content since users can hear the information in audio and see it in text at the same time. For example, {@@some data like [this](https://www.3playmedia.com/2019/02/21/8-benefits-of-transcribing-captioning-videos/)}.
 
 Some benefits of captions are illustrated in this 1-minute <a href="https://www.w3.org/WAI/perspective-videos/captions/">Video on  Captions <img src="{{ "/content-images/wai-media-guide/captions-video-still.jpg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px"></a>.
