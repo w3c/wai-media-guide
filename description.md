@@ -203,7 +203,7 @@ The process to develop description in a separate audio file is basically:
 ### Other Options
 {:.no_toc}
 
-* Audio Description via text track &mdash; "As of February 2019 when this Advisory technique was last reviewed by the Working Group, there is no native support in user agents for this technique. However, support is available via JavaScript polyfills." — (WCAG Technique H96](https://www.w3.org/TR/WCAG20-TECHS/H96.html) 
+* Audio Description via text track &mdash; "As of February 2019 when this Advisory technique was last reviewed by the Working Group, there is no native support in user agents for this technique. However, support is available via JavaScript polyfills." — [WCAG Technique H96](https://www.w3.org/TR/WCAG20-TECHS/H96.html) 
 * Extended Audio Description with SMIL &mdash; The only markup-based method for providing extended audio descriptions is to use SMIL 3.0. Support for SMIL is very limited. Implementations would most likely require plug-ins and/or heavily customized approaches.
 * Provide functionality for the video to pause for the description &mdash; This is not suggested in most cases because it requires extra coding and provides a less-than-optimum user experience.
 
