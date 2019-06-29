@@ -27,6 +27,6 @@ Not everyone who is Deaf knows sign languages, especially if they became Deaf la
 
 Note that there are different sign languages in different regions and countries; for example, American Sign Language (ASL), British Sign Language (BSL), and Auslan (Australian Sign Language) are all different.
 
-Most minimum accessibility standards do not require sign language; some do. Sign language is in WCAG at Level AAA.
+Most minimum accessibility standards do not require sign language; some do. Sign language is in Web Content Accessibility Guidelines (WCAG) at Level AAA.
 
 [optional image: person signing]
