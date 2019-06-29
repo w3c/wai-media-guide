@@ -29,4 +29,4 @@ Note that there are different sign languages in different regions and countries;
 
 Most minimum accessibility standards do not require sign language; some do. Sign language is in Web Content Accessibility Guidelines (WCAG) at Level AAA.
 
-[optional image: person signing]
+[optional: image of person signing -- or video clip with sign langauge interpretatation...]
