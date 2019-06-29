@@ -62,3 +62,9 @@ There are players developed specifically for accessibility. Some are free, open 
 The following resource lists accessibility support in several players: **...[old Google Doc version](https://docs.google.com/spreadsheets/d/1QJVcXx5hTWYBcJbHJD3DrL3hSFVbfy1VQFyADMtrDFY/edit?pli=1#gid=0), [GitHub version though also out-of-date](http://kensgists.github.io/apt/)...** _{@@ does someone want to step up to see if they can help get this information active and updated?}_
 
 Each media player provides documentation of the steps to set it up in a web page. For example [AblePlayer Setup Steps](setup-step-1-use-html5-doctype).
+
+## @@ editor notes
+
+...functionality for users to change display of captions...
+
+
