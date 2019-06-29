@@ -43,7 +43,7 @@ This page provides guidance on transcribing audio to text for captions and trans
 {% include toc.html type="end" %}
 {:/}
 
-_This page is part of a resource introducted in [Making Video and Audio Accessible - Introduction](http://@@)._
+_This page is part of a resource introduced in [Making Video and Audio Accessible - Introduction](http://@@)._
 
 Good transcription requires knowledge of which non-speech audio information should be included in the transcription. It's more art than science — for example, it’s not always clear which non-speech audio information to include and how to communicate it in text.
 
@@ -71,17 +71,25 @@ More details on options and tools are in: Transcripts on the Web, [How to get or
 
 ## What to Transcribe
 
-Keep in mind that the main purpose is to provide information to people who cannot hear the audio. That will help you know what to sounds to transcribe, and what are not needed. The following are common practices, not requirements.
+Generally, you transcribe all speech and relevant non-speech sound, such as {@@ example, example, example}. Keep in mind that the main purpose is to provide **the information that you hear to people who cannot hear the audio**. That will help you know which sounds to transcribe, and which are not needed. The following are common practices, not requirements.
 
-* Include all speech.
-
-* Inlude relevant non-speech sound, such as {@@ example, example, example}.
+### Basics
+{:.no_toc}
 
 * Identify the speakers as relevant. Often it is best to use the full name the first time and single name throughout &mdash; either first/given or last/family depending on the formality.
 
 * You can include relevant information about the speech. For example:<br>
-	<em>( shouting ):</em><br>
+
+{::nomarkdown}
+{% include box.html type="start" class="" %}
+{:/}
+
+	<em>( between gritted teeth ):</em><br>
 	I hate this computer!
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 * Put important non-speech sounds in parentheses, lowercase, italics, with a space before and after. For example:<br>
 	 <em>( computer crashing into bits and parts sliding across the floor )</em>
@@ -94,16 +102,18 @@ Keep in mind that the main purpose is to provide information to people who canno
 * Only include background music if it's important to understand the content of the video. Use objective descriptions that indicate the mood; avoid subjective words, such as "beautiful." If the words in the music are important, add a musical note to the beginning and end of each caption. Put music information in italics. For example:<br>
 	<em>♪ scary music, JAWS theme ♪</em>
 
-* Do not emphasize a word using all capital letters except to indicate screaming.
+* Do not emphasize a word using all capital letters, except to indicate screaming. For example:<br>
+	Jose: YOU KILLED MY NEW LAPTOP!
 
-###### Be True to the Audio Content
+### Be True to the Audio Content
+{:.no_toc}
 
 * **Do not change or adapt or add to the text**. Transcribe what is said accurately.
    * For example, it is usually not appropriate to correct grammar or other mistakes.
    * Do not censor. For example, if objectionable words are said, include those in the captions. If the audio is edited to obscure a phrase (e.g., "bleeped" audio), reflect that in the captions, e.g., <em> --bleep-- </em>
    * Do not provide additional clarifying information in the captions. (You can provide some in the transcript as appropriate.)
 
-* Level of detail:
+* Include the appropriate level of detail:
    * For some content, such as legal depositions, transcribe everything verbatim, including things like "um", "ah", and repeated phrases.
    * For most web content, it is acceptable to leave out non-substantive text to make the captions easier to process &mdash; while adhering to the tips above. For example, if the speaker says:<br><em><strong>I just got so frustrated</strong> (cough, cough) sorry – uhhh what was I saying?..., oh yea - <strong>I got so frustrated with my computer.</strong></em><br>
 You can caption:<br>
@@ -127,3 +137,13 @@ put back in captions page?
 * Captions are one or two rows. ?? character length
 * Put a new sentence on a new line.
 * If you need to break a sentence into multiple segments, break it at a logical phrase.
+
+{::nomarkdown}
+{% include box.html type="start" class="" %}
+{:/}
+
+Captions not needed: The only sound with this video is background music. There is no speaking.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
