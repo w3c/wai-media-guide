@@ -52,21 +52,21 @@ Some are indicated as Web Content Accessibility Guidelines ([WCAG](https://www.w
 
 ## Audio
 
-### Create high-quality audio
+### Create high-quality audio – recording setup
 
 * Use high-quality microphone(s) and recording software.
 * When feasible, record in a room that is isolated from all external sounds.
 * Avoid rooms with hard surfaces, such as tile or wood floors.
 
-### Speak clearly
+### Speak clearly – speaker when recording
 
 Speak clearly. Speak as slowly as appropriate. This will enable listeners to understand better, and make the timing better for captions and sign language.
 
-### Use clear language
+### Use clear language – script
 
 Avoid or explain jargon, acronyms, and idioms. For example, expressions such as “raising the bar” can be interpreted literally by some people with cognitive disabilities and can be confusing.
 
-### Use low background audio in recording and post-production (WCAG AAA)
+### Use low background audio – recording and post-production (WCAG AAA)
 
 When the main audio is a person speaking and you have background music, set the levels so people with hearing or cognitive disabilities can easily distinguish the speaking from the background.
 
@@ -74,7 +74,7 @@ Specifically, make the background sounds at least 20 decibels lower than the for
 
 <span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 1.4.7: Low or No Background Audio (AAA)](https://www.w3.org/WAI/WCAG21/Understanding/low-or-no-background-audio.html).</span>
 
-### Provide redundancy for sensory characteristics (WCAG A)
+### Provide redundancy for sensory characteristics – script (WCAG A)
 
 Make your information work for people who cannot see and/or cannot hear.
 
@@ -85,7 +85,7 @@ Say:
 
 <span style="color:#585858; font-style:italic;">More information that primarily addresses web pages, yet is relevant to audio and video, is in [Understanding Success Criterion 1.3.3: Sensory Characteristics (A)](https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html).</span>
 
-### Give people time to process information
+### Give people time to process information – speaker and post-production
 
 Pause between topics.
 
@@ -93,23 +93,23 @@ Pause between topics.
 
 **_Note:_ Above applies to the audio aspects of videos.**
 
-### Avoid causing seizures (WCAG A)
+### Avoid causing seizures – storyboarding and post-production(WCAG A)
 
 Avoid anything that flashes more than three times in any one second period. 
 
 <span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 2.3.2: Three Flashes (AAA)](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes.html) and [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold (A)](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold.html)</span>
 
-### Consider speaker visibility
+### Consider speaker visibility – scripting, recording, post-production
 
 Some people use mouth movement to help understand spoken language. When feasible, ensure that the speaker's face is visible and in good light.
 
-### Make overlay text readable (WCAG AA, AAA)
+### Make overlay text readable – storyboarding, post-production (WCAG AA, AAA)
 
 For any text, consider the font family, size, and contrast between the text and background.
 
 <span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 1.4.3: Contrast (Minimum) (AA)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) and [Understanding Success Criterion 1.4.6: Contrast (Enhanced) (AAA)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced).</span>
 
-### Plan for audio description of visual information
+### Plan for audio description of visual information – storyboarding, recording
 
 _Audio description_ provides content to people who are blind and others who cannot see the video adequately. It describes the visual information needed to understand the content.
 
