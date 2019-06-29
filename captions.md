@@ -160,7 +160,7 @@ Automatic captions can be used as a starting point for developing accurate capti
 
 ## Creating Captions
 
-<div style='background:yellow;>
+<div style="background:yellow;">
 @@ update now that moved trascribgin info.
 @@ also add creating captions from existing transcripts
 	    </div>
