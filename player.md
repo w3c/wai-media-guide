@@ -55,16 +55,13 @@ Modern browsers will provide a default player &mdash; usually within the web pag
 
 ## Media Player Support for Accessibility
 
-Accessible media players provide a user interface that works without a keyboard, through speech interface, and by screen reader users. They audio description, captions, and transcripts. More details are in the [Media Accessibility User Requirements document](https://www.w3.org/TR/media-accessibility-reqs/) _{@@ include that link or not because that's much more info than most people really need here}_.
+Accessible media players provide a user interface that works without a keyboard, through speech interface, and by screen reader users. They audio description, captions, and transcripts. _{@@ how much to say here???...functionality for users to change volume, speed, navigate through the media, modify captions font size, spacing, font...}_
+ More details are in the [Media Accessibility User Requirements document](https://www.w3.org/TR/media-accessibility-reqs/) _{@@ include that link or not because that's much more info than most people really need here}_.
 
 There are players developed specifically for accessibility. Some are free, open source and some are commercial.
 
 The following resource lists accessibility support in several players: **...[old Google Doc version](https://docs.google.com/spreadsheets/d/1QJVcXx5hTWYBcJbHJD3DrL3hSFVbfy1VQFyADMtrDFY/edit?pli=1#gid=0), [GitHub version though also out-of-date](http://kensgists.github.io/apt/)...** _{@@ does someone want to step up to see if they can help get this information active and updated?}_
 
 Each media player provides documentation of the steps to set it up in a web page. For example [AblePlayer Setup Steps](setup-step-1-use-html5-doctype).
-
-## @@ editor notes
-
-...functionality for users to change display of captions...
 
 
