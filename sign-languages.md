@@ -15,7 +15,7 @@ github:
    path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". 
 navigation:
-  previous: /design-develop/media/transcripts/
+  previous: /design-develop/media/transcribing/
   next:     /design-develop/media/player/
 ---
 
