@@ -45,47 +45,99 @@ This page provides guidance on understanding and creating transcripts.
 
 _Transcripts are only one aspect of making audio and video accessible. For more, see [Making Video and Audio Accessible - Introduction](http://@@)._
 
-... [below currently mostly addresses video. edit for simple transcript-only info e.g. for podcasters] ...
 
 ## Introduction
 
 Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content.
 
+_Who:_ Basic transcripts are used by people who are Deaf, hard of hearing, have difficulty processing auditory information, and others.
+
 <img src="{{ "/content-images/wai-media-guide/braille.jpg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-**_Descriptive transcripts_** also include visual information needed to understand the content.
+**_Descriptive transcripts_** for videos also include visual information needed to understand the content.
 
-_Who:_ Descriptive transcripts are required to provide content to people who are both Deaf and blind. They are also used by people who process text information better than audio and video.
+_Who:_ Descriptive transcripts are needed to provide audio and video content to people who are both Deaf and blind. They are also used by people who process text information better than audio and visual/pictorial information.
 
 If you provide a descriptive transcript, you do not need a separate basic transcript.
 
-Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. (This is a feature of the media player. It uses the captions file.)
+_Interactive transcripts_ highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. This is a feature of the media player. It uses the captions file.
 
 <img src="{{ "/content-images/wai-media-guide/interactive-transcript.png" | relative_url }}" alt="">
 
-### Skills and Tools
+## Does my Media Need a Transcript?
+**Short answer: Yes**, transcripts are needed to meet the wide range of user needs. In a few cases, they aren't required to meet minimum standards. Here's what's required in Webb Content Accessibility Guidelines (WCAG):
 
-[... if don't have captions...]
-
-... Transcripts are easy to develop once you have captions for the main video and of the audio description. In-house staff who know how to create basic web content can develop the descriptive transcript.
-
-## Does my Audio or Video Need a Transcript?
-
-<div id="tree-a" style="background:#D9EDF7; border: solid 1px #999; padding-left: 11px; padding-right: 5px;">
-<ul>
-  <li>< ...</li>
-</ul>
+## Does My Media Need a Transcript?
+<div id="tree-ao" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
+  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
+  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
+    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
+      <li>For pre-recorded:
+        <ul>
+          <li><strong>Transcripts are required at WCAG Level A.</strong></li>
+        </ul>
+      </li>
+      <li>For live:
+        <ul>
+          <li>Transcripts are at WCAG Level AAA. (Captions are AA.)</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+<div id="tree-vo" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
+  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video-only (no audio content):</p>
+  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
+    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
+      <li>For pre-recorded and live:
+        <ul>
+          <li>Transcripts are <strong><em>not</em></strong> required (because there is no audio information).</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+<div id="tree-va" style="border: solid 1px #DDD; padding-bottom: 0;">
+  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video with audio content:</p>
+  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
+    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
+      <li>For pre-recorded:
+        <ul>
+          <li>Transcripts are at WCAG Level AAA. (Captions are AA.)</li>
+        </ul>
+      </li>
+      <li>For live:
+        <ul>
+          <li>A live steam separate from the media player is needed for people who cannot access the captions. (Captions are AA.)</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
 </div>
 
-### Providing a Descriptive Transcript for Your Videos
+### Provide a Descriptive Transcript for Your Videos
 {:.no_toc}
 
-<p>Descriptive transcripts are not required to meet WCAG Level AA. However, they:</p>
-<ul>
-  <li>meet a wide range of accessibility needs, and are needed in order for videos to be accessible to people who are &quot;Deaf-blind&quot;</li>
-  <li>provide <a href="@@#benefits">additional benefits</a> for users <em>without</em> disabilities, and for your organization (for example, <abbr title="search engine optimization"> SEO</abbr>)</li>
-  <li><strong>are easy and inexpensive to develop</strong> using captions and audio description that you already have to meet Level AA</li>
-</ul>
+We strongly recommend that you provide descriptive transcripts, even though they are not required to meet most minimum accessibility standards. Descriptive transcripts are needed by people who are Deaf-blind and others. (A bit more justification is in the Planning page: [Descriptive Transcripts](/design-develop/media/planning/#descriptive-transcripts).) And descriptive transcripts <strong>are easy and inexpensive to make</strong> using captions and audio description that you already have to meet Level AA &mdash; as explained on this page.
+
+## Process - Skills and Tools
+
+The process for providing transcripts is basically:
+1.	Get a text version of the audio, called "transcribing".
+2.	Format the transcript.
+3.	Put the transcript online, and make it easy for users to find the transcript from the audio or video file.
+
+### If You Start with Captions
+
+For videos, often transcribing the audio to text is done to create captions, as described in the [captions page](/design-develop/media/captions/). Then the captions file is used to create the transcript.
+
+Creating transcripts from caption files is easy with basic web tools and skills.
+
+### If You Start with Transcribing
+
+Transcribing an audio file takes quite a bit of time for people who don't have the software and skill for it. Many organizations choose to outsource the transcribing. Guidance for doing it yourself (DIY) is in another page of this resource: [Transcribing Audio to Text](@@).
+
+Once you have the transcription, creating the transcript is easy with basic web tools and skills.
 
 ## Creating Transcripts
 
@@ -290,3 +342,19 @@ That's the situation for everyone who can't hear.
 <p style="text-align:center"><em>[? detailed instructions &/or video showing slh's process for quickly developing descriptive transcript from the 2 VTT files]</em></p>
 
 {% include excol.html type="end" %}
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+## Creating Transcripts
+
+### See Transcribing Audio to Text page
+
+### Creating Transcripts from Captions Files
+
+Transcripts and captions include the same text, so one can be used to develop the other.
+
+Often captions are developed first, and then transcripts are created from that text. Most caption-editing tools provide an option to export a plain text transcript.
+
+Whatever tool you use to develop web content, you can use to develop your transcript.
+
