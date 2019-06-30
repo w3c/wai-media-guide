@@ -64,10 +64,9 @@ _Interactive transcripts_ highlight text phrases as they are spoken. Users can s
 
 <img src="{{ "/content-images/wai-media-guide/interactive-transcript.png" | relative_url }}" alt="">
 
-## Does my Media Need a Transcript?
-**Short answer: Yes**, transcripts are needed to meet the wide range of user needs. In a few cases, they aren't required to meet minimum standards. Here's what's required in Webb Content Accessibility Guidelines (WCAG):
-
 ## Does My Media Need a Transcript?
+**Short answer: Yes**, transcripts are needed to meet the wide range of user needs. In a few cases, they aren't required to meet minimum standards. Here's what's required in Web Content Accessibility Guidelines (WCAG):
+
 <div id="tree-ao" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
@@ -118,7 +117,7 @@ _Interactive transcripts_ highlight text phrases as they are spoken. Users can s
 ### Provide a Descriptive Transcript for Your Videos
 {:.no_toc}
 
-We strongly recommend that you provide descriptive transcripts, even though they are not required to meet most minimum accessibility standards. Descriptive transcripts are needed by people who are Deaf-blind and others. (A bit more justification is in the Planning page: [Descriptive Transcripts](/design-develop/media/planning/#descriptive-transcripts).) And descriptive transcripts <strong>are easy and inexpensive to make</strong> using captions and audio description that you already have to meet Level AA &mdash; as explained on this page.
+We strongly recommend that you provide descriptive transcripts, even though they are not required to meet most minimum accessibility standards. Descriptive transcripts are needed by people who are Deaf-blind and others. (A bit more justification is in the Planning page: [Descriptive Transcripts](/design-develop/media/planning/#descriptive-transcripts).) And **descriptive transcripts are easy and inexpensive to make** using captions and audio description that you already have to meet Level AA, as explained on this page.
 
 ## Process - Skills and Tools
 
@@ -131,13 +130,13 @@ The process for providing transcripts is basically:
 
 For videos, often transcribing the audio to text is done to create captions, as described in the [captions page](/design-develop/media/captions/). Then the captions file is used to create the transcript.
 
-Creating transcripts from caption files is easy with basic web tools and skills.
+Creating transcripts from caption files is easy with basic web skills and tools.
 
 ### If You Start with Transcribing
 
 Transcribing an audio file takes quite a bit of time for people who don't have the software and skill for it. Many organizations choose to outsource the transcribing. Guidance for doing it yourself (DIY) is in another page of this resource: [Transcribing Audio to Text](@@).
 
-Once you have the transcription, creating the transcript is easy with basic web tools and skills.
+Once you have the transcription, creating the transcript is easy with basic web skills and tools.
 
 ## Creating Transcripts
 
@@ -343,8 +342,9 @@ That's the situation for everyone who can't hear.
 
 {% include excol.html type="end" %}
 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Transcripts
 
 ## Creating Transcripts
 
