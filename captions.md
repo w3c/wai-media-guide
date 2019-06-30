@@ -17,6 +17,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 navigation:
   previous: /design-develop/media/description/
   next:     /design-develop/media/transcripts/
+  
 ---
 
 {::nomarkdown}
@@ -194,6 +195,7 @@ Some tools create automatic captions that you can use as a starting point. You w
 
 For example, YouTube provides automatic captions and tools for you to edit the captions, as described in [Edit or remove captions – YouTube Help](https://support.google.com/youtube/answer/2734705?hl=en).
 
+Most caption-editing tools provide can export a plain text transcript.
 
 ### Caption File Format
 
