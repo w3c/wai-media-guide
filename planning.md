@@ -189,16 +189,6 @@ Audio description not needed: This video does not include audio description beca
 
 ### Provide Both Captions and a Transcript {#captions-and-transcript}
 
-{::nomarkdown}
-{% include box.html type="start" class="simple right" %}
-{:/}
-
-**Captions and transcripts include the same text, so one can be used to develop the other.**
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
 Ideally you provide captions and a separate transcript.
 
 For videos, captions enable people who are Deaf or hard of hearing to see the visual content and read the captions at the same time. 
@@ -206,6 +196,8 @@ For videos, captions enable people who are Deaf or hard of hearing to see the vi
 For audio-only, captions enable people who are hard of hearing to get the richness of listening to the audio and fill in what they don't hear well by reading the captions.
 
 Transcripts are needed to provide access to people who are Deaf-blind and use braille. Also, transcripts have several [additional benefits](/design-develop/media/#additional-benefits) to all users.
+
+**Captions and transcripts use the same text. Once you have one, it's fairly easy to develop the other.**
 
 ## Project Management
 
