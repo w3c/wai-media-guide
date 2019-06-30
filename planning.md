@@ -17,6 +17,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 navigation:
   previous: /design-develop/media/
   next:     /design-develop/media/av-content/
+  
 ---
 
 {::nomarkdown}
@@ -186,15 +187,25 @@ Audio description not needed: This video does not include audio description beca
 {% include box.html type="end" %}
 {:/}
 
-### Both Captions and a Transcript {#captions-and-transcript}
+### Provide Both Captions and a Transcript {#captions-and-transcript}
+
+{::nomarkdown}
+{% include box.html type="start" class="simple right" %}
+{:/}
+
+**Captions and transcripts include the same text, so one can be used to develop the other.**
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 Ideally you provide captions and a separate transcript.
 
-For audio-only, captions enable people who are hard of hearing to get the richness of listening to the audio and fill in what they don't hear well by reading the captions.
-
 For videos, captions enable people who are Deaf or hard of hearing to see the visual content and read the captions at the same time. 
 
-Transcripts are needed to provide access to people who are Deaf-blind and use braille. (Also, transcripts have several [additional benefits](/design-develop/media/#additional-benefits) to all users.)
+For audio-only, captions enable people who are hard of hearing to get the richness of listening to the audio and fill in what they don't hear well by reading the captions.
+
+Transcripts are needed to provide access to people who are Deaf-blind and use braille. Also, transcripts have several [additional benefits](/design-develop/media/#additional-benefits) to all users.
 
 ## Project Management
 
