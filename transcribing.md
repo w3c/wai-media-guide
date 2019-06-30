@@ -99,7 +99,7 @@ Generally, you transcribe all speech and relevant non-speech sound, such as {@@ 
 * Do not emphasize a word using **all capital letters**, except to indicate screaming. For example:<br>
 	Jose: YOU KILLED MY NEW LAPTOP!
 
-### Be True to the Audio Content
+### Transcribe Accurately and Honestly
 
 * **Do not change or adapt or add to the text**. Transcribe what is said accurately.
    * For example, it is usually not appropriate to correct grammar or other mistakes.
