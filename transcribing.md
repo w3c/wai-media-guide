@@ -25,7 +25,7 @@ navigation:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides guidance on transcribing audio to text for captions and transcripts, for those who will **do it yourself** (DIY).
+This page provides guidance on transcribing audio to text for captions and transcripts, for those who will do it yourself (DIY).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -50,7 +50,7 @@ _This page is part of a resource introduced in [Making Video and Audio Accessibl
 
 Good transcription requires knowledge of which non-speech audio information should be included in the transcription. It's more art than science — for example, it’s not always clear which non-speech audio information to include and how to communicate it in text.
 
-If you have the resources to hire professionals to do your transcribing, that is best. If you don't, please **don't be deterred from providing transcripts or captions**. This page helps you do it yourself (DIY).
+If you have the resources to hire professionals to do your transcribing, that is best. If you don't, please don't be deterred from providing transcripts or captions. This page helps you do it yourself (DIY).
 
 ## How to Transcribe
 
@@ -66,7 +66,7 @@ You can start with an automatically-generated text file. There's lots of softwar
   &quot;Automatic caption: Broil on high for 45 minutes. You should know to preheat the oven.&quot;<br>
   <em>optional illustration/picture:  fire coming from oven, or totally burned food on a broiler pan ;-)</em>]</p>
 
-Therefore, plan to spend time correcting automatically-generated transcription.
+Plan to spend time correcting automatically-generated transcription.
 
 More details on options and tools are in: Transcripts on the Web, [How to get or make transcripts [icon]]( http://www.uiaccess.com/transcripts/transcripts_on_the_web.html#justdoit).
 
@@ -74,7 +74,7 @@ More details on options and tools are in: Transcripts on the Web, [How to get or
 
 ## What to Transcribe
 
-Generally, you transcribe all speech and relevant non-speech sound, such as {@@ example, example, example}. Keep in mind that the main purpose is to provide **the information that you hear to people who cannot hear the audio**. That will help you know which sounds to transcribe, and which are not needed. The following are common practices, not requirements.
+Generally, you transcribe all speech and relevant non-speech sound, such as {@@ example, example, example}. Keep in mind that the main purpose is to **provide the information that you hear to people who cannot hear the audio**. That will help you know which sounds to transcribe, and which are not needed. The following are common practices, not requirements.
 
 ### Basics
 
@@ -107,9 +107,9 @@ Generally, you transcribe all speech and relevant non-speech sound, such as {@@ 
 
 * Include the appropriate level of detail:
    * For some content, such as legal depositions, transcribe everything verbatim, including things like "um", "ah", and repeated phrases.
-   * For most web content, it is acceptable to leave out non-substantive text to make the captions easier to process &mdash; while adhering to the tips above. For example, if the speaker says:<br><em><strong>I just got so frustrated</strong> (cough, cough) sorry – uhhh what was I saying?..., oh yea - <strong>I got so frustrated with my computer.</strong></em><br>
-You can caption:<br>
-<em><strong>I just got so frustrated with my computer.</strong></em>
+   * For most web content, it is acceptable to leave out non-substantive text to make the captions easier to process &mdash; while adhering to the tips above. For example, <em>if the speaker says:</em><br> I just got so frustrated (cough, cough) sorry – uhhh what was I saying?..., oh yea - I got so frustrated with my computer. <br>
+<em>You can caption:</em><br>
+ I just got so frustrated with my computer.
    * If there is speech that is not at all relevant, indicate that it has been excluded from the captions. For example:<br>
 	<em>[participants discuss the weather while the presenter reboots his computer]</em>
 
@@ -117,3 +117,19 @@ You can caption:<br>
 [unintelligible]
 
 * [@@ Do not caption the same, or nearly the same, information that is already shown onscreen. https://dcmp.org/learn/225 ]
+
+## Captions
+
+For captions:
+
+* Captions are one or two lines. ?? character length
+* Put a new sentence on a new line.
+* If you need to break a sentence into multiple segments, break it at a logical phrase.
+
+Captions also include the time that each phrase will be displayed. Most people use tools to develop and refine captions.
+
+See more about captions in another page of this resource: [Captions/Subtitles](/design-develop/media/captions/).
+
+## Transcripts
+
+See more about transcripts in another page of this resource: [Transcripts](/design-develop/media/transcripts/).
