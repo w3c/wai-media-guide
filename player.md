@@ -64,4 +64,10 @@ The following resource lists accessibility support in several players: **...[old
 
 Each media player provides documentation of the steps to set it up in a web page. For example [AblePlayer Setup Steps](setup-step-1-use-html5-doctype).
 
+### Interactive Transcripts
 
+Some media players provide interactive transcripts. They use the captions file.
+
+Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video.
+
+<img src="{{ "/content-images/wai-media-guide/interactive-transcript.png" | relative_url }}" alt="">
