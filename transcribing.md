@@ -68,9 +68,10 @@ You can start with an automatically-generated text file. There's lots of softwar
 
 Plan to spend time correcting automatically-generated transcription.
 
-More details on options and tools are in: Transcripts on the Web, [How to get or make transcripts [icon]]( http://www.uiaccess.com/transcripts/transcripts_on_the_web.html#justdoit).
-
+More details on options and tools for transcribing are in: Transcripts on the Web, [How to get or make transcripts [icon]]( http://www.uiaccess.com/transcripts/transcripts_on_the_web.html#justdoit).
 {@@ update^^^ !}
+
+A little about captioning tools is in the Captions/Subtitles page of this resource: [Captioning Tools](https://wai-media-guide.netlify.com/design-develop/media/captions/#captioning-tools).
 
 ## What to Transcribe
 
@@ -118,7 +119,7 @@ Generally, you transcribe all speech and relevant non-speech sound, such as {@@ 
 
 * [@@ Do not caption the same, or nearly the same, information that is already shown onscreen. https://dcmp.org/learn/225 ]
 
-## Captions
+## More on Captions
 
 For captions:
 
@@ -128,8 +129,8 @@ For captions:
 
 Captions also include the time that each phrase will be displayed. Most people use tools to develop and refine captions.
 
-See more about captions in another page of this resource: [Captions/Subtitles](/design-develop/media/captions/).
+Learn more about captions in another page of this resource: [Captions/Subtitles](/design-develop/media/captions/).
 
-## Transcripts
+## More on Transcripts
 
-See more about transcripts in another page of this resource: [Transcripts](/design-develop/media/transcripts/).
+Learn more about transcripts in another page of this resource: [Transcripts](/design-develop/media/transcripts/).
