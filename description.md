@@ -61,6 +61,8 @@ This page uses "described video" in some places as a shortened form of "a video 
 
 ## Does My Media Need Description?
 
+_(To learn more about WCAG mentioned below, see: Planning Accessible Audio and Video Media, ([Standards section](/design-develop/media/planning/#standards).)_
+
 <div id="tree-ano" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
@@ -80,12 +82,12 @@ This page uses "described video" in some places as a shortened form of "a video 
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
       <li>For pre-recorded:
         <ul>
-          <li>Description of important visual information is needed to provide the information to people who are blind and listen to the video. It is <em><strong>required</strong></em> in Web Content Accessibility Guidelines (<a href="/design-develop/media/planning/#standards">WCAG</a>) at Level A or AA.</li>
+          <li>Description is needed to provide the important visual information to people who are blind and listen to the video.<br>Description is <em><strong>required</strong></em> in WCAG at Level A or AA.</li>
         </ul>
       </li>
       <li>For live:
         <ul>
-          <li>Description of important visual information is needed to provide the information to people who are blind. It is <em><strong>not required</strong></em> to meet WCAG and most minimum accessibility standards.</li>
+          <li>Description is needed to provide the important visual information to people who are blind. <br>Description is not required to meet WCAG and most minimum accessibility standards.</li>
         </ul>
       </li>
     </ul>
