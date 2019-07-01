@@ -89,7 +89,7 @@ _Interactive transcripts_ highlight text phrases as they are spoken. Users can s
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
       <li>For pre-recorded and live:
         <ul>
-          <li>Transcripts are <strong><em>not</em></strong> required (because there is no audio information).</li>
+          <li>Transcripts are <strong><em>not needed</em></strong> because there is no audio information.</li>
         </ul>
       </li>
     </ul>
