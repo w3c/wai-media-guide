@@ -167,7 +167,7 @@ For these reasons, many organizations choose to outsource their captions.
 
 Automatically-generated captions do not meet user needs or accessibility requirements, unless they are confirmed to be fully accurate. Usually they need significant editing. 
 
-There are tools that use speech recognition technology to turn a soundtrack into a timed caption file. For example, many videos uploaded to YouTube have automatic captions. [[YouTube info](https://support.google.com/youtube/answer/3038280)] However, often the automatic caption text is wrong and does not match the spoken audio — and in ways that change the meaning (or are embarrassing). For example, missing just one word such as "not" can make the captions contradict the actual audio content.
+There are tools that use speech recognition technology to turn a soundtrack into a timed caption file. For example, many videos uploaded to YouTube have automatic captions. [[YouTube info](https://support.google.com/youtube/answer/3038280)] However, often the automatic caption text is wrong and does not match the spoken audio — sometimes in ways that change the meaning (or are embarrassing). For example, missing just one word such as "not" can make the captions contradict the actual audio content.
 
 <p style="text-align:center; text-size:85%">[<em>optionally as an illustration for visual interest (with text as true text):</em><br>
   &quot;Spoken text: 
