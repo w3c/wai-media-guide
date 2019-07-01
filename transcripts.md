@@ -1,7 +1,6 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 title: "Transcripts"   # Do not translate "title:". Do translate the text after "title:".
-title_html: "Transcripts<br><span style='background:yellow; font-size:65%'>Note: This page is not ready for detailed review yet.</span>"
 nav_title: "Transcripts" # A short title that is used in the navigation
 doc-note-type: draft
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
@@ -140,13 +139,13 @@ Once you have the transcription, creating the transcript is easy with basic web 
 
 ## Creating Transcripts
 
-If you already have captions, you can use that file to create the transcript. Most caption-editing tools provide an option to export a plain text transcript. Otherwise, you will need to delete (or at least edit down) the timestamps.
+If you already have captions, you can use that file to create the transcript. Most caption-editing tools provide an option to export a plain text transcript. Otherwise, you will need to delete the timestamps, or edit them per below.
 
 If you don't have captions, you'll need transcription of the audio information. That's addressed in another page of this resource: [Transcribing Audio to Text](/design-develop/media/transcribing/).
 
 ### Transcript File Format
 
-Most transcripts on the web are provided in HTML. There is not a set design for transcripts. You can choose how to design the transcript based on your content.
+Most transcripts on the web are provided in HTML. There is not a set design for transcripts. Different options and examples are described throughout the guidance below.
 
 A transcript of a podcast can be simple text paragraphs with the speakers identified.
 
@@ -154,7 +153,7 @@ A transcript of a podcast can be simple text paragraphs with the speakers identi
 {% include box.html type="start" title="Example transcript of a podcast interview with two speakers (excerpt)" class="" %}
 {:/}
 
-…
+… @@
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -176,21 +175,21 @@ Keep in mind that the main purpose of a transcript is to provide the information
    * Add headings and links where it will make the transcript more usable. (This also helps with SEO.) Here's an [example with added links in short podcast transcript](http://www.w3.org/WAI/highlights/200606wcag2interview.html).
    * It is generally acceptable to add clarifying information, _as long as it is clear that it is not part of the actual audio_ &mdash; for example, words added to a paragraph put in [brackets], or separate sections with headings "Introduction", "Transcript", "Resources". Here's an [example with added headings in long presentation transcript](http://www.w3.org/WAI/highlights/200706wcag2pres).
 
-* **Indicate the speakers for optimum usability** For example:
+* **Indicate the speakers based on the type of content.** For example:
    * When there are multiple speakers, you could use hanging indents to make it easy to skim for a particular speaker.
    * When the focus should be on the interviewee's answers and not the interviewer, you could format the interviewer's questions in smaller, lighter text so the interviewee's answers stand out more clearly.
 
 * **Include timestamps only when useful.** In many cases, including timestamps would be unnecessary clutter. If you do include them, they usually don't need to be as granular as the captions, and do not need to include end times.
 
-* **If starting with captions for video** &mdash; The video might have text information that was not included in the captions, for example, the title of the video or the name and title of people speaking. If you also have the captions for the description of visual information, it should already be in there. If not, you'll need to review the video and see if there is text visually that wasn't repeated in the captions, and add that to your transcript.
+* **If starting with captions for video:** The video might have text information that was not included in the captions, for example, the title of the video or the name and title of people speaking. If you also have the captions for the description of visual information, it should already be in there. If not, you'll need to review the video and see if there is text visually that wasn't repeated in the captions, and add that to your transcript.
 
 ## Where to Put Transcripts
 
-Transcripts can be:
-* Included on the same web page with the media. Here's an [example descriptive transcript at the bottom of same page with video](https://www.w3.org/WAI/perspective-videos/captions/#transcript).
-* Provided on a separate web page. Here's an [example podcast transcript on separate page](https://www.w3.org/WAI/highlights/200606wcag2interview.html).
+Make it is easy for users to know that a transcript is available and to get to the transcript.
 
-Make sure it is easy for users to know that a transcript is available and to get to the transcript.
+For media on your website, often it's best to include the transcript on the same page. Here's an [example descriptive transcript at the bottom of same page with a video](https://www.w3.org/WAI/perspective-videos/captions/#transcript).
+
+When your media is hosted elsewhere, you might have the transcript on a separate web page. Here's an [example podcast transcript on separate page](https://www.w3.org/WAI/highlights/200606wcag2interview.html).
 
 {% include excol.html type="start" id="example-descriptive" %}
 
