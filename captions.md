@@ -114,7 +114,7 @@ This section tells you what is needed to meet user needs and what is required to
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
       <li>For pre-recorded and live:
         <ul>
-          <li>Captions are not required (because there is no audio information).</li>
+          <li>Captions are not needed because there is no audio information.</li>
         </ul>
       </li>
     </ul>
