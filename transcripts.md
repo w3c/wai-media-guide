@@ -64,7 +64,8 @@ _Interactive transcripts_ highlight text phrases as they are spoken. Users can s
 <img src="{{ "/content-images/wai-media-guide/interactive-transcript.png" | relative_url }}" alt="">
 
 ## Does My Media Need a Transcript?
-**Short answer: Yes**, transcripts are needed to meet the wide range of user needs. In a few cases, they aren't required to meet minimum standards. Here's what's required in Web Content Accessibility Guidelines ([WCAG](/design-develop/media/planning/#standards)):
+
+**Short answer: Yes, transcripts are needed to meet the wide range of user needs**. In a some cases, they are not required to meet minimum standards. The Web Content Accessibility Guidelines (WCAG) standard is addressed in another page of this resource: Planning Accessible Audio and Video Media, ([Standards section](/design-develop/media/planning/#standards).
 
 <div id="tree-ao" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
@@ -72,7 +73,7 @@ _Interactive transcripts_ highlight text phrases as they are spoken. Users can s
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
       <li>For pre-recorded:
         <ul>
-          <li><strong>Transcripts are required at WCAG Level A.</strong></li>
+           <li>Transcripts are <strong><em>required</em></strong> at WCAG Level A.</li>
         </ul>
       </li>
       <li>For live:
@@ -89,7 +90,7 @@ _Interactive transcripts_ highlight text phrases as they are spoken. Users can s
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
       <li>For pre-recorded and live:
         <ul>
-          <li>Transcripts are <strong><em>not needed</em></strong> because there is no audio information.</li>
+          <li>Transcripts are not needed because there is no audio information.</li>
         </ul>
       </li>
     </ul>
