@@ -80,7 +80,7 @@ In a some cases, transcripts are not required to meet minimum standards. (To lea
       </li>
       <li>For live:
         <ul>
-          <li>Transcripts are at WCAG Level AAA. (Captions are AA.)</li>
+          <li>@@ Transcripts are at WCAG Level AAA. (Captions are AA.)</li>
         </ul>
       </li>
     </ul>
