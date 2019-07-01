@@ -134,11 +134,15 @@ Creating transcripts from caption files is easy with basic web skills and tools.
 
 ### If You Start with Transcribing
 
-Transcribing an audio file takes quite a bit of time for people who don't have the software and skill for it. Many organizations choose to outsource the transcribing. Guidance for doing it yourself (DIY) is in another page of this resource: [Transcribing Audio to Text](@@).
+Transcribing an audio file takes quite a bit of time for people who don't have the software and skill for it. Many organizations choose to outsource the transcribing. Guidance for doing it yourself (DIY) is in another page of this resource: [Transcribing Audio to Text](/design-develop/media/transcribing/).
 
 Once you have the transcription, creating the transcript is easy with basic web skills and tools.
 
 ## Creating Transcripts
+
+If you already have captions, you can use that file to create the transcript. Most caption-editing tools provide an option to export a plain text transcript. Otherwise, you will need to delete (or at least edit down) the timestamps.
+
+If you don't have captions, you'll need transcription of the audio information. That's addressed in another page of this resource: [Transcribing Audio to Text](/design-develop/media/transcribing/).
 
 ### Transcript File Format
 
@@ -169,9 +173,9 @@ Keep in mind that the main purpose of a transcript is to provide the information
 * Put the information in **logical paragraphs, lists, and sections**. If you're starting with a captions file, you will probably combine several lines into paragraphs. For example, in the [example excerpts below](#example-descriptive-transcript-from-caption-files), 6 lines of captions are grouped into 2 paragraphs of text (in table cells).
 
 * **Add navigation and clarifications:**
-   * Add headings and links where it will make the transcript more usable. This also helps with SEO. For example:
+   * Add headings and links where it will make the transcript more usable. (This also helps with SEO.)
       * [Example with added links in short podcast transcript](http://www.w3.org/WAI/highlights/200606wcag2interview.html)
-   * It is generally acceptable to add clarifying information, as long as it is clear that it is not part of the actual audio, e.g., words added to a paragraph put in [brackets], or separate sections with headings "Introduction", "Transcript", "Resources".
+   * It is generally acceptable to add clarifying information, _as long as it is clear that it is not part of the actual audio_ &mdash; for example, words added to a paragraph put in [brackets], or separate sections with headings "Introduction", "Transcript", "Resources".
       * [Example with added headings in long presentation transcript](http://www.w3.org/WAI/highlights/200706wcag2pres)
 
 * **Indicate the speakers for optimum usability** For example:
