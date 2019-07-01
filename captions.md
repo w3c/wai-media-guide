@@ -88,19 +88,20 @@ For optimum accessibility, provide a separate caption file of the audio descript
 
 ## Does My Media Need Captions?
 
+This section tells you what is needed to meet user needs and what is required to meet the [WCAG standard](/design-develop/media/planning/#standards).
+
 <div id="tree-ao" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
       <li>For pre-recorded:
         <ul>
-          <li>Captions are <strong><em>not</em></strong> required. (Your audio content is provided in a <a href="/design-develop/media/transcripts/">transcript</a>.)</li>
-          <li>Captions are useful for who are hard of hearing to get the richness of listening to the audio and fill in what they don’t hear well by reading the captions.</li>
+          <li>Captions are useful for people who are hard of hearing to get the richness of listening to the audio and fill in what they don’t hear well by reading the captions.<br>Captions are not required to meet WCAG. (Transcripts are at Level A.)</li>
         </ul>
       </li>
       <li>For live:
         <ul>
-          <li>Captions are <strong><em>required</em></strong> to provide the audio content to people who are Deaf or hard of hearing.</li>
+          <li>Captions are needed to provide the audio content to people who are Deaf or hard of hearing.<br>Captions are <strong><em>required</em></strong> in WCAG at Level AA.</li>
         </ul>
       </li>
     </ul>
@@ -113,20 +114,27 @@ For optimum accessibility, provide a separate caption file of the audio descript
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
       <li>For pre-recorded and live:
         <ul>
-          <li>Captions are <strong><em>not</em></strong> required (because there is no audio information).</li>
+          <li>Captions are not required (because there is no audio information).</li>
         </ul>
       </li>
     </ul>
   </div>
 </div>
 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 <div id="tree-va" style="border: solid 1px #DDD; padding-bottom: 0;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video with audio content:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
-      <li>For pre-recorded and live:
+      <li>For pre-recorded:
         <ul>
-          <li>Captions are <strong><em>required</em></strong> to provide the audio content to people who are Deaf or hard of hearing. </li>
+          <li>Captions are needed to provide the audio content to people who are Deaf or hard of hearing.<br>Captions are <strong><em>required</em></strong> in WCAG at Level A.</li>
+        </ul>
+      </li>
+      <li>For live:
+        <ul>
+          <li>Captions are needed to provide the audio content to people who are Deaf or hard of hearing.<br>Captions are <strong><em>required</em></strong> in WCAG at Level AA.</li>
         </ul>
       </li>
     </ul>
