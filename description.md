@@ -63,8 +63,6 @@ This page uses "described video" in some places as a shortened form of "a video 
 
 This section tells you what is needed to meet user needs and what is required to meet the [WCAG standard](/design-develop/media/planning/#standards).
 
-@@@
-
 <div id="tree-ano" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
@@ -81,15 +79,27 @@ This section tells you what is needed to meet user needs and what is required to
 <div id="tree-video" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
+    <p><strong>Does the video have visual information</strong> that is needed to understand what the video is communicating?</p>
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
-      <li>For pre-recorded:
+      <li>If no (for example, is only a person talking):
         <ul>
-          <li>Description is needed to provide the important visual information to people who are blind and listen to the video.<br>Description is <em><strong>required</strong></em> in WCAG at Level A or AA.</li>
+          <li>Description is not needed. Consider <a href="https://wai-media-guide.netlify.com/design-develop/media/planning/#none">informing users</a>.</li>
         </ul>
       </li>
-      <li>For live:
+      <li>If yes:
         <ul>
-          <li>Description is needed to provide the important visual information to people who are blind. <br>Description is not required to meet WCAG and most minimum accessibility standards.</li>
+          <li>For pre-recorded:
+            <ul>
+              <li>Description is needed to provide the important visual information to people who are blind and listen to the video.<br>
+                Description is <em><strong>required</strong></em> in WCAG at Level A or AA.</li>
+            </ul>
+          </li>
+          <li>For live:
+            <ul>
+              <li>Description is needed to provide the important visual information to people who are blind. <br>
+                Description is not required to meet WCAG and most minimum accessibility standards.</li>
+            </ul>
+          </li>
         </ul>
       </li>
     </ul>
