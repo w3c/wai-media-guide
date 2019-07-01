@@ -64,7 +64,7 @@ _Interactive transcripts_ highlight text phrases as they are spoken. Users can s
 <img src="{{ "/content-images/wai-media-guide/interactive-transcript.png" | relative_url }}" alt="">
 
 ## Does My Media Need a Transcript?
-**Short answer: Yes**, transcripts are needed to meet the wide range of user needs. In a few cases, they aren't required to meet minimum standards. Here's what's required in Web Content Accessibility Guidelines (WCAG):
+**Short answer: Yes**, transcripts are needed to meet the wide range of user needs. In a few cases, they aren't required to meet minimum standards. Here's what's required in Web Content Accessibility Guidelines ([WCAG](/design-develop/media/planning/#standards)):
 
 <div id="tree-ao" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
