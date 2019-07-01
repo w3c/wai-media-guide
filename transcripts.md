@@ -153,13 +153,10 @@ A transcript of a podcast can be simple text paragraphs with the speakers identi
 {% include box.html type="start" title="Example transcript of a podcast interview with two speakers (excerpt)" class="" %}
 {:/}
 
-Rajwinder Kaur: Welcome to the podcast.
-
-Shawn Henry: Thank you for this opportunity to share information about accessibility.
-
-Rajwinder: Would you start by telling us a little about your role at W3C?
-
-Shawn: I work within the Web Accessibility Initiative, W-A-I, pronounced "way".
+<p>Rajwinder Kaur: Welcome to the podcast.</p>
+<p><strong>Shawn Henry:</strong> Thank you for this opportunity to share information about accessibility.</p>
+<p>Rajwinder: Would you start by telling us a little about your role at W3C?</p>
+<p><strong>Shawn:</strong> I work within the Web Accessibility Initiative, W-A-I, pronounced "way". </p>
 
 {::nomarkdown}
 {% include box.html type="end" %}
