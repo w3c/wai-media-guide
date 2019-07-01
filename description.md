@@ -148,7 +148,7 @@ First, figure out these issues about your video content and timing:
   </div>
 </div>
 
-## Options
+## Options for Creating Description
 
 Depending on your video situation, do one of the options below &mdash; as determined from the "What Description to Provide for My Video?" section above.
 
