@@ -65,7 +65,9 @@ _Interactive transcripts_ highlight text phrases as they are spoken. Users can s
 
 ## Does My Media Need a Transcript?
 
-**Short answer: Yes, transcripts are needed to meet the wide range of user needs**. In a some cases, they are not required to meet minimum standards. The Web Content Accessibility Guidelines (WCAG) standard is addressed in another page of this resource: Planning Accessible Audio and Video Media, ([Standards section](/design-develop/media/planning/#standards).
+**Short answer: Yes, transcripts are needed to meet the wide range of user needs**.
+
+In a some cases, transcripts are not required to meet minimum standards. (To learn more about WCAG, see: Planning Accessible Audio and Video Media, ([Standards section](/design-develop/media/planning/#standards).)
 
 <div id="tree-ao" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
@@ -107,7 +109,7 @@ _Interactive transcripts_ highlight text phrases as they are spoken. Users can s
       </li>
       <li>For live:
         <ul>
-          <li>A live steam separate from the media player is needed for people who cannot access the captions. (Captions are AA.)</li>
+          <li>A live steam separate from the media player is needed for people who cannot access the captions. It is not required in WCAG. (Captions are AA.)</li>
         </ul>
       </li>
     </ul>
