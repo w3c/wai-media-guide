@@ -67,7 +67,7 @@ This page uses "described video" in some places as a shortened form of "a video 
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
       <li>For pre-recorded and live:
         <ul>
-          <li>Description is <strong><em>not</em></strong> required (because there is no visual information).</li>
+          <li>Description is <strong><em>not needed</em></strong> because there is no visual information.</li>
         </ul>
       </li>
     </ul>
@@ -80,12 +80,12 @@ This page uses "described video" in some places as a shortened form of "a video 
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
       <li>For pre-recorded:
         <ul>
-          <li>Description of important visual information is <em><strong>required</strong></em> to provide the information to people who are blind and want to listen to the video.</li>
+          <li>Description of important visual information is <em><strong>required</strong></em> to provide the information to people who are blind and listen to the video. It is in Web Content Accessibility Guidelines (<a href="/design-develop/media/planning/#standards">WCAG</a>) at Level A or AA.</li>
         </ul>
       </li>
       <li>For live:
         <ul>
-          <li>Description of important visual information would be useful for people who are blind. It is not required to meet most minimum accessibility standards.</li>
+          <li>Description of important visual information would be <strong><em>useful</em></strong> for people who are blind. It is not required to meet most minimum accessibility standards.</li>
         </ul>
       </li>
     </ul>
