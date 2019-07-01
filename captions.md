@@ -137,7 +137,7 @@ For optimum accessibility, provide a separate caption file of the audio descript
 
 Creating captions requires typing up the audio (&quot;transcribing&quot;) and formatting it in a file with timestamps. Transcribing an audio file is fairly difficult and takes quite a bit of time for people who don't have the software and skill for it. The file format for captions are simple, yet it's tedious to add timestamps, especially without software or service for developing caption files.
 
-**Good captioning requires knowledge of which non-speech audio information should be included in the captions, and (@@Chris).** @@Good transcribing is more art than science --- for example, it's not always clear which non-speech audio information to include and how to communicate it in text.@@
+**Creating high-quality captions requires knowledge of which non-speech audio information should be included in the captions. It's more art than science** --- for example, it's not always clear which non-speech audio information to include and how to communicate it in text.
 
 Even correcting an automatic caption files takes quite a bit of time for people who don't do it regularly.
 
@@ -160,42 +160,6 @@ There are tools that use speech recognition technology to turn a soundtrack into
 Automatic captions can be used as a starting point for developing accurate captions and transcripts.
 
 ## Creating Captions
-
-<div style="background:yellow;">
-@@ update now that moved trascribgin info.
-@@ also add creating captions from existing transcripts
-	    </div>
-
-### Example Workflow
-
-More information on these steps are in this web page.
-
-{::nomarkdown}
-{% include box.html type="start" class="" %}
-{:/}
-
-1. Pick a caption tool.
-2. Understand what to include in captions, including the Tips.
-3. Write up the captions and timing in the tool.
-4. Review your captions as the video plays, and edit as needed.
-5. Export the caption file.
-6. If your tool provides it, export a file to create the transcript.
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-### Caption Tools
-
-Most people use software or services to help develop captions. There are several free captioning software programs and online services available.
-
-<p style="text-align:center">[image of captioning software or service, probably YouTube since that's one many novies will use]</p>
-
-Some tools create automatic captions that you can use as a starting point. You will need to edit automatic captions for accuracy.
-
-For example, YouTube provides automatic captions and tools for you to edit the captions, as described in [Edit or remove captions – YouTube Help](https://support.google.com/youtube/answer/2734705?hl=en).
-
-Most caption-editing tools provide can export a plain text transcript.
 
 ### Caption File Format
 
@@ -226,6 +190,22 @@ WEBVTT
 {:/}
 	
 Other caption formats are: Timed Text Markup Language ([TTML](https://www.w3.org/TR/ttml2/)) and [SRT](https://matroska.org/technical/specs/subtitles/srt.html).
+
+### Caption Tools
+
+Most people use software or services to help develop captions. There are several free captioning software programs and online services available.
+
+<p style="text-align:center">[image of captioning software or service, probably YouTube since that's one many novies will use]</p>
+
+Some tools create automatic captions that you can use as a starting point. You will need to edit automatic captions for accuracy.
+
+For example, YouTube provides automatic captions and tools for you to edit the captions, as described in [Edit or remove captions – YouTube Help](https://support.google.com/youtube/answer/2734705?hl=en).
+
+Most caption-editing tools provide can export a plain text transcript.
+
+### Transcribing Audio to Text
+
+For specific guidance on what to type up, see another page in this resource: [Transcribing Audio to Text]( /design-develop/media/transcribing/).
 
 ## Other Options
 {:.no_toc}
