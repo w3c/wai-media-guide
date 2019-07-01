@@ -42,7 +42,7 @@ This page provides guidance on understanding and creating transcripts.
 {% include toc.html type="end" %}
 {:/}
 
-_Transcripts are only one aspect of making audio and video accessible. For more, see [Making Video and Audio Accessible - Introduction](http://@@)._
+_Transcripts are only one aspect of making audio and video accessible. For more, see [Making Video and Audio Accessible - Introduction]( /design-develop/media/)._
 
 
 ## Introduction
@@ -153,7 +153,13 @@ A transcript of a podcast can be simple text paragraphs with the speakers identi
 {% include box.html type="start" title="Example transcript of a podcast interview with two speakers (excerpt)" class="" %}
 {:/}
 
-… @@
+Rajwinder Kaur: Welcome to the podcast.
+
+Shawn Henry: Thank you for this opportunity to share information about accessibility.
+
+Rajwinder: Would you start by telling us a little about your role at W3C?
+
+Shawn: I work within the Web Accessibility Initiative, W-A-I, pronounced "way".
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -177,7 +183,7 @@ Keep in mind that the main purpose of a transcript is to provide the information
 
 * **Indicate the speakers based on the type of content.** For example:
    * When there are multiple speakers, you could use hanging indents to make it easy to skim for a particular speaker.
-   * When the focus should be on the interviewee's answers and not the interviewer, you could format the interviewer's questions in smaller, lighter text so the interviewee's answers stand out more clearly.
+   * When you want the focus on the interviewee's answers and not the interviewer, you could bold the interviewee's name so it stands out more clearly.
 
 * **Include timestamps only when useful.** In many cases, including timestamps would be unnecessary clutter. If you do include them, they usually don't need to be as granular as the captions, and do not need to include end times.
 
