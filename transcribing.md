@@ -123,7 +123,7 @@ Generally, you transcribe all speech and relevant non-speech sound, such as {@@ 
 
 For captions:
 
-* Captions are one or two lines. ?? character length
+* Captions are one or two lines. @@ ?character length?
 * Put a new sentence on a new line.
 * If you need to break a sentence into multiple segments, break it at a logical phrase.
 
