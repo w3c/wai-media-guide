@@ -121,20 +121,30 @@ This section tells you what is needed to meet user needs and what is required to
   </div>
 </div>
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-<div id="tree-va" style="border: solid 1px #DDD; padding-bottom: 0;">
-  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video with audio content:</p>
+<div id="tree-video" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
+  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
+    <p><strong>Does the video have audio information</strong> that is needed to understand what the video is communicating?</p>
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
-      <li>For pre-recorded:
+      <li>If no (for example, it is just background music):
         <ul>
-          <li>Captions are needed to provide the audio content to people who are Deaf or hard of hearing.<br>Captions are <strong><em>required</em></strong> in WCAG at Level A.</li>
+          <li>Captions are not needed because there is no important audio content. Consider <a href="https://wai-media-guide.netlify.com/design-develop/media/planning/#none">informing users</a>.</li>
         </ul>
       </li>
-      <li>For live:
+      <li>If yes:
         <ul>
-          <li>Captions are needed to provide the audio content to people who are Deaf or hard of hearing.<br>Captions are <strong><em>required</em></strong> in WCAG at Level AA.</li>
+          <li>For pre-recorded:
+            <ul>
+              <li>Captions are needed to provide the audio content to people who are Deaf or hard of hearing.<br>
+                Captions are <em><strong>required</strong></em> in WCAG at Level A.</li>
+            </ul>
+          </li>
+          <li>For live:
+            <ul>
+              <li>Captions are needed to provide the audio content to people who are Deaf or hard of hearing.<br>
+                Captions are <em><strong>required</strong></em> in WCAG at Level AA.</li>
+            </ul>
+          </li>
         </ul>
       </li>
     </ul>
