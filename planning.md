@@ -345,6 +345,8 @@ Other WCAG requirements related to audio and video include:
 * [2.2.2 Pause, Stop, Hide](https://www.w3.org/TR/UNDERSTANDING-WCAG20/time-limits-pause.html) (Level A) For moving, blinking, scrolling, or auto-updating information, all of the following are true:...
 * [1.4.2 Audio Control](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-dis-audio.html) (Level A) If any audio on a Web page plays automatically for more than 3 seconds, either a mechanism is available to pause or stop the audio, or a mechanism is available to control audio volume...
 
+Your audio and video may be subject to additional requirements, for example under governmental regulations. Some of these are listed in [Web Accessibility Laws & Policies](https://www.w3.org/WAI/policies/). 
+
 ### Descriptive Transcripts
 
 <p>Although WCAG Level AA does not require descriptive transcripts for videos, we recommend them because they:</p>
