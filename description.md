@@ -108,7 +108,7 @@ This section tells you what is needed to meet user needs and what is required to
 
 ## Audio Description Considerations
 
-When accessibility is considered before videos are produced, it significantly cuts down on cost and effort to develop audio description. For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers as the video is planned and created, and you don't need separate audio description, thus there is no additional cost.
+When accessibility is considered before videos are produced, it significantly cuts down on cost and effort to develop audio description. For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers as the video is planned and created, and you don't need separate audio description, thus there is no additional cost. Information for addressing audio description in _new videos_ is in the "Creating Audio and Video Content" page, [Plan for Audio Description of Visual Information section](/design-develop/media/av-content/#plan-for-audio-description-of-visual-information).
 
 To add audio description to _an existing video_, you'll likely **need skills and tools** to:
 * write it
@@ -116,7 +116,7 @@ To add audio description to _an existing video_, you'll likely **need skills and
 * record it
 * integrate it in new audio and/or video files
 
-Information for addressing audio description in _new videos_ is in the "Creating Audio and Video Content" page, [Plan for Audio Description of Visual Information section](/design-develop/media/av-content/#plan-for-audio-description-of-visual-information).
+Many organizations choose to outsource their description.
 
 ## What Description to Provide for My Video?
 
@@ -189,7 +189,7 @@ The process to develop a separate audio file is basically:
 
 ### Creating a Separate Described Video - If Descriptions Do Not Fit in Spaces
 
-If all the descriptions do **not** fit in the spaces _(as described in [Space in audio above](#space)_, you'll need to develop a separate audio file and also edit the visual track. This requires skills and software for audio recording, audio editing, and video editing.
+If all the descriptions do **not** fit in the spaces _(as described in [Space in audio above](#space)_), you'll need to develop a separate audio file and also edit the visual track. This requires skills and software for audio recording, audio editing, and video editing.
 
 The process to develop a separate audio file and edit the visual track is basically:
 1. Write out the descriptions. See [Tips for Writing Descriptions below](#writing).
@@ -230,7 +230,7 @@ The process to develop description in a separate audio file is basically:
 ### Tips for Writing Descriptions {#writing}
 {:.no_toc}
 
-* Describe the visual elements that are important to understand what the video is communicating.
+* Describe the visual elements that are important to understand what the video is communicating. You don't need to describe every detail or things that are apparent from the audio.
 * Describe objectively, without interpretation, censorship, or comment.
 * Write description in present tense, active voice, and in third-person narrative style.
 
