@@ -64,6 +64,8 @@ The checklists below:
 * include all that is needed to meet user needs (including what goes beyond minimum accessibility standards and policies)
 * indicate what is required in Web Content Accessibility Guidelines (WCAG) at Level A, AA, and AAA. _(For an explanation of all that, jump down to the [Standards section of this page](#standards).)_
 
+The links go to a page with details on understanding and implementing each thing.
+
 ### Audio-only Checklist
 
 This section covers things like podcasts that don't have video.
@@ -162,7 +164,7 @@ supports accessibility.
 {% include box.html type="end" %}
 {:/}
 
-### Informing Users When None Needed {#none}
+### Inform Users When Not Needed {#none}
 {:.no_toc}
 
 <p>If your video does not need captions (because there is no substantive audio content) or does not need audio description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it. For example:</p>
@@ -189,7 +191,7 @@ Audio description not needed: This video does not include audio description beca
 
 ### Provide Both Captions and a Transcript {#captions-and-transcript}
 
-Ideally you provide captions and a separate transcript.
+It is best to provide captions and a separate transcript.
 
 For videos, captions enable people who are Deaf or hard of hearing to see the visual content and read the captions at the same time. 
 
@@ -216,7 +218,7 @@ Here is an example workflow for developing an accessible video, with notes on wh
 
 1. Address accessibility in **[video content](/design-develop/media/av-content/)** as the video is planned and produced.<br>_By:_ Script writers, videographers, producers, and others.
 
-2. Develop an **[audio described version](/design-develop/media/description/)** of the video at the same time as the main video, if needed.<br>_By:_ The same people doing the main video also do the describe version.
+2. Develop an **[described version](/design-develop/media/description/)** of the video at the same time as the main video, if needed.<br>_By:_ Usually the same people who produce the main video also produce the described version."
 
 3. Develop **[captions](/design-develop/media/captions/)** for the main video, for the audio described version, and of the audio description itself.<br>_By:_ Usually if the video is professionally produced, the producers provide captions. Sometimes when informal videos are developed in-house, captions are outsourced.
 
