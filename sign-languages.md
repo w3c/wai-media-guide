@@ -24,10 +24,16 @@ Sign languages use hand and arm movements, facial expressions, and body position
 
 For most people who are Deaf, sign language is their native language, and some do not read or understand written language well.
 
+.. espsdecailly speed of captionss...
+
 Not everyone who is Deaf knows sign languages, especially if they became Deaf later in life.
 
 Note that there are different sign languages in different regions and countries; for example, American Sign Language (ASL), British Sign Language (BSL), and Auslan (Australian Sign Language) are all different.
 
 Most minimum accessibility standards do not require sign language; some do. Sign language is in Web Content Accessibility Guidelines (WCAG) at Level AAA.
 
-[optional: image of person signing -- or video clip with sign langauge interpretatation...]
+[image of person signing -- &/or video clip with sign langauge interpretatation...]
+
+Example sign language in video [NHS 111 British Sign Language (BSL) Advert (YouTube)](https://www.youtube.com/watch?v=TCq3ru9HQSc)
+
+https://www.w3.org/TR/WCAG20-TECHS/G54.html
