@@ -223,7 +223,7 @@ The process to develop description in a separate audio file is basically:
 
 {% include_cached excol.html type="start" id="tips" %}
 
-## Tips
+## Tips for Doing Description Yourself
 
 {% include_cached excol.html type="middle" %}
 
