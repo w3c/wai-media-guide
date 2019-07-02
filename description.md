@@ -230,9 +230,9 @@ The process to develop description in a separate audio file is basically:
 ### Tips for Writing Descriptions {#writing}
 {:.no_toc}
 
-* Describe the visual elements that are important to understand what the video is communicating. You don't need to describe every detail or things that are apparent from the audio.
+* Describe the visual elements that are important to understand what the video is communicating. Imagine that you are describing the video to someone who cannot see it &mdash; what do you say? You don't need to describe every detail or things that are apparent from the audio.
 * Describe objectively, without interpretation, censorship, or comment.
-* Write description in present tense, active voice, and in third-person narrative style.
+* Write description in present tense, active voice, and third-person narrative style.
 
 More guidance on writing descriptions: [Description Tip Sheet [icon]](https://dcmp.org/learn/227) and [How to Describe [icon]](http://www.descriptionkey.org/how_to_describe.html).
 
@@ -240,6 +240,7 @@ More guidance on writing descriptions: [Description Tip Sheet [icon]](https://dc
 {:.no_toc}
 
 * Use a voice, style, and delivery that is distinguishable from other voices used in the video.
+* Use a neutral voice that does nto convey emotions.
 * When recording a single file with timed descriptions, voice the descriptions at the same time as the visual content, or right before the visual content. Don't put the description after the visual content.
 * See [guidance on audio content](/design-develop/media/av-content/#audio).
 
@@ -248,7 +249,7 @@ More guidance on writing descriptions: [Description Tip Sheet [icon]](https://dc
 
 * Put descriptions at the same time as the visual content, or right before the visual content. Don't put the description after the visual content.
 
-* When mixing the descriptions with the main audio, lower the main audio level when the description plays and raise the description audio level. When the description is finished playing, lower the description audio level and raise the main audio level to its normal setting. Repeat this process (known as "ducking") for every description instance.
+* Make the description clear above other noises. When mixing the descriptions with the main audio, lower the main audio level when the description plays and raise the description audio level. When the description is finished playing, lower the description audio level and raise the main audio level to its normal setting. Repeat this process (known as "ducking") for every description instance.
 
 {% include_cached excol.html type="end" %}
 
