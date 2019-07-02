@@ -106,7 +106,7 @@ This section tells you what is needed to meet user needs and what is required to
   </div>
 </div>
 
-## Audio Description Considerations
+## Audio Description Considerations, Skills, and Tools
 
 When accessibility is considered before videos are produced, it significantly cuts down on cost and effort to develop audio description. For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers as the video is planned and created, and you don't need separate audio description, thus there is no additional cost. Information for addressing audio description in _new videos_ is in the "Creating Audio and Video Content" page, [Plan for Audio Description of Visual Information section](/design-develop/media/av-content/#plan-for-audio-description-of-visual-information).
 
