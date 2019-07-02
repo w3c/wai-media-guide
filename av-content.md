@@ -144,7 +144,7 @@ Guidance on what to include is in the "Creating Audio Description of Visual Info
 
 #### Time for description
 
-For some types of videos, the description of the visual information cannot be smoothly handled by the speakers and narrator in the main video, because it would make the default video too much longer or more cumbersome. In that case, you will have the description separate. You can make the described version smoother by planning for the description.
+For some types of videos, the description of the visual information cannot be smoothly handled by the speakers and narrator in the main video, because it would make the default video much longer or more cumbersome. In that case, you will have the description separate. You can make the described version smoother by planning for the description.
 
 Where the description is fairly short, plan space in the audio for the description.
 
