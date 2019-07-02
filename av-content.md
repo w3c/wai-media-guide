@@ -114,7 +114,7 @@ For any text, consider the font family, size, and contrast between the text and 
 _Audio description_ provides content to people who are blind and others who cannot see the video adequately. It describes the visual information needed to understand the content.
 
 Plan to either:
-* Integrate description of the visual information that users need to understand into the main audio content, _**or**_
+* Integrate description of the visual information that users need to understand into the main audio content,<br>_**or**_
 * Record extra time for scenes that need description of the visual information.
 
 #### Integrate description
@@ -144,7 +144,7 @@ Guidance on what to include is in the "Creating Audio Description of Visual Info
 
 #### Time for description
 
-For some types of videos, the description of the visual information cannot be smoothly handled by the speakers and narrator in the main video, because it would make the default video much longer or more cumbersome. In that case, you will have the description separate. You can make the described version smoother by planning for the description.
+For some types of videos, the description of the visual information cannot be smoothly handled by the speakers and narrator in the main video, because it would make the default video much longer or more cumbersome. For those videos, the description will be separate. Plan for the description to make the described version smoother.
 
 Where the description is fairly short, plan space in the audio for the description.
 
