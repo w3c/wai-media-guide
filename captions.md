@@ -155,7 +155,7 @@ This section tells you what is needed to meet user needs and what is required to
 
 Creating captions requires typing up the audio (&quot;transcribing&quot;) and formatting it in a file with timestamps. Transcribing an audio file is fairly difficult and takes quite a bit of time for people who don't have the software and skill for it. The file format for captions are simple, yet it's tedious to add timestamps, especially without software or service for developing caption files.
 
-**Creating high-quality captions requires knowledge of which non-speech audio information should be included in the captions. It's more art than science** --- for example, it's not always clear which non-speech audio information to include and how to communicate it in text.
+Creating high-quality captions requires knowledge of which non-speech audio information should be included in the captions. It's more art than science --- for example, it's not always clear which non-speech audio information to include and how to communicate it in text.
 
 Even correcting an automatic caption files takes quite a bit of time for people who don't do it regularly.
 
