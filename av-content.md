@@ -144,11 +144,11 @@ Guidance on what to include is in the "Creating Audio Description of Visual Info
 
 #### Time for description
 
-For some types of videos, the description of the visual information cannot be smoothly handled by the speakers and narrator in the main video, because it would make the default video much longer or more cumbersome. For those videos, the description will be separate. Plan for the description to make the described version smoother.
+For some types of videos, the description of the visual information cannot be smoothly handled by the speakers in the main video, because it would make the default video much longer or more cumbersome. For those videos, the description will be separate.
 
-Where the description is fairly short, plan space in the audio for the description.
+Where the description is fairly short, plan space in the audio to add the description.
 
-Where the description is longer that you want to leave space in the main audio, you can record extra time in the scene to accommodate the description without having to pause the scene. That is, the same scene is shown with a little longer at the beginning or the end of it. For example:
+Where the description is longer that you want to leave space in the main audio, you can record extra time in the scene to accommodate the description without having to pause the scene. That is, the same scene is shorter in the main video. In the described version, that same scene is a little longer at the beginning or the end of it. For example:
 
 <table>
   <tr>
