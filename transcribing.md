@@ -69,7 +69,6 @@ You can start with an automatically-generated text file. There's lots of softwar
 Plan to spend time correcting automatically-generated transcription.
 
 More details on options and tools for transcribing are in: Transcripts on the Web, [How to get or make transcripts [icon]]( http://www.uiaccess.com/transcripts/transcripts_on_the_web.html#justdoit).
-{@@ update^^^ !}
 
 A little about captioning tools is in the Captions/Subtitles page of this resource: [Captioning Tools](https://wai-media-guide.netlify.com/design-develop/media/captions/#captioning-tools).
 
