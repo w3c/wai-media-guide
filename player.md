@@ -13,10 +13,10 @@ ref: /design-develop/media/player/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
-   path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
+   path: 'player.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". 
 navigation:
-  previous:     /design-develop/media/sign-languages/
+  previous: /design-develop/media/sign-languages/
 ---
 
 {::nomarkdown}
@@ -40,13 +40,30 @@ This page provides information about media players and accessibility.
 {% include toc.html type="end" %}
 {:/}
 
-_The media player is only one aspect of making audio and video accessible. For more, see [Making Video and Audio Accessible - Introduction](http://@@)._
+_The media player is only one aspect of making audio and video accessible. For more, see [[Making Video and Audio Accessible - Introduction]](/design-develop/media/)._
 
-## Skills and Tools
+## Build-in HTML Media Elements
 
-Setting up an accessible media player requires HTML 5 skills.
+HTML can embed media using the [`<audio>` {% include_cached external.html %}](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio) and [`<video>` {% include_cached external.html %}](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video) elements for audio and video, respectively. Those elements support standard controls in browsers which generally provide a basic level of accessibility for playing and pausing the media. [`<track>` {% include_cached external.html %}](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track) elements can provide caption and subtitle support.
 
-## HTML 5
+## Extending Media Elements
+
+As HTML media elements can be manipulated using JavaScript, many websites implement their own set of controls. To make those controls accessible, they must
+
+* support keyboard operation,
+* show the position of the keyboard focus,
+* have easy to click/touch and clearly labeled buttons,
+* work when the page is zoomed in.
+
+For in-depth requirements, see [Media Accessibility User Requirements document](https://www.w3.org/TR/media-accessibility-reqs/).
+
+## Specialized Solutions
+
+Accessibility features like interactive transcripts, audio description or sign language toggles need even more specialized development. There are several off-the shelf media players that support accessibility features like changing the speed of the video and modifying how captions and subtitles are displayed.
+
+[a list of players would be nice, but hard to keep current]
+
+{% comment %}
 
 HTML 5 lets you embed audio and video with the ```<audio>```, ```<video>```, and ```<track>``` elements. There are JavaScript APIs (application programming interfaces) for controlling them. Several resources on the web provide guidance on embedding audio and video in HTML5. For example, [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content) and [```<video>```: The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video).
 
@@ -72,3 +89,5 @@ Some media players provide interactive transcripts. They use the captions file.
 Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video.
 
 <img src="{{ "/content-images/wai-media-guide/interactive-transcript.png" | relative_url }}" alt="">
+
+{% endcomment %}
