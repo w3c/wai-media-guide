@@ -81,4 +81,4 @@ There are resources on the web that provide guidance on creating sign language a
 
 ## Example
 
-Example sign language in video: [NHS 111 British Sign Language (BSL) Advert (YouTube)](https://www.youtube.com/watch?v=TCq3ru9HQSc) [@@ screen grab]
+Example sign language in video: [NHS 111 British Sign Language (BSL) Advert (YouTube)](https://www.youtube.com/watch?v=TCq3ru9HQSc) [@@ embed or screen grab]
