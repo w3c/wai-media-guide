@@ -75,30 +75,23 @@ Specific guidance for other aspects of making your media accessible is in the pa
 
 <img src="{{ "/content-images/wai-media-guide/AD.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
-**[Audio Description of Visual Information](/design-develop/media/description/)** &mdash; Audio description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content.
+<p style="margin-left:123px"><strong><a href="/design-develop/media/description/">Audio Description of Visual Information</a></strong> &mdash; Audio description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content.</p>
 
 <img src="{{ "/content-images/wai-media-guide/CC.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
-<p style="margin-left:111px">
-
-**[testing](/design-develop/media/captions/)** &mdash; Captions (also called "intralingual subtitles") provide content to people who are Deaf and others who cannot hear the audio. Captions are a text version of the speech and non-speech audio information needed to understand the content. _Subtitles_ are the spoken audio translated into another language. Captions and subtitles are synchronized with the audio and usually shown in a media player.
-</p>
-
-<img src="{{ "/content-images/wai-media-guide/CC.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
-
-**[Captions/Subtitles](/design-develop/media/captions/)** &mdash; Captions (also called "intralingual subtitles") provide content to people who are Deaf and others who cannot hear the audio. Captions are a text version of the speech and non-speech audio information needed to understand the content. _Subtitles_ are the spoken audio translated into another language. Captions and subtitles are synchronized with the audio and usually shown in a media player.
+<p style="margin-left:123px"><strong><a href="/design-develop/media/captions/">Captions/Subtitles</a></strong> &mdash; Captions (also called "intralingual subtitles") provide content to people who are Deaf and others who cannot hear the audio. Captions are a text version of the speech and non-speech audio information needed to understand the content. <em>Subtitles</em> are the spoken audio translated into another language. Captions and subtitles are synchronized with the audio and usually shown in a media player.</p>
 
 <img src="{{ "/content-images/wai-media-guide/transcript.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
-**[Transcripts](/design-develop/media/transcripts/)** &mdash; Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. _Descriptive transcripts_ also include description of the visual information needed to understand the content. Descriptive transcripts are required to provide content to people who are both Deaf and blind. Transcripts are separate from a media player.
+<p style="margin-left:123px"><strong><a href="/design-develop/media/transcripts/">Transcripts</a></strong> &mdash; Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. <em>Descriptive transcripts</em> also include description of the visual information needed to understand the content. Descriptive transcripts are required to provide content to people who are both Deaf and blind. Transcripts are separate from a media player.</p>
 
 <img src="{{ "/content-images/wai-media-guide/sign.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
-**[Sign Languages](/design-develop/media/sign-languages/)** &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For most people who are Deaf, sign language is their native language, and some do not understand written language well. (Sign language is not required to meet most minimum accessibility standards.)
+<p style="margin-left:123px"><strong><a href="/design-develop/media/sign-languages/">Sign Languages</a></strong> &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For most people who are Deaf, sign language is their native language, and some do not understand written language well. (Sign language is not required to meet most minimum accessibility standards.)</p>
 
 <img src="{{ "/content-images/wai-media-guide/player.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
-**[Media Player](/design-develop/media/player/)** &mdash; Media players have different levels of accessibility support. For example, some provide a separate audio track for description and some use the caption file to provide an _interactive transcript_.
+<p style="margin-left:123px"><strong><a href="/design-develop/media/player/">Media Player</a></strong> &mdash; Media players have different levels of accessibility support. For example, some provide a separate audio track for description and some use the caption file to provide an <em>interactive transcript</em>.</p>
 
 ## Example
 
