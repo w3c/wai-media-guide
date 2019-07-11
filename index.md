@@ -79,6 +79,13 @@ Specific guidance for other aspects of making your media accessible is in the pa
 
 <img src="{{ "/content-images/wai-media-guide/CC.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
+<span style="margin-left:111px">
+
+**[testing](/design-develop/media/captions/)** &mdash; Captions (also called "intralingual subtitles") provide content to people who are Deaf and others who cannot hear the audio. Captions are a text version of the speech and non-speech audio information needed to understand the content. _Subtitles_ are the spoken audio translated into another language. Captions and subtitles are synchronized with the audio and usually shown in a media player.
+</span>
+
+<img src="{{ "/content-images/wai-media-guide/CC.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
+
 **[Captions/Subtitles](/design-develop/media/captions/)** &mdash; Captions (also called "intralingual subtitles") provide content to people who are Deaf and others who cannot hear the audio. Captions are a text version of the speech and non-speech audio information needed to understand the content. _Subtitles_ are the spoken audio translated into another language. Captions and subtitles are synchronized with the audio and usually shown in a media player.
 
 <img src="{{ "/content-images/wai-media-guide/transcript.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
