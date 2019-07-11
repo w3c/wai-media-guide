@@ -63,17 +63,17 @@ It's easy to understand that a person who is Deaf can't hear the audio, so you n
 
 ## How to Make Audio and Video Accessible
 
-<img src="{{ "/content-images/wai-media-guide/planning.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
+<img src="{{ "/content-images/wai-media-guide/planning.png" | relative_url }}" alt="" style="float: right; margin-left: 1rem; width: 11%; max-width: 77px">
 
 This resource walks through understanding accessible media, whether you are outsourcing it or creating it in-house. To **figure out what your specific audio or video needs** and to learn about **standards** for audio and video media, see **[Planning Accessible Audio and Video Media](/design-develop/media/planning/)**.
 
-<img src="{{ "/content-images/wai-media-guide/av-content.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
+<img src="{{ "/content-images/wai-media-guide/av-content.png" | relative_url }}" alt="" style="float: right; margin-left: 1rem; width: 11%; max-width: 77px">
 
 When you are creating **new** audio or video, there are several things to consider such as background noise and avoiding flashing that can cause seizures. These are explained in **[Audio and Video Content](/design-develop/media/av-content/)**.
 
 Specific guidance for other aspects of making your media accessible is in the pages linked below. Some media needs all of these, and others need only a transcript.
 
-<img src="{{ "/content-images/wai-media-guide/AD.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
+<img src="{{ "/content-images/wai-media-guide/AD.png" | relative_url }}" alt="" style="clear:both; float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
 **[Audio Description of Visual Information](/design-develop/media/description/)** &mdash; Audio description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content.
 
