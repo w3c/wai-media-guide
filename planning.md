@@ -29,7 +29,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 
 ---
 
-<img src="{{ "/content-images/wai-media-guide/planning.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-media-guide/planning.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 22%; max-width: 111px">
 
 {::nomarkdown}
 {% include box.html type="start" title="Summary" class="" %}
