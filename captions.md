@@ -49,8 +49,6 @@ This page provides guidance on understanding and creating captions and subtitles
 {% include toc.html type="end" %}
 {:/}
 
-_Captions are only one aspect of making audio and video accessible. For more, see [Making Video and Audio Accessible - Introduction](http://@@)._
-
 ## Introduction
 
 _Who:_ Captions (also called "intralingual subtitles") provide content to people who are Deaf and others who cannot hear the audio. They are also used by people who process written information better than audio.
