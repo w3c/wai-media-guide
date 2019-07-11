@@ -1,23 +1,31 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
+
 title: "Audio Description of Visual Information"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Audio Description" # A short title that is used in the navigation
 doc-note-type: draft
+
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-04-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translator: "@@"   # Replace @@ with name or names separated with a comma
 # contributors: "@@"   # Replace @@ with name(s) or delete this line
+
 permalink: /design-develop/media/description/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /design-develop/media/description/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
    path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
-footer: >   # Translate all the words below, including "Date:" and "Editor:".
-   <p> ... Tips References: <a href="https://dcmp.org/learn/227">Description Tip Sheet [offsite icon]</a> and <a href="http://www.descriptionkey.org/how_to_describe.html">How to Describe [offsite icon]</a>. ...</p>
+
+resource:
+  ref: /design-develop/media/
 navigation:
   previous: /design-develop/media/av-content/
   next:     /design-develop/media/captions/
+
+footer: >   # Translate all the words below, including "Date:" and "Editor:".
+   <p> ... Tips References: <a href="https://dcmp.org/learn/227">Description Tip Sheet [offsite icon]</a> and <a href="http://www.descriptionkey.org/how_to_describe.html">How to Describe [offsite icon]</a>. ...</p>
+
 ---
 
 {::nomarkdown}
