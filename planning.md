@@ -1,7 +1,7 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
-html_title: "Planning Accessible Audio and Video Media <img src='{{ '/content-images/wai-media-guide/planning.png' | relative_url }}' alt='' style="float: right; margin-left: 2rem; width: 22%; max-width: 111px'>"
+title_html: "Planning Accessible Audio and Video Media"
 
 title: "Planning Accessible Audio and Video Media"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Planning" # A short title that is used in the navigation
