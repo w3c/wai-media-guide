@@ -74,9 +74,9 @@ There are resources on the web that provide guidance on creating sign language a
     * filming the signing
     * position of the sign language
 * Guidelines for the Production of Signing Books:
-    *  [Sign language presentation](http://www.sign-lang.uni-hamburg.de/signingbooks/deliver/d31/deliv_31_part3-2.html#3.2.2.6)
-    * [Filming the Signers](http://www.sign-lang.uni-hamburg.de/signingbooks/sbrc/grid/d71/guide12.htm)
-    *  [Editing](http://www.sign-lang.uni-hamburg.de/signingbooks/sbrc/grid/d71/guide13.htm)
+    * [Sign language presentation](http://www.sign-lang.uni-hamburg.de/signingbooks/deliver/d31/deliv_31_part3-2.html#3.2.2.6)
+    * [Filming the signers](http://www.sign-lang.uni-hamburg.de/signingbooks/sbrc/grid/d71/guide12.htm)
+    * [Editing](http://www.sign-lang.uni-hamburg.de/signingbooks/sbrc/grid/d71/guide13.htm)
 
 ## Example
 
