@@ -84,6 +84,6 @@ More details on player accessibility functionalty are in a separate document: [M
 
 ## Existing Players
 
-The following resources list accessibility support in several media players: [Media Player Accessibility Comparisons](https://docs.google.com/spreadsheets/d/1QJVcXx5hTWYBcJbHJD3DrL3hSFVbfy1VQFyADMtrDFY/edit?pli=1#gid=0) and [Web-Based Media Player Accessibility Comparison Table](http://kensgists.github.io/apt/).  (At the time of this writing, these resources had data from 2014 or 2016, and it may be out of date.)
+The following resources list accessibility support in several media players: [Media Player Accessibility Comparisons](https://docs.google.com/spreadsheets/d/1QJVcXx5hTWYBcJbHJD3DrL3hSFVbfy1VQFyADMtrDFY/edit?pli=1#gid=0) and [Web-Based Media Player Accessibility Comparison Table](http://kensgists.github.io/apt/).  (At the time of this writing, these resources had data from 2014 or 2016, and may be out of date.)
 
 Each media player provides documentation of the steps to set it up in a web page. For example [AblePlayer Setup Steps](setup-step-1-use-html5-doctype).
