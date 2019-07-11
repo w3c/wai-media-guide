@@ -49,8 +49,6 @@ This page addresses accessibility considerations for planning and producing vide
 {% include toc.html type="end" %}
 {:/}
 
-_This page covers only some aspects of making audio and video accessible. For more, see [Making Video and Audio Accessible - Introduction](http://@@)._
-
 ## Introduction
 {:.no_toc}
 
