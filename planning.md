@@ -1,6 +1,8 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
+html_title: "Planning Accessible Audio and Video Media <img src='{{ '/content-images/wai-media-guide/planning.png' | relative_url }}' alt='' style="float: right; margin-left: 2rem; width: 22%; max-width: 111px'>"
+
 title: "Planning Accessible Audio and Video Media"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Planning" # A short title that is used in the navigation
 doc-note-type: draft
@@ -27,6 +29,8 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 
 ---
 
+<img src="{{ "/content-images/wai-media-guide/planning.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 30%; max-width: 220px">
+
 {::nomarkdown}
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
@@ -51,9 +55,6 @@ This page helps you plan accessible media. It:
 {::nomarkdown}
 {% include toc.html type="end" %}
 {:/}
-
-
-<img src="{{ "/content-images/wai-media-guide/planning.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
 ## Introduction
 
