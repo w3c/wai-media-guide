@@ -52,6 +52,9 @@ This page helps you plan accessible media. It:
 {% include toc.html type="end" %}
 {:/}
 
+
+<img src="{{ "/content-images/wai-media-guide/planning.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
+
 ## Introduction
 
 For background, see _[Making Video and Audio Accessible - Introduction](index)_ that provides:
