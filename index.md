@@ -63,7 +63,10 @@ It's easy to understand that a person who is Deaf can't hear the audio, so you n
 
 ## How to Make Audio and Video Accessible
 
-| <img src="{{ "/content-images/wai-media-guide/av-planning.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px"> | This resource walks through understanding accessible media, whether you are outsourcing it or creating it in-house. To **figure out what your specific audio or video needs** and to learn about **standards** for audio and video media, see **[Planning Accessible Audio and Video Media](/design-develop/media/planning/)**. |
+<img src="{{ "/content-images/wai-media-guide/planning.png" | relative_url }}" alt="" style="width: 27%; max-width: 173px">
+
+
+| <img src="{{ "/content-images/wai-media-guide/av-planning.png" | relative_url }}" alt="" style="width: 11%; max-width: 77px"> | This resource walks through understanding accessible media, whether you are outsourcing it or creating it in-house. To **figure out what your specific audio or video needs** and to learn about **standards** for audio and video media, see **[Planning Accessible Audio and Video Media](/design-develop/media/planning/)**. |
 | <img src="{{ "/content-images/wai-media-guide/av-AD.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px"> | @@ |
 | <img src="{{ "/content-images/wai-media-guide/av-CC.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px"> | @@ |
 | <img src="{{ "/content-images/wai-media-guide/av-transcript.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px"> | @@ |
