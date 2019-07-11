@@ -68,6 +68,8 @@ Accessible media players provide a user interface that works without a mouse, th
 * Support captions
 * Provide access to audio description and sign language
 * Provide keyboard support ([Understanding Keyboard Accessible](https://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation.html))
+* Provide clear labels ([Understanding Labels or Instructions](https://www.w3.org/WAI/WCAG21/Understanding/labels-or-instructions), [Info and Relationships](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships))
+* Make the keyboard focus indicator visible ([Understanding Focus Visible](https://www.w3.org/WAI/WCAG21/Understanding/focus-visible))
 
 Media players can provide additional accessibility functionality such as:
 * Changing the speed of the video
