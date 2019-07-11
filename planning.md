@@ -243,7 +243,7 @@ To help you plan in-house and outsourced work, the sub-pages of this resource in
 * [Audio Description Considerations](/design-develop/media/description/#audio-description-considerations)
 * [Captions, Skills and Tools](/design-develop/media/captions/#skills-and-tools) and [Automatic Captions are Not Sufficient](/design-develop/media/captions/#automatic-captions-are-not-sufficient)
 * [Transcripts, Process - Skills and Tools](/design-develop/media/transcripts/#process---skills-and-tools)
-* [Media Palyers, Skills and Tools](/design-develop/media/player/#skills-and-tools)
+* [Media Players, Skills and Tools](/design-develop/media/player/#skills-and-tools)
 
 When planning for accessible media, it maybe helpful to communicate the **[additional benefits](/design-develop/media/#additional-benefits) to all users** and to your organization, such as search engine optimization (SEO).
 
