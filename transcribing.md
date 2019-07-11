@@ -50,8 +50,6 @@ This page provides guidance on transcribing audio to text for captions and trans
 {% include toc.html type="end" %}
 {:/}
 
-_This page is part of a resource introduced in [Making Video and Audio Accessible - Introduction](http://@@)._
-
 ## Introduction
 {:.no_toc}
 
