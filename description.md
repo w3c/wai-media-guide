@@ -175,7 +175,7 @@ First, figure out these issues about your video content and timing:
 
 ## Options for Creating Description
 
-<img src="{{ "/content-images/wai-media-guide/ADabstract.png" | relative_url }}" alt="" style="float: left; margin-right: 1rem; width: 27%; max-width: 173px">
+<img src="{{ "/content-images/wai-media-guide/ADabstract.png" | relative_url }}" alt="" style="float: left; margin-right: 1rem; margin-bottom: 2rem; width: 27%; max-width: 173px">
 
 Depending on your video situation, do one of the options below &mdash; as determined from the "What Description to Provide for My Video?" section above.
 
