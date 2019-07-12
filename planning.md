@@ -101,7 +101,7 @@ This section covers things like podcasts that don't have video.
 {:/}
 
 <img src="{{ "/content-images/wai-media-guide/live.png" | relative_url }}" alt="" style="height: height:1.1em">
-<img src="{{ "/content-images/wai-media-guide/audio.png" | relative_url }}" alt="" style="height:1.1em">=
+<img src="{{ "/content-images/wai-media-guide/audio.png" | relative_url }}" alt="" style="height:1.1em">
 
 {::nomarkdown}
 {% include box.html type="start" title="Live audio:" class="highlighted" id="tree-la" %}
