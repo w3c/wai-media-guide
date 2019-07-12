@@ -29,9 +29,10 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 
 ---
 
-<img src="{{ "/content-images/wai-media-guide/planning.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 27%; max-width: 173px">
+<img src="{{ "/content-images/wai-media-guide/planning.png" | relative_url }}" alt="" style="float: left; width: 27%; max-width: 173px">
 
 {::nomarkdown}
+<div style="margin-left:184px">
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
@@ -41,6 +42,7 @@ This page helps you plan accessible media. It:
 * shows the Web Content Accessibility Guidelines ([WCAG](/standards-guidelines/wcag/)) standards for audio and video media
 
 {::nomarkdown}
+</div>
 {% include box.html type="end" %}
 {:/}
 
@@ -81,11 +83,11 @@ The links go to a page with details on understanding and implementing each thing
 
 This section covers things like podcasts that don't have video.
 
-<img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height: 15px">
-<img src="{{ "/content-images/wai-media-guide/audio.png" | relative_url }}" alt="" style="height:1.6em">
+<img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height: height:1.3em">
+<img src="{{ "/content-images/wai-media-guide/audio.png" | relative_url }}" alt="" style="height:1.3em">
 
 {::nomarkdown}
-{% include box.html type="start" title="Pre-recorded audio:" class="highlighted" id="tree-ap" %}
+{% include box.html type="start" title="<img src='{{ '/content-images/wai-media-guide/audio.png' | relative_url }}' alt='' style='height:1.3em'> Pre-recorded audio:" class="highlighted" id="tree-ap" %}
 {:/}
 
 -   **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** that is accessible; for example, what is said and how it's recorded
