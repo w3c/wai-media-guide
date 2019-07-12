@@ -28,16 +28,17 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 
 ---
 
-<img src="{{ "/content-images/wai-media-guide/AD.png" | relative_url }}" alt="" style="float: right; margin-left: 1rem; width: 27%; max-width: 173px">
-
+<img src="{{ "/content-images/wai-media-guide/AD.png" | relative_url }}" alt="" style="float: left; width: 27%; max-width: 173px">
 
 {::nomarkdown}
+<div style="margin-left:184px">
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
 This page provides guidance on understanding and creating audio description of visual information for new and existing videos. (It does not apply to audio-only, such as podcasts.)
 
 {::nomarkdown}
+</div>
 {% include box.html type="end" %}
 {:/}
 
