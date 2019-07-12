@@ -81,6 +81,9 @@ The links go to a page with details on understanding and implementing each thing
 
 This section covers things like podcasts that don't have video.
 
+<img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height: 15px">
+<img src="{{ "/content-images/wai-media-guide/audio.png" | relative_url }}" alt="" style="height:1.6em">
+
 {::nomarkdown}
 {% include box.html type="start" title="Pre-recorded audio:" class="highlighted" id="tree-ap" %}
 {:/}
