@@ -28,7 +28,9 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 ---
 
 
-<img src="{{ "/content-images/wai-media-guide/av-content.png" | relative_url }}" alt="" style="float: right; margin-left: 1rem; width: 27%; max-width: 173px">
+<img src="{{ "/content-images/wai-media-guide/av-content.png" | relative_url }}" alt="" style="float: left; margin-right: 1rem; width: 27%; max-width: 173px">
+
+<div style="margin-left:222px"
 
 {::nomarkdown}
 {% include box.html type="start" title="Summary" class="" %}
@@ -39,6 +41,8 @@ This page addresses accessibility considerations for planning and producing vide
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+
+</div>
 
 {::options toc_levels="2,3" /}
 {::nomarkdown}
@@ -98,11 +102,9 @@ Say:
 
 <span style="color:#585858; font-style:italic;">More information that primarily addresses web pages, yet is relevant to audio and video, is in [Understanding Success Criterion 1.3.3: Sensory Characteristics (A)](https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html).</span>
 
-<img src="{{ "/content-images/wai-media-guide/av-together.png" | relative_url }}" alt="" style="width: 27%; max-width: 173px">
-
 ## Video
 
-**_Note:_ Above applies to the audio aspects of videos.**
+<p><img src="{{ "/content-images/wai-media-guide/av-together.png" | relative_url }}" alt="" style="width: 27%; max-width: 173px"> <strong><em>Note:</em> The guidance above applies to the audio aspects of videos.</strong></p>
 
 ### Avoid causing seizures – _storyboarding, post-production_ (WCAG A)
 
