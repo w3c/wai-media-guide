@@ -27,6 +27,9 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 
 ---
 
+
+<img src="{{ "/content-images/wai-media-guide/av-content.png" | relative_url }}" alt="" style="float: right; margin-left: 1rem; width: 27%; max-width: 173px">
+
 {::nomarkdown}
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
@@ -94,6 +97,8 @@ Say:
 <blockquote>Attach the small ring to the green end, which is the larger end.</blockquote>
 
 <span style="color:#585858; font-style:italic;">More information that primarily addresses web pages, yet is relevant to audio and video, is in [Understanding Success Criterion 1.3.3: Sensory Characteristics (A)](https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html).</span>
+
+<img src="{{ "/content-images/wai-media-guide/av-together.png" | relative_url }}" alt="" style="width: 27%; max-width: 173px">
 
 ## Video
 
