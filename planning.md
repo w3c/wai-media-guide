@@ -83,11 +83,13 @@ The links go to a page with details on understanding and implementing each thing
 
 This section covers things like podcasts that don't have video.
 
+{% capture boxhead %}
 <img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height: height:1.1em"> Pre-Recorded
 <img src="{{ "/content-images/wai-media-guide/audio.png" | relative_url }}" alt="" style="height:1.1em"> Audio
+{% endcapture %}
 
 {::nomarkdown}
-{% include box.html type="start" title="Pre-recorded audio:" class="highlighted" id="tree-ap" %}
+{% include box.html type="start" title=boxhead class="highlighted" id="tree-ap" %}
 {:/}
 
 -   **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** that is accessible; for example, what is said and how it's recorded
@@ -100,11 +102,13 @@ This section covers things like podcasts that don't have video.
 {% include box.html type="end" %}
 {:/}
 
+{% capture boxhead %}
 <img src="{{ "/content-images/wai-media-guide/live.png" | relative_url }}" alt="" style="height: height:1.1em"> Live
 <img src="{{ "/content-images/wai-media-guide/audio.png" | relative_url }}" alt="" style="height:1.1em"> Audio
+{% endcapture %}
 
 {::nomarkdown}
-{% include box.html type="start" title="Live audio:" class="highlighted" id="tree-la" %}
+{% include box.html type="start" title=boxhead class="highlighted" id="tree-la" %}
 {:/}
 
 -   **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** that is accessible; for example, what is said and how it's recorded
@@ -119,11 +123,13 @@ This section covers things like podcasts that don't have video.
 
 ### Video Checklist
 
+{% capture boxhead %}
 <img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height: height:1.1em"> Pre-Recorded
 <img src="{{ "/content-images/wai-media-guide/video.png" | relative_url }}" alt="" style="height:1.1em"> Video
+{% endcapture %}
 
 {::nomarkdown}
-{% include box.html type="start" title="Pre-recorded video:" class="highlighted" id="tree-vp" %}
+{% include box.html type="start" title=boxhead class="highlighted" id="tree-vp" %}
 {:/}
 
 **Does the video have speech or other audio** that is needed to understand the
@@ -154,11 +160,13 @@ supports accessibility.
 {% include box.html type="end" %}
 {:/}
 
+{% capture boxhead %}
 <img src="{{ "/content-images/wai-media-guide/live.png" | relative_url }}" alt="" style="height: height:1.1em"> Live
 <img src="{{ "/content-images/wai-media-guide/video.png" | relative_url }}" alt="" style="height:1.1em"> Video
+{% endcapture %}
 
 {::nomarkdown}
-{% include box.html type="start" title="Live video:" class="highlighted" id="tree-lv" %}
+{% include box.html type="start" title=boxhead class="highlighted" id="tree-lv" %}
 {:/}
 
 **Is there speech or other audio** that is needed to understand the
