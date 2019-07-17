@@ -89,9 +89,9 @@ Specific guidance for other aspects of making your media accessible is in the pa
 
 <p style="margin-left:123px"><strong><a href="/design-develop/media/sign-languages/">Sign Languages</a></strong> &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For most people who are Deaf, sign language is their native language, and some do not understand written language well. (Sign language is not required to meet most minimum accessibility standards.)</p>
 
-<img src="{{ "/content-images/wai-media-guide/player.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
+<img src="{{ "/content-images/wai-media-guide/player.png" | relative_url }}" alt="" style="float: right; margin-left: 1rem; width: 11%; max-width: 77px">
 
-<p style="margin-left:123px"><strong><a href="/design-develop/media/player/">Media Player</a></strong> &mdash; Media players have different levels of accessibility support. For example, some provide a separate audio track for description and some use the caption file to provide an <em>interactive transcript</em>.</p>
+<p><strong><a href="/design-develop/media/player/">Media Players</a></strong> have different levels of accessibility support. For example, some provide a separate audio track for description and some use the caption file to provide an <em>interactive transcript</em>.</p>
 
 ## Example
 
