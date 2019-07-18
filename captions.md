@@ -61,13 +61,13 @@ Most are "closed captions" that can be hidden or shown by people watching the vi
 
 ### Captions and Subtitles
 
-Captions are called "intralingual subtitles" in some areas. This resource uses the term "captions" throughout.
+The terms "captions" and "subtitles" are used for the same thing in different regions of the world. This resource uses:
+* _Captions_ for the same language.
+* _Subtitles_ for spoken audio translated into another language.
 
-Spoken audio **translated into another language** is called:
-* _subtitles_ in areas that use "caption" terminology
-* _interlingual subtitles_ in areas that use "intralingual subtitles" terminology
+Some regions use _subtitles_ for both the same language as the audio and for the translation. Sometimes they are distinguished as _intralingual subtitles_ and _intralingual subtitles_.
 
-_Subtitles_ are implemented like captions. Subtitles/intralingual subtitles are usually only the spoken audio (for people who can hear the audio but do not know the spoken language). They can be a translation of the caption content, including non-speech audio information.
+Subtitles are implemented the same way as captions. Subtitles/intralingual subtitles are usually only the spoken audio (for people who can hear the audio but do not know the spoken language). They can be a translation of the caption content, including non-speech audio information.
 
 ### Live Captions
 
@@ -230,9 +230,7 @@ Most caption-editing tools provide can export a plain text transcript.
 
 For specific guidance on what to type up, see another page in this resource: [Transcribing Audio to Text]( /design-develop/media/transcribing/).
 
-## Other Options
+## Styling Captions
 {:.no_toc}
-
-Options for caption types include pop-on, roll-up, paint-on. Pop-on is used for most web videos.
 
 There are options for authors to style captions. Support in browsers and other media players for styling captions is inconsistent and sometimes unreliable. Most web videos just use the player's default presentation style, which is usually white characters in a black box.
