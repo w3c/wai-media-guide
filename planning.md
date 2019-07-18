@@ -133,6 +133,10 @@ _@@ fake duplicate just for comparison of image treatment:_
 -   [Sign language(s)](/design-develop/media/sign-languages/) (AAA)
 {:.checkbox}
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 ### <img src="{{ "/content-images/wai-media-guide/video.png" | relative_url }}" alt="" style="height:1.1em"> Video Checklist
 
 {% capture boxhead %}
