@@ -27,9 +27,6 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 
 ---
 
-
-<img src="{{ "/content-images/wai-media-guide/av-content.png" | relative_url }}" alt="" style="float: left; width: 27%; max-width: 173px">
-
 {::nomarkdown}
 <div style="margin-left:184px">
 {% include box.html type="start" title="Summary" class="" %}
