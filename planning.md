@@ -30,7 +30,6 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 ---
 
 {::nomarkdown}
-<div style="margin-left:184px">
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
@@ -40,7 +39,6 @@ This page helps you plan accessible media. It:
 * shows the Web Content Accessibility Guidelines ([WCAG](/standards-guidelines/wcag/)) standards for audio and video media
 
 {::nomarkdown}
-</div>
 {% include box.html type="end" %}
 {:/}
 
