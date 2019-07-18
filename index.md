@@ -120,8 +120,8 @@ For example, transcripts can be:
 * Used offline, printed, or converted to Braille.
 
 And captions can be:
-* Used in loud environments where users cannot hear the audio. For example, a bar, an airport, and [@@ another good example].
-* Used in quiet environments where users cannot turn on sound. For example, a library, when others are sleeping, and [@@ another good example].
+* Used in loud environments where users cannot hear the audio. For example, a bar, an airport, or a concert.
+* Used in quiet environments where users cannot turn on sound. For example, in a library, on public transporation, or when others are sleeping.
 * Used by people who cannot understand the spoken language well and can understand the written language better. For example, people who are not native speakers of the language.
 * Used by people to help them learn to read. For example, children, adults, and people learning a new language.
 * Used to better understand content since users can hear the information in audio and see it in text at the same time. For example, {@@some data like [this](https://www.3playmedia.com/2019/02/21/8-benefits-of-transcribing-captioning-videos/)}.
