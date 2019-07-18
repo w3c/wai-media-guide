@@ -123,7 +123,7 @@ In a some cases, transcripts are not required to meet minimum ([WCAG standards](
 ### Provide a Descriptive Transcript for Your Videos
 {:.no_toc}
 
-We strongly recommend that you provide descriptive transcripts, even though they are not required to meet most minimum accessibility standards. Descriptive transcripts are needed by people who are Deaf-blind and others. (A bit more justification is in the Planning page: [Descriptive Transcripts](/design-develop/media/planning/#descriptive-transcripts).) And **descriptive transcripts are easy and inexpensive to make** using captions and audio description that you already have to meet Level AA, as explained on this page.
+Descriptive transcripts are needed by people who are Deaf-blind and others. (A bit more justification is in the Planning page: [Descriptive Transcripts](/design-develop/media/planning/#descriptive-transcripts).) And **descriptive transcripts are easy and inexpensive to make** using captions and audio description that you already have to meet Level AA, as explained on this page.
 
 ## Process - Skills and Tools
 
