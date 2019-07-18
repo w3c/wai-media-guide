@@ -2,7 +2,6 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
 title_html: "Planning Accessible Audio and Video Media"
-title_icon: /content-images/wai-media-guide/planning.png
 
 title: "Planning Accessible Audio and Video Media"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Planning" # A short title that is used in the navigation
@@ -29,8 +28,6 @@ navigation:
 footer: >   # Translate all the words below, including "Date:" and "Editor:". 
 
 ---
-
-<img src="{{ "/content-images/wai-media-guide/planning.png" | relative_url }}" alt="" style="float: left; width: 27%; max-width: 173px">
 
 {::nomarkdown}
 <div style="margin-left:184px">
