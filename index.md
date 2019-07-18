@@ -107,9 +107,10 @@ Organizations that make their audio and video accessible can realize benefits su
 * Better indexing by search engines.
 * Better user experience for all and improved customer satisfaction.
 * Increased use in the situations described below.
+
 A separate business case resource includes **case study data from adding transcripts**, and more on how accessibility can [increase your market reach](https://www.w3.org/WAI/business-case/#increase-market-reach).
 
-### Benefits to People With and Without Disabilities
+### Use by People With and Without Disabilities
 
 Accessible video and audio is **essential for people with disabilities**, and is **useful for everyone** in a variety of situations.
 
