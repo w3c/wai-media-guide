@@ -103,13 +103,20 @@ An example accessible video is on the [Colors with Good Contrast page](https://w
 
 ## Additional Benefits
 
+Organizations that make their audio and video accessible can realize benefits such as:
+* Better indexing by search engines.
+* Better user experience for all and improved customer satisfaction.
+* Increased use in the situations described below.
+A separate business case resource includes **case study data from adding transcripts**, and more on how accessibility can [increase your market reach](https://www.w3.org/WAI/business-case/#increase-market-reach).
+
+### Benefits to People With and Without Disabilities
+
 Accessible video and audio is **essential for people with disabilities**, and is **useful for everyone** in a variety of situations.
 
 For example, transcripts can be:
 * Skimmed or read rather than watched or listened to. This is significantly easier and quicker for many users. Sometimes people want to skim the transcript first before deciding whether or not to play the media.
 * Used without needing to download video files. For example, to save data on mobile.
 * Used offline, printed, or converted to Braille.
-* Better indexed by search engines.
 
 And captions can be:
 * Used in loud environments where users cannot hear the audio. For example, a bar, an airport, and [@@ another good example].
@@ -118,4 +125,4 @@ And captions can be:
 * Used by people to help them learn to read. For example, children, adults, and people learning a new language.
 * Used to better understand content since users can hear the information in audio and see it in text at the same time. For example, {@@some data like [this](https://www.3playmedia.com/2019/02/21/8-benefits-of-transcribing-captioning-videos/)}.
 
-Some benefits of captions are illustrated in a 1-minute <a href="https://www.w3.org/WAI/perspective-videos/captions/">Video on Captions <img src="{{ "/content-images/wai-media-guide/captions-video-still.jpg" | relative_url }}" alt="" style="align: center; margin-left: 2rem; clear:right; width: 30%; max-width: 220px"></a>
+Some benefits of captions are illustrated on a separate page in a 1-minute <a href="https://www.w3.org/WAI/perspective-videos/captions/">Video on Captions <img src="{{ "/content-images/wai-media-guide/captions-video-still.jpg" | relative_url }}" alt="" style="align: center; margin-left: 2rem; clear:right; width: 30%; max-width: 220px"></a>
