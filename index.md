@@ -94,7 +94,7 @@ Specific guidance for other aspects of making your media accessible is in the pa
 
 ## Example
 
-An example accessible video is on the [Video Captions page](https://www.w3.org/WAI/perspective-videos/captions/). That page provides:
+An example accessible video is on the [Colors with Good Contrast page](https://www.w3.org/WAI/perspective-videos/contrast/). That page provides:
 * video and audio content with accessibility considerations, such as low background audio
 * an audio described version of the video
 * captions
