@@ -95,7 +95,7 @@ Specific guidance for other aspects of making your media accessible is in the pa
 
 ## Example
 
-An example accessible video is [Video Captions](/perspective-videos/captions/). That page provides:
+An example accessible video is on the [Video Captions page](https://www.w3.org/WAI/perspective-videos/captions/). That page provides:
 * video and audio content with accessibility considerations, such as low background audio
 * an audio described version of the video
 * captions
@@ -119,4 +119,4 @@ And captions can be:
 * Used by people to help them learn to read. For example, children, adults, and people learning a new language.
 * Used to better understand content since users can hear the information in audio and see it in text at the same time. For example, {@@some data like [this](https://www.3playmedia.com/2019/02/21/8-benefits-of-transcribing-captioning-videos/)}.
 
-Some benefits of captions are illustrated in this 1-minute <a href="https://www.w3.org/WAI/perspective-videos/captions/">Video on  Captions <img src="{{ "/content-images/wai-media-guide/captions-video-still.jpg" | relative_url }}" alt="" style="align: center; margin-left: 2rem; clear:right; width: 30%; max-width: 220px"></a>
+Some benefits of captions are illustrated in this 1-minute <a href="c">Video on  Captions <img src="{{ "/content-images/wai-media-guide/captions-video-still.jpg" | relative_url }}" alt="" style="align: center; margin-left: 2rem; clear:right; width: 30%; max-width: 220px"></a>
