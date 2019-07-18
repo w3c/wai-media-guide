@@ -51,7 +51,7 @@ This resource helps you make your audio and video media:
 {% include toc.html type="end" %}
 {:/}
 
-## Understanding User Experiences
+## Understanding User Needs
 
 It's easy to understand that a person who is Deaf can't hear the audio, so you need to provide important audio information in another form. Here are some other considerations to help you understand the user experience behind making audio and video accessible. _(Descriptions of each aspect is below on this page.)_
 * Many people who are **Deaf** can read text well, and use _transcripts_ or _captions_. Some cannot, and prefer _sign language_.
