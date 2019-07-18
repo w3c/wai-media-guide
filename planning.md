@@ -258,7 +258,7 @@ Here is an example workflow for developing an accessible video, with notes on wh
 {:/}
 
 To help you plan in-house and outsourced work, the sub-pages of this resource include **considerations, skills, and tools needed** for creating accessible media in these sections:
-* [Audio Description Considerations](/design-develop/media/description/#audio-description-considerations)
+* [Audio Description Considerations, Skills, and Tools](/design-develop/media/description/#audio-description-considerations-skills-and-tools)
 * [Captions, Skills and Tools](/design-develop/media/captions/#skills-and-tools) and [Automatic Captions are Not Sufficient](/design-develop/media/captions/#automatic-captions-are-not-sufficient)
 * [Transcripts, Process - Skills and Tools](/design-develop/media/transcripts/#process---skills-and-tools)
 * [Media Players, Skills and Tools](/design-develop/media/player/#skills-and-tools)
