@@ -181,4 +181,4 @@ An example of this is the [Web Accessibility Perspectives: Video Captions](https
 
 #### More about audio description
 
-See more information in [Audio Description of Visual Information](/design-develop/media/description/).
+More information is in the next page of this resource: [Audio Description of Visual Information](/design-develop/media/description/).
