@@ -75,13 +75,12 @@ The checklists below:
 
 The links go to a page with details on understanding and implementing each thing.
 
-### Audio-only Checklist
+### <img src="{{ "/content-images/wai-media-guide/audio.png" | relative_url }}" alt="" style="height:1.1em">  Audio-only Checklist
 
 This section covers things like podcasts that don't have video.
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height: height:1.1em"> Pre-Recorded
-<img src="{{ "/content-images/wai-media-guide/audio.png" | relative_url }}" alt="" style="height:1.1em"> Audio
+<img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height: height:1.1em"> Pre-Recorded Audio
 {% endcapture %}
 
 {::nomarkdown}
@@ -99,8 +98,7 @@ This section covers things like podcasts that don't have video.
 {:/}
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/live.png" | relative_url }}" alt="" style="height: height:1.1em"> Live
-<img src="{{ "/content-images/wai-media-guide/audio.png" | relative_url }}" alt="" style="height:1.1em"> Audio
+<img src="{{ "/content-images/wai-media-guide/live.png" | relative_url }}" alt="" style="height: height:1.1em"> Live Audio
 {% endcapture %}
 
 {::nomarkdown}
@@ -117,27 +115,7 @@ This section covers things like podcasts that don't have video.
 {% include box.html type="end" %}
 {:/}
 
-_@@ fake duplicate just for comparison of image treatment:_
-
-{% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height: height:1.1em"> <img src="{{ "/content-images/wai-media-guide/audio.png" | relative_url }}" alt="" style="height:1.1em"> Pre-Recorded Audio
-{% endcapture %}
-
-{::nomarkdown}
-{% include box.html type="start" title=boxhead class="highlighted" id="tree-ap" %}
-{:/}
-
--   **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** that is accessible; for example, what is said and how it's recorded
--   **[Transcript](/design-develop/media/transcripts/) (A)** separate from the audio
--   [Captions](/design-develop/media/captions/) synched with the audio
--   [Sign language(s)](/design-develop/media/sign-languages/) (AAA)
-{:.checkbox}
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-### <img src="{{ "/content-images/wai-media-guide/video.png" | relative_url }}" alt="" style="height:1.1em"> Video Checklist
+### <img src="{{ "/content-images/wai-media-guide/video.png" | relative_url }}" alt="" style="height:1.1em">  Video Checklist
 
 {% capture boxhead %}
 <img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height: height:1.1em"> Pre-Recorded Video
