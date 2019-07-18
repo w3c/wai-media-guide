@@ -186,8 +186,7 @@ Depending on your video situation, do one of the options below &mdash; as determ
 
 The process to develop a video with integrated description is basically:
 1. When writing the script, make sure all relevant visual information is included. See [Tips for Writing Descriptions below](#writing) and examples in Accessible Audio and Video Content, [Integrate descriptionsection](/design-develop/media/av-content/#integrate-description))
-
-Before finalizing the video, check to confirm that all relevant visual information is covered in the audio.
+2. Before finalizing the video, check to confirm that all relevant visual information is covered in the audio.
 
 ### Creating a Separate Described Video - If Descriptions Fit in Spaces
 
