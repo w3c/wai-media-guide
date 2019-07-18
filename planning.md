@@ -36,7 +36,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 This page helps you plan accessible media. It:
 * helps you **figure out what your specific audio or video needs** (captions, audio description, a transcript, etc.)
 * helps with project management and planning what to develop in-house and what to outsource
-* shows the Web Content Accessibility Guidelines ([WCAG](/standards-guidelines/wcag/)) standards for audio and video media
+* shows the **standards** for audio and video media in Web Content Accessibility Guidelines ([WCAG](/standards-guidelines/wcag/)) 
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -65,22 +65,22 @@ What accessibility features you provide with your media will likely be influence
 * budget and time constraints
 * user needs
 
-This resource endeavors to help you know the minimum requirements and encourages you to meet all user needs.
+This resource endeavors to help you know the requirements and encourages you to meet all user needs.
 
 ## Checklists
 
-The checklists below:
-* include all that is needed to meet user needs (including what goes beyond minimum accessibility standards and policies)
-* indicate what is required in Web Content Accessibility Guidelines (WCAG) at Level A, AA, and AAA. _(For an explanation of all that, jump down to the [Standards section of this page](#standards).)_
+The four checklists below cover audio-only content and video content, and pre-recorded and live. They include:
+* what is needed to meet user needs
+* what is required in Web Content Accessibility Guidelines (WCAG) at Level A, AA, and AAA. _(For an explanation of all that, jump down to the [Standards section of this page](#standards).)_
 
-The links go to a page with details on understanding and implementing each thing.
+The links go to a web page in this resource with details on understanding and implementing each thing.
 
-### <img src="{{ "/content-images/wai-media-guide/audio.png" | relative_url }}" alt="" style="height:1.1em">  Audio-only Checklist
+### <img src="{{ "/content-images/wai-media-guide/audio.png" | relative_url }}" alt="" style="height:1.1em">  Audio-only Checklists
 
-This section covers things like podcasts that don't have video.
+This section covers audio-only media, like podcasts that don't have video.
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height: height:1.1em"> Pre-Recorded Audio
+<img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height: height:1.1em"> Pre-Recorded Audio-only
 {% endcapture %}
 
 {::nomarkdown}
@@ -89,8 +89,8 @@ This section covers things like podcasts that don't have video.
 
 -   **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** that is accessible; for example, what is said and how it's recorded
 -   **[Transcript](/design-develop/media/transcripts/) (A)** separate from the audio
--   [Captions](/design-develop/media/captions/) synched with the audio
--   [Sign language(s)](/design-develop/media/sign-languages/) (AAA)
+-   **[Captions](/design-develop/media/captions/)** synched with the audio
+-   **[Sign language(s)](/design-develop/media/sign-languages/) (AAA)**
 {:.checkbox}
 
 {::nomarkdown}
@@ -98,7 +98,7 @@ This section covers things like podcasts that don't have video.
 {:/}
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/live.png" | relative_url }}" alt="" style="height: height:1.1em"> Live Audio
+<img src="{{ "/content-images/wai-media-guide/live.png" | relative_url }}" alt="" style="height: height:1.1em"> Live Audio-only
 {% endcapture %}
 
 {::nomarkdown}
@@ -107,15 +107,15 @@ This section covers things like podcasts that don't have video.
 
 -   **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** that is accessible; for example, what is said and how it's recorded
 -   **[Captions](/design-develop/media/captions/) (AA)**
--   [Transcript](/design-develop/media/transcripts/) (AAA)
--   [Sign language(s)](/design-develop/media/sign-languages/)
+-   **[Transcript](/design-develop/media/transcripts/) (AAA)**
+-   **[Sign language(s)](/design-develop/media/sign-languages/)**
 {:.checkbox}
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-### <img src="{{ "/content-images/wai-media-guide/video.png" | relative_url }}" alt="" style="height:1.1em">  Video Checklist
+### <img src="{{ "/content-images/wai-media-guide/video.png" | relative_url }}" alt="" style="height:1.1em">  Video Checklists
 
 {% capture boxhead %}
 <img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height: height:1.1em"> Pre-Recorded Video
@@ -131,8 +131,8 @@ content?
 -   If yes,
     -   **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** that is accessible; for example, what is said and how it's recorded
     -   **[Captions](/design-develop/media/captions/)** **(AA)**
-    -   [Transcript of audio information](/design-develop/media/transcripts/) (AAA) *(The same text from the captions file, in a different format.)*
-    -   [Sign language(s)](/design-develop/media/sign-languages/) (AAA)
+    -   **[Transcript of audio information](/design-develop/media/transcripts/) (AAA)** *(The same text from the captions file, in a different format.)*
+    -   **[Sign language(s)](/design-develop/media/sign-languages/) (AAA)**
     {:.checkbox}
 -   If no, [inform users](#none).
 
@@ -192,13 +192,15 @@ supports accessibility.
 ### Inform Users When Not Needed {#none}
 {:.no_toc}
 
-<p>If your video does not need captions (because there is no substantive audio content) or does not need audio description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it. For example:</p>
+If your video does not need captions (because there is no substantive audio content) or does not need audio description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it.
+
+Users who need captions will look there, so you can provide a captions file with only the appropriate indication, such as "[background music]". Or you can provide the information in text with the video, such as:
 
 {::nomarkdown}
 {% include box.html type="start" class="" %}
 {:/}
 
-Captions not needed: The only sound with this video is background music. There is no speaking.
+Captions not needed: The only sound in this video is background music.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -208,7 +210,7 @@ Captions not needed: The only sound with this video is background music. There i
 {% include box.html type="start" class="" %}
 {:/}
 
-Audio description not needed: This video does not include audio description because the visuals only support what is spoken; the visuals do not provide additional information.
+Audio description not needed: This visuals in this video only support what is spoken; the visuals do not provide additional information.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -363,7 +365,7 @@ Accessibility requirements for video and audio are different based on if they ar
 ### More about Standards
 {:.no_toc}
 
-To learn more about WCAG standards for media, see [Understanding Guideline 1.2: Time-based Media](https://www.w3.org/WAI/WCAG21/Understanding/time-based-media).
+To learn more about WCAG requirements for media, see [Understanding Guideline 1.2: Time-based Media](https://www.w3.org/WAI/WCAG21/Understanding/time-based-media).
 
 Other WCAG requirements related to audio and video include:
 * Requirements for content covered in this resource: [Accessible Audio and Video Content](/design-develop/media/av-content/)
@@ -374,7 +376,7 @@ Your audio and video may be subject to additional requirements, for example unde
 
 ### Descriptive Transcripts
 
-<p>Although WCAG Level AA does not require descriptive transcripts for videos, we recommend them because they:</p>
+<p>Descriptive transcripts for videos:</p>
 <ul>
   <li>are needed for most videos to be accessible to people who are &quot;Deaf-blind&quot;</li>
   <li>meet a wide range of accessibility needs, including for people who have difficulty processing auditory information and people who cannot focus and comprehend auditory or visual information when there is changing visuals</li>
