@@ -63,7 +63,7 @@ There are some efforts to provide automatic sign language from text; however, av
 
 ## Standards Requirements
 
-Most minimum accessibility standards do not require sign language; some do.
+Most minimum accessibility standards do not require sign language. It may be required by some policies and contracts.
 
 Sign language is in the [WCAG standard](https://wai-media-guide.netlify.com/design-develop/media/planning/#standards) at Level AAA.
 
