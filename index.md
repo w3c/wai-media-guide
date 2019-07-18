@@ -27,6 +27,29 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 
 ---
 
+{::nomarkdown}
+{% include box.html type="start" title="Summary" class="" %}
+{:/}
+
+This multi-page resource helps you make audio and video media accessible to people with disabilities.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
+{% include toc.html type="start" title="Page Contents" %}
+{:/}
+
+- This will be replaced by an automatically generated TOC when using Markdown formatting.
+{::options toc_levels="2" /}
+{:toc}
+
+{::nomarkdown}
+{% include toc.html type="end" %}
+{:/}
+
+
 ## Understanding User Needs
 
 It's easy to understand that a person who is Deaf can't hear the audio, so you need to provide important audio information in another form. Here are some other considerations to help you understand the user experience behind making audio and video accessible. _(Descriptions of each aspect is below on this page.)_
