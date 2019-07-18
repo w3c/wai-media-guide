@@ -75,6 +75,8 @@ The four checklists below cover audio-only content and video content, and pre-re
 
 The links go to a web page in this resource with details on understanding and implementing each thing.
 
+![]({{ "/assets/images/checkbox.svg" | relative_url }}) The **[Media player](/design-develop/media/player) (A)** needs to support accessibility.
+
 ### <img src="{{ "/content-images/wai-media-guide/audio.png" | relative_url }}" alt="" style="height:1.1em">  Audio-only Checklists
 
 This section covers audio-only media, like podcasts that don't have video.
@@ -116,9 +118,6 @@ This section covers audio-only media, like podcasts that don't have video.
 {:/}
 
 ### <img src="{{ "/content-images/wai-media-guide/video.png" | relative_url }}" alt="" style="height:1.1em">  Video Checklists
-
-![]({{ "/assets/images/checkbox.svg" | relative_url }}) **[Media player](/design-develop/media/player) (A)** that
-supports accessibility is needed for all videos.
 
 {% capture boxhead %}
 <img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height: height:1.1em"> Pre-Recorded Video
