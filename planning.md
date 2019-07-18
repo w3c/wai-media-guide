@@ -117,6 +117,9 @@ This section covers audio-only media, like podcasts that don't have video.
 
 ### <img src="{{ "/content-images/wai-media-guide/video.png" | relative_url }}" alt="" style="height:1.1em">  Video Checklists
 
+![]({{ "/assets/images/checkbox.svg" | relative_url }}) **[Media player](/design-develop/media/player) (A)** that
+supports accessibility is needed for all videos.
+
 {% capture boxhead %}
 <img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height: height:1.1em"> Pre-Recorded Video
 {% endcapture %}
@@ -145,9 +148,6 @@ content?
     -   **[Descriptive transcript](/design-develop/media/transcripts) (AAA)** *(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)*
     {:.checkbox}
 -   If no, [inform users](#none).
-
-![]({{ "/assets/images/checkbox.svg" | relative_url }}) **[Media player](/design-develop/media/player) (A)** that
-supports accessibility.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -181,13 +181,10 @@ content?
     {:.checkbox}
 -   If no, [inform users](#none).
 
-![]({{ "/assets/images/checkbox.svg" | relative_url }}) **[Media player](/design-develop/media/player) (A)** that
-supports accessibility.
-
-
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+
 
 ### Inform Users When Not Needed {#none}
 {:.no_toc}
