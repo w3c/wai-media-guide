@@ -28,7 +28,6 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 ---
 
 {::nomarkdown}
-<div style="margin-left:184px">
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
@@ -36,7 +35,6 @@ This page addresses accessibility considerations for planning and producing vide
 
 {::nomarkdown}
 {% include box.html type="end" %}
-</div>
 {:/}
 
 {::options toc_levels="2,3" /}
