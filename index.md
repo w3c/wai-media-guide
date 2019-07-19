@@ -52,7 +52,7 @@ This multi-page resource helps you make audio and video media accessible to peop
 
 ## First, Understand User Needs
 
-Before we launch into details and descriptions, it's useful to understand the user experiences of people with disabilities. Then you'll know the "why" behind the media accessibility requirements in this resource. For example, a person who is Deaf can't hear the audio, so you need to provide important audio information in another form.
+Before we get into details and descriptions, it's useful to understand the user experiences of people with disabilities. Then you'll know the "why" behind the media accessibility requirements in this resource. For example, a person who is Deaf can't hear the audio, so you need to provide important audio information in another form.
 
 * Many people who are **Deaf** can read text well. They get the audio information from **transcripts** or **captions**. Some cannot, and prefer **sign language**.
 * Many people who are **hard of hearing** like to listen to the audio to hear what they can, and have **captions** to fill in what they can't hear adequately.
