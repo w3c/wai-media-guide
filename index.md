@@ -57,9 +57,9 @@ Before we launch into details and descriptions, it's useful to understand the us
 * Many people who are **Deaf** can read text well. They get the audio information from **transcripts** or **captions**. Some cannot, and prefer **sign language**.
 * Many people who are **hard of hearing** like to listen to the audio to hear what they can, and have **captions** to fill in what they can't hear adequately.
 * Some people who have **difficulty processing auditory information** also use **captions**. Many use **transcripts** so they can read at their own pace.
-* People who are **blind** can't see videos. They get important visuals from **audio description of visual information**, usually separate from the main video.
+* People who are **blind** can't see videos. They use **audio description of visual information** to understand what's going on visually.
 * People who are **Deaf-blind** use a screen reader and Braille to read **descriptive transcripts** that include the audio and visual information as text.
-* Some people **cannot focus and comprehend auditory or visual information** when there is changing visuals. For most videos, they also need **descriptive transcripts**.
+* Some people **cannot focus and comprehend auditory or visual information** when there are changing visuals. For most videos, they also need **descriptive transcripts**.
 
 ## How to Make Audio and Video Accessible
 
