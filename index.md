@@ -104,7 +104,7 @@ That page provides:
 * a descriptive transcript
 * a media player with accessibility support, including an interactive transcript
 
-## Additional Benefits
+## Benefits to Organzations and Individuals
 
 Organizations that make their audio and video accessible can realize benefits such as:
 * Better indexing by search engines.
@@ -131,3 +131,5 @@ And captions can be:
 * Used by people who cannot understand the spoken language well and can understand the written language better. For example, people who are not native speakers of the language.
 * Used by people to help them learn to read. For example, children, adults, and people learning a new language.
 * Used to better understand content since users can hear the information in audio and see it in text at the same time. For example, {@@some data like [this](https://www.3playmedia.com/2019/02/21/8-benefits-of-transcribing-captioning-videos/)}.
+
+This resource helps make your media usable in all those situations, by people with and without disabilities. The next page gets you started **[Planning Accessible Audio and Video Media](/design-develop/media/planning/)**.
