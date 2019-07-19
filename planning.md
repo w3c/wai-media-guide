@@ -231,6 +231,17 @@ For audio-only, captions enable people who are hard of hearing to get the richne
 
 Transcripts are needed to provide access to people who are Deaf-blind and use braille. Also, transcripts have several [additional benefits](/design-develop/media/#additional-benefits) to all users.
 
+### Descriptive Transcripts
+{:.no_toc}
+
+<p>Descriptive transcripts for videos:</p>
+<ul>
+  <li>are needed for most videos to be accessible to people who are &quot;Deaf-blind&quot;</li>
+  <li>meet a wide range of accessibility needs, including for people who have difficulty processing auditory information and people who cannot focus and comprehend auditory or visual information when there is changing visuals</li>
+  <li>provide <a href="/design-develop/media/#additional-benefits">additional benefits</a> for users <em>without</em> disabilities, and for your organization (for example, <abbr title="search engine optimization"> SEO</abbr>)</li>
+  <li><strong>are easy and inexpensive to develop</strong> using captions and audio description that you already have to meet Level AA</li>
+</ul>
+
 **Captions and transcripts use the same text. Once you have one, it's fairly easy to develop the other.**
 
 ## Project Management
@@ -377,13 +388,3 @@ Other WCAG requirements related to audio and video include:
 * [1.4.2 Audio Control](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-dis-audio.html) (Level A) If any audio on a Web page plays automatically for more than 3 seconds, either a mechanism is available to pause or stop the audio, or a mechanism is available to control audio volume...
 
 Your audio and video may be subject to additional requirements, for example under governmental regulations. Some of these are listed in [Web Accessibility Laws & Policies](https://www.w3.org/WAI/policies/). 
-
-### Descriptive Transcripts
-
-<p>Descriptive transcripts for videos:</p>
-<ul>
-  <li>are needed for most videos to be accessible to people who are &quot;Deaf-blind&quot;</li>
-  <li>meet a wide range of accessibility needs, including for people who have difficulty processing auditory information and people who cannot focus and comprehend auditory or visual information when there is changing visuals</li>
-  <li>provide <a href="/design-develop/media/#additional-benefits">additional benefits</a> for users <em>without</em> disabilities, and for your organization (for example, <abbr title="search engine optimization"> SEO</abbr>)</li>
-  <li><strong>are easy and inexpensive to develop</strong> using captions and audio description that you already have to meet Level AA</li>
-</ul>
