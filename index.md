@@ -50,21 +50,22 @@ This multi-page resource helps you make audio and video media accessible to peop
 {:/}
 
 
-## Understanding User Needs
+## First, Understand User Needs
 
-Before we launch into details and descriptions, here is some context for understanding the user experiences of people with disabilities:
-* Many people who are **Deaf** can read text well, and use **transcripts** or **captions**. Some cannot, and prefer **sign language**.
+Before we launch into details and descriptions, it's useful to understand the user experiences of people with disabilities. Then you'll know the "why" behind the media accessibility requirements in this resource. For example, a person who is Deaf can't hear the audio, so you need to provide important audio information in another form.
+
+* Many people who are **Deaf** can read text well. They get the audio information from **transcripts** or **captions**. Some cannot, and prefer **sign language**.
 * Many people who are **hard of hearing** like to listen to the audio to hear what they can, and have **captions** to fill in what they can't hear adequately.
-* Some people who have **difficulty processing auditory information** also use **captions**. Many need **transcripts** so they can read at their own pace.
-* People who are **blind** need to know the relevant visual information in a video.  That can be provided separate from the main video as **audio description of visual information**.
-* People who are **Deaf-blind** need the audio information and the visual information in text so they can read it with Braille. They need **descriptive transcripts**.
+* Some people who have **difficulty processing auditory information** also use **captions**. Many use **transcripts** so they can read at their own pace.
+* People who are **blind** can't see videos. They get important visuals from **audio description of visual information**, usually separate from the main video.
+* People who are **Deaf-blind** use a screen reader and Braille to read **descriptive transcripts** that include the audio and visual information as text.
 * Some people **cannot focus and comprehend auditory or visual information** when there is changing visuals. For most videos, they also need **descriptive transcripts**.
 
 ## How to Make Audio and Video Accessible
 
 <img src="{{ "/content-images/wai-media-guide/planning.png" | relative_url }}" alt="" style="float: right; margin-left: 1rem; width: 11%; max-width: 77px">
 
-This resource walks through understanding accessible media, whether you are outsourcing it or creating it in-house. To **figure out what your specific audio or video needs** and to learn about **standards**, see **[Planning Accessible Audio and Video Media](/design-develop/media/planning/)**.
+This resource walks through understanding what is needed to make media accessible, whether you are outsourcing it or creating it in-house. To **figure out what your specific audio or video needs**, for project management guidance, and to learn about **standards**, see **[Planning Accessible Audio and Video Media](/design-develop/media/planning/)**.
 
 <img src="{{ "/content-images/wai-media-guide/av-content.png" | relative_url }}" alt="" style="float: right; margin-left: 1rem; width: 11%; max-width: 77px">
 
