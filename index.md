@@ -72,7 +72,7 @@ When you are creating **new** audio or video, there are several things to consid
 
 <img src="{{ "/content-images/wai-media-guide/player.png" | relative_url }}" alt="" style="float: right; margin-left: 1rem; width: 11%; max-width: 77px">
 
-Most default browser media players have limited functionality to support accessibility. Some third-party players are designed specifically for accessibility. Learn more from the **[Media Players page](/design-develop/media/player/)**.
+Most default browser media players have limited functionality to support accessibility. Some third-party players are designed specifically for accessibility. Learn more from **[Media Players](/design-develop/media/player/)**.
 
 Specific guidance for other aspects of making your media accessible is in the pages linked below. Some media needs all of these, and others need only a transcript.
 
@@ -82,15 +82,15 @@ Specific guidance for other aspects of making your media accessible is in the pa
 
 <img src="{{ "/content-images/wai-media-guide/CC.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
-<p style="margin-left:123px"><strong><a href="/design-develop/media/captions/">Captions/Subtitles</a></strong> &mdash; Captions (also called "intralingual subtitles") provide content to people who are Deaf and others who cannot hear the audio. Captions are a text version of the speech and non-speech audio information needed to understand the content. <em>Subtitles</em> are the spoken audio translated into another language. Captions and subtitles are synchronized with the audio and usually shown in a media player.</p>
+<p style="margin-left:123px"><strong><a href="/design-develop/media/captions/">Captions/Subtitles</a></strong> &mdash; Captions (also called "subtitles") provide content to people who are Deaf and others who cannot hear the audio. Captions are a text version of the speech and non-speech audio information needed to understand the content. They are synchronized with the audio and usually shown in a media player.</p>
 
 <img src="{{ "/content-images/wai-media-guide/transcript.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
-<p style="margin-left:123px"><strong><a href="/design-develop/media/transcripts/">Transcripts</a></strong> &mdash; Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. <em>Descriptive transcripts</em> also include description of the visual information needed to understand the content. Descriptive transcripts are required to provide content to people who are both Deaf and blind. Transcripts are separate from a media player.</p>
+<p style="margin-left:123px"><strong><a href="/design-develop/media/transcripts/">Transcripts</a></strong> &mdash; Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. <em>Descriptive transcripts</em> also include description of the visual information needed to understand the content. Descriptive transcripts are required to provide video content to people who are both Deaf and blind.</p>
 
 <img src="{{ "/content-images/wai-media-guide/sign.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
-<p style="margin-left:123px"><strong><a href="/design-develop/media/sign-languages/">Sign Languages</a></strong> &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For most people who are Deaf, sign language is their native language, and some do not understand written language well. (Sign language is not required to meet most minimum accessibility standards.)</p>
+<p style="margin-left:123px"><strong><a href="/design-develop/media/sign-languages/">Sign Languages</a></strong> &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For many people who are Deaf, sign language is their native language, and some do not understand written language well. (Sign language is not required by most policies.)</p>
 
 ## Example
 
