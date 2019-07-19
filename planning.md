@@ -69,13 +69,22 @@ This resource endeavors to help you know the requirements and encourages you to 
 
 ## Checklists
 
-The four checklists below cover audio-only content and video content, and pre-recorded and live. They include:
+The  checklists below cover audio-only content and video content, and pre-recorded and live. They include:
 * what is needed to meet user needs
 * what is required in Web Content Accessibility Guidelines (WCAG) at Level A, AA, and AAA. _(For an explanation of all that, jump down to the [Standards section of this page](#standards).)_
 
 The links go to a web page in this resource with details on understanding and implementing each thing.
 
+{::nomarkdown}
+{% include box.html type="start" title="All Audio and Video Media" class="highlighted" id="all-media" %}
+{:/}
+
 ![]({{ "/assets/images/checkbox.svg" | relative_url }}) The **[Media player](/design-develop/media/player) (A)** needs to support accessibility.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 
 ### <img src="{{ "/content-images/wai-media-guide/audio.png" | relative_url }}" alt="" style="height:1.1em">  Audio-only Checklists
 
@@ -86,7 +95,7 @@ This section covers audio-only media, like podcasts that don't have video.
 {% endcapture %}
 
 {::nomarkdown}
-{% include box.html type="start" title=boxhead class="highlighted" id="tree-ap" %}
+{% include box.html type="start" title=boxhead class="highlighted" id="checklist-ap" %}
 {:/}
 
 -   **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** that is accessible; for example, what is said and how it's recorded
@@ -104,7 +113,7 @@ This section covers audio-only media, like podcasts that don't have video.
 {% endcapture %}
 
 {::nomarkdown}
-{% include box.html type="start" title=boxhead class="highlighted" id="tree-la" %}
+{% include box.html type="start" title=boxhead class="highlighted" id="checklist-la" %}
 {:/}
 
 -   **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** that is accessible; for example, what is said and how it's recorded
@@ -124,7 +133,7 @@ This section covers audio-only media, like podcasts that don't have video.
 {% endcapture %}
 
 {::nomarkdown}
-{% include box.html type="start" title=boxhead class="highlighted" id="tree-vp" %}
+{% include box.html type="start" title=boxhead class="highlighted" id="checklist-vp" %}
 {:/}
 
 **Does the video have speech or other audio** that is needed to understand the
@@ -157,7 +166,7 @@ content?
 {% endcapture %}
 
 {::nomarkdown}
-{% include box.html type="start" title=boxhead class="highlighted" id="tree-lv" %}
+{% include box.html type="start" title=boxhead class="highlighted" id="checklist-lv" %}
 {:/}
 
 **Is there speech or other audio** that is needed to understand the
