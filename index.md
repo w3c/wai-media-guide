@@ -70,6 +70,10 @@ This resource walks through understanding accessible media, whether you are outs
 
 When you are creating **new** audio or video, there are several things to consider such as background noise and avoiding flashing that can cause seizures. These are explained in **[Audio and Video Content](/design-develop/media/av-content/)**.
 
+<img src="{{ "/content-images/wai-media-guide/player.png" | relative_url }}" alt="" style="float: right; margin-left: 1rem; width: 11%; max-width: 77px">
+
+**[Media Players](/design-develop/media/player/)** have different levels of accessibility support. For example, some provide a separate audio track for description and some use the caption file to provide an <em>interactive transcript</em>.
+
 Specific guidance for other aspects of making your media accessible is in the pages linked below. Some media needs all of these, and others need only a transcript.
 
 <img src="{{ "/content-images/wai-media-guide/AD.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
@@ -87,10 +91,6 @@ Specific guidance for other aspects of making your media accessible is in the pa
 <img src="{{ "/content-images/wai-media-guide/sign.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
 <p style="margin-left:123px"><strong><a href="/design-develop/media/sign-languages/">Sign Languages</a></strong> &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For most people who are Deaf, sign language is their native language, and some do not understand written language well. (Sign language is not required to meet most minimum accessibility standards.)</p>
-
-<img src="{{ "/content-images/wai-media-guide/player.png" | relative_url }}" alt="" style="float: right; margin-left: 1rem; width: 11%; max-width: 77px">
-
-<p><strong><a href="/design-develop/media/player/">Media Players</a></strong> have different levels of accessibility support. For example, some provide a separate audio track for description and some use the caption file to provide an <em>interactive transcript</em>.</p>
 
 ## Example
 
