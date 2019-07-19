@@ -74,7 +74,7 @@ When you are creating **new** audio or video, there are several things to consid
 
 Most default browser media players have limited functionality to support accessibility. Some third-party players are designed specifically for accessibility. Learn more from **[Media Players](/design-develop/media/player/)**.
 
-Specific guidance for other aspects of making your media accessible is in the pages linked below.
+Specific guidance for other aspects of making your media accessible are in the following pages:
 
 <img src="{{ "/content-images/wai-media-guide/AD.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
