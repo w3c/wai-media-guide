@@ -97,8 +97,6 @@ Say:
 
 ## Video
 
-<p><img src="{{ "/content-images/wai-media-guide/av-together.png" | relative_url }}" alt="" style="width: 27%; max-width: 173px"> <strong><em>Note:</em> The guidance above applies to the audio aspects of videos.</strong></p>
-
 ### Avoid causing seizures – _storyboarding, post-production_ (WCAG A)
 
 Avoid anything that flashes more than three times in any one second period. 
