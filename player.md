@@ -15,7 +15,7 @@ ref: /design-develop/media/player/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
-   path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
+   path: 'player.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 
 resource:
   ref: /design-develop/media/
@@ -86,4 +86,4 @@ More details on player accessibility functionalty are in a separate document: [M
 
 The following resources list accessibility support in several media players: [Media Player Accessibility Comparisons](https://docs.google.com/spreadsheets/d/1QJVcXx5hTWYBcJbHJD3DrL3hSFVbfy1VQFyADMtrDFY/edit?pli=1#gid=0) and [Web-Based Media Player Accessibility Comparison Table](http://kensgists.github.io/apt/).  (At the time of this writing, these resources had data from 2014 or 2016, and may be out of date.)
 
-Each media player provides documentation of the steps to set it up in a web page. For example [AblePlayer Setup Steps](setup-step-1-use-html5-doctype).
+Each media player provides documentation of the steps to set it up in a web page. For example [AblePlayer Setup Steps](https://ableplayer.github.io/ableplayer/#setup-step-1-use-html5-doctype).
