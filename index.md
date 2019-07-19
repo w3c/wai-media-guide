@@ -114,10 +114,7 @@ Organizations that make their audio and video accessible can realize benefits su
 Benefits to organizations are illustrated in separate pages:
 * The business case resource includes **case study data from adding transcripts**, and more on how accessibility can [increase your market reach](https://www.w3.org/WAI/business-case/#increase-market-reach).
 * Benefits of transcripts and captions to a university are mentioned in a **[user story/persona of an online student who is hard of hearing](@@)**.
-* Some benefits of captions are illustrated in a 1-minute <a href="https://www.w3.org/WAI/perspective-videos/captions/">Video on Captions <img src="{{ "/content-images/wai-media-guide/captions-video-still.jpg" | relative_url }}" alt="" style="align: center; margin-left: 2rem; clear:right; width: 30%; max-width: 220px"></a>
-
-{% include video-link.html class="small inline" title="Video on Captions" href="https://www.w3.org/WAI/perspective-videos/captions/" src="/content-images/wai-media-guide/captions-video-still.jpg" %}
-
+* Some benefits of captions are illustrated in a 1-minute {% include video-link.html class="small inline" title="Video on Captions" href="https://www.w3.org/WAI/perspective-videos/captions/" src="/content-images/wai-media-guide/captions-video-still.jpg" %}
 
 ### Use by People With and Without Disabilities
 
