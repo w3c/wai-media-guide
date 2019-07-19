@@ -52,11 +52,11 @@ This multi-page resource helps you make audio and video media accessible to peop
 
 ## Understanding User Needs
 
-It's easy to understand that a person who is Deaf can't hear the audio, so you need to provide important audio information in another form. Here are some other considerations to help you understand the user experience behind making audio and video accessible. (**Captions, transcripts, audio description, and sign language ** are described lower on this page.)
+Before we launch into details and descriptions, here is some context for understanding the user experiences of people with disabilities:
 * Many people who are **Deaf** can read text well, and use **transcripts** or **captions**. Some cannot, and prefer **sign language**.
 * Many people who are **hard of hearing** like to listen to the audio to hear what they can, and have **captions** to fill in what they can't hear adequately.
 * Some people who have **difficulty processing auditory information** also use **captions**. Many need **transcripts** so they can read at their own pace.
-* People who are **blind** need to know the relevant visual information in a video.  **Audio description of visual information** can be provided separate from the main video.
+* People who are **blind** need to know the relevant visual information in a video.  That can be provided separate from the main video as **audio description of visual information**.
 * People who are **Deaf-blind** need the audio information and the visual information in text so they can read it with Braille. They need **descriptive transcripts**.
 * Some people **cannot focus and comprehend auditory or visual information** when there is changing visuals. For most videos, they also need **descriptive transcripts**.
 
