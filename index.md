@@ -93,7 +93,7 @@ Specific guidance for other aspects of making your media accessible are in the f
 
 <p style="margin-left:123px"><strong><a href="/design-develop/media/sign-languages/">Sign Languages</a></strong> &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For many people who are Deaf, sign language is their native language, and some do not understand written language well. (Sign language is not required by most policies.)</p>
 
-## Example
+## Example Video
 
 An example accessible video is on the [Colors with Good Contrast page](https://www.w3.org/WAI/perspective-videos/contrast/)<br>{% include video-link.html class="default" href="https://www.w3.org/WAI/perspective-videos/contrast/" src="/content-images/wai-media-guide/contrast-still2.png" %}
 
