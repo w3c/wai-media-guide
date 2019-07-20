@@ -54,7 +54,7 @@ This page addresses accessibility considerations when planning, scripting, story
 
 This page addresses accessibility considerations when planning, scripting, storyboarding, recording, and producing audio and video.
 
-Some are indicated as Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)) requirements and have links to a separate resource. (About [WCAG Standards](/planning/#WCAG-standards) is on a separate page.) Others are good practice.
+Some of the guidnace below is related to requirements in Web Content Accessibility Guidelines (WCAG) and have links to a separate resource. (About [WCAG Standards](/design-develop/media/planning/#WCAG-standards) is on a separate page.) Other guidance is good practice.
 
 ## Audio
 
