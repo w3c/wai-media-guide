@@ -36,7 +36,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 This page helps you plan accessible media. It:
 * helps you **figure out what your specific audio or video needs** (captions, audio description, a transcript, etc.)
 * helps with project management and planning what to develop in-house and what to outsource
-* shows the **standards** for audio and video media in Web Content Accessibility Guidelines ([WCAG](/standards-guidelines/wcag/)) 
+* shows the **standards** for audio and video media in Web Content Accessibility Guidelines (WCAG) 
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -57,7 +57,7 @@ This page helps you plan accessible media. It:
 ## Introduction
 {:.no_toc}
 
-For background, see _[Making Video and Audio Accessible - Introduction](index)_ that provides:
+For background, see the introduction page of this resource _[Making Video and Audio Accessible](index)_, for:
 * brief descriptions of captions, transcripts, audio description, sign language, and media player accessibility
 * user experiences to help you understand the "why" behind the requirements
 
@@ -221,7 +221,7 @@ For videos, captions enable people who are Deaf or hard of hearing to see the vi
 
 For audio-only, captions enable people who are hard of hearing to get the richness of listening to the audio and fill in what they don't hear well by reading the captions.
 
-Transcripts are needed to provide access to people who are Deaf-blind and use braille. Also, transcripts have several [additional benefits](/design-develop/media/#additional-benefits) to all users.
+Transcripts are needed to provide access to people who are Deaf-blind and use braille. Also, transcripts are used by people without disabilities, as listed in a separate page under [Benefits to Organizations and Individuals](/index/#benefits-to-organizations-and-individuals).
 
 ### Descriptive Transcripts
 
@@ -229,7 +229,8 @@ Transcripts are needed to provide access to people who are Deaf-blind and use br
 <ul>
   <li>are needed for most videos to be accessible to people who are &quot;Deaf-blind&quot;</li>
   <li>meet a wide range of accessibility needs, including for people who have difficulty processing auditory information and people who cannot focus and comprehend auditory or visual information when there is changing visuals</li>
-  <li>provide <a href="/design-develop/media/#additional-benefits">additional benefits</a> for users <em>without</em> disabilities, and for your organization (for example, <abbr title="search engine optimization"> SEO</abbr>)</li>
+  <li>are used by people <em>without</em> disabilities and befefit your organization; for example, <abbr title="search engine optimization"> SEO</abbr>) and more listed in a separate page under [Benefits to Organizations and Individuals](/index/#benefits-to-organizations-and-individuals)
+</li>
   <li><strong>are easy and inexpensive to develop</strong> using captions and audio description that you already have to meet Level AA</li>
 </ul>
 
@@ -271,7 +272,7 @@ To help you **plan in-house and outsourced work**, the sub-pages of this resourc
 * [Media Players, Skills and Tools](/design-develop/media/player/#skills-and-tools)
 * [Sign Languages, Skills and Tools](/design-develop/media/sign-languages/#skills-and-tools)
 
-When planning and budgeting for accessible media, it is often helpful to communicate the **[benefits to organizations](/design-develop/media/#benefits-to-organizations-and-individuals">Benefits to Organizations and Individuals)**, such as search engine optimization (SEO), better user experience for all, and improved customer satisfaction.
+When planning and budgeting for accessible media, it is often helpful to communicate the **benefits to organizations**, such as search engine optimization (SEO), better user experience for all, improved customer satisfaction, and more listed in a separate page under [Benefits to Organizations and Individuals](/index/#benefits-to-organizations-and-individuals).
 
 ## Standards
 
@@ -283,13 +284,13 @@ Web Content Accessibility Guidelines (WCAG) is introduced in the [WCAG Overview]
 
 This resource uses most WCAG terminology, with a few differences:
 * "time-based media" in WCAG = "audio and video media" in this resource
-* "[alternative for time based media](https://www.w3.org/TR/WCAG#alt-time-based-mediadef)" in WCAG = "transcript" for audio-only and "descriptive transcript" for video in this resource
+* "[alternative for time based media in WCAG](https://www.w3.org/TR/WCAG#alt-time-based-mediadef)" = "transcript" for audio-only and "descriptive transcript" for video in this resource
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-WCAG includes requirements for audio and video media at [Level](https://www.w3.org/WAI/WCAG21/Understanding/conformance.html#uc-levels-head) A, AA, and AAA. Most media is required by governing policies to meet Level AA &mdash; which includes both A and AA listed in the tables below.
+WCAG includes requirements for audio and video media at Level A, AA, and AAA. (More info in a separate resource: [Understanding Levels of Conformance](https://www.w3.org/WAI/WCAG21/Understanding/conformance.html#levels).) Most media is required by governing policies to meet Level AA &mdash; which includes both A and AA listed in the tables below.
 
 Accessibility requirements for video and audio are different based on if they are:
 * pre-recorded or live
