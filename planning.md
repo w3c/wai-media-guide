@@ -72,7 +72,7 @@ This resource endeavors to help you know the requirements and encourages you to 
 
 The checklists below cover audio-only content and video content, and pre-recorded and live. They include:
 * what is needed to meet user needs
-* what is required in Web Content Accessibility Guidelines (WCAG) at Level A, AA, and AAA. _(WCAG is explained in the [Standards](#standards) section of this page.)_
+* what is required in Web Content Accessibility Guidelines (WCAG) at Level A, AA, and AAA. If there are no "A"s, then it is not included in WCAG. _(WCAG is explained in the [Standards](#standards) section of this page.)_
 
 The links below go to a web page in this resource with details on understanding and implementing each thing.
 
@@ -83,6 +83,7 @@ The links below go to a web page in this resource with details on understanding 
 - **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** is accessible (for example, what is said and how it's recorded)
 - **[Video content](/design-develop/media/av-content) (A)** is accessible (for example, doesn't cause seizures)
 - **[Media player](/design-develop/media/player) (A)** supports accessibility
+{:.checkbox}
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -101,8 +102,8 @@ This section covers audio-only media, like podcasts that don't have video.
 {:/}
 
 -   **[Transcript](/design-develop/media/transcripts/) (A)** separate from the audio
--   **[Captions](/design-develop/media/captions/)** synchronised with the audio
 -   **[Sign language(s)](/design-develop/media/sign-languages/) (AAA)**
+-   **[Captions](/design-develop/media/captions/)** synchronised with the audio
 {:.checkbox}
 
 {::nomarkdown}
@@ -136,8 +137,7 @@ This section covers audio-only media, like podcasts that don't have video.
 {% include box.html type="start" title=boxhead class="highlighted" id="checklist-vp" %}
 {:/}
 
-**Does the video have speech or other audio** that is needed to understand the
-content?
+**Does the video have speech or other audio** that is needed to understand the content?
 
 -   If yes,
     -   **[Captions](/design-develop/media/captions/)** **(AA)**
@@ -146,8 +146,7 @@ content?
     {:.checkbox}
 -   If no, [inform users](#none).
 
-**Does the video have visual information** that is needed to understand the
-content?
+**Does the video have visual information** that is needed to understand the content?
 
 -   If yes,
     -   **[Audio description of the visual information](/design-develop/media/description) (A/AA)**
@@ -167,21 +166,19 @@ content?
 {% include box.html type="start" title=boxhead class="highlighted" id="checklist-lv" %}
 {:/}
 
-**Is there speech or other audio** that is needed to understand the
-content?
+**Is there speech or other audio** that is needed to understand the content?
 
 -   If yes,
     -   **[Captions](/design-develop/media/captions/) (AA)**
-    -   @@ need to say in format available to Braille?
-    -   [Sign language(s)](/design-develop/media/sign-languages/)
+    -   **[Sign language(s)](/design-develop/media/sign-languages/)**
+    -   text stream available to screen readers for braille
     {:.checkbox}
 -   If no, [inform users](#none).
 
-**Is there visual information** that is needed to understand the
-content?
+**Is there visual information** that is needed to understand the content?
 
 -   If yes,
-    -   @@ Description of the visual information - also provided as a text stream available to Braille ?
+    -   description of important visual information in a text stream available to screen readers for braille
     {:.checkbox}
 -   If no, [inform users](#none).
 
