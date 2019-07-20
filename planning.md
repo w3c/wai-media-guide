@@ -79,9 +79,9 @@ The links below go to a web page in this resource with details on understanding 
 {% include box.html type="start" title="All Audio and Video Media" class="highlighted" id="all-media" %}
 {:/}
 
-- **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** is accessible; for example, what is said and how it's recorded.
-- **[Video content](/design-develop/media/av-content) (A)** is accessible; for example, doesn't cause seizures.
-- **[Media player](/design-develop/media/player) (A)** supports accessibility.
+- **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** is accessible (for example, what is said and how it's recorded)
+- **[Video content](/design-develop/media/av-content) (A)** is accessible (for example, doesn't cause seizures)
+- **[Media player](/design-develop/media/player) (A)** supports accessibility
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -92,7 +92,7 @@ The links below go to a web page in this resource with details on understanding 
 This section covers audio-only media, like podcasts that don't have video.
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height:0.9em"> Pre-Recorded Audio-only
+<img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height:1em"> Pre-Recorded Audio-only
 {% endcapture %}
 
 {::nomarkdown}
@@ -109,7 +109,7 @@ This section covers audio-only media, like podcasts that don't have video.
 {:/}
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/on-air.png" | relative_url }}" alt="" style="height:0.9em"> Live Audio-only
+<img src="{{ "/content-images/wai-media-guide/on-air.png" | relative_url }}" alt="" style="height:1em"> Live Audio-only
 {% endcapture %}
 
 {::nomarkdown}
@@ -128,7 +128,7 @@ This section covers audio-only media, like podcasts that don't have video.
 ### <img src="{{ "/content-images/wai-media-guide/video.png" | relative_url }}" alt="" style="height:1.3em">  Video Checklists
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/action.png" | relative_url }}" alt="" style="height:0.9em"> Pre-Recorded Video
+<img src="{{ "/content-images/wai-media-guide/action.png" | relative_url }}" alt="" style="height:1em"> Pre-Recorded Video
 {% endcapture %}
 
 {::nomarkdown}
@@ -159,7 +159,7 @@ content?
 {:/}
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/live.png" | relative_url }}" alt="" style="height:0.9em"> Live Video
+<img src="{{ "/content-images/wai-media-guide/live.png" | relative_url }}" alt="" style="height:1em"> Live Video
 {% endcapture %}
 
 {::nomarkdown}
