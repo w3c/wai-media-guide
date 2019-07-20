@@ -294,7 +294,7 @@ Accessibility requirements for video and audio are different based on if they ar
 * pre-recorded or live
 * video with audio, video without audio (video only), or audio only
 
-The links in the tables go to a page in a separate resource: Understanding WCAG 2.1.
+The links in the tables below go to a page in a separate resource: Understanding WCAG 2.1.
 
 ### Pre-Recorded
 {:.no_toc}
