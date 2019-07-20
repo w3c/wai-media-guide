@@ -71,7 +71,7 @@ This resource endeavors to help you know the requirements and encourages you to 
 
 The checklists below cover audio-only content and video content, and pre-recorded and live. They include:
 * what is needed to meet user needs
-* what is required in Web Content Accessibility Guidelines (WCAG) at Level A, AA, and AAA. _(WCAG is explained in the [Standards section of this page](#standards).)_
+* what is required in Web Content Accessibility Guidelines (WCAG) at Level A, AA, and AAA. _(WCAG is explained in the [Standards](#standards) section of this page.)_
 
 The links below go to a web page in this resource with details on understanding and implementing each thing.
 
@@ -79,9 +79,9 @@ The links below go to a web page in this resource with details on understanding 
 {% include box.html type="start" title="All Audio and Video Media" class="highlighted" id="all-media" %}
 {:/}
 
-![]({{ "/assets/images/checkbox.svg" | relative_url }}) The **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** is accessible; for example, what is said and how it's recorded.
-![]({{ "/assets/images/checkbox.svg" | relative_url }}) The **[Video content](/design-develop/media/av-content) (A)** is accessible; for example, doesn't cause seizures.
-![]({{ "/assets/images/checkbox.svg" | relative_url }}) The **[Media player](/design-develop/media/player) (A)** supports accessibility.
+- The **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** is accessible; for example, what is said and how it's recorded.
+- The **[Video content](/design-develop/media/av-content) (A)** is accessible; for example, doesn't cause seizures.
+- The **[Media player](/design-develop/media/player) (A)** supports accessibility.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -92,7 +92,7 @@ The links below go to a web page in this resource with details on understanding 
 This section covers audio-only media, like podcasts that don't have video.
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height: height:1.1em"> Pre-Recorded Audio-only
+<img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height: height:1em"> Pre-Recorded Audio-only
 {% endcapture %}
 
 {::nomarkdown}
@@ -109,7 +109,7 @@ This section covers audio-only media, like podcasts that don't have video.
 {:/}
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/on-air.png" | relative_url }}" alt="" style="height: height:1.1em"> Live Audio-only
+<img src="{{ "/content-images/wai-media-guide/on-air.png" | relative_url }}" alt="" style="height: height:1em"> Live Audio-only
 {% endcapture %}
 
 {::nomarkdown}
@@ -128,7 +128,7 @@ This section covers audio-only media, like podcasts that don't have video.
 ### <img src="{{ "/content-images/wai-media-guide/video.png" | relative_url }}" alt="" style="height:1.3em">  Video Checklists
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/action.png" | relative_url }}" alt="" style="height: height:1.1em"> Pre-Recorded Video
+<img src="{{ "/content-images/wai-media-guide/action.png" | relative_url }}" alt="" style="height: height:1em"> Pre-Recorded Video
 {% endcapture %}
 
 {::nomarkdown}
@@ -159,7 +159,7 @@ content?
 {:/}
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/live.png" | relative_url }}" alt="" style="height: height:1.1em"> Live Video
+<img src="{{ "/content-images/wai-media-guide/live.png" | relative_url }}" alt="" style="height: height:1em"> Live Video
 {% endcapture %}
 
 {::nomarkdown}
