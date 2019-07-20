@@ -62,7 +62,7 @@ _Who:_ Audio description provides content to people who are blind and others who
 
 _Example:_ [Video that includes audio description of the visual information (YouTube)](https://www.youtube.com/watch?v=4qIordU8vT8)
 
-<img src="{{ "/content-images/wai-media-guide/using-description.jpg" | relative_url }}" alt="" style="text-align:center; width: 50%; max-width: 500px">
+<img src="{{ "/content-images/wai-media-guide/using-description.jpg" | relative_url }}" alt="" style="width: 50%; max-width: 500px" />
 
 ### Terminology
 {:.no_toc}
