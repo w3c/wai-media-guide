@@ -24,7 +24,7 @@ navigation:
   next:     /design-develop/media/captions/
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:".
-   <p> ... Tips References: <a href="https://dcmp.org/learn/227">Description Tip Sheet [{% include_cached different.html %}]</a> and <a href="http://www.descriptionkey.org/how_to_describe.html">How to Describe [offsite icon]</a>. ...</p>
+   <p> ... Tips References: <a href="https://dcmp.org/learn/227">Description Tip Sheet [offsite icon]</a> and <a href="http://www.descriptionkey.org/how_to_describe.html">How to Describe [offsite icon]</a>. ...</p>
 
 ---
 
@@ -247,7 +247,7 @@ The process to develop description in a separate audio file is basically:
 * Describe objectively, without interpretation, censorship, or comment.
 * Write description in present tense, active voice, and third-person narrative style.
 
-More guidance on writing descriptions: [Description Tip Sheet {% include_cached different.html %}](https://dcmp.org/learn/227) and [How to Describe {% include_cached different.html %}](http://www.descriptionkey.org/how_to_describe.html).
+More guidance on writing descriptions: [Description Tip Sheet {% include_cached external-link.html %}](https://dcmp.org/learn/227) and [How to Describe {% include_cached external-link.html %}](http://www.descriptionkey.org/how_to_describe.html).
 
 ### Tips for Recording Descriptions {#recording}
 {:.no_toc}
