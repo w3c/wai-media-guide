@@ -56,13 +56,13 @@ This page provides guidance on understanding and creating audio description of v
 
 ## Introduction
 
-_Who:_ Audio description provides content to people who are blind and others who cannot see the video adequately.
-
 _What:_ Audio description describes visual information needed to understand the content. It is usually narration added to the soundtrack.
 
-_Example:_ [Video that includes audio description of the visual information (YouTube) {% include_cached different.html %}](https://www.youtube.com/watch?v=4qIordU8vT8)
+_Who:_ Audio description provides content to people who are blind and others who cannot see the video adequately.
 
-<p style="text-align:center"><em>[optional image: blind person listening to video]</em></p>
+_Example:_ [Video that includes audio description of the visual information (YouTube)](https://www.youtube.com/watch?v=4qIordU8vT8)
+
+<img src="{{ "/content-images/wai-media-guide/using-description.jpg" | relative_url }}" alt="" style="text-align:center; width: 50%; max-width: 500px">
 
 ### Terminology
 {:.no_toc}
