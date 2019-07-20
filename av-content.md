@@ -31,7 +31,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page addresses accessibility considerations for planning and producing video and audio content.
+This page addresses accessibility considerations when planning, scripting, storyboarding, recording, and producing audio and video.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -52,9 +52,9 @@ This page addresses accessibility considerations for planning and producing vide
 ## Introduction
 {:.no_toc}
 
-This page introduces things to consider when planning, scripting, storyboarding, recording, and producing audio and video.
+This page addresses accessibility considerations when planning, scripting, storyboarding, recording, and producing audio and video.
 
-Some are indicated as Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)) requirements. Others are good practice.
+Some are indicated as Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)) requirements and have links to a separate resource. (About [WCAG Standards](/planning/#WCAG-standards) is on a separate page.) Others are good practice.
 
 ## Audio
 
