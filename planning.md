@@ -225,14 +225,12 @@ Transcripts are needed to provide access to people who are Deaf-blind and use br
 
 ### Descriptive Transcripts
 
-<p>Descriptive transcripts for videos:</p>
-<ul>
-  <li>are needed for most videos to be accessible to people who are &quot;Deaf-blind&quot;</li>
-  <li>meet a wide range of accessibility needs, including for people who have difficulty processing auditory information and people who cannot focus and comprehend auditory or visual information when there is changing visuals</li>
-  <li>are used by people <em>without</em> disabilities and befefit your organization; for example, <abbr title="search engine optimization"> SEO</abbr>) and more listed in a separate page under [Benefits to Organizations and Individuals](/index/#benefits-to-organizations-and-individuals)
-</li>
-  <li><strong>are easy and inexpensive to develop</strong> using captions and audio description that you already have to meet Level AA</li>
-</ul>
+Descriptive transcripts for videos:
+
+* are needed for most videos to be accessible to people who are "Deaf-blind"
+* meet a wide range of accessibility needs, including for people who have difficulty processing auditory information and people who cannot focus and comprehend auditory or visual information when there is changing visuals
+* are used by people _without_ disabilities and benefit your organization; for example, <abbr title="search engine optimization">SEO</abbr>) and more listed in a separate page under [Benefits to Organizations and Individuals](/index/#benefits-to-organizations-and-individuals)
+* **are easy and inexpensive to develop** using captions and audio description that you already have to meet Level AA
 
 **Captions and transcripts use the same text. Once you have one, it's fairly easy to develop the other.**
 
@@ -245,7 +243,7 @@ Include specific accessibility requirements in your:
 * Requests for Proposal (RFP) or Requests for Tender (RFT)
 * Contracts
 
-Here is an example workflow for developing an accessible video, with notes on who develops the material:
+Here is an example workflow for developing an accessible video, with notes on who develops the material. Links go to other pages in this resource.
 
 {::nomarkdown}
 {% include box.html type="start" title="Example Workflow and Responsibilities" class="" %}
@@ -265,7 +263,7 @@ Here is an example workflow for developing an accessible video, with notes on wh
 {% include box.html type="end" %}
 {:/}
 
-To help you **plan in-house and outsourced work**, the sub-pages of this resource include considerations, skills, and tools needed for creating accessible media in these sections:
+To help you **plan in-house and outsourced work**, the pages of this resource include considerations, skills, and tools needed for creating accessible media in these sections:
 * [Audio Description Considerations, Skills, and Tools](/design-develop/media/description/#audio-description-considerations-skills-and-tools)
 * [Captions, Skills and Tools](/design-develop/media/captions/#skills-and-tools) and [Automatic Captions are Not Sufficient](/design-develop/media/captions/#automatic-captions-are-not-sufficient)
 * [Transcripts, Process - Skills and Tools](/design-develop/media/transcripts/#process---skills-and-tools)
@@ -276,7 +274,7 @@ When planning and budgeting for accessible media, it is often helpful to communi
 
 ## Standards
 
-Web Content Accessibility Guidelines (WCAG) is introduced in the [WCAG Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
+Web Content Accessibility Guidelines (WCAG) is introduced in a separate resource: [WCAG Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
 {::nomarkdown}
 {% include box.html type="start" class="" %}
@@ -295,6 +293,8 @@ WCAG includes requirements for audio and video media at Level A, AA, and AAA. (M
 Accessibility requirements for video and audio are different based on if they are:
 * pre-recorded or live
 * video with audio, video without audio (video only), or audio only
+
+The links in the tables go to a page in a separate resource: Understanding WCAG 2.1.
 
 ### Pre-Recorded
 {:.no_toc}
