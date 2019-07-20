@@ -67,9 +67,9 @@ _Example:_ [Video that includes audio description of the visual information (You
 ### Terminology
 {:.no_toc}
 
-Web Content Accessibility Guidelinnes (WCAG) uses the term "audio description". It is called "described video" in some regions, such as Canada.
+Web Content Accessibility Guidelines (WCAG) uses the term "audio description" for description of visual information provided via audio. It is called "described video" in some regions, such as Canada.
 
-This page uses "described video" in some places as a shortened form of "a video that includes audio description of the visual information".
+This resource uses "described video" in some places as a shortened form of "a video that includes audio description of the visual information".
 
 ## Does My Media Need Description?
 
