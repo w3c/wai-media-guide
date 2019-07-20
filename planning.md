@@ -55,6 +55,7 @@ This page helps you plan accessible media. It:
 {:/}
 
 ## Introduction
+{:.no_toc}
 
 For background, see _[Making Video and Audio Accessible - Introduction](index)_ that provides:
 * brief descriptions of captions, transcripts, audio description, sign language, and media player accessibility
@@ -190,7 +191,6 @@ content?
 
 
 ### Inform Users When Not Needed {#none}
-{:.no_toc}
 
 If your video does not need captions (because there is no substantive audio content) or does not need audio description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it.
 
@@ -227,7 +227,6 @@ For audio-only, captions enable people who are hard of hearing to get the richne
 Transcripts are needed to provide access to people who are Deaf-blind and use braille. Also, transcripts have several [additional benefits](/design-develop/media/#additional-benefits) to all users.
 
 ### Descriptive Transcripts
-{:.no_toc}
 
 <p>Descriptive transcripts for videos:</p>
 <ul>
