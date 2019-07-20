@@ -220,7 +220,7 @@ Most people use software or services to help develop captions. There are several
 
 <p style="text-align:center">[image of captioning software or service, probably YouTube since that's one many novies will use]</p>
 
-Several free and fee-based tools create automatic captions that you can use as a starting point &mdash; including common video websites. **You will need to edit automatic captions for accuracy.**
+Several free and fee-based tools create automatic captions that you can use as a starting point. For example, a common video website includes automatic captions and tools for you to edit the captions. **You will need to edit automatic captions for accuracy.**
 
 If you already have transcription of the audio into text, there are free tools that will generate a captions file with timestamps. You will need to edit it for line breaks as described in another page of this resource, Transcribing Audio to Text: [More on Captions](/design-develop/media/transcribing/#more-on-captions).
 
