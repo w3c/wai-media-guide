@@ -31,7 +31,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This multi-page resource helps you make audio and video media accessible to people with disabilities.
+To be accessible to people with disabilities, most media needs captions/subtitles (a text version of the audio that is shown synchronized in the media player), a transcript (a separate text version of the audio), audio description of visual information (usually an additional audio file that describes important visual content), and more. Accessible audio and video is essential for people with disabilities, and benefits organizations.
 
 {::nomarkdown}
 {% include box.html type="end" %}
