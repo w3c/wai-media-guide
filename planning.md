@@ -47,7 +47,7 @@ This page helps you plan accessible media. It:
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
-{::options toc_levels="2,3" /}
+{::options toc_levels="2" /}
 {:toc}
 
 {::nomarkdown}
@@ -58,7 +58,7 @@ This page helps you plan accessible media. It:
 
 For background, see _[Making Video and Audio Accessible - Introduction](index)_ that provides:
 * brief descriptions of captions, transcripts, audio description, sign language, and media player accessibility
-* examples of user experiences to help you understand why who needs what
+* user experiences to help you understand the "why" behind the requirements
 
 What accessibility features you provide with your media will likely be influenced by:
 * governmental regulations and other policy requirements
@@ -67,24 +67,25 @@ What accessibility features you provide with your media will likely be influence
 
 This resource endeavors to help you know the requirements and encourages you to meet all user needs.
 
-## Checklists
+## Checklists for Audio and Video
 
-The  checklists below cover audio-only content and video content, and pre-recorded and live. They include:
+The checklists below cover audio-only content and video content, and pre-recorded and live. They include:
 * what is needed to meet user needs
-* what is required in Web Content Accessibility Guidelines (WCAG) at Level A, AA, and AAA. _(For an explanation of all that, jump down to the [Standards section of this page](#standards).)_
+* what is required in Web Content Accessibility Guidelines (WCAG) at Level A, AA, and AAA. _(WCAG is explained in the [Standards section of this page](#standards).)_
 
-The links go to a web page in this resource with details on understanding and implementing each thing.
+The links below go to a web page in this resource with details on understanding and implementing each thing.
 
 {::nomarkdown}
 {% include box.html type="start" title="All Audio and Video Media" class="highlighted" id="all-media" %}
 {:/}
 
-![]({{ "/assets/images/checkbox.svg" | relative_url }}) The **[Media player](/design-develop/media/player) (A)** needs to support accessibility.
+![]({{ "/assets/images/checkbox.svg" | relative_url }}) The **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** is accessible; for example, what is said and how it's recorded.
+![]({{ "/assets/images/checkbox.svg" | relative_url }}) The **[Video content](/design-develop/media/av-content) (A)** is accessible; for example, doesn't cause seizures.
+![]({{ "/assets/images/checkbox.svg" | relative_url }}) The **[Media player](/design-develop/media/player) (A)** supports accessibility.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
-
 
 ### <img src="{{ "/content-images/wai-media-guide/audio.png" | relative_url }}" alt="" style="height:1.1em">  Audio-only Checklists
 
@@ -98,9 +99,8 @@ This section covers audio-only media, like podcasts that don't have video.
 {% include box.html type="start" title=boxhead class="highlighted" id="checklist-ap" %}
 {:/}
 
--   **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** that is accessible; for example, what is said and how it's recorded
 -   **[Transcript](/design-develop/media/transcripts/) (A)** separate from the audio
--   **[Captions](/design-develop/media/captions/)** synched with the audio
+-   **[Captions](/design-develop/media/captions/)** synchronised with the audio
 -   **[Sign language(s)](/design-develop/media/sign-languages/) (AAA)**
 {:.checkbox}
 
@@ -116,7 +116,6 @@ This section covers audio-only media, like podcasts that don't have video.
 {% include box.html type="start" title=boxhead class="highlighted" id="checklist-la" %}
 {:/}
 
--   **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** that is accessible; for example, what is said and how it's recorded
 -   **[Captions](/design-develop/media/captions/) (AA)**
 -   **[Transcript](/design-develop/media/transcripts/) (AAA)**
 -   **[Sign language(s)](/design-develop/media/sign-languages/)**
@@ -140,7 +139,6 @@ This section covers audio-only media, like podcasts that don't have video.
 content?
 
 -   If yes,
-    -   **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** that is accessible; for example, what is said and how it's recorded
     -   **[Captions](/design-develop/media/captions/)** **(AA)**
     -   **[Transcript of audio information](/design-develop/media/transcripts/) (AAA)** *(The same text from the captions file, in a different format.)*
     -   **[Sign language(s)](/design-develop/media/sign-languages/) (AAA)**
@@ -151,7 +149,6 @@ content?
 content?
 
 -   If yes,
-    -   **[Video content](/design-develop/media/av-content) (A)** that is accessible; for example, doesn't cause seizures
     -   **[Audio description of the visual information](/design-develop/media/description) (A/AA)**
     -   **[Descriptive transcript](/design-develop/media/transcripts) (AAA)** *(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)*
     {:.checkbox}
