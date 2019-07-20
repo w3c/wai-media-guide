@@ -272,7 +272,7 @@ To help you **plan in-house and outsourced work**, the pages of this resource in
 
 When planning and budgeting for accessible media, it is often helpful to communicate the **benefits to organizations**, such as search engine optimization (SEO), better user experience for all, improved customer satisfaction, and more listed in a separate page under [Benefits to Organizations and Individuals](/index/#benefits-to-organizations-and-individuals).
 
-## Standards
+## WCAG Standard
 
 Web Content Accessibility Guidelines (WCAG) is introduced in a separate resource: [WCAG Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
