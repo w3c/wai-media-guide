@@ -77,15 +77,15 @@ To include sign language alternatives, you will need people, skills, and tools t
 ## Creating Sign Language Alternatives
 
 There are resources on the web that provide guidance on creating sign language alternatives. For example:
-* [Sign Language Interpretation in HBBTV (PDF)](http://pagines.uab.cat/hbb4all/sites/pagines.uab.cat.hbb4all/files/sign_language_interpreting_in_hbbtv.pdf) includes specific guidance on aspects such as:
+* [Sign Language Interpretation in HBBTV (PDF)[offsite icon]](http://pagines.uab.cat/hbb4all/sites/pagines.uab.cat.hbb4all/files/sign_language_interpreting_in_hbbtv.pdf) includes specific guidance on aspects such as:
     * sign language interpreters
     * filming the signing
     * position of the sign language
 * Guidelines for the Production of Signing Books:
-    * [Sign language presentation](http://www.sign-lang.uni-hamburg.de/signingbooks/deliver/d31/deliv_31_part3-2.html#3.2.2.6)
-    * [Filming the signers](http://www.sign-lang.uni-hamburg.de/signingbooks/sbrc/grid/d71/guide12.htm)
-    * [Editing](http://www.sign-lang.uni-hamburg.de/signingbooks/sbrc/grid/d71/guide13.htm)
+    * [Sign language presentation [offsite icon]](http://www.sign-lang.uni-hamburg.de/signingbooks/deliver/d31/deliv_31_part3-2.html#3.2.2.6)
+    * [Filming the signers [offsite icon]](http://www.sign-lang.uni-hamburg.de/signingbooks/sbrc/grid/d71/guide12.htm)
+    * [Editing [offsite icon]](http://www.sign-lang.uni-hamburg.de/signingbooks/sbrc/grid/d71/guide13.htm)
 
 ## Example
 
-Example sign language in video: [NHS 111 British Sign Language (BSL) Advert (YouTube)](https://www.youtube.com/watch?v=TCq3ru9HQSc) [@@ embed or screen grab]
+Example sign language in video: [NHS 111 British Sign Language (BSL) Advert (YouTube)[offsite icon]](https://www.youtube.com/watch?v=TCq3ru9HQSc) [@@ embed or screen grab]
