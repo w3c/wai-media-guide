@@ -79,9 +79,9 @@ The links below go to a web page in this resource with details on understanding 
 {% include box.html type="start" title="All Audio and Video Media" class="highlighted" id="all-media" %}
 {:/}
 
-- The **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** is accessible; for example, what is said and how it's recorded.
-- The **[Video content](/design-develop/media/av-content) (A)** is accessible; for example, doesn't cause seizures.
-- The **[Media player](/design-develop/media/player) (A)** supports accessibility.
+- **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** is accessible; for example, what is said and how it's recorded.
+- **[Video content](/design-develop/media/av-content) (A)** is accessible; for example, doesn't cause seizures.
+- **[Media player](/design-develop/media/player) (A)** supports accessibility.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -170,7 +170,6 @@ content?
 content?
 
 -   If yes,
-    -   **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** that is accessible; for example, what is said and how it's captured
     -   **[Captions](/design-develop/media/captions/) (AA)**
     -   @@ need to say in format available to Braille?
     -   [Sign language(s)](/design-develop/media/sign-languages/)
@@ -181,7 +180,6 @@ content?
 content?
 
 -   If yes,
-    -   **[Video content](/design-develop/media/av-content/) (A)** that is accessible; for example, doesn't cause seizures
     -   @@ Description of the visual information - also provided as a text stream available to Braille ?
     {:.checkbox}
 -   If no, [inform users](#none).
