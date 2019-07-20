@@ -73,7 +73,7 @@ This page uses "described video" in some places as a shortened form of "a video 
 
 ## Does My Media Need Description?
 
-This section tells you what is needed to meet user needs and what is required to meet the [WCAG standard](/design-develop/media/planning/#standards).
+This section tells you what is needed to meet user needs and what is required to meet the WCAG standard. (About [WCAG Standards](/design-develop/media/planning/#WCAG-standards) on another page.)
 
 <div id="tree-ano" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
