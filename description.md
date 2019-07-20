@@ -24,7 +24,7 @@ navigation:
   next:     /design-develop/media/captions/
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:".
-   <p> ... Tips References: <a href="https://dcmp.org/learn/227">Description Tip Sheet [offsite icon]</a> and <a href="http://www.descriptionkey.org/how_to_describe.html">How to Describe [offsite icon]</a>. ...</p>
+   <p> ... Tips References: <a href="https://dcmp.org/learn/227">Description Tip Sheet [{% include_cached different.html %}]</a> and <a href="http://www.descriptionkey.org/how_to_describe.html">How to Describe [offsite icon]</a>. ...</p>
 
 ---
 
@@ -60,7 +60,7 @@ _Who:_ Audio description provides content to people who are blind and others who
 
 _What:_ Audio description describes visual information needed to understand the content. It is usually narration added to the soundtrack.
 
-_Example:_ [Video that includes audio description of the visual information (YouTube) {off-site icon}](https://www.youtube.com/watch?v=4qIordU8vT8)
+_Example:_ [Video that includes audio description of the visual information (YouTube) {% include_cached different.html %}](https://www.youtube.com/watch?v=4qIordU8vT8)
 
 <p style="text-align:center"><em>[optional image: blind person listening to video]</em></p>
 
@@ -247,7 +247,7 @@ The process to develop description in a separate audio file is basically:
 * Describe objectively, without interpretation, censorship, or comment.
 * Write description in present tense, active voice, and third-person narrative style.
 
-More guidance on writing descriptions: [Description Tip Sheet [icon]](https://dcmp.org/learn/227) and [How to Describe [icon]](http://www.descriptionkey.org/how_to_describe.html).
+More guidance on writing descriptions: [Description Tip Sheet {% include_cached different.html %}](https://dcmp.org/learn/227) and [How to Describe {% include_cached different.html %}](http://www.descriptionkey.org/how_to_describe.html).
 
 ### Tips for Recording Descriptions {#recording}
 {:.no_toc}
