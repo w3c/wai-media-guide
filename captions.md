@@ -172,7 +172,7 @@ For these reasons, many organizations choose to outsource their captions.
 
 Automatically-generated captions do not meet user needs or accessibility requirements, unless they are confirmed to be fully accurate. Usually they need significant editing. 
 
-There are tools that use speech recognition technology to turn a soundtrack into a timed caption file. For example, many videos uploaded to YouTube have automatic captions. [[YouTube info](https://support.google.com/youtube/answer/3038280)] However, often the automatic caption text is wrong and does not match the spoken audio — sometimes in ways that change the meaning (or are embarrassing). For example, missing just one word such as "not" can make the captions contradict the actual audio content.
+There are tools that use speech recognition technology to turn a soundtrack into a timed caption file. For example, some common video websites provide automatic captions. However, often the automatic caption text is wrong and does not match the spoken audio — sometimes in ways that change the meaning (or are embarrassing). For example, missing just one word such as "not" can make the captions contradict the actual audio content.
 
 <p style="text-align:center; text-size:85%">[<em>optionally as an illustration for visual interest (with text as true text):</em><br>
   &quot;Spoken text: 
@@ -220,9 +220,9 @@ Most people use software or services to help develop captions. There are several
 
 <p style="text-align:center">[image of captioning software or service, probably YouTube since that's one many novies will use]</p>
 
-Some tools create automatic captions that you can use as a starting point. For example, YouTube provides automatic captions and tools for you to edit the captions, as described in [Edit or remove captions – YouTube Help](https://support.google.com/youtube/answer/2734705?hl=en). **You will need to edit automatic captions for accuracy.**
+Several free and fee-based tools create automatic captions that you can use as a starting point &mdash; including common video websites. **You will need to edit automatic captions for accuracy.**
 
-If you already have transcription of the audio into text, there are free tools (including YouTube) that will generate a captions file with timestamps. You will need to edit it for line breaks as described in another page of this resource, Transcribing Audio to Text: [More on Captions](/design-develop/media/transcribing/#more-on-captions).
+If you already have transcription of the audio into text, there are free tools that will generate a captions file with timestamps. You will need to edit it for line breaks as described in another page of this resource, Transcribing Audio to Text: [More on Captions](/design-develop/media/transcribing/#more-on-captions).
 
 Most caption-editing tools provide can export a plain text transcript.
 
