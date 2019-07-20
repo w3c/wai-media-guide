@@ -267,14 +267,14 @@ Here is an example workflow for developing an accessible video, with notes on wh
 {% include box.html type="end" %}
 {:/}
 
-To help you plan in-house and outsourced work, the sub-pages of this resource include **considerations, skills, and tools needed** for creating accessible media in these sections:
+To help you **plan in-house and outsourced work**, the sub-pages of this resource include considerations, skills, and tools needed for creating accessible media in these sections:
 * [Audio Description Considerations, Skills, and Tools](/design-develop/media/description/#audio-description-considerations-skills-and-tools)
 * [Captions, Skills and Tools](/design-develop/media/captions/#skills-and-tools) and [Automatic Captions are Not Sufficient](/design-develop/media/captions/#automatic-captions-are-not-sufficient)
 * [Transcripts, Process - Skills and Tools](/design-develop/media/transcripts/#process---skills-and-tools)
 * [Media Players, Skills and Tools](/design-develop/media/player/#skills-and-tools)
 * [Sign Languages, Skills and Tools](/design-develop/media/sign-languages/#skills-and-tools)
 
-When planning for accessible media, it maybe helpful to communicate the **[additional benefits](/design-develop/media/#additional-benefits) to all users** and to your organization, such as search engine optimization (SEO).
+When planning and budgeting for accessible media, it is often helpful to communicate the **[benefits to organizations](/design-develop/media/#benefits-to-organizations-and-individuals">Benefits to Organizations and Individuals)**, such as search engine optimization (SEO), better user experience for all, and improved customer satisfaction.
 
 ## Standards
 
