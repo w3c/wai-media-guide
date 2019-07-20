@@ -251,9 +251,9 @@ Here is an example workflow for developing an accessible video, with notes on wh
 
 1. Address accessibility in **[video content](/design-develop/media/av-content/)** as the video is planned and produced.<br>_By:_ Script writers, videographers, producers, and others.
 
-2. Develop an **[described version](/design-develop/media/description/)** of the video at the same time as the main video, if needed.<br>_By:_ Usually the same people who produce the main video also produce the described version.
+2. Develop a **[described version of the video](/design-develop/media/description/)** at the same time as the main video, if needed.<br>_By:_ Usually the same people who produce the main video also produce the described version.
 
-3. Develop **[captions](/design-develop/media/captions/)** for the main video, for the audio described version, and of the audio description itself.<br>_By:_ Usually if the video is professionally produced, the producers provide captions. Sometimes when informal videos are developed in-house, captions are outsourced.
+3. Develop **[captions](/design-develop/media/captions/)** for the main video, for the described version, and of the audio description itself.<br>_By:_ Usually if the video is professionally produced, the producers provide captions. Sometimes when informal videos are developed in-house, captions are outsourced.
 
 4. Develop a **[descriptive transcript](/design-develop/media/transcripts/)** using the text from the caption files.<br>_By:_ Often transcripts are developed in-house from caption files.
 
