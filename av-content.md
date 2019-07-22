@@ -119,6 +119,8 @@ Often sign languages are provided as an overlay in the bottom right corner of vi
 
 Plan for the video not to include important information that would be obstructed by a sign language overlay.
 
+For other guidance including recording, see another page of this resource: [Sign Languages](/design-develop/media/sign-languages/)
+
 ### Plan for audio description of visual information – _storyboarding, recording_
 
 _Audio description_ provides content to people who are blind and others who cannot see the video adequately. It describes the visual information needed to understand the content.
