@@ -95,7 +95,7 @@ For optimum accessibility, provide a separate caption file of the audio descript
 
 This section tells you:
 * what is needed to meet user needs 
-* what is required to meet the WCAG standard (About [WCAG Standards](/design-develop/media/planning/#WCAG-standards) is on the Planning page.)
+* what is required to meet the WCAG standard _(The Planning page of this resource introduces the [WCAG Standard](https://wai-media-guide.netlify.com/design-develop/media/planning/#wcag-standard).)_
 
 <div id="tree-ao" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
