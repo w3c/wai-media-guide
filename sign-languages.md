@@ -76,13 +76,15 @@ To include sign language alternatives, you will need people, skills, and tools t
 
 ## Example
 
-Example sign language in video: [NHS 111 British Sign Language (BSL) Advert (YouTube)[offsite icon]](https://www.youtube.com/watch?v=TCq3ru9HQSc){% include video-link.html class="default" href="https://www.w3.org/WAI/perspective-videos/contrast/" src="/content-images/wai-media-guide/example-sign" %}
+Example sign language in video: [NHS 111 British Sign Language (BSL) Advert (YouTube)[offsite icon]](https://www.youtube.com/watch?v=TCq3ru9HQSc){% include video-link.html class="default" href="https://www.youtube.com/watch?v=TCq3ru9HQSc" src="/content-images/wai-media-guide/sign-example.jpg" %}
 
 ## Creating Sign Language Alternatives
 
 Use colors that are easy to distinguish - _planning, recording_
 : Usually it is best if the background and the signer’s clothing are solid colors that contrast with their skin tone. That way their hands and face are easier to see.
-: Ensure good lighting.
+
+Use good lighting - _planning, recording_
+: Ensure good lighting to help make the signer clearly visible.
 
 Capture the full signing space - _recording_
 : For most sign languages the signing space extends from well below the waist to above the head and at least an elbow width to each side.
