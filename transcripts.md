@@ -71,7 +71,7 @@ _Interactive transcripts_ highlight text phrases as they are spoken. Users can s
 
 **Short answer: Yes, transcripts are needed to meet the wide range of user needs**.
 
-In a some cases, transcripts are not required to meet minimum WCAG standards. (About [WCAG Standards](/design-develop/media/planning/#WCAG-standards) on another page.)
+In a some cases, transcripts are not required to meet WCAG standards. _(About [WCAG Standards](/design-develop/media/planning/#WCAG-standards) is on the Planning page.)_
 
 <div id="tree-ao" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
