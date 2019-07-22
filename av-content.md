@@ -1,7 +1,7 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
-title: "Content of Audio and Video"   # Do not translate "title:". Do translate the text after "title:".
+title: "Accessible Audio Content and Video Content"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Content of Audio & Video" # A short title that is used in the navigation
 doc-note-type: draft
 
