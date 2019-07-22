@@ -164,7 +164,7 @@
     pages:
       - name: Planning
         url: "/design-develop/media/planning/"        
-      - name: Audio & Video Content
+      - name: Content of Audio & Video
         url: "/design-develop/media/av-content/"
       - name: Description
         url: "/design-develop/media/description/"
