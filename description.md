@@ -75,7 +75,7 @@ This resource uses "described video" in some places as a shortened form of "a vi
 
 This section tells you:
 * what is needed to meet user needs
-* what is required to meet the WCAG standard. _(About [WCAG Standards](/design-develop/media/planning/#WCAG-standards) is on the Planning page.)_
+* what is required to meet the WCAG standard. _(The Planning page of this resource introduces the [WCAG Standard](https://wai-media-guide.netlify.com/design-develop/media/planning/#wcag-standard).)_
 
 <div id="tree-ano" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
