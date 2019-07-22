@@ -65,7 +65,7 @@ There are some efforts to provide automatic sign language from text; however, av
 
 Sign language is not required by most policies.
 
-Sign language is in the [WCAG standard](https://wai-media-guide.netlify.com/design-develop/media/planning/#standards) at Level AAA.
+Sign language is in the WCAG standard at Level AAA. _(The Planning page of this resource introduces the [WCAG Standard](https://wai-media-guide.netlify.com/design-develop/media/planning/#wcag-standard).)_
 
 ## Skills and Tools
 
@@ -74,18 +74,27 @@ To include sign language alternatives, you will need people, skills, and tools t
 * record it
 * edit it in/with the audio or video file
 
-## Creating Sign Language Alternatives
-
-There are resources on the web that provide guidance on creating sign language alternatives. For example:
-* [Sign Language Interpretation in HBBTV (PDF)[offsite icon]](http://pagines.uab.cat/hbb4all/sites/pagines.uab.cat.hbb4all/files/sign_language_interpreting_in_hbbtv.pdf) includes specific guidance on aspects such as:
-    * sign language interpreters
-    * filming the signing
-    * position of the sign language
-* Guidelines for the Production of Signing Books:
-    * [Sign language presentation [offsite icon]](http://www.sign-lang.uni-hamburg.de/signingbooks/deliver/d31/deliv_31_part3-2.html#3.2.2.6)
-    * [Filming the signers [offsite icon]](http://www.sign-lang.uni-hamburg.de/signingbooks/sbrc/grid/d71/guide12.htm)
-    * [Editing [offsite icon]](http://www.sign-lang.uni-hamburg.de/signingbooks/sbrc/grid/d71/guide13.htm)
-
 ## Example
 
 Example sign language in video: [NHS 111 British Sign Language (BSL) Advert (YouTube)[offsite icon]](https://www.youtube.com/watch?v=TCq3ru9HQSc) [@@ embed or screen grab]
+
+## Creating Sign Language Alternatives
+
+Use colors that are easy to distinguish - _planning, recording_
+: Usually it is best if the background and the signer’s clothing are solid colors that contrast with their skin tone. That way their hands and face are easier to see.
+: Ensure good lighting.
+Capture the full signing space - _recording_
+: For most sign languages the signing space extends from well below the waist to above the head and at least an elbow width to each side.
+
+Ensure the signer is large enough - _post-production_
+: Viewers need to be able to clearly see all movements and facial expressions.
+
+Avoid obscuring important content - _post-production_
+: Position the signer to avoid obscuring important information in the video. The signer is usually at the bottom right. If your video has information such as a news ticker at the bottom, position the signer above that.
+: Ideally when the video was made, the position of the signer was planned for, as noted in another page of this resource: [Plan for sign language – storyboarding, recording](/design-develop/media/av-content/#plan-for-sign-language--storyboarding-recording).
+{:.paragraph-like}
+
+There are resources on the web that provide additional guidance on creating sign language alternatives. For example:
+* [Sign Language Interpretation in HBBTV (PDF)[offsite icon]](http://pagines.uab.cat/hbb4all/sites/pagines.uab.cat.hbb4all/files/sign_language_interpreting_in_hbbtv.pdf) includes specific guidance on aspects such as working with sign language interpreters and types of onscreen presentation
+* Guidelines for the Production of Signing Books include [Sign language presentation [offsite icon]](http://www.sign-lang.uni-hamburg.de/signingbooks/deliver/d31/deliv_31_part3-2.html#3.2.2.6) and [Editing [offsite icon]](http://www.sign-lang.uni-hamburg.de/signingbooks/sbrc/grid/d71/guide13.htm)
+
