@@ -1,8 +1,8 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
-title: "Accessible Audio and Video Content"   # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Audio & Video Content" # A short title that is used in the navigation
+title: "Content of Audio and Video"   # Do not translate "title:". Do translate the text after "title:".
+nav_title: "Content of Audio & Video" # A short title that is used in the navigation
 doc-note-type: draft
 
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
