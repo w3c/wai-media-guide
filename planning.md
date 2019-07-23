@@ -77,7 +77,7 @@ The checklists below cover audio-only content and video content, and pre-recorde
 The links below go to a web page in this resource with details on understanding and implementing each thing.
 
 {::nomarkdown}
-{% include box.html type="start" title="All Audio and Video Media" class="highlighted" id="all-media" %}
+{% include box.html type="start" title="All Audio and Video Media" class="highlighted" id="checklist-all" %}
 {:/}
 
 - **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** is accessible (for example, what is said and how it's recorded)
