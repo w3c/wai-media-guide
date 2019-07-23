@@ -56,7 +56,7 @@ Rather than coding all the things needed to make a player support accessibility,
 
 There are players developed specifically for accessibility. Some are free, open source and some are commercial.
 
-## Skills and Tools
+## Skills Needed {#skills}
 
 Using an existing media player developed for accessibility requires moderate HTML skills.
 
