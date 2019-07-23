@@ -2,6 +2,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
 title: "Audio Description of Visual Information"   # Do not translate "title:". Do translate the text after "title:".
+title_html: '<img src="/content-images/wai-media-guide/AD.png" alt="" class="icon-in-title" style="height: 1em;"> Audio Description of Visual Information'   # Do not translate "title:". Do translate the text after "title:".
+
 nav_title: "Audio Description" # A short title that is used in the navigation
 doc-note-type: draft
 
@@ -15,7 +17,7 @@ ref: /design-develop/media/description/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
-   path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
+   path: 'description.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 
 resource:
   ref: /design-develop/media/
