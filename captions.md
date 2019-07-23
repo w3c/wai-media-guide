@@ -91,13 +91,13 @@ For optimum accessibility, provide a separate caption file of the audio descript
 
 **Captions and transcripts include the same text, so one can be used to develop the other.**
 
-## Does My Media Need Captions?
+## Does My Media Need Captions? {#checklist}
 
 This section tells you:
 * What is required in the WCAG standard at Level A, AA, and AAA. _([WCAG](https://wai-media-guide.netlify.com/design-develop/media/planning/#wcag-standard) is introduced in the Planning page of this resource.)_
 * What is needed to meet user needs, beyond WCAG. If there are no "A"s, then it is not required in WCAG.
 
-<div id="tree-ao" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
+<div id="checklist-ao" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
@@ -115,7 +115,7 @@ This section tells you:
   </div>
 </div>
 
-<div id="tree-vo" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
+<div id="checklist-vo" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video-only (no audio content):</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
@@ -128,7 +128,7 @@ This section tells you:
   </div>
 </div>
 
-<div id="tree-video" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
+<div id="checklist-video" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
     <p><strong>Does the video have audio information</strong> that is needed to understand what the video is communicating?</p>
