@@ -15,7 +15,7 @@ ref: /design-develop/media/sign-languages/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
-   path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
+   path: 'sign-languages.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 
 resource:
   ref: /design-develop/media/
