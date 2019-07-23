@@ -80,7 +80,7 @@ Specific guidance for other aspects of making your media accessible are in the f
 
 <img src="{{ "/content-images/wai-media-guide/AD.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
-<p style="margin-left:123px"><strong><a href="/design-develop/media/description/">Audio Description of Visual Information</a></strong> &mdash; Audio description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content.</p>
+<p style="margin-left:123px"><strong><a href="/design-develop/media/description/">Audio Description of Visual Information</a></strong> &mdash; Description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content.</p>
 
 <img src="{{ "/content-images/wai-media-guide/CC.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
@@ -88,7 +88,7 @@ Specific guidance for other aspects of making your media accessible are in the f
 
 <img src="{{ "/content-images/wai-media-guide/transcript.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
-<p style="margin-left:123px"><strong><a href="/design-develop/media/transcripts/">Transcripts</a></strong> &mdash; Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. <em>Descriptive transcripts</em> also include description of the visual information needed to understand the content. Descriptive transcripts are required to provide video content to people who are both Deaf and blind.</p>
+<p style="margin-left:123px"><strong><a href="/design-develop/media/transcripts/">Transcripts</a></strong> &mdash; Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. <em>Descriptive transcripts</em> also include text description of the visual information needed to understand the content. Descriptive transcripts are required to provide video content to people who are both Deaf and blind.</p>
 
 <img src="{{ "/content-images/wai-media-guide/sign.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
