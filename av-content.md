@@ -15,7 +15,7 @@ ref: /design-develop/media/av-content/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
-   path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
+   path: 'av-content.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 
 resource:
   ref: /design-develop/media/
@@ -123,7 +123,7 @@ For other guidance including recording, see another page of this resource: [Sign
 
 ### Plan for audio description of visual information – _storyboarding, recording_
 
-_Audio description_ provides content to people who are blind and others who cannot see the video adequately. It describes the visual information needed to understand the content.
+_Description_ provides content to people who are blind and others who cannot see the video adequately. It describes the visual information needed to understand the content.
 
 Plan to either:
 * Integrate description of the visual information that users need to understand into the main audio content,<br>_**or**_
@@ -185,6 +185,6 @@ Where the description is longer that you want to leave space in the main audio, 
 
 An example of this is the [Web Accessibility Perspectives: Video Captions](https://www.w3.org/WAI/perspective-videos/captions/) video. The main video is 48 seconds long. The described version is 1 minute and 18 seconds long, yet there are no pauses in the visual aspect of the video.
 
-#### More about audio description
+#### More about description
 
 More information is in the next page of this resource: [Audio Description of Visual Information](/design-develop/media/description/).
