@@ -17,7 +17,7 @@ ref: /design-develop/media/planning/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
-   path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
+   path: 'planning.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 
 resource:
   ref: /design-develop/media/
@@ -34,7 +34,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {:/}
 
 This page helps you plan accessible media. It:
-* helps you **figure out what your specific audio or video needs** (captions, audio description, a transcript, etc.)
+* helps you **figure out what your specific audio or video needs** (captions, description, a transcript, etc.)
 * helps with project management and planning what to develop in-house and what to outsource
 * shows the **standards** for audio and video media in Web Content Accessibility Guidelines (WCAG) 
 
@@ -58,7 +58,7 @@ This page helps you plan accessible media. It:
 {:.no_toc}
 
 For background, see the introduction page of this resource _[Making Video and Audio Accessible](index)_, for:
-* brief descriptions of captions, transcripts, audio description, sign language, and media player accessibility
+* brief explanations of captions, transcripts, description, sign language, and media player accessibility
 * user experiences to help you understand the "why" behind the requirements
 
 What accessibility features you provide with your media will likely be influenced by:
@@ -189,7 +189,7 @@ This section covers audio-only media, like podcasts that don't have video.
 
 ### Inform Users When Not Needed {#none}
 
-If your video does not need captions (because there is no substantive audio content) or does not need audio description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it.
+If your video does not need captions (because there is no substantive audio content) or does not need description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it.
 
 Users who need captions will look there, so you can provide a captions file with only the appropriate indication, such as "[background music]". Or you can provide the information in text with the video, such as:
 
@@ -207,7 +207,7 @@ Captions not needed: The only sound in this video is background music.
 {% include box.html type="start" class="" %}
 {:/}
 
-Audio description not needed: This visuals in this video only support what is spoken; the visuals do not provide additional information.
+Description not needed: This visuals in this video only support what is spoken; the visuals do not provide additional information.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -230,7 +230,7 @@ Descriptive transcripts for videos:
 * are needed for most videos to be accessible to people who are "Deaf-blind"
 * meet a wide range of accessibility needs, including for people who have difficulty processing auditory information and people who cannot focus and comprehend auditory or visual information when there is changing visuals
 * are used by people _without_ disabilities and benefit your organization; for example, <abbr title="search engine optimization">SEO</abbr>) and more listed in a separate page under [Benefits to Organizations and Individuals](/index/#benefits-to-organizations-and-individuals)
-* **are easy and inexpensive to develop** using captions and audio description that you already have to meet Level AA
+* **are easy and inexpensive to develop** using captions and description that you already have to meet Level AA
 
 **Captions and transcripts use the same text. Once you have one, it's fairly easy to develop the other.**
 
@@ -253,7 +253,7 @@ Here is an example workflow for developing an accessible video, with notes on wh
 
 2. Develop a **[described version of the video](/design-develop/media/description/)** at the same time as the main video, if needed.<br>_By:_ Usually the same people who produce the main video also produce the described version.
 
-3. Develop **[captions](/design-develop/media/captions/)** for the main video, for the described version, and of the audio description itself.<br>_By:_ Usually if the video is professionally produced, the producers provide captions. Sometimes when informal videos are developed in-house, captions are outsourced.
+3. Develop **[captions](/design-develop/media/captions/)** for the main video, for the described version, and of the description itself.<br>_By:_ Usually if the video is professionally produced, the producers provide captions. Sometimes when informal videos are developed in-house, captions are outsourced.
 
 4. Develop a **[descriptive transcript](/design-develop/media/transcripts/)** using the text from the caption files.<br>_By:_ Often transcripts are developed in-house from caption files.
 
@@ -264,7 +264,7 @@ Here is an example workflow for developing an accessible video, with notes on wh
 {:/}
 
 To help you **plan in-house and outsourced work**, the pages of this resource include considerations, skills, and tools needed for creating accessible media in these sections:
-* [Audio Description Considerations, Skills, and Tools](/design-develop/media/description/#audio-description-considerations-skills-and-tools)
+* [Description Considerations, Skills, and Tools](/design-develop/media/description/#audio-description-considerations-skills-and-tools)
 * [Captions, Skills and Tools](/design-develop/media/captions/#skills-and-tools) and [Automatic Captions are Not Sufficient](/design-develop/media/captions/#automatic-captions-are-not-sufficient)
 * [Transcripts, Process - Skills and Tools](/design-develop/media/transcripts/#process---skills-and-tools)
 * [Media Players, Skills and Tools](/design-develop/media/player/#skills-and-tools)
