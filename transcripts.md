@@ -15,7 +15,7 @@ ref: /design-develop/media/transcripts/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
-   path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
+   path: 'transcripts.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 
 resource:
   ref: /design-develop/media/
@@ -191,7 +191,7 @@ Keep in mind that the main purpose of a transcript is to provide the information
 
 * **Include timestamps only when useful.** In many cases, including timestamps would be unnecessary clutter. If you do include them, they usually don't need to be as granular as the captions, and do not need to include end times.
 
-* **If starting with captions for video:** The video might have text information that was not included in the captions, for example, the title of the video or the name and title of people speaking. If you also have the captions for the description of visual information, it should already be in there. If not, you'll need to review the video and see if there is text visually that wasn't repeated in the captions, and add that to your transcript.
+* **If starting with captions for video:** The video might have text information that was not included in the captions, for example, the title of the video or the name and title of people speaking. If you also have the description of visual information, it should already be in there. If not, you'll need to review the video and see if there is text visually that wasn't repeated in the captions, and add that to your transcript.
 
 ## Where to Put Transcripts
 
