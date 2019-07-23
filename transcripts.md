@@ -67,13 +67,13 @@ _Interactive transcripts_ highlight text phrases as they are spoken. Users can s
 
 <img src="{{ "/content-images/wai-media-guide/interactive-transcript.png" | relative_url }}" alt="">
 
-## Does My Media Need a Transcript?
+## Does My Media Need a Transcript? {#checklist}
 
 **Short answer: Yes, transcripts are needed to meet the wide range of user needs**.
 
 In a some cases, transcripts are not required to meet WCAG standards. _(The Planning page of this resource introduces the [WCAG Standard](https://wai-media-guide.netlify.com/design-develop/media/planning/#wcag-standard).)_
 
-<div id="tree-ao" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
+<div id="checklist-ao" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
@@ -90,7 +90,7 @@ In a some cases, transcripts are not required to meet WCAG standards. _(The Plan
     </ul>
   </div>
 </div>
-<div id="tree-vo" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
+<div id="checklist-vo" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video-only (no audio content):</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
@@ -102,7 +102,7 @@ In a some cases, transcripts are not required to meet WCAG standards. _(The Plan
     </ul>
   </div>
 </div>
-<div id="tree-va" style="border: solid 1px #DDD; padding-bottom: 0;">
+<div id="checklist-va" style="border: solid 1px #DDD; padding-bottom: 0;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video with audio content:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
