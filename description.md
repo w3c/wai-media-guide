@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
 title: "Audio Description of Visual Information"   # Do not translate "title:". Do translate the text after "title:".
-title_html: '<img src="/content-images/wai-media-guide/AD.png" alt="" class="" style="height: 1em;"> Audio Description of Visual Information'   # Do not translate "title:". Do translate the text after "title:".
+title_html: '<img src="/content-images/wai-media-guide/AD.png" alt="" class="" style="float: right; height: 1em;">Audio Description of Visual Information'   # Do not translate "title:". Do translate the text after "title:".
 
 nav_title: "Description" # A short title that is used in the navigation
 doc-note-type: draft
@@ -30,17 +30,13 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 
 ---
 
-<img src="{{ "/content-images/wai-media-guide/AD.png" | relative_url }}" alt="" style="float: left; width: 27%; max-width: 173px">
-
 {::nomarkdown}
-<div style="margin-left:184px">
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
 This page provides guidance on understanding and creating description of visual information (called _audio description_, _described vide0_, and _video description_) for new and existing videos. (It does not apply to audio-only, such as podcasts.)
 
 {::nomarkdown}
-</div>
 {% include box.html type="end" %}
 {:/}
 
