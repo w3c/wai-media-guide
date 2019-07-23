@@ -121,7 +121,7 @@ Plan for the video not to include important information that would be obstructed
 
 For other guidance including recording, see another page of this resource: [Sign Languages](/design-develop/media/sign-languages/)
 
-### Plan for audio description of visual information – _storyboarding, recording_
+### Plan for audio description of visual information – _storyboarding, recording_ {#plan-description}
 
 _Description_ provides content to people who are blind and others who cannot see the video adequately. It describes the visual information needed to understand the content.
 
