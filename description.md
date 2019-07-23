@@ -4,7 +4,7 @@
 title: "Audio Description of Visual Information"   # Do not translate "title:". Do translate the text after "title:".
 title_html: '<img src="/content-images/wai-media-guide/AD.png" alt="" class="" style="height: 1em;"> Audio Description of Visual Information'   # Do not translate "title:". Do translate the text after "title:".
 
-nav_title: "Audio Description" # A short title that is used in the navigation
+nav_title: "Description" # A short title that is used in the navigation
 doc-note-type: draft
 
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
@@ -37,7 +37,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides guidance on understanding and creating audio description of visual information for new and existing videos. (It does not apply to audio-only, such as podcasts.)
+This page provides guidance on understanding and creating description of visual information (called _audio description_, _described vide0_, and _video description_) for new and existing videos. (It does not apply to audio-only, such as podcasts.)
 
 {::nomarkdown}
 </div>
@@ -60,7 +60,7 @@ This page provides guidance on understanding and creating audio description of v
 
 _What:_ Audio description describes visual information needed to understand the content. It is usually narration added to the soundtrack.
 
-_Who:_ Audio description provides content to people who are blind and others who cannot see the video adequately.
+_Who:_ Description provides content to people who are blind and others who cannot see the video adequately.
 
 _Example:_ [Video that includes audio description of the visual information (YouTube)](https://www.youtube.com/watch?v=F3A1VffiOH4&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-&index=3)
 
@@ -69,9 +69,9 @@ _Example:_ [Video that includes audio description of the visual information (You
 ### Terminology
 {:.no_toc}
 
-Web Content Accessibility Guidelines (WCAG) uses the term "audio description" for description of visual information provided via audio. It is called "described video" in some regions, such as Canada.
+Description of visual information provided via audio is called "audio description" in Web Content Accessibility Guidelines (WCAG). In some regions and documents it is called "video description" or "described video".
 
-This resource uses "described video" in some places as a shortened form of "a video that includes audio description of the visual information".
+This resource uses "described video" in some places as a shortened form of "a video that includes description of the visual information in audio".
 
 ## Does My Media Need Description?
 
@@ -122,13 +122,13 @@ This section tells you:
   </div>
 </div>
 
-## Audio Description Considerations, Skills, and Tools
+## Description Considerations, Skills, and Tools
 
-When accessibility is considered _before_ videos are produced, it significantly cuts down on cost and effort to develop audio description. For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers as the video is planned and created, and you don't need separate audio description, thus there is no additional cost.
+When accessibility is considered _before_ videos are produced, it significantly cuts down on cost and effort to develop description. For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers as the video is planned and created, and you don't need separate description, thus there is no additional cost.
 
-Information on planning for audio description in _new videos_ is in the "Creating Audio and Video Content" page, [Plan for Audio Description of Visual Information section](/design-develop/media/av-content/#plan-for-audio-description-of-visual-information).
+Information on planning for description in _new videos_ is in the "Creating Audio and Video Content" page, [Plan for Audio Description of Visual Information section](/design-develop/media/av-content/#plan-description).
 
-To add audio description to _an existing video_, you'll likely need skills and tools to:
+To add description to _an existing video_, you'll likely need skills and tools to:
 * write it
 * narrate it
 * record it
@@ -149,19 +149,19 @@ First, figure out these issues about your video content and timing:
 
 * **Media player support** &mdash; Does the media player, platform, or plug-in that you are using provide functionality for a separate audio track for description? Information about player functionality is in [Accessible Media Players](/design-develop/media/av-content/#integrate-description).
 
-***Use the information from above to answer the following questions*** in order to determine how to provide audio description for your video.
+***Use the information from above to answer the following questions*** in order to determine how to provide description for your video.
 
 <div id="tree-new" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">New videos:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
     <p>Can the speakers describe the visual information in the main audio?</p>
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top:0; margin-bottom: 0;">
-      <li>If yes, provide <strong>integrated description</strong>. No separate audio description is needed. </li>
+      <li>If yes, provide <strong>integrated description</strong>. No separate description is needed. </li>
       <li>If no, can you smoothly provide enough space in the main audio for the description? <em>And</em> will you use a media player that supports a separate audio track for the description?
         <ul>
-          <li>If yes, provide  description in a <strong>separate audio file</strong>,<br>
-            <em><strong>or</strong></em> provide a <strong>separate described  video</strong>. </li>
-          <li>If no, provide a <strong>separate described  video</strong>. </li>
+          <li>If yes, provide description in a <strong>separate audio file</strong>,<br>
+            <em><strong>or</strong></em> provide a <strong>separate described video</strong>. </li>
+          <li>If no, provide a <strong>separate described video</strong>. </li>
         </ul>
       </li>
     </ul>
@@ -173,9 +173,9 @@ First, figure out these issues about your video content and timing:
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
     <p>Is there enough space in the main audio for the description? <em>And</em> will you use a media player that supports a separate audio track for the description?</p>
     <ul style="padding-bottom: 11px; padding-top: 0; margin-top:0; margin-bottom: 0;">
-      <li>If yes, provide  description in a <strong>separate audio file</strong>,<br>
-        <em><strong>or</strong></em> provide a <strong>separate described  video</strong>. </li>
-      <li>If no, provide a <strong>separate described  video</strong>.</li>
+      <li>If yes, provide description in a <strong>separate audio file</strong>,<br>
+        <em><strong>or</strong></em> provide a <strong>separate described video</strong>. </li>
+      <li>If no, provide a <strong>separate described video</strong>.</li>
     </ul>
   </div>
 </div>
@@ -202,7 +202,7 @@ The process to develop a separate audio file is basically:
 * _**If**_ your player uses separate video and audio tracks,<br>you're done.
 * _**If**_ your player uses a single video file that includes the audio,<br>generate the new described video with the audio file that you just created.
 
-(Make sure on the web page where the video is available, the Audio Described version uses the correct version that you just created.)
+(Make sure on the web page where the video is available, the Described version uses the correct version that you just created.)
 
 ### Creating a Separate Described Video - If Descriptions Do Not Fit in Spaces
 
@@ -216,26 +216,27 @@ The process to develop a separate audio file and edit the visual track is basica
 	* _**If**_ you have source video with longer scenes _(as described in Accessible Audio and Video Content, [Time for description section](/design-develop/media/av-content/#time-for-description))_, recut the scenes longer to fill in the visual space where you need to accommodate the time for the description.
 	* _**If not or if you're adding to an existing video**_, you will need to leave a static image in the video while the description is playing in the audio. (For example, this video [@@ need example - see GitHub](https://github.com/w3c/wai-media-guide/issues/73) pauses at 00:00 for the audio description.)
 
-(Make sure on the web page where the video is available, the Audio Described version uses the correct version that you just created.)
+(Make sure on the web page where the video is available, the Described version uses the correct version that you just created.)
 
 ### Creating Description in a Separate Audio File Only
 
 This requires skills and software for audio recording and audio editing.
 
-_(Per above, this approach only works when there enough space in the main audio for the description, and the media player supports a separate audio track for the description.)_
+_(Per above, this approach only works when there enough space in the main audio for the description, *and* the media player supports a separate audio track for the description.)_
 
 The process to develop description in a separate audio file is basically:
 1. Write out the descriptions. See [Tips for Writing Descriptions below](#writing).
 2. Record the descriptions. See [Tips for Recording Descriptions below](#recording).
 3. Provide synching data for the audio file … @@...
 4. Provide a caption file of the description. [Example VTT file of audio description](#vtt)
-5. Ensure the files are integrated with the player on the web page.
+
+(Ensure the files are integrated with the player on the web page.)
 
 ### Other Options
 {:.no_toc}
 
-* Audio Description via text track &mdash; "As of February 2019 when this Advisory technique was last reviewed by the Working Group, there is no native support in user agents for this technique. However, support is available via JavaScript polyfills." — [WCAG Technique H96](https://www.w3.org/TR/WCAG20-TECHS/H96.html) 
-* Extended Audio Description with SMIL &mdash; The only markup-based method for providing extended audio descriptions is to use SMIL 3.0. Support for SMIL is very limited. Implementations would most likely require plug-ins and/or heavily customized approaches.
+* Description via text track &mdash; "As of February 2019 when this Advisory technique was last reviewed by the Working Group, there is no native support in user agents for this technique. However, support is available via JavaScript polyfills." — [WCAG Technique H96](https://www.w3.org/TR/WCAG20-TECHS/H96.html) 
+* Extended Description with SMIL &mdash; The only markup-based method for providing extended audio descriptions is to use SMIL 3.0. Support for SMIL is very limited. Implementations would most likely require plug-ins and/or heavily customized approaches.
 * Provide functionality for the video to pause for the description &mdash; This is not suggested in most cases because it requires extra coding and provides a less-than-optimum user experience.
 
 {% include_cached excol.html type="start" id="tips" %}
@@ -294,4 +295,3 @@ WEBVTT
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
-
