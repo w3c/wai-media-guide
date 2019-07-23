@@ -68,7 +68,7 @@ What accessibility features you provide with your media will likely be influence
 
 This resource endeavors to help you know the requirements and encourages you to meet all user needs.
 
-## Checklists for Audio and Video
+## Checklists for Audio and Video {#checklist}
 
 The checklists below cover audio-only content and video content, and pre-recorded and live. They include:
 * What is required in the Web Content Accessibility Guidelines (WCAG) standard at Level A, AA, and AAA. _([WCAG](#WCAG-standards) is explained below.))_
