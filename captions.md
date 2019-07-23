@@ -94,8 +94,8 @@ For optimum accessibility, provide a separate caption file of the audio descript
 ## Does My Media Need Captions?
 
 This section tells you:
-* what is needed to meet user needs 
-* what is required to meet the WCAG standard _(The Planning page of this resource introduces the [WCAG Standard](https://wai-media-guide.netlify.com/design-develop/media/planning/#wcag-standard).)_
+* What is required in the WCAG standard at Level A, AA, and AAA. _([WCAG](https://wai-media-guide.netlify.com/design-develop/media/planning/#wcag-standard) is introduced in the Planning page of this resource.)_
+* What is needed to meet user needs, beyond WCAG. If there are no "A"s, then it is not required in WCAG.
 
 <div id="tree-ao" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
