@@ -221,7 +221,7 @@ For videos, captions enable people who are Deaf or hard of hearing to see the vi
 
 For audio-only, captions enable people who are hard of hearing to get the richness of listening to the audio and fill in what they don't hear well by reading the captions.
 
-Transcripts are needed to provide access to people who are Deaf-blind and use braille. Also, transcripts are used by people without disabilities, as listed in a separate page under [Benefits to Organizations and Individuals](/index/#benefits-to-organizations-and-individuals).
+Transcripts are needed to provide access to people who are Deaf-blind and use braille. Also, transcripts are used by people without disabilities, as listed in the intro page under [Benefits to Organizations and Individuals](/index/#benefits-to-organizations-and-individuals).
 
 ### Descriptive Transcripts
 
@@ -229,7 +229,7 @@ Descriptive transcripts for videos:
 
 * are needed for most videos to be accessible to people who are "Deaf-blind"
 * meet a wide range of accessibility needs, including for people who have difficulty processing auditory information and people who cannot focus and comprehend auditory or visual information when there is changing visuals
-* are used by people _without_ disabilities and benefit your organization; for example, <abbr title="search engine optimization">SEO</abbr>) and more listed in a separate page under [Benefits to Organizations and Individuals](/index/#benefits-to-organizations-and-individuals)
+* are used by people _without_ disabilities and benefit your organization; for example, <abbr title="search engine optimization">SEO</abbr>) and more listed in a intro page under [Benefits to Organizations and Individuals](/index/#benefits-to-organizations-and-individuals)
 * **are easy and inexpensive to develop** using captions and description that you already have to meet Level AA
 
 **Captions and transcripts use the same text. Once you have one, it's fairly easy to develop the other.**
@@ -263,7 +263,7 @@ Here is an example workflow for developing an accessible video, with notes on wh
 {% include box.html type="end" %}
 {:/}
 
-{#in-or-out}
+### Resourcing Accessibility {#in-or-out}
 
 To help you **plan in-house and outsourced work**, the pages of this resource include considerations, skills, and tools needed for creating accessible media in these sections:
 * [Description Considerations, Skills, and Tools](/design-develop/media/description/#audio-description-considerations-skills-and-tools)
@@ -272,7 +272,7 @@ To help you **plan in-house and outsourced work**, the pages of this resource in
 * [Media Players, Skills and Tools](/design-develop/media/player/#skills-and-tools)
 * [Sign Languages, Skills and Tools](/design-develop/media/sign-languages/#skills-and-tools)
 
-When planning and budgeting for accessible media, it is often helpful to communicate the **benefits to organizations**, such as search engine optimization (SEO), better user experience for all, improved customer satisfaction, and more listed in a separate page under [Benefits to Organizations and Individuals](/index/#benefits-to-organizations-and-individuals).
+When planning and budgeting for accessible media, it is often helpful to communicate the **benefits to organizations**, such as search engine optimization (SEO), better user experience for all, improved customer satisfaction, and more listed in a intro page under [Benefits to Organizations and Individuals](/index/#benefits-to-organizations-and-individuals).
 
 ## WCAG Standard
 
