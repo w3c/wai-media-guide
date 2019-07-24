@@ -186,7 +186,6 @@ This section covers audio-only media, like podcasts that don't have video.
 {% include box.html type="end" %}
 {:/}
 
-
 ### Inform Users When Not Needed {#none}
 
 If your video does not need captions (because there is no substantive audio content) or does not need description (because there is no substantive visual content), it's good to let users know that. Otherwise, they might think that you accidentally forgot to provide it.
@@ -238,7 +237,7 @@ Descriptive transcripts for videos:
 
 Translation of the audio into other languages can be provided:
 * as text, using captions format (called subtitles or intralingual subtitles)
-* as audio, usually as a separate audio stream (for people who cannot read captions)
+* as spoken audio, usually as a separate audio stream (for people who cannot read captions)
 
 ## Project Management
 
