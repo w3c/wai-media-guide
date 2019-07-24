@@ -108,18 +108,18 @@ That page provides:
 ## Benefits to Organizations and Individuals
 
 Organizations that make their audio and video accessible can realize benefits such as:
-* Better indexing by search engines.
+* Increased traffic and website use, for example, in the [situations described below](#situations).
 * Better user experience for all and improved customer satisfaction.
-* Increased use in the situations described in the "Use by People With and Without Disabilities" section below.
+* Better indexing by search engines.
 
-Benefits to organizations are illustrated these other resources:
+Benefits to organizations are illustrated in these other resources:
 * The business case includes **case study data** from adding transcripts, and more on how accessibility can [increase your market reach](https://www.w3.org/WAI/business-case/#increase-market-reach).
 * Benefits of transcripts and captions to a university are mentioned in a [**user story/persona** of an online student who is hard of hearing](https://www.w3.org/WAI/people-use-web/user-stories/#onlinestudent).
 * Some benefits of captions are illustrated in a 1-minute [**Video** on Captions](https://www.w3.org/WAI/perspective-videos/captions/)<br>{% include video-link.html class="small" href="https://www.w3.org/WAI/perspective-videos/captions/" src="/content-images/wai-media-guide/captions-video-still.jpg" %}
 
 ### Use by People With and Without Disabilities {#situations}
 
-Accessible audion and video is **essential for people with disabilities**, and is **useful for everyone** in a variety of situations.
+Accessible audio and video is **essential for people with disabilities**, and is **useful for everyone** in a variety of situations.
 
 For example, transcripts can be:
 * Skimmed or read rather than watched or listened to. This is significantly easier and quicker for many users. Sometimes people want to skim the transcript first before deciding whether or not to play the media.
@@ -128,7 +128,7 @@ For example, transcripts can be:
 
 And captions can be used:
 * In loud environments where users cannot hear the audio. For example, a bar, an airport, or a concert.
-* In quiet environments where users cannot turn on sound. For example, in a library, on public transporation, or when others are sleeping.
+* In quiet environments where users cannot turn on sound. For example, in a library, on public transportation, or when others are sleeping.
 * By people who cannot understand the spoken language well and can understand the written language better. For example, people who are not native speakers of the language.
 * By people to help them learn to read. For example, children, adults, and people learning a new language.
 * To better understand content because users can hear the information in audio and see it in text at the same time. For example, a [Research Study of Closed Captions & Transcripts {% include_cached external.html %}](https://www.3playmedia.com/2019/02/21/8-benefits-of-transcribing-captioning-videos/) found that 71% of students _without_ hearing difficulties use captions, primarily to help them focus and retain information.
