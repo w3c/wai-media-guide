@@ -238,6 +238,7 @@ Descriptive transcripts for videos:
 Translation of the audio into other languages can be provided:
 * as text, using captions format (called subtitles or intralingual subtitles)
 * as spoken audio, usually as a separate audio stream (for people who cannot read captions)
+* as sign language
 
 ## Project Management
 
