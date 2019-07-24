@@ -77,7 +77,7 @@ To include sign language alternatives, you will need people, skills, and tools t
 
 ## Example
 
-Example sign language in video: [NHS 111 British Sign Language (BSL) Advert (YouTube)[offsite icon]](https://www.youtube.com/watch?v=TCq3ru9HQSc){% include video-link.html class="default" href="https://www.youtube.com/watch?v=TCq3ru9HQSc" src="/content-images/wai-media-guide/sign-example.jpg" %}
+Example sign language in video: [NHS 111 British Sign Language (BSL) Advert (YouTube){% include_cached external.html %}](https://www.youtube.com/watch?v=TCq3ru9HQSc){% include video-link.html class="default" href="https://www.youtube.com/watch?v=TCq3ru9HQSc" src="/content-images/wai-media-guide/sign-example.jpg" %}
 
 ## Creating Sign Language Alternatives
 
@@ -99,5 +99,5 @@ Avoid obscuring important content - _post-production_
 {:.paragraph-like}
 
 There are resources on the web that provide additional guidance on creating sign language alternatives. For example:
-* [Sign Language Interpretation in HBBTV (PDF)[offsite icon]](http://pagines.uab.cat/hbb4all/sites/pagines.uab.cat.hbb4all/files/sign_language_interpreting_in_hbbtv.pdf) includes specific guidance on aspects such as working with sign language interpreters and types of onscreen presentation
-* Guidelines for the Production of Signing Books includes [Sign language presentation [offsite icon]](http://www.sign-lang.uni-hamburg.de/signingbooks/deliver/d31/deliv_31_part3-2.html#3.2.2.6) and [Editing [offsite icon]](http://www.sign-lang.uni-hamburg.de/signingbooks/sbrc/grid/d71/guide13.htm)
+* [Sign Language Interpretation in HBBTV (PDF){% include_cached external.html %}](http://pagines.uab.cat/hbb4all/sites/pagines.uab.cat.hbb4all/files/sign_language_interpreting_in_hbbtv.pdf) includes specific guidance on aspects such as working with sign language interpreters and types of onscreen presentation
+* Guidelines for the Production of Signing Books includes [Sign language presentation {% include_cached external.html %}](http://www.sign-lang.uni-hamburg.de/signingbooks/deliver/d31/deliv_31_part3-2.html#3.2.2.6) and [Editing {% include_cached external.html %}](http://www.sign-lang.uni-hamburg.de/signingbooks/sbrc/grid/d71/guide13.htm)
