@@ -234,6 +234,12 @@ Descriptive transcripts for videos:
 
 **Captions and transcripts use the same text. Once you have one, it's fairly easy to develop the other.**
 
+### Other Languages
+
+Translation of the audio into other languages can be provided:
+* as text, using captions format (called subtitles or intralingual subtitles)
+* as audio, usually as a separate audio stream (for people who cannot read captions)
+
 ## Project Management
 
 <img src="{{ "/content-images/wai-media-guide/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
