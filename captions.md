@@ -65,7 +65,7 @@ The terms "captions" and "subtitles" are used for the same thing in different re
 * _Captions_ for the same language.
 * _Subtitles_ for spoken audio translated into another language.
 
-Some regions use _subtitles_ for both the same language as the audio and for the translation. Sometimes they are distinguished as _intralingual subtitles_ and _intralingual subtitles_.
+Some regions use _subtitles_ for both the same language as the audio and for the translation. Sometimes they are distinguished as _intralingual subtitles_ (same language) and _interlingual subtitles_ (different language).
 
 Subtitles are implemented the same way as captions. Subtitles/intralingual subtitles are usually only the spoken audio (for people who can hear the audio but do not know the spoken language). They can be a translation of the caption content, including non-speech audio information.
 
