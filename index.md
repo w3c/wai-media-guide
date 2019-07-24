@@ -131,6 +131,6 @@ And captions can be used:
 * In quiet environments where users cannot turn on sound. For example, in a library, on public transporation, or when others are sleeping.
 * By people who cannot understand the spoken language well and can understand the written language better. For example, people who are not native speakers of the language.
 * By people to help them learn to read. For example, children, adults, and people learning a new language.
-* To better understand content because users can hear the information in audio and see it in text at the same time. For example, a [Research Study of Closed Captions & Transcripts [offsite icon]](https://www.3playmedia.com/2019/02/21/8-benefits-of-transcribing-captioning-videos/) found that 71% of students _without_ hearing difficulties use captions, primarily to help them focus and retain information.
+* To better understand content because users can hear the information in audio and see it in text at the same time. For example, a [Research Study of Closed Captions & Transcripts {% include_cached external.html %}](https://www.3playmedia.com/2019/02/21/8-benefits-of-transcribing-captioning-videos/) found that 71% of students _without_ hearing difficulties use captions, primarily to help them focus and retain information.
 
 This resource helps make your media usable in all those situations, by people with and without disabilities. The next page gets you started **[Planning Accessible Audio and Video Media](/design-develop/media/planning/)**.
