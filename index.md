@@ -78,7 +78,7 @@ Most default browser media players have limited functionality to support accessi
 
 Specific guidance for other aspects of making your media accessible are in the following pages:
 
-<img src="{{ "/content-images/wai-media-guide/AD.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
+<img src="{{ "/content-images/wai-media-guide/D-only.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
 <p style="margin-left:123px"><strong><a href="/design-develop/media/description/">Audio Description of Visual Information</a></strong> &mdash; Description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content.</p>
 
