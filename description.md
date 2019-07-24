@@ -200,7 +200,7 @@ The process to develop a separate audio file is basically:
 
 (Make sure on the web page where the video is available, the Described version uses the correct version that you just created.)
 
-### Creating a Separate Described Video - If Descriptions Do Not Fit in Spaces
+### Creating a Separate Described Video - If Descriptions Do _Not_ Fit in Spaces
 
 If all the descriptions do **not** fit in the spaces _(as described in [Space in audio above](#space)_), you'll need to develop a separate audio file and also edit the visual track. This requires skills and software for audio recording, audio editing, and video editing.
 
