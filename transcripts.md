@@ -2,6 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
 title: "Transcripts"   # Do not translate "title:". Do translate the text after "title:".
+title_html: '<img src="/content-images/wai-media-guide/transcript.png" alt="" class="" style="float: right; height: 2em;">Transcripts'
 nav_title: "Transcripts" # A short title that is used in the navigation
 doc-note-type: draft
 
