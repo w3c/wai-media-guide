@@ -79,7 +79,7 @@ A little about captioning tools is in the Captions/Subtitles page of this resour
 
 ## What to Transcribe
 
-Generally, you transcribe all speech and relevant non-speech sound, such as {@@ example, example, example}. Keep in mind that the main purpose is to **provide the information that you hear to people who cannot hear the audio**. That will help you know which sounds to transcribe, and which are not needed. The following are common practices, not requirements.
+Generally, you transcribe all speech and relevant non-speech sound (such as: baby cries, fireworks going off, horse hoofs approaching). Keep in mind that the main purpose is to **provide the information that you hear to people who cannot hear the audio**. That will help you know which sounds to transcribe, and which are not needed. The following are common practices, not requirements.
 
 ### Basics
 
