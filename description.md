@@ -26,7 +26,7 @@ navigation:
   next:     /design-develop/media/captions/
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:".
-   <p> ... Tips References: <a href="https://dcmp.org/learn/227">Description Tip Sheet [offsite icon]</a> and <a href="http://www.descriptionkey.org/how_to_describe.html">How to Describe [offsite icon]</a>. ...</p>
+   <p> ... Tips References: <a href="https://dcmp.org/learn/227">Description Tip Sheet {% include_cached external.html %}</a> and <a href="http://www.descriptionkey.org/how_to_describe.html">How to Describe [offsite icon]</a>. ...</p>
 
 ---
 
