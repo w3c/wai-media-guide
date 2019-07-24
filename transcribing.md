@@ -121,8 +121,6 @@ Generally, you transcribe all speech and relevant non-speech sound, such as {@@ 
 * If you cannot understand what is said, transcribe:<br>
 [unintelligible]
 
-* [@@ Do not caption the same, or nearly the same, information that is already shown onscreen. https://dcmp.org/learn/225 ]
-
 ## More on Captions
 
 For captions:
