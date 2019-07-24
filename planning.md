@@ -72,7 +72,7 @@ This resource endeavors to help you know the requirements and encourages you to 
 
 The checklists below cover audio-only content and video content, and pre-recorded and live. They include:
 * What is required in the Web Content Accessibility Guidelines (WCAG) standard at Level A, AA, and AAA. _([WCAG](#wcag-standard) is explained below.)_
-* What is needed to meet user needs, beyond WCAG. (If there are no 'A's, then it is not required in WCAG.)
+* What is needed to meet user needs, beyond WCAG. (If it doesn't have any 'A', then it is not required in WCAG.)
 
 The links below go to a web page in this resource with details on understanding and implementing each thing.
 
