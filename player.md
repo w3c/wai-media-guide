@@ -85,6 +85,6 @@ More details on player accessibility functionalty are in a separate document: [M
 
 ## Existing Players
 
-There is information online indicating the accessibility of media players. For example, [Web-Based Media Player Accessibility Comparison Table {% include_cached icon.html name="external" %}](http://kensgists.github.io/apt/).
+There is information online indicating the accessibility of media players. For example, [Web-Based Media Player Accessibility Comparison Table {% include_cached external.html %}](http://kensgists.github.io/apt/).
 
-Each media player provides documentation of the steps to set it up in a web page. For example, [AblePlayer Setup Steps {% include_cached icon.html name="external" %}](https://ableplayer.github.io/ableplayer/#setup-step-1-use-html5-doctype).
+Each media player provides documentation of the steps to set it up in a web page. For example, [AblePlayer Setup Steps {% include_cached external.html %}](https://ableplayer.github.io/ableplayer/#setup-step-1-use-html5-doctype).
