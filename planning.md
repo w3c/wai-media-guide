@@ -263,6 +263,8 @@ Here is an example workflow for developing an accessible video, with notes on wh
 {% include box.html type="end" %}
 {:/}
 
+{#in-or-out}
+
 To help you **plan in-house and outsourced work**, the pages of this resource include considerations, skills, and tools needed for creating accessible media in these sections:
 * [Description Considerations, Skills, and Tools](/design-develop/media/description/#audio-description-considerations-skills-and-tools)
 * [Captions, Skills and Tools](/design-develop/media/captions/#skills-and-tools) and [Automatic Captions are Not Sufficient](/design-develop/media/captions/#automatic-captions-are-not-sufficient)
