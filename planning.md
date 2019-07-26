@@ -27,6 +27,11 @@ navigation:
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". 
 
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+.listcircle { list-style-type: circle; }
+</style>")
+
 ---
 
 {::nomarkdown}
@@ -37,6 +42,7 @@ This page helps you plan accessible media. It:
 * helps you **figure out what your specific audio or video needs** (captions, description, a transcript, etc.)
 * helps with project management and planning what to develop in-house and what to outsource
 * shows the **standards** for audio and video media in Web Content Accessibility Guidelines (WCAG) 
+{:.listcircle}
 
 {::nomarkdown}
 {% include box.html type="end" %}
