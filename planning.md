@@ -1,4 +1,4 @@
----
+ ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
 title_html: "Planning Accessible Audio and Video Media"
@@ -30,7 +30,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 
 (setq markdown-xhtml-header-content
       "<style type='text/css'>
-.checkbox { list-style-type: circle; }
+.listcircle { list-style-type: circle; }
 </style>")
 
 {::nomarkdown}
@@ -40,7 +40,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 This page helps you plan accessible media. It:
 * helps you **figure out what your specific audio or video needs** (captions, description, a transcript, etc.)
 * helps with project management and planning what to develop in-house and what to outsource
-* shows the **standards** for audio and video media in Web Content Accessibility Guidelines (WCAG) 
+* shows the **standards** for audio and video media in Web Content Accessibility Guidelines (WCAG)
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -87,7 +87,7 @@ The links below go to a web page in this resource with details on understanding 
 - **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** is accessible (for example, what is said and how it's recorded)
 - **[Video content](/design-develop/media/av-content) (A)** is accessible (for example, doesn't cause seizures)
 - **[Media player](/design-develop/media/player) (A)** supports accessibility
-{:.checkbox}
+{:.listcircle}
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -108,7 +108,7 @@ This section covers audio-only media, like podcasts that don't have video.
 -   **[Transcript](/design-develop/media/transcripts/) (A)** separate from the audio
 -   **[Sign language(s)](/design-develop/media/sign-languages/) (AAA)**
 -   **[Captions](/design-develop/media/captions/)** synchronised with the audio
-{:.checkbox}
+{:.listcircle}
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -125,7 +125,7 @@ This section covers audio-only media, like podcasts that don't have video.
 -   **[Captions](/design-develop/media/captions/) (AA)**
 -   **[Transcript](/design-develop/media/transcripts/) (AAA)**
 -   **[Sign language(s)](/design-develop/media/sign-languages/)**
-{:.checkbox}
+{:.listcircle}
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -147,7 +147,7 @@ This section covers audio-only media, like podcasts that don't have video.
     -   **[Captions](/design-develop/media/captions/)** **(AA)**
     -   **[Transcript of audio information](/design-develop/media/transcripts/) (AAA)** *(The same text from the captions file, in a different format.)*
     -   **[Sign language(s)](/design-develop/media/sign-languages/) (AAA)**
-    {:.checkbox}
+    {:.listcircle}
 -   If no, [inform users](#none).
 
 **Does the video have visual information** that is needed to understand the content?
@@ -155,7 +155,7 @@ This section covers audio-only media, like podcasts that don't have video.
 -   If yes,
     -   **[Audio description of the visual information](/design-develop/media/description) (A/AA)**
     -   **[Descriptive transcript](/design-develop/media/transcripts) (AAA)** *(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)*
-    {:.checkbox}
+    {:.listcircle}
 -   If no, [inform users](#none).
 
 {::nomarkdown}
@@ -176,14 +176,14 @@ This section covers audio-only media, like podcasts that don't have video.
     -   **[Captions](/design-develop/media/captions/) (AA)**
     -   **[Sign language(s)](/design-develop/media/sign-languages/)**
     -   Text stream available to screen readers for braille
-    {:.checkbox}
+    {:.listcircle}
 -   If no, [inform users](#none).
 
 **Is there visual information** that is needed to understand the content?
 
 -   If yes,
     -   Description of important visual information in a text stream available to screen readers for braille
-    {:.checkbox}
+    {:.listcircle}
 -   If no, [inform users](#none).
 
 {::nomarkdown}
@@ -394,4 +394,4 @@ Other WCAG requirements related to audio and video include:
    * [2.2.2 Pause, Stop, Hide](https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide) (Level A) For moving, blinking, scrolling, or auto-updating information, all of the following are true:...
    * [1.4.2 Audio Control](https://www.w3.org/WAI/WCAG21/Understanding/audio-controll) (Level A) If any audio on a Web page plays automatically for more than 3 seconds, either a mechanism is available to pause or stop the audio, or a mechanism is available to control audio volume...
 
-Your audio and video may be subject to additional requirements, for example under governmental regulations. Some of these are listed in [Web Accessibility Laws & Policies](https://www.w3.org/WAI/policies/). 
+Your audio and video may be subject to additional requirements, for example under governmental regulations. Some of these are listed in [Web Accessibility Laws & Policies](https://www.w3.org/WAI/policies/).
