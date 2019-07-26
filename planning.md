@@ -26,13 +26,12 @@ navigation:
   next:     /design-develop/media/av-content/
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". 
+---
 
 (setq markdown-xhtml-header-content
       "<style type='text/css'>
 .listcircle { list-style-type: circle; }
 </style>")
-
----
 
 {::nomarkdown}
 {% include box.html type="start" title="Summary" class="" %}
