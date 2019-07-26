@@ -1,4 +1,4 @@
- ---
+---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
 title_html: "Planning Accessible Audio and Video Media"
