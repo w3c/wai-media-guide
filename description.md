@@ -60,7 +60,7 @@ _Who:_ Description provides content to people who are blind and others who canno
 
 _Example:_ [Video that includes audio description of the visual information (YouTube)](https://www.youtube.com/watch?v=F3A1VffiOH4&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-&index=3)
 
-<img src="{{ "/content-images/wai-media-guide/using-description1.jpg" | relative_url }}" alt="" style="width: 50%; max-width: 500px">
+<img src="{{ "/content-images/wai-media-guide/using-description.jpg" | relative_url }}" alt="" style="width: 50%; max-width: 500px">
 
 ### Terminology
 {:.no_toc}
