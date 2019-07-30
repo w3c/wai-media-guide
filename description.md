@@ -143,7 +143,7 @@ First, figure out these issues about your video content and timing:
    * If the only description needed is at the beginning of the video where these is a text title and background music, then: Yes, there is enough space.
    * If the speaker talks continually without pausing, then: No, there is not enough space for description.
 
-* **Media player support** &mdash; Does the media player, platform, or plug-in that you are using provide functionality for a separate audio track for description? Information about player functionality is in [Accessible Media Players](/design-develop/media/av-content/#integrate-description).
+* **Media player support** &mdash; Does the media player, platform, or plug-in that you are using provide functionality for a separate audio track for description? Information about player functionality is linked in the Accessible Media Players page under [Existing Players](/design-develop/media/player/#existing-players).
 
 ***Use the information from above to answer the following questions*** in order to determine how to provide description for your video.
 
