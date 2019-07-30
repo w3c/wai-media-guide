@@ -84,7 +84,7 @@ Specific guidance for other aspects of making your media accessible are in the f
 
 <img src="{{ "/content-images/wai-media-guide/CC.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
-<p style="margin-left:123px"><strong><a href="/design-develop/media/captions/">Captions/Subtitles</a></strong> &mdash; Captions (also called "subtitles") provide content to people who are Deaf and hard-of-hearing. Captions are a text version of the speech and non-speech audio information needed to understand the content. They are synchronized with the audio and usually shown in a media player.</p>
+<p style="margin-left:123px"><strong><a href="/design-develop/media/captions/">Captions/Subtitles</a></strong> &mdash; Captions (also called "subtitles") provide content to people who are Deaf and hard-of-hearing. Captions are a text version of the speech and non-speech audio information needed to understand the content. They are synchronized with the audio and usually shown in a media player when users turn them on.</p>
 
 <img src="{{ "/content-images/wai-media-guide/transcript.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
