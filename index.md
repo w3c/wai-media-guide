@@ -60,7 +60,7 @@ Before we get into details and descriptions, it's useful to understand the user 
 * People who are **blind** can't see videos. They use **audio description of visual information** to understand what's going on visually.
 * People who are **Deaf-blind** use a screen reader and Braille to read **descriptive transcripts** that include the audio and visual information as text.
 * Some people **cannot focus and comprehend auditory or visual information** when there are changing visuals. For most videos, they also need **descriptive transcripts**.
-* Some people cannot use their hands and **use voice recognitive software** to operate their computer, including the **media player**.  And people who are **blind** need the media player to work without a mouse.
+* Some people cannot use their hands and **use voice recognition software** to operate their computer, including the **media player**.  And people who are **blind** need the media player to work without a mouse.
 
 ## How to Make Audio and Video Accessible
 
