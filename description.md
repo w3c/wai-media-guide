@@ -223,7 +223,7 @@ _(Per above, this approach only works when there is enough space in the main aud
 The process to develop description in a separate audio file is basically:
 1. Write out the descriptions. See [Tips for Writing Descriptions below](#writing).
 2. Record the descriptions. See [Tips for Recording Descriptions below](#recording).
-3. Provide synching data for the audio file … @@...
+3. Ensure the descriptions play in the audio spaces with the main video.
 4. Provide a caption file of the description. [Example VTT file of audio description](#vtt)
 
 (Ensure the files are integrated with the player on the web page.)
