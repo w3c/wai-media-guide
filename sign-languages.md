@@ -100,7 +100,7 @@ Avoid obscuring important content - _post-production_
 : Ideally when the video was made, the position of the signer was planned for, as noted in another page of this resource: [Plan for sign language – storyboarding, recording](/design-develop/media/av-content/#plan-for-sign-language--storyboarding-recording).
 
 Make sign language video(s) easy to discover and use
-: For example, directly underneath the media player, include a large visible button and/or labelled image for the sign language videos(s).<br>[@@example button with icon and "Auslan"]
+: For example, directly underneath the media player, include a large visible button and/or labelled image for the sign language videos(s).<br><img src="{{ "/content-images/wai-media-guide/sign-button.png" | relative_url }}" alt="" style="max-width: 162px">
 {:.paragraph-like}
 
 There are resources on the web that provide additional guidance on creating sign language alternatives. For example:
