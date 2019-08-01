@@ -56,7 +56,9 @@ Sign languages use hand and arm movements, facial expressions, and body position
 
 Sign language is the native language of many people are Deaf. Some do not read or understand written language well &mdash; especially at the speed of most captions.
 
-Not everyone who is Deaf knows sign languages, especially if they became Deaf later in life.
+For videos, some people will want to have sign language and captions at the same time.
+
+Not everyone who is Deaf knows sign language, especially if they became Deaf or hard-of-hearing later in life. Some people use "lip reading" to help understand speech, though that cannot be replied upon for accessibility.
 
 Sign languages are different across regions and countries. For example, American Sign Language (ASL), British Sign Language (BSL), and Auslan (Australian Sign Language) are all different.
 
@@ -73,7 +75,7 @@ Sign language is in the WCAG standard at Level AAA. _(The Planning page of this 
 To include sign language alternatives, you will need people, skills, and tools to:
 * do the sign language interpretation
 * record it
-* edit it in/with the audio or video file
+* edit it with the audio or video file
 
 ## Example
 
@@ -96,6 +98,9 @@ Ensure the signer is large enough - _post-production_
 Avoid obscuring important content - _post-production_
 : Position the signer to avoid obscuring important information in the video. The signer is usually at the bottom right. If your video has information such as a news ticker at the bottom, position the signer above that.
 : Ideally when the video was made, the position of the signer was planned for, as noted in another page of this resource: [Plan for sign language – storyboarding, recording](/design-develop/media/av-content/#plan-for-sign-language--storyboarding-recording).
+
+Make sign language video(s) easy to discover and use
+: For example, directly underneath the media player, include a large visible button and/or labelled image for the sign language videos(s).<br>[@@example button with icon and "Auslan"]
 {:.paragraph-like}
 
 There are resources on the web that provide additional guidance on creating sign language alternatives. For example:
