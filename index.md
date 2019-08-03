@@ -62,6 +62,8 @@ Before we get into details and descriptions, it's useful to understand the user 
 * Some people **cannot focus and comprehend auditory or visual information** when there are changing visuals. For most videos, they also need **descriptive transcripts**.
 * Some people cannot use their hands and **use voice recognition software** to operate their computer, including the **media player**.  And people who are **blind** need the media player to work without a mouse.
 
+_(More information on user needs is in separate pages: [Media Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/) and [How People with Disabilities Use the Web](/people-use-web/).)_
+
 ## How to Make Audio and Video Accessible
 
 <img src="{{ "/content-images/wai-media-guide/planning.png" | relative_url }}" alt="" style="float: right; margin-left: 1rem; width: 11%; max-width: 77px">
