@@ -5,7 +5,7 @@ title_html: "Planning Accessible Audio and Video Media"
 
 title: "Planning Accessible Audio and Video Media"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Planning" # A short title that is used in the navigation
-# doc-note-type: draft
+doc-note-type: draft
 
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-04-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -27,11 +27,6 @@ navigation:
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". 
 ---
-
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-.listcircle { list-style-type: circle; }
-</style>")
 
 {::nomarkdown}
 {% include box.html type="start" title="Summary" class="" %}
@@ -395,3 +390,9 @@ Other WCAG requirements related to audio and video include:
    * [1.4.2 Audio Control](https://www.w3.org/WAI/WCAG21/Understanding/audio-controll) (Level A) If any audio on a Web page plays automatically for more than 3 seconds, either a mechanism is available to pause or stop the audio, or a mechanism is available to control audio volume...
 
 Your audio and video may be subject to additional requirements, for example under governmental regulations. Some of these are listed in [Web Accessibility Laws & Policies](https://www.w3.org/WAI/policies/).
+
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+.listcircle { list-style-type: circle; }
+</style>")
+
