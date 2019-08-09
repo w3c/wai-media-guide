@@ -227,7 +227,7 @@ Several free and fee-based tools create automatic captions that you can use as a
 
 If you already have transcription of the audio into text, there are free tools that will generate a captions file with timestamps. You will need to edit it for line breaks as described in another page of this resource, Transcribing Audio to Text: [More on Captions](/design-develop/media/transcribing/#more-on-captions).
 
-Most caption-editing tools provide can export a plain text transcript.
+Most caption-editing tools can export a plain text transcript.
 
 ### Transcribing Audio to Text
 
