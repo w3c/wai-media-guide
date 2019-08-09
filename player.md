@@ -81,7 +81,7 @@ Interactive transcripts use the captions file. Interactive transcripts highlight
 
 <img src="{{ "/content-images/wai-media-guide/interactive-transcript.png" | relative_url }}" alt="">
 
-More details on player accessibility functionalty are in a separate document: [Media Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/).
+More details on player accessibility functionality are in a separate document: [Media Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/).
 
 ## Existing Players
 
