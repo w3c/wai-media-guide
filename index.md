@@ -31,7 +31,11 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-Accessible audio and video is essential for people with disabilities, and benefits organizations. Depending on the content of your media, it might need captions/subtitles (a text version of the audio that is shown synchronized in the media player), a transcript (a separate text version of the audio), audio description of visual information (usually an additional audio stream that describes important visual content), or other accessibility functionality/features.
+Accessible audio and video is essential for people with disabilities, and benefits organizations. Depending on the content of your media, it might need:
+* captions/subtitles (a text version of the audio that is shown synchronized in the media player),
+* a transcript (a separate text version of the audio),
+* audio description of visual information (usually an additional audio stream that describes important visual content),
+* or other accessibility functionality/features.
 
 {::nomarkdown}
 {% include box.html type="end" %}
