@@ -254,7 +254,7 @@ More guidance on writing descriptions is available on the web, for example: [Des
 {:.no_toc}
 
 * Use a voice, style, and delivery that is distinguishable from other voices used in the video.
-* Use a neutral voice that does nto convey emotions.
+* Use a neutral voice that does not convey emotions.
 * When recording a single file with timed descriptions, voice the descriptions at the same time as the visual content, or right before the visual content. Don't put the description after the visual content.
 * See [guidance on audio content](/design-develop/media/av-content/#audio).
 
