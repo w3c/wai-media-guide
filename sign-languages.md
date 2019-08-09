@@ -54,7 +54,7 @@ This page provides guidance on understanding and creating sign language interpre
 
 Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning.
 
-Sign language is the native language of many people are Deaf. Some do not read or understand written language well &mdash; especially at the speed of most captions.
+Sign language is the native language of many people who are Deaf. Some do not read or understand written language well &mdash; especially at the speed of most captions.
 
 For videos, some people will want to have sign language and captions at the same time.
 
