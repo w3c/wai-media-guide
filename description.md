@@ -153,8 +153,6 @@ First, figure out these issues about your video content and timing:
 
 ***Use the information from above to answer the following questions*** in order to determine how to provide description for your video. The options listed first are usually the best, yet you could choose another option.
 
-<!--
-
 <div id="tree-method" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Description method:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
@@ -181,9 +179,8 @@ First, figure out these issues about your video content and timing:
 </ul>
 </div>
 </div>
--->
 
- ## Options for Creating Description
+## Options for Creating Description
 
 Depending on your video situation, do one of the options below &mdash; as determined from the "What Description to Provide for My Video?" section above.
 
