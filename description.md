@@ -142,42 +142,42 @@ First, figure out these issues about your video content and timing:
 
 * **Integrated** &mdash; For new videos, can the speakers describe the relevant visual information as the video is recorded? This works for well for some videos, such as presentations and instructional videos. For examples, see the "Creating Audio and Video Content" page, [Integrated Description section](/design-develop/media/av-content/#integrate-description).
 
-* **Media player support** &mdash; Information about media player functionality is in the Accessible Media Players page under [Existing Players](/design-develop/media/player/#existing-players).
-* Does the media player, platform, or plug-in that you are using provide functionality for description from a text file?
-* Does the media player, platform, or plug-in that you are using provide functionality for a separate audio track for description?
+* **Media player support** &mdash; Information about media player functionality is in the Accessible Media Players page under [Existing Players](/design-develop/media/player/#existing-players). Does the media player, platform, or plug-in that you are using provide functionality for:
+   * description from a text file?
+   * a separate audio track for description?
 
 <a id="space"> </a>
 * **Space in audio** &mdash; Is there enough space in the main audio for the description? That is, are there sufficient pauses throughout the narration or speaking where the relevant description will fit? For example,
    * If the only description needed is at the beginning of the video where these is a text title and background music, then: Yes, there is enough space.
    * If the speaker talks continually without pausing, then: No, there is not enough space for description.
 
-***Use the information from above to answer the following questions*** in order to determine how to provide description for your video. The  options listed first are usually the esiest,  yet you could choose another option.
+***Use the information from above to answer the following questions*** in order to determine how to provide description for your video. The options listed first are usually the easiest,  yet you could choose another option.
 
 <div id="tree-method" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Description method:</p>
   <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <ul style="padding-bottom: 11px; padding-top: 0; margin-top:0; margin-bottom: 0;">
-      <li>Is it a new video <em>and</em> can the speakers describe the visual information in the main audio?
-<ul>
-          <li>If yes, provide <strong>integrated description </strong>(no separate description is needed.),<br>
-          <em><strong>or</strong></em> another option below<strong></strong>. </li>
-          <li>If no, will you use a media player that provides functionality for description from a text file?
+<ul style="padding-bottom: 11px; padding-top: 5px; margin-top:0; margin-bottom: 0;">
+  <li>Is it a new video <em>and</em> can the speakers describe the visual information in the main audio?
+    <ul>
+      <li>If yes, provide <strong>integrated description </strong>(no separate description is needed.),<br>
+        <em><strong>or</strong></em> another option below. </li>
+      <li>If no, will you use a media player that provides functionality for description from a text file?
+        <ul>
+          <li>If yes, provide description in a <strong>timed text file</strong>,<br>
+            <em><strong>or</strong></em> another option below.</li>
+          <li>If no, will you use a media player that supports a separate audio track for the description, <em>and</em> is there enough space in the main audio for the description?
             <ul>
-              <li>If yes, provide description in a <strong>timed text file</strong>,<br>
-                <em><strong>or</strong></em> another option below<strong></strong>. </li>
-              <li>If no, will you use a media player that supports a separate audio track for the description, <em>and</em> is there enough space in the main audio for the description?
-                <ul>
-                  <li>If yes, provide description in a <strong>separate audio file</strong>,<br>
-                    <em><strong>or</strong></em> provide a <strong>separate described video</strong>.</li>
-                  <li>If no, provide a <strong>separate described video</strong>.</li>
-                </ul>
-              </li>
+              <li>If yes, provide description in a <strong>separate audio file</strong>,<br>
+                <em><strong>or</strong></em> provide a <strong>separate described video</strong>.</li>
+              <li>If no, provide a <strong>separate described video</strong>.</li>
             </ul>
           </li>
         </ul>
       </li>
     </ul>
-  </div>
+  </li>
+</ul>
+</div>
 </div>
 
  ## Options for Creating Description
@@ -192,21 +192,21 @@ The process to develop a video with integrated description is basically:
 
 ### Creating Description in a Text File
 
-This approach only works when the media player that you're using supports text-based audio description that is read aloud. And, either the description fits in the space of the main audio, or the player provides functionality to pause during audio description. It requires someone to create a timed text file &mdash; minimal skills are needed; tools are not required yet, they make it faster and easier.
+This approach only works when the media player that you're using supports text-based audio description that is read aloud. And, either the description fits in the space of the main audio, or the player provides functionality to pause during audio description. It requires someone to create a timed text file &mdash; minimal skills are needed; tools are not required, yet, they make it faster and easier.
 
 The process to develop descriptions in a text file is basically:
 1. Write out the descriptions. See [Tips for Writing Descriptions below](#writing).
-2. Add the timestamps for the descriptions in the file format used by the media player.
+2. Add the timestamps for the descriptions in the file format used by the media player. It is usually [WebVTT like the example below](#vtt).
 
 (Make sure the descriptions file is included with the video.)
 
 If the descriptions do not fit into the main audio space, provide instructions to users to set their player to pause the video during audio description. For example:
 
 {::nomarkdown}
-{% include box.html type="start" title="To set the video to pause for audio description of visual information" class="" %}
+{% include box.html type="start" title="To set the video to pause for audio description of visual information:" class="" %}
 {:/}
 
-<img src="/content-images/wai-media-guide/player-preferences.png " alt="" class="" style="float: right; height: 7em;">
+<img src="/content-images/wai-media-guide/player-preferences.png " alt="" class="" style="float: right; height: 7em; padding-left 3px;'">
 
 * Select "Preferences", then "Descriptions".<br>
 The "Audio Description Preferences" box opens.
