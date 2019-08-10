@@ -151,7 +151,9 @@ First, figure out these issues about your video content and timing:
    * If the only description needed is at the beginning of the video where these is a text title and background music, then: Yes, there is enough space.
    * If the speaker talks continually without pausing, then: No, there is not enough space for description.
 
-***Use the information from above to answer the following questions*** in order to determine how to provide description for your video. The options listed first are usually the easiest,  yet you could choose another option.
+***Use the information from above to answer the following questions*** in order to determine how to provide description for your video. The options listed first are usually the best, yet you could choose another option.
+
+<!--
 
 <div id="tree-method" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Description method:</p>
@@ -179,6 +181,7 @@ First, figure out these issues about your video content and timing:
 </ul>
 </div>
 </div>
+-->
 
  ## Options for Creating Description
 
