@@ -136,9 +136,9 @@ Or:
 
 Many organizations choose to outsource their description.
 
-## What Description to Provide for My Video?
+## What Method of Description?
 
-First, figure out these issues about your video content and timing:
+What method to use for description depends on your video content and the media player that you use. First, figure out these issues about your video content, timing, and player:
 
 * **Integrated** &mdash; For new videos, can the speakers describe the relevant visual information as the video is recorded? This works for well for some videos, such as presentations and instructional videos. For examples, see the "Creating Audio and Video Content" page, [Integrated Description section](/design-develop/media/av-content/#integrate-description).
 
@@ -151,7 +151,7 @@ First, figure out these issues about your video content and timing:
    * If the only description needed is at the beginning of the video where these is a text title and background music, then: Yes, there is enough space.
    * If the speaker talks continually without pausing, then: No, there is not enough space for description.
 
-***Use the information from above to answer the following questions*** in order to determine how to provide description for your video. The options listed first are usually the best, yet you could choose another option.
+***Use the information from above to answer the following questions*** in order to determine what method to provide description for your video. The options listed first are usually the best, yet you can choose another option.
 
 <div id="tree-method" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
   <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Description method:</p>
