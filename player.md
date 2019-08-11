@@ -88,3 +88,17 @@ More details on player accessibility functionality are in a separate document: [
 There is information online indicating the accessibility of media players. For example, [Web-Based Media Player Accessibility Comparison Table {% include_cached external.html %}](http://kensgists.github.io/apt/).
 
 Each media player provides documentation of the steps to set it up in a web page. For example, [AblePlayer Setup Steps {% include_cached external.html %}](https://ableplayer.github.io/ableplayer/#setup-step-1-use-html5-doctype).
+
+### Support for Description Methods
+
+Media player functionality is required for some methods of providing audio description of visual information, as described in the [Description page](/design-develop/media/description/). To the best of our knowledge, the following media players provide such functionality:
+* Supports description in text file (VTT format):
+   * AblePlayer &mdash; supports description when there is space in the audio, and when the video needs to pause ("extended description")
+   * video.js &mdash; supports description when there is space in the audio; does **not** support description when the video needs to pause ("extended description")
+* Supports separate audio file with description:
+   * AblePlayer
+   * Oz Player
+   * video.js &mdash; with plug-in
+
+_(If you know of other players that provide that functionality, please let us know via GitHub or e-mail with the links in [Help improve this page below](#helpimprove). Thanks!)_
+
