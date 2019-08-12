@@ -114,7 +114,7 @@ In some cases, transcripts are not required to meet WCAG standards. _(The Planni
       </li>
       <li>For live:
         <ul>
-          <li>A live steam separate from the media player is needed for people who cannot access the captions. It is not required in WCAG. (Captions are AA.)</li>
+          <li>A live stream separate from the media player is needed for people who cannot access the captions. It is not required in WCAG. (Captions are AA.)</li>
         </ul>
       </li>
     </ul>
