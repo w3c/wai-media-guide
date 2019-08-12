@@ -97,7 +97,7 @@ Media player functionality is required for some methods of providing audio descr
    * video.js &mdash; supports description when there is space in the audio; does **not** support description when the video needs to pause ("extended description")
 * Supports separate audio file with description:
    * AblePlayer
-   * Oz Player
+   * OzPlayer
    * video.js &mdash; with plug-in
 
 _(If you know of other players that provide that functionality, please let us know via GitHub or e-mail with the links in [Help improve this page below](#helpimprove). Thanks!)_
