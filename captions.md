@@ -233,7 +233,8 @@ Most caption-editing tools can export a plain text transcript.
 
 For specific guidance on what to type up, see another page in this resource: [Transcribing Audio to Text]( /design-develop/media/transcribing/).
 
-## Styling Captions
-{:.no_toc}
+## Positioning and Styling Captions
 
-There are options for authors to style captions. Support in browsers and other media players for styling captions is inconsistent and sometimes unreliable. Most web videos just use the player's default presentation style, which is usually white characters in a black box.
+There are options for authors to position and style captions. Support in browsers and other media players is inconsistent and sometimes unreliable. Most web videos just use the player's default presentation style, which is usually white characters in a black box.
+
+Some media players enable users to set preferences for how and where captions are displayed, including text style, text size, colors, and position of the captions.
