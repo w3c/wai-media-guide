@@ -102,7 +102,7 @@ An example accessible video is on the [Colors with Good Contrast page](https://w
 
 That page provides:
 * audio and video content with accessibility considerations, such as low background audio
-* a described version of the video with description of visual information integrated in the main audio and description available as text
+* a version of the video with description of visual information integrated in the main audio, and description available as text
 * captions
 * a descriptive transcript
 * a media player with accessibility support, including an interactive transcript
