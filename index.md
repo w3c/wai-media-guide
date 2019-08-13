@@ -80,12 +80,6 @@ Most default browser media players have limited functionality to support accessi
 
 Specific guidance for other aspects of making your media accessible are in the following pages:
 
-* {:.left} ![AD icon](/content-images/wai-media-guide/AD.png) **[Audio Description of Visual Information](/design-develop/media/description/)** &mdash; Description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content.
-
-* {:.left} ![CC icon](/content-images/wai-media-guide/CC.png) **[Captions/Subtitles](/design-develop/media/captions/)** &mdash; Captions (also called "subtitles") provide content to people who are Deaf and hard-of-hearing. Captions are a text version of the speech and non-speech audio information needed to understand the content. They are synchronized with the audio and usually shown in a media player when users turn them on.
-
-<hr>
-
 <img src="{{ "/content-images/wai-media-guide/AD.png" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 11%; max-width: 77px">
 
 <p style="margin-left:123px"><strong><a href="/design-develop/media/description/">Audio Description of Visual Information</a></strong> &mdash; Description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content.</p>
