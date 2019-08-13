@@ -221,15 +221,13 @@ Other caption formats are: Timed Text Markup Language ([TTML](https://www.w3.org
 
 Most people use software or services to help develop captions. There are several free captioning software programs and online services available.
 
-<p style="text-align:center">[image of captioning software or service, probably YouTube since that's one many novies will use]</p>
-
 Several free and fee-based tools create automatic captions that you can use as a starting point. For example, a common video website includes automatic captions and tools for you to edit the captions. **You will need to edit automatic captions for accuracy.**
 
 If you already have transcription of the audio into text, there are free tools that will generate a captions file with timestamps. You will need to edit it for line breaks as described in another page of this resource, Transcribing Audio to Text: [More on Captions](/design-develop/media/transcribing/#more-on-captions).
 
 Most caption-editing tools can export a plain text transcript.
 
-<img src="{{ "/content-images/wai-media-guide/caption-editing.png" | relative_url }}" alt="" style="width: 50%; max-width: 500px">
+<img src="{{ "/content-images/wai-media-guide/caption-editing.png" | relative_url }}" alt="" style="width: 50%; max-width: 500px"><br>_The screen capture shows one tool for editing captions, in the area underneath the video._
 
 ### Transcribing Audio to Text
 
