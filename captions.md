@@ -54,7 +54,7 @@ This page provides guidance on understanding and creating captions and subtitles
 
 _Who:_ Captions (also called "intralingual subtitles") provide content to people who are Deaf and others who cannot hear the audio. They are also used by people who process written information better than audio.
 
-<img src="{{ "/content-images/wai-media-guide/captions.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-media-guide/captions.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 50%; max-width: 500px">
 
 _What:_ Captions are a text version of the speech and non-speech audio information needed to understand the content. They are displayed within the media player and are synchronized with the audio.
 
@@ -228,6 +228,8 @@ Several free and fee-based tools create automatic captions that you can use as a
 If you already have transcription of the audio into text, there are free tools that will generate a captions file with timestamps. You will need to edit it for line breaks as described in another page of this resource, Transcribing Audio to Text: [More on Captions](/design-develop/media/transcribing/#more-on-captions).
 
 Most caption-editing tools can export a plain text transcript.
+
+<img src="{{ "/content-images/wai-media-guide/captions-editing.png" | relative_url }}" alt="" style="width: 75%; max-width: 1000px">
 
 ### Transcribing Audio to Text
 
