@@ -28,7 +28,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
   
 ---
 
-<img src="/content-images/wai-media-guide/transcribing-1.png" alt="" class="" style="float: right; height: 55px;">
+<img src="/content-images/wai-media-guide/transcribing-1.png" alt="" class="" style="float: right; height: 75px;">
 
 {::nomarkdown}
 {% include box.html type="start" title="Summary" class="" %}
