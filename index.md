@@ -68,11 +68,11 @@ _(More information is in separate pages: [How People with Disabilities Use the W
 
 <img src="{{ "/content-images/wai-media-guide/planning-2.png" | relative_url }}" alt="" style="float: right; margin-left: 1rem; width: 11%; max-width: 77px">
 
-This resource walks through understanding what is needed to make media accessible, whether you are outsourcing it or creating it in-house. To **figure out what your specific audio or video needs**, for project management guidance, and to learn about **standards**, see **[Planning Accessible Audio and Video Media](/design-develop/media/planning/)**.
+This resource walks through understanding what is needed to make media accessible, whether you are outsourcing it or creating it in-house. To **figure out what your specific audio or video needs**, for project management guidance, and to learn about **standards**, see **[Planning Audio and Video Media](/design-develop/media/planning/)**.
 
 <img src="{{ "/content-images/wai-media-guide/av-content.png" | relative_url }}" alt="" style="float: right; margin-left: 1rem; width: 11%; max-width: 77px">
 
-When you are creating **new** audio or video, there are several accessibility barriers to avoid such as flashing that can cause seizures and distracting background noise. These are explained in **[Audio and Video Content](/design-develop/media/av-content/)**.
+When you are creating **new** audio or video, there are several accessibility barriers to avoid such as flashing that can cause seizures and distracting background noise. These are explained in **[Audio Content and Video Content](/design-develop/media/av-content/)**.
 
 <img src="{{ "/content-images/wai-media-guide/player.png" | relative_url }}" alt="" style="float: right; margin-left: 1rem; width: 11%; max-width: 77px">
 
