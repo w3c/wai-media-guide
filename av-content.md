@@ -2,6 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
 title: "Accessible Audio Content and Video Content"   # Do not translate "title:". Do translate the text after "title:".
+title_html: '<img src="/content-images/wai-media-guide/av-content.png" alt="" class="" style="float: right; height: 1em;">Accessible Audio Content and Video Content'
 nav_title: "Audio Content & Video Content" # A short title that is used in the navigation
 doc-note-type: draft
 
