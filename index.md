@@ -66,7 +66,7 @@ _(More information is in separate pages: [How People with Disabilities Use the W
 
 ## How to Make Audio and Video Accessible
 
-<img src="{{ "/content-images/wai-media-guide/planning.png" | relative_url }}" alt="" style="float: right; margin-left: 1rem; width: 11%; max-width: 77px">
+<img src="{{ "/content-images/wai-media-guide/planning-2.png" | relative_url }}" alt="" style="float: right; margin-left: 1rem; width: 11%; max-width: 77px">
 
 This resource walks through understanding what is needed to make media accessible, whether you are outsourcing it or creating it in-house. To **figure out what your specific audio or video needs**, for project management guidance, and to learn about **standards**, see **[Planning Accessible Audio and Video Media](/design-develop/media/planning/)**.
 
