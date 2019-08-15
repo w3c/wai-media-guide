@@ -79,7 +79,7 @@ To include sign language alternatives, you will need people, skills, and tools t
 
 ## Example
 
-Example sign language in video: [NHS 111 British Sign Language (BSL) Advert (YouTube){% include_cached external.html %}](https://www.youtube.com/watch?v=TCq3ru9HQSc){% include video-link.html class="default" href="https://www.youtube.com/watch?v=TCq3ru9HQSc" src="/content-images/wai-media-guide/sign-example.jpg" %}
+Example sign language in video: [NHS 111 British Sign Language (BSL) Advert (YouTube)<br>{% include image.html src="sign-example.jpg" alt="" class="large video" %}](https://www.youtube.com/watch?v=TCq3ru9HQSc)
 
 ## Creating Sign Language Alternatives
 
