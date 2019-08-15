@@ -56,7 +56,7 @@ Sign languages use hand and arm movements, facial expressions, and body position
 
 Sign language is the native language of many people are Deaf. Some do not read or understand written language well &mdash; especially at the speed of most captions.
 
-For videos, some people will want to have sign language and captions at the same time.
+Some people will want to have sign language and captions at the same time.
 
 Not everyone who is Deaf knows sign language, especially if they became Deaf or hard-of-hearing later in life. Some people use "lip reading" to help understand speech, though that cannot be replied upon for accessibility.
 
