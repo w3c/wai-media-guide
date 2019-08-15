@@ -59,7 +59,7 @@ Good transcription requires knowledge of which non-speech audio information shou
 
 If you have the resources to hire professionals to do your transcribing, that is best. If you don't, please don't be deterred from providing transcripts or captions. This page helps you do it yourself (DIY).
 
-In some cases, there is already text available in a script. You'll need to check that it is accurate withh the final audio content.
+In some cases, there is already text available in a script. You'll probably need to make some minor edits so it's accurate with the final audio content.
 
 ## How to Transcribe
 
