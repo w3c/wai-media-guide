@@ -61,6 +61,7 @@ Before we get into details and descriptions, it's useful to understand the user 
 * Some people who are **Deaf-blind** use a screen reader and braille to read **descriptive transcripts** that include the audio and visual information as text.
 * Some people **cannot focus and comprehend auditory or visual information** when there are changing visuals. For most videos, they also need **descriptive transcripts**.
 * Some people cannot use their hands and **use voice recognition software** to operate their computer, including the **media player**.  And people who are **blind** need the media player to work without a mouse.
+* Some people use multiple accessibility features simultaneously. For example, someone might want captions, description of visual information as text, and description in audio.
 
 _(More information is in separate pages: [How People with Disabilities Use the Web](/people-use-web/) and [Media Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/).)_
 
