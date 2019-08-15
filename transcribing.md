@@ -59,6 +59,8 @@ Good transcription requires knowledge of which non-speech audio information shou
 
 If you have the resources to hire professionals to do your transcribing, that is best. If you don't, please don't be deterred from providing transcripts or captions. This page helps you do it yourself (DIY).
 
+In some cases, there is already text available in a script. You'll need to check that it is accurate withh the final audio content.
+
 ## How to Transcribe
 
 You can just listen to the audio and type it up. That's usually pretty tedious because you have to stop and restart the audio a lot. There is software that can help by slowing down the audio and providing easy pause buttons.
@@ -77,7 +79,7 @@ Plan to spend time correcting automatically-generated transcription.
 
 More details on options and tools for transcribing are in: Transcripts on the Web, [How to get or make transcripts {% include_cached external.html %}]( http://www.uiaccess.com/transcripts/transcripts_on_the_web.html#justdoit).
 
-A little about captioning tools is in the Captions/Subtitles page of this resource: [Captioning Tools](https://wai-media-guide.netlify.com/design-develop/media/captions/#captioning-tools).
+A little about captioning tools is in the Captions/Subtitles page of this resource: [Captioning Tools](https://wai-media-guide.netlify.com/design-develop/media/captions/#caption-tools).
 
 ## What to Transcribe
 
