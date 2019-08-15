@@ -49,7 +49,6 @@ Accessible audio and video is essential for people with disabilities, and benefi
 {% include toc.html type="end" %}
 {:/}
 
-
 ## First, Understand User Needs
 
 Before we get into details and descriptions, it's useful to understand the user experiences of people with disabilities. Then you'll know the "why" behind the media accessibility requirements in this resource. For example, a person who is Deaf can't hear the audio, so you need to provide important audio information in another form.
@@ -95,11 +94,6 @@ Specific guidance for other aspects of making your media accessible are in the f
 An example accessible video is on the [Colors with Good Contrast page.<br>
 {% include image.html src="contrast-still.png" alt="" class="video" %}](https://www.w3.org/WAI/perspective-videos/contrast/)
 
-An example accessible video is on the [Colors with Good Contrast page](https://www.w3.org/WAI/perspective-videos/contrast/).<br>
-{% include image.html src="contrast-still.png" alt="" class="video" %}
-
-{@@ reviewers: ignore duplicate video link above -- I'm testing things...}
-
 That page provides:
 * audio and video content with accessibility considerations, such as low background audio
 * a version of the video with description of visual information integrated in the main audio, and description available as text
@@ -117,7 +111,7 @@ Organizations that make their audio and video accessible can realize benefits su
 Benefits to organizations are illustrated in these other resources:
 * The business case includes **case study data** from adding transcripts, and more on how accessibility can [increase your market reach](https://www.w3.org/WAI/business-case/#increase-market-reach).
 * Benefits of transcripts and captions to a university are mentioned in a [**user story/persona** of an online student who is hard of hearing](https://www.w3.org/WAI/people-use-web/user-stories/#onlinestudent).
-* Some benefits of captions are illustrated in a 1-minute [**Video** on Captions]<br>
+* Some benefits of captions are illustrated in a 1-minute [**Video** on Captions.<br>
 {% include image.html src="captions-video-still.jpg" alt="" class="video" %}](https://www.w3.org/WAI/perspective-videos/contrast/)
 
 ### Use by People With and Without Disabilities {#situations}
