@@ -67,7 +67,9 @@ _(More information is in separate pages: [How People with Disabilities Use the W
 
 ## How to Make Audio and Video Accessible
 
-<img src="{{ "/content-images/wai-media-guide/planning-2.png" | relative_url }}" alt="" style="float: right; margin-left: 1rem; width: 11%; max-width: 77px">
+{% include image.html src="@@" alt="" class="mini" %}
+
+{% include image.html src="planning-2.png" alt="" class="mini right" %}
 
 This resource helps you understand how to make media accessible, whether you are outsourcing it or creating it in-house. To **figure out which accessibility aspects your specific audio or video needs**, for project management guidance, and to learn about **standards**, see **[Planning Audio and Video Media](/design-develop/media/planning/)**.
 
@@ -101,8 +103,8 @@ Specific guidance for other aspects of making your media accessible are in the f
 
 An example accessible video is on the [Colors with Good Contrast page](https://www.w3.org/WAI/perspective-videos/contrast/).<br>{% include video-link.html class="default" href="https://www.w3.org/WAI/perspective-videos/contrast/" src="/content-images/wai-media-guide/contrast-still.png" %}
 
-An example accessible video is on the [Colors with Good Contrast page](https://www.w3.org/WAI/perspective-videos/contrast/).<br>
-{% include image.html src="contrast-still.png" alt="" class="large video" %}
+An example accessible video is on the [Colors with Good Contrast page.<br>
+{% include image.html src="contrast-still.png" alt="" class="video" %}](https://www.w3.org/WAI/perspective-videos/contrast/)
 
 That page provides:
 * audio and video content with accessibility considerations, such as low background audio
@@ -121,7 +123,8 @@ Organizations that make their audio and video accessible can realize benefits su
 Benefits to organizations are illustrated in these other resources:
 * The business case includes **case study data** from adding transcripts, and more on how accessibility can [increase your market reach](https://www.w3.org/WAI/business-case/#increase-market-reach).
 * Benefits of transcripts and captions to a university are mentioned in a [**user story/persona** of an online student who is hard of hearing](https://www.w3.org/WAI/people-use-web/user-stories/#onlinestudent).
-* Some benefits of captions are illustrated in a 1-minute [**Video** on Captions](https://www.w3.org/WAI/perspective-videos/captions/)<br>{% include video-link.html class="small" href="https://www.w3.org/WAI/perspective-videos/captions/" src="/content-images/wai-media-guide/captions-video-still.jpg" %}
+* Some benefits of captions are illustrated in a 1-minute [**Video** on Captions]<br>
+{% include image.html src="captions-video-still.jpg" alt="" class="video" %}](https://www.w3.org/WAI/perspective-videos/contrast/)
 
 ### Use by People With and Without Disabilities {#situations}
 
