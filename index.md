@@ -67,15 +67,15 @@ _(More information is in separate pages: [How People with Disabilities Use the W
 
 ## How to Make Audio and Video Accessible
 
-{% include image.html src="planning-2.png" alt="" class="mini right" %}
+{% include image.html src="planning-2.png" alt="" class="small right" %}
 
 This resource helps you understand how to make media accessible, whether you are outsourcing it or creating it in-house. To **figure out which accessibility aspects your specific audio or video needs**, for project management guidance, and to learn about **standards**, see **[Planning Audio and Video Media](/design-develop/media/planning/)**.
 
-{% include image.html src="av-content.png" alt="" class="mini right" %}
+{% include image.html src="av-content.png" alt="" class="small right" %}
 
 When you are creating **new** audio or video, there are several accessibility barriers to avoid such as flashing that can cause seizures and distracting background noise. These are explained in **[Audio Content and Video Content](/design-develop/media/av-content/)**.
 
-{% include image.html src="player.png" alt="" class="mini right" %}
+{% include image.html src="player.png" alt="" class="small right" %}
 
 Most default browser media players have limited functionality to support accessibility. Some third-party players are designed specifically for accessibility. Learn more from **[Media Players](/design-develop/media/player/)**.
 
@@ -88,7 +88,7 @@ Specific guidance for other aspects of making your media accessible are in the f
 * {:.left} {% include image.html src="transcript.png" alt="" %}  **[Transcripts](/design-develop/media/transcripts/)** &mdash; Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. <em>Descriptive transcripts</em> also include text description of the visual information needed to understand the content. Descriptive transcripts are required to provide video content to people who are both Deaf and blind.
 
 * {:.left} {% include image.html src="sign.png " alt="" %}  **[Sign Languages](/design-develop/media/sign-languages/)** &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For many people who are Deaf, sign language is their native language, and some do not understand written language well. (Sign language is not required by most policies.)
-{:.nolist.withicons.mini}
+{:.nolist.withicons.small}
 
 ## Example Video
 
