@@ -81,7 +81,7 @@ Most default browser media players have limited functionality to support accessi
 
 Specific guidance for other aspects of making your media accessible are in the following pages:
 
-* {:.left} [{% include image.html src="AD.png" alt="" %}  **Audio Description of Visual Information](/design-develop/media/description/)** &mdash; Description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content.
+* {:.left} {% include image.html src="AD.png" alt="" %}  **[Audio Description of Visual Information](/design-develop/media/description/)** &mdash; Description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content.
 
 * {:.left} {% include image.html src="CC.png" alt="" %}  **[Captions/Subtitles](/design-develop/media/captions/)** &mdash; Captions (also called "subtitles") provide content to people who are Deaf and hard-of-hearing. Captions are a text version of the speech and non-speech audio information needed to understand the content. They are synchronized with the audio and usually shown in a media player when users turn them on.
 
