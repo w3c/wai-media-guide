@@ -33,10 +33,10 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page helps you plan accessible media. It:
-* helps you **figure out what your specific audio or video needs** (captions, description, a transcript, etc.)
-* helps with project management and planning what to develop in-house and what to outsource
-* shows the **standards** for audio and video media in Web Content Accessibility Guidelines (WCAG)
+This page helps you plan accessible media. It helps you:
+* **figure out what your specific audio or video needs** (captions, description, a transcript, etc.)
+* with project management and planning what to develop in-house and what to outsource
+* understand the **standards** for audio and video media in Web Content Accessibility Guidelines (WCAG)
 
 {::nomarkdown}
 {% include box.html type="end" %}
