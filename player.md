@@ -68,8 +68,8 @@ Developing your own accessible media player requires advanced HTML and JavaScrip
 Accessible media players provide a user interface that works without a mouse, through speech interface, when the page is zoomed larger, and with screen readers. For example, media players need to:
 * Provide keyboard support ([in Understanding WCAG: Keyboard Accessible](https://www.w3.org/WAI/WCAG21/Understanding/keyboard-accessiblel))
 * Make the keyboard focus indicator visible ([in Understanding WCAG: Focus Visible](https://www.w3.org/WAI/WCAG21/Understanding/focus-visible))
-* Provide clear labels ([in Understanding WCAG: Labels or Instructions](https://www.w3.org/WAI/WCAG21/Understanding/labels-or-instructions), [in Understanding WCAG: Info and Relationships](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships))
-* Have sufficient contrast between colors for text, controls, and backgrounds ([in Understanding WCAG: Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum), [in Understanding WCAG: Contrast (Enhanced)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced), [in Understanding WCAG: Non-text Contrast](https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html))
+* Provide clear labels ([in Understanding WCAG: Labels or Instructions](https://www.w3.org/WAI/WCAG21/Understanding/labels-or-instructions), [Info and Relationships](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships))
+* Have sufficient contrast between colors for text, controls, and backgrounds ([in Understanding WCAG: Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum), [Contrast (Enhanced)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced), [Non-text Contrast](https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html))
 
 Media players can provide additional accessibility functionality such as:
 * Changing the speed of the video
