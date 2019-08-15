@@ -101,6 +101,9 @@ Specific guidance for other aspects of making your media accessible are in the f
 
 An example accessible video is on the [Colors with Good Contrast page](https://www.w3.org/WAI/perspective-videos/contrast/).<br>{% include video-link.html class="default" href="https://www.w3.org/WAI/perspective-videos/contrast/" src="/content-images/wai-media-guide/contrast-still.png" %}
 
+An example accessible video is on the [Colors with Good Contrast page](https://www.w3.org/WAI/perspective-videos/contrast/).<br>
+{% include image.html src="contrast-still.png" alt="" class="large,video" %}
+
 That page provides:
 * audio and video content with accessibility considerations, such as low background audio
 * a version of the video with description of visual information integrated in the main audio, and description available as text
