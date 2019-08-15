@@ -206,7 +206,7 @@ Captions not needed: The only sound in this video is background music.
 {% include box.html type="start" class="" %}
 {:/}
 
-Description not needed: This visuals in this video only support what is spoken; the visuals do not provide additional information.
+Description not needed: The visuals in this video only support what is spoken; the visuals do not provide additional information.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -220,7 +220,7 @@ For videos, captions enable people who are Deaf or hard of hearing to see the vi
 
 For audio-only, captions enable people who are hard of hearing to get the richness of listening to the audio and fill in what they don't hear well by reading the captions.
 
-Transcripts are needed to provide access to people who are Deaf-blind and use braille. Also, transcripts are used by people without disabilities, as listed in the intro page of this resource under [Benefits to Organizations and Individuals](/index/#benefits-to-organizations-and-individuals).
+Transcripts are needed to provide access to people who are Deaf-blind and use braille. Also, transcripts are used by people without disabilities, as listed in the intro page of this resource under [Benefits to Organizations and Individuals](/#benefits).
 
 ### Descriptive Transcripts
 
@@ -228,7 +228,7 @@ Descriptive transcripts for videos:
 
 * are needed for most videos to be accessible to people who are "Deaf-blind"
 * meet a wide range of accessibility needs, including for people who have difficulty processing auditory information and people who cannot focus and comprehend auditory or visual information when there is changing visuals
-* are used by people _without_ disabilities and benefit your organization; for example, <abbr title="search engine optimization">SEO</abbr>) and more listed in a intro page under [Benefits to Organizations and Individuals](/index/#benefits-to-organizations-and-individuals)
+* are used by people _without_ disabilities, and benefit your organization (examples are in the intro page under [Benefits to Organizations and Individuals](/#benefits))
 * **are easy and inexpensive to develop** using captions and description that you already have to meet Level AA
 
 **Captions and transcripts use the same text. Once you have one, it's fairly easy to develop the other.**
