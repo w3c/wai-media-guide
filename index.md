@@ -108,7 +108,7 @@ That page provides:
 * a descriptive transcript
 * a media player with accessibility support, including an interactive transcript
 
-## Benefits to Organizations and Individuals
+## Benefits to Organizations and Individuals {#benefits}
 
 Organizations that make their audio and video accessible can realize benefits such as:
 * Increased traffic and website use, for example, in the [situations described below](#situations).
