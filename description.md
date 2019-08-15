@@ -58,9 +58,7 @@ _What:_ Audio description describes visual information needed to understand the 
 
 _Who:_ Description provides content to people who are blind and others who cannot see the video adequately.
 
-_Example:_ [Video that includes audio description of the visual information (YouTube)](https://www.youtube.com/watch?v=F3A1VffiOH4&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-&index=3)
-
-<img src="{{ "/content-images/wai-media-guide/using-description.jpg" | relative_url }}" alt="" style="width: 50%; max-width: 500px">
+_Example:_ [Video that includes audio description of the visual information (YouTube)<br>{% include image.html src="using-description.jpg" alt="" class="large video" %}](https://www.youtube.com/watch?v=F3A1VffiOH4&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-&index=3)
 
 ### Terminology
 {:.no_toc}
