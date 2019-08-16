@@ -111,7 +111,7 @@ This section covers audio-only media, like podcasts that don't have video.
 {:/}
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/on-air.png" | relative_url }}" alt="" style="height:1em"> Live Audio-only
+<img src="{{ "/content-images/wai-media-guide/live.png" | relative_url }}" alt="" style="height:1em"> Live Audio-only
 {% endcapture %}
 
 {::nomarkdown}
@@ -159,7 +159,7 @@ This section covers audio-only media, like podcasts that don't have video.
 {:/}
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/on-air.png" | relative_url }}" alt="" style="height:1em"> Live Video
+<img src="{{ "/content-images/wai-media-guide/live.png" | relative_url }}" alt="" style="height:1em"> Live Video
 {% endcapture %}
 
 {::nomarkdown}
