@@ -130,7 +130,7 @@ This section covers audio-only media, like podcasts that don't have video.
 ### <img src="{{ "/content-images/wai-media-guide/video.png" | relative_url }}" alt="" style="height:1.3em">  Video Checklists
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/action.png" | relative_url }}" alt="" style="height:1em"> Pre-Recorded Video
+<img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height:1em"> Pre-Recorded Video
 {% endcapture %}
 
 {::nomarkdown}
@@ -159,7 +159,7 @@ This section covers audio-only media, like podcasts that don't have video.
 {:/}
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/live.png" | relative_url }}" alt="" style="height:1em"> Live Video
+<img src="{{ "/content-images/wai-media-guide/on-air.png" | relative_url }}" alt="" style="height:1em"> Live Video
 {% endcapture %}
 
 {::nomarkdown}
