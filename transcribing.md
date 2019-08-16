@@ -2,7 +2,6 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
 title: "Transcribing Audio to Text"   # Do not translate "title:". Do translate the text after "title:".
-title_html: '<img src="/content-images/wai-media-guide/transcribing.png" alt="" class="" style="float: right; height: 1em;">Transcribing Audio to Text'
 nav_title: "Transcribing Audio to Text" # A short title that is used in the navigation
 doc-note-type: draft
 
@@ -27,8 +26,6 @@ navigation:
 footer: >   # Translate all the words below, including "Date:" and "Editor:". 
   
 ---
-
-<img src="/content-images/wai-media-guide/transcribing-1.png" alt="" class="" style="float: right; height: 75px;">
 
 {::nomarkdown}
 {% include box.html type="start" title="Summary" class="" %}
