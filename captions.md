@@ -32,7 +32,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides guidance on understanding and creating captions and subtitles.
+This page helps you understand and create captions (also called "subtitles").
 
 {::nomarkdown}
 {% include box.html type="end" %}
