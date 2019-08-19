@@ -71,6 +71,8 @@ When the main audio is a person speaking and you have background music, set the 
 
 Specifically, make the background sounds at least 20 decibels lower than the foreground speech content (with the exception of occasional sounds that last for only one or two seconds).
 
+Avoid sounds that can be distracting or irritating, such as some high pitches and repeating patterns.
+
 <span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 1.4.7: Low or No Background Audio (AAA)](https://www.w3.org/WAI/WCAG21/Understanding/low-or-no-background-audio.html).</span>
 
 ### Speak clearly – _speakers_
