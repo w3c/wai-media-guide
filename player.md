@@ -74,6 +74,7 @@ Accessible media players provide a user interface that works without a mouse, th
 Media players can provide additional accessibility functionality such as:
 * Changing the speed of the video
 * Setting how captions are displayed (e.g., text style, text size, colors, and position of the captions)
+* Reading the captions with a screen reader and braille device
 * Interactive transcripts
 
 Interactive transcripts use the captions file. Interactive transcripts highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video.
