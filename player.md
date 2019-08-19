@@ -32,7 +32,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides information about accessible media players.
+Some media players are not accessible to people with disabilties. There are players developed specifically for accessibility. Usually it's best to use one of these existing players, rather than code your own.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -71,7 +71,7 @@ Accessible media players provide a user interface that works without a mouse, th
 * Provide clear labels ([in Understanding WCAG: Labels or Instructions](https://www.w3.org/WAI/WCAG21/Understanding/labels-or-instructions), [Info and Relationships](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships))
 * Have sufficient contrast between colors for text, controls, and backgrounds ([in Understanding WCAG: Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum), [Contrast (Enhanced)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced), [Non-text Contrast](https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html))
 
-Media players can provide additional accessibility functionality to users such as:
+Some media players provide additional accessibility functionality to users such as:
 * Changing the speed of the video
 * Setting how captions are displayed (e.g., text style, text size, colors, and position of the captions)
 * Reading the captions with a screen reader and braille device
@@ -85,7 +85,7 @@ More details on player accessibility functionality are in a separate document: [
 
 ## Existing Players
 
-There is information online indicating the accessibility of media players. For example, [Web-Based Media Player Accessibility Comparison Table {% include_cached external.html %}](http://kensgists.github.io/apt/).
+There is information online about the accessibility of media players. For example, [Web-Based Media Player Accessibility Comparison Table {% include_cached external.html %}](http://kensgists.github.io/apt/).
 
 Each media player provides documentation of the steps to set it up in a web page. For example, [AblePlayer Setup Steps {% include_cached external.html %}](https://ableplayer.github.io/ableplayer/#setup-step-1-use-html5-doctype).
 
