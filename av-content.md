@@ -32,7 +32,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page addresses accessibility considerations when planning, scripting, storyboarding, recording, and producing audio and video.
+This page describes accessibility considerations when planning, scripting, storyboarding, recording, and producing audio and video.
 
 {::nomarkdown}
 {% include box.html type="end" %}
