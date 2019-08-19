@@ -32,7 +32,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides guidance on understanding and creating sign language interpretation for audio and video media.
+This page helps you understand and create sign language interpretation for audio and video.
 
 {::nomarkdown}
 {% include box.html type="end" %}
