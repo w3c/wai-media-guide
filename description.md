@@ -251,7 +251,7 @@ The process to develop a separate audio file and edit the visual track is basica
 3. Create a new audio file by combining the original audio and the new description audio. See [Tips for Combining Audio Files below](#combining).
 4. Create a new video:
 	* _**If**_ you have source video with longer scenes _(as described in Accessible Audio and Video Content, [Time for description section](/design-develop/media/av-content/#time-for-description))_, recut the scenes longer to fill in the visual space where you need to accommodate the time for the description.
-	* _**If not or if you're adding to an existing video**_, you will need to leave a static image in the video while the description is playing in the audio. (For example, this video [@@ need example - see GitHub](https://github.com/w3c/wai-media-guide/issues/73) pauses at 00:00 for the audio description.)
+	* _**If not or if you're adding to an existing video**_, you will need to leave a static image in the video while the description is playing in the audio. <!-- (For example, this video [@@ need very good example - see GitHub](https://github.com/w3c/wai-media-guide/issues/73) pauses at 00:00 for the audio description.) -->
 
 (Make sure on the web page where the video is available, the Described version uses the correct version that you just created.)
 
