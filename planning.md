@@ -171,14 +171,14 @@ This section covers audio-only media, like podcasts that don't have video.
 -   If yes,
     -   **[Captions](/design-develop/media/captions/) (AA)**
     -   **[Sign language(s)](/design-develop/media/sign-languages/)**
-    -   Text stream available to screen readers for braille
+    -   Text stream available to screen readers and braille devices
     {:.alt}
 -   If no, [inform users](#none).
 
 **Is there visual information** that is needed to understand the content?
 
 -   If yes,
-    -   Description of important visual information in a text stream available to screen readers for braille
+    -   Description of important visual information in a text stream available to screen readers and braille devices
     {:.alt}
 -   If no, [inform users](#none).
 
