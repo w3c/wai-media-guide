@@ -71,7 +71,7 @@ Accessible media players provide a user interface that works without a mouse, th
 * Provide clear labels ([in Understanding WCAG: Labels or Instructions](https://www.w3.org/WAI/WCAG21/Understanding/labels-or-instructions), [Info and Relationships](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships))
 * Have sufficient contrast between colors for text, controls, and backgrounds ([in Understanding WCAG: Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum), [Contrast (Enhanced)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced), [Non-text Contrast](https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html))
 
-Media players can provide additional accessibility functionality such as:
+Media players can provide additional accessibility functionality to users such as:
 * Changing the speed of the video
 * Setting how captions are displayed (e.g., text style, text size, colors, and position of the captions)
 * Reading the captions with a screen reader and braille device
