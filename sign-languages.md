@@ -24,7 +24,8 @@ navigation:
   previous: /design-develop/media/transcribing/
   next:     /design-develop/media/player/
 
-footer: >   # Translate all the words below, including "Date:" and "Editor:". 
+footer: >   # Translate all the words below, including "Date:" and "Editor:".
+   <p>... Photo of signing person by Jordan Nicholson for [Disability:IN](https://disabilityin.org/best-practices/disability-stock-photography/).</p>
 
 ---
 
@@ -52,7 +53,7 @@ This page helps you understand and create sign language interpretation for audio
 
 ## Introduction
 
-{% include image.html src="signing-person.png" alt="" class="normal right" %}
+{% include image.html src="signing-person.jpg" alt="" class="normal right" %}
 
 Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning.
 
