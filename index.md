@@ -86,7 +86,7 @@ Specific guidance for other aspects of making your media accessible are in the f
 
 * {:.left} {% include image.html src="transcript.png" alt="" %} [Transcripts](/design-develop/media/transcripts/) &mdash; Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. <em>Descriptive transcripts</em> also include text description of the visual information needed to understand the content. Descriptive transcripts are required to provide video content to people who are both Deaf and blind.
 
-* {:.left} {% include image.html src="sign.png " alt="" %} [Sign Languages](/design-develop/media/sign-languages/* &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For many people who are Deaf, sign language is their native language, and some do not understand written language well. (Sign language is not required by most policies.)
+* {:.left} {% include image.html src="sign.png " alt="" %} [Sign Languages](/design-develop/media/sign-languages/) &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For many people who are Deaf, sign language is their native language, and some do not understand written language well. (Sign language is not required by most policies.)
 {:.nolist.withicons.mini}
 
 ## Example Video
