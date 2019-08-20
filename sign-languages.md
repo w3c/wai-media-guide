@@ -52,6 +52,8 @@ This page helps you understand and create sign language interpretation for audio
 
 ## Introduction
 
+{% include image.html src="signing-person.png" alt="" class="normal right" %}
+
 Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning.
 
 Sign language is the native language of many people who are Deaf. Some do not read or understand written language well &mdash; especially at the speed of most captions.
