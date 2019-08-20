@@ -31,7 +31,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-Accessible audio and video is essential for people with disabilities, and benefits organizations. Depending on the content of your media, it might need captions/subtitles (a text version of the audio that is shown synchronized in the media player), a transcript (a separate text version of the audio), audio description of visual information (usually an additional audio stream that describes important visual content), or other accessibility functionality/features.
+Accessible audio and video is essential for people with disabilities, and benefits organizations. Depending on the content of your media, it might need **captions/subtitles** (a text version of the audio that is shown synchronized in the media player), a **transcript** (a separate text version of the audio), **audio description of visual information** (usually an additional audio stream that describes important visual content), **or other** accessibility functionality/features.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -72,21 +72,21 @@ This resource helps you understand how to make media accessible, whether you are
 
 {% include image.html src="av-content.png" alt="" class="mini right" %}
 
-When you are creating **new** audio or video, there are several accessibility barriers to avoid such as flashing that can cause seizures and distracting background noise. These are explained in **[Audio Content and Video Content](/design-develop/media/av-content/)**.
+When you are creating **new** audio or video, there are several accessibility barriers to avoid such as flashing that can cause seizures and distracting background noise. These are explained in [Audio Content and Video Content](/design-develop/media/av-content/).
 
 {% include image.html src="player.png" alt="" class="mini right" %}
 
-Most default browser media players have limited functionality to support accessibility. Some third-party players are designed specifically for accessibility. Learn more from **[Media Players](/design-develop/media/player/)**.
+Most default browser media players have limited functionality to support accessibility. Some third-party players are designed specifically for accessibility. Learn more from [Media Players](/design-develop/media/player/).
 
 Specific guidance for other aspects of making your media accessible are in the following pages:
 
-* {:.left} {% include image.html src="AD.png" alt="" %}  **[Audio Description of Visual Information](/design-develop/media/description/)** &mdash; Description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content.
+* {:.left} {% include image.html src="AD.png" alt="" %} [Audio Description of Visual Information](/design-develop/media/description/) &mdash; Description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content.
 
-* {:.left} {% include image.html src="CC.png" alt="" %}  **[Captions/Subtitles](/design-develop/media/captions/)** &mdash; Captions (also called "subtitles") provide content to people who are Deaf and hard-of-hearing. Captions are a text version of the speech and non-speech audio information needed to understand the content. They are synchronized with the audio and usually shown in a media player when users turn them on.
+* {:.left} {% include image.html src="CC.png" alt="" %} [Captions/Subtitles](/design-develop/media/captions/) &mdash; Captions (also called "subtitles") provide content to people who are Deaf and hard-of-hearing. Captions are a text version of the speech and non-speech audio information needed to understand the content. They are synchronized with the audio and usually shown in a media player when users turn them on.
 
-* {:.left} {% include image.html src="transcript.png" alt="" %}  **[Transcripts](/design-develop/media/transcripts/)** &mdash; Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. <em>Descriptive transcripts</em> also include text description of the visual information needed to understand the content. Descriptive transcripts are required to provide video content to people who are both Deaf and blind.
+* {:.left} {% include image.html src="transcript.png" alt="" %} [Transcripts](/design-develop/media/transcripts/) &mdash; Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. <em>Descriptive transcripts</em> also include text description of the visual information needed to understand the content. Descriptive transcripts are required to provide video content to people who are both Deaf and blind.
 
-* {:.left} {% include image.html src="sign.png " alt="" %}  **[Sign Languages](/design-develop/media/sign-languages/)** &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For many people who are Deaf, sign language is their native language, and some do not understand written language well. (Sign language is not required by most policies.)
+* {:.left} {% include image.html src="sign.png " alt="" %} [Sign Languages](/design-develop/media/sign-languages/* &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For many people who are Deaf, sign language is their native language, and some do not understand written language well. (Sign language is not required by most policies.)
 {:.nolist.withicons.mini}
 
 ## Example Video
