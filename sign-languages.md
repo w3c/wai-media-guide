@@ -25,7 +25,8 @@ navigation:
   next:     /design-develop/media/player/
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:".
-   <p>... Photo of signing person by Jordan Nicholson for [Disability:IN](https://disabilityin.org/best-practices/disability-stock-photography/).</p>
+  <p>... Photo of person signing by Jordan Nicholson for <a href="https://disabilityin.org/best-practices/disability-stock-photography/">Disability:IN</a>.</p>
+
 
 ---
 
