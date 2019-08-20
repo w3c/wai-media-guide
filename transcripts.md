@@ -24,7 +24,8 @@ navigation:
   previous: /design-develop/media/captions/
   next:     /design-develop/media/transcribing/
 
-footer: >   # Translate all the words below, including "Date:" and "Editor:". 
+footer: >   # Translate all the words below, including "Date:" and "Editor:".
+   <p>... Photo of braille device user by Jordan Nicholson for <a href="https://disabilityin.org/best-practices/disability-stock-photography/">Disability:IN</a>.</p>
 
 ---
 
@@ -59,6 +60,8 @@ _Who:_ Basic transcripts are used by people who are Deaf, are hard of hearing, h
 <img src="{{ "/content-images/wai-media-guide/braille.jpg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 **_Descriptive transcripts_** for videos also include visual information needed to understand the content.
+
+{% include image.html src="braille.jpg" alt="" class="small right" %}
 
 _Who:_ Descriptive transcripts are needed to provide audio and video content to people who are both Deaf and blind. They are also used by people who process text information better than audio and visual/pictorial information.
 
