@@ -114,7 +114,7 @@ Benefits to organizations are illustrated in these other resources:
 * Some benefits of captions are illustrated in a 1-minute [**Video** on Captions.<br>
 {% include image.html src="captions-video-still.jpg" alt="" class="normal video" %}](https://www.w3.org/WAI/perspective-videos/contrast/)
 
-### Use by People With and Without Disabilities {#situations}
+### Used by People With and Without Disabilities {#situations}
 
 Accessible audio and video is **essential for people with disabilities**, and is **useful for everyone** in a variety of situations.
 
