@@ -68,7 +68,7 @@ _(More information is in separate pages: [How People with Disabilities Use the W
 
 {% include image.html src="planning-2.png" alt="" class="mini right" %}
 
-This resource helps you understand how to make media accessible, whether you are outsourcing it or creating it in-house. To **figure out which accessibility aspects your specific audio or video needs**, for project management guidance, and to learn about **standards**, see **[Planning Audio and Video Media](/design-develop/media/planning/)**.
+This resource helps you understand how to make media accessible, whether you are outsourcing it or creating it in-house. To **figure out which accessibility aspects your specific audio or video needs**, for project management guidance, and to learn about **standards**, see [Planning Audio and Video Media](/design-develop/media/planning/).
 
 {% include image.html src="av-content.png" alt="" class="mini right" %}
 
@@ -80,7 +80,7 @@ Most default browser media players have limited functionality to support accessi
 
 Specific guidance for other aspects of making your media accessible are in the following pages:
 
-* {:.left} {% include image.html src="AD.png" alt="" %} [Audio Description of Visual Information](/design-develop/media/description/) &mdash; Description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content.
+* {:.left} [{% include image.html src="AD.png" alt="" %} Audio Description of Visual Information](/design-develop/media/description/) &mdash; Description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content.
 
 * {:.left} {% include image.html src="CC.png" alt="" %} [Captions/Subtitles](/design-develop/media/captions/) &mdash; Captions (also called "subtitles") provide content to people who are Deaf and hard-of-hearing. Captions are a text version of the speech and non-speech audio information needed to understand the content. They are synchronized with the audio and usually shown in a media player when users turn them on.
 
