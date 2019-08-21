@@ -242,7 +242,7 @@ Translation of the audio into other languages can be provided:
 
 ## Project Management
 
-<img src="{{ "/content-images/wai-media-guide/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<!-- maybe better image in future iteration: <img src="{{ "/content-images/wai-media-guide/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px"> -->
 
 Include specific accessibility requirements in your:
 * Project requirements - internal and external
