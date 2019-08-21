@@ -24,7 +24,8 @@ navigation:
   previous: /design-develop/media/description/
   next:     /design-develop/media/transcripts/
 
-footer: >   # Translate all the words below, including "Date:" and "Editor:". 
+footer: >   # Translate all the words below, including "Date:" and "Editor:".
+   <p>...Food in broiler photo is courtesy of <a href="https://www.tripadvisor.com/LocationPhotoDirectLink-g190454-d12929745-i283670458-Beef_glory-Vienna.html#283670458">TripAdvisor</a>... </p>
 
 ---
 
@@ -178,14 +179,12 @@ Automatically-generated captions do not meet user needs or accessibility require
 There are tools that use speech recognition technology to turn a soundtrack into a timed caption file. For example, some common video websites provide automatic captions. However, often the automatic caption text is wrong and does not match the spoken audio — sometimes in ways that change the meaning (or are embarrassing). For example, missing just one word such as "not" can make the captions contradict the actual audio content.
 
 {::nomarkdown}
-{% include box.html type="start" title="Example of bad automatic captions" class="" %}
+{% include box.html type="start" title="Example of bad automatic captions" class="simple aside"  %}
 {:/}
 
+  Spoken text:<br>&quot;Broil on high for <strong>4 to 5 minutes</strong>. You should <strong>not</strong> preheat the oven.&quot;
 {% include image.html src="food-fire.jpg" alt="" class="normal right" %}
-<p style="text-align:center">
-  &quot;Spoken text: Broil on high for <strong>4 to 5</strong> minutes. You should <strong>not</strong> preheat the oven.&quot;<br>
-  &quot;Automatic caption: Broil on high for <strong>45</strong> minutes. You should <strong>know</strong> to preheat the oven.&quot;<br>
-</p>
+  Automatic caption:<br>&quot;Broil on high for <strong>45 minutes</strong>.You should <strong>know to</strong> preheat the oven.&quot;
 
 {::nomarkdown}
 {% include box.html type="end" %}
