@@ -177,11 +177,19 @@ Automatically-generated captions do not meet user needs or accessibility require
 
 There are tools that use speech recognition technology to turn a soundtrack into a timed caption file. For example, some common video websites provide automatic captions. However, often the automatic caption text is wrong and does not match the spoken audio — sometimes in ways that change the meaning (or are embarrassing). For example, missing just one word such as "not" can make the captions contradict the actual audio content.
 
-<p style="text-align:center; text-size:85%">[<em>optionally as an illustration for visual interest (with text as true text):</em><br>
-  &quot;Spoken text: 
-  Broil on high for 4 to 5 minutes. You should not preheat the oven.&quot;<br>
-  &quot;Automatic caption: Broil on high for 45 minutes. You should know to preheat the oven.&quot;<br>
-  <em>optional illustration/picture:  fire coming from oven, or totally burned food on a broiler pan ;-)</em>]</p>
+{::nomarkdown}
+{% include box.html type="start" title="Example of bad automatic captions" class="" %}
+{:/}
+
+{% include image.html src="food-fire.jpg" alt="" class="normal right" %}
+<p style="text-align:center">
+  &quot;Spoken text: Broil on high for <strong>4 to 5</strong> minutes. You should <strong>not</strong> preheat the oven.&quot;<br>
+  &quot;Automatic caption: Broil on high for <strong>45</strong> minutes. You should <strong>know</strong> to preheat the oven.&quot;<br>
+</p>
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 Automatic captions can be used as a starting point for developing accurate captions and transcripts.
 
