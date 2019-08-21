@@ -278,7 +278,7 @@ To help you **plan in-house and outsourced work**, the pages of this resource in
 * [Media Players, Skills and Tools](/design-develop/media/player/#skills-and-tools)
 * [Sign Languages, Skills and Tools](/design-develop/media/sign-languages/#skills-and-tools)
 
-When planning and budgeting for accessible media, it is often helpful to communicate the **benefits to organizations**, such as search engine optimization (SEO), better user experience for all, improved customer satisfaction, and more listed in a intro page under [Benefits to Organizations and Individuals](/index/#benefits-to-organizations-and-individuals).
+When planning and budgeting for accessible media, it is often helpful to communicate the **benefits to organizations**, such as search engine optimization (SEO), better user experience for all, improved customer satisfaction, and more listed in the intro page under [Benefits to Organizations and Individuals](/design-develop/media/index/#benefits).
 
 ## WCAG Standard
 
