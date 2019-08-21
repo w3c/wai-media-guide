@@ -57,11 +57,9 @@ Basic transcripts are a text version of the speech and non-speech audio informat
 
 _Who:_ Basic transcripts are used by people who are Deaf, are hard of hearing, have difficulty processing auditory information, and others.
 
-<img src="{{ "/content-images/wai-media-guide/braille.jpg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
-
 **_Descriptive transcripts_** for videos also include visual information needed to understand the content.
 
-{% include image.html src="braille.jpg" alt="" class="small right" %}
+{% include image.html src="braille.jpg" alt="" class="normal right" %}
 
 _Who:_ Descriptive transcripts are needed to provide audio and video content to people who are both Deaf and blind. They are also used by people who process text information better than audio and visual/pictorial information.
 
