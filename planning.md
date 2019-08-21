@@ -307,6 +307,7 @@ The links in the tables below go to a page in a separate resource: Understanding
 ### Pre-Recorded
 {:.no_toc}
 
+<div style="overflow-x:scroll;">
 <table class="quiet">
 <tr>
 <th scope="col">&nbsp;</th>
@@ -342,10 +343,12 @@ The links in the tables below go to a page in a separate resource: Understanding
   <td><a href="https://www.w3.org/WAI/WCAG21/Understanding/sign-language-prerecorded">AAA 1.2.6</a></td>
 </tr>
 </table>
+</div>
 
 ### Live
 {:.no_toc}
 
+<div style="overflow-x:scroll;">
 <table class="quiet">
 <tr>
 <th scope="col">&nbsp;</th>
@@ -376,6 +379,7 @@ The links in the tables below go to a page in a separate resource: Understanding
   <td>&nbsp;</td>
 </tr>
 </table>
+</div>
 
 ### More about Standards
 {:.no_toc}
