@@ -184,13 +184,13 @@ What method to use for description depends on your video content and the media p
 
 Depending on your video situation, do one of the options below &mdash; as determined from the "What Description to Provide for My Video?" section above.
 
-### Integrated &mdash; Creating Integrated Description
+### Integrated &ndash; Creating Integrated Description
 
 This approach works for some new videos. The process to develop a video with integrated description is basically:
 1. When writing the script, make sure all relevant visual information is included. See [Tips for Writing Descriptions below](#writing) and examples in Accessible Audio and Video Content, [Integrate descriptionsection](/design-develop/media/av-content/#integrate-description))
 2. Before finalizing the video, check to confirm that all relevant visual information is covered in the audio.
 
-### Text &mdash; Creating Description in a Text File
+### Text &ndash; Creating Description in a Text File
 
 This approach only works when the media player that you're using supports text-based audio description that is read aloud. And, either the description fits in the space of the main audio, or the player provides functionality to pause during audio description. It requires someone to create a timed text file &mdash; minimal skills are needed; tools are not required, yet, they make it faster and easier.
 
@@ -217,7 +217,7 @@ The "Audio Description Preferences" box opens.
 {% include box.html type="end" %}
 {:/}
 
-### Audio Only &mdash; Creating Description in a Separate Audio File Only
+### Audio Only &ndash; Creating Description in a Separate Audio File Only
 
 This approach only works when there is enough space in the main audio for the description, *and* the media player supports a separate audio track for the description. This requires skills and software for audio recording and audio editing.
 
@@ -229,7 +229,7 @@ The process to develop description in a separate audio file is basically:
 
 (Ensure the files are integrated with the player on the web page.)
 
-### Video with Space &mdash; Creating a Separate Described Video - If Descriptions Fit in Audio Spaces
+### Video with Space &ndash; Creating a Separate Described Video - If Descriptions Fit in Audio Spaces
 
 This applies if the descriptions do fit in the spaces, as described in [Space in audio above](#space)_. It requires skills and software for audio recording and video editing. Depending on the player that you are using, you might need video software to regenerate the video.
 
@@ -243,7 +243,7 @@ The process to develop a separate audio file is basically:
 
 (Make sure on the web page where the video is available, the Described version uses the correct version that you just created.)
 
-### Video Without Space &mdash; Creating a Separate Described Video - If Descriptions Do _Not_ Fit in Audio Spaces
+### Video Without Space &ndash; Creating a Separate Described Video - If Descriptions Do _Not_ Fit in Audio Spaces
 
 If all the descriptions do **not** fit in the spaces _(as described in [Space in audio above](#space)_), you'll need to develop a separate audio file and also edit the visual track. This requires skills and software for audio recording, audio editing, and video editing.
 
