@@ -55,7 +55,7 @@ This page helps you understand and create captions (also called "subtitles").
 
 _Who:_ Captions (also called "intralingual subtitles") provide content to people who are Deaf and others who cannot hear the audio. They are also used by people who process written information better than audio.
 
-<img src="{{ "/content-images/wai-media-guide/captions.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 40%; max-width: 400px">
+{% include image.html src="captions.png" alt="" class="large right" %}
 
 _What:_ Captions are a text version of the speech and non-speech audio information needed to understand the content. They are displayed within the media player and are synchronized with the audio.
 
