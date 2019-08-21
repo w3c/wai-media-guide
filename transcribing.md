@@ -23,7 +23,9 @@ navigation:
   previous: /design-develop/media/transcripts/
   next:     /design-develop/media/sign-languages/
 
-footer: >   # Translate all the words below, including "Date:" and "Editor:". 
+footer: >   # Translate all the words below, including "Date:" and "Editor:".
+  <p>...Food in broiler photo courtesy of <a href="https://www.tripadvisor.com/LocationPhotoDirectLink-g190454-d12929745-i283670458-Beef_glory-Vienna.html#283670458">TripAdvisor</a>... </p>
+
   
 ---
 
@@ -66,11 +68,17 @@ You can just listen to the audio and type it up. That's usually pretty tedious b
 
 You can start with an automatically-generated text file. There's lots of software and services that provide speech-to-text. These have various levels of accuracy. Often the text does not match the spoken audio — and in ways that change the meaning (or are embarrassing). For example, missing just one word such as “not” can make the captions contradict the actual audio content.
 
-<p style="text-align:center; text-size:85%">[<em>optionally as an illustration for visual interest (with text as true text):</em><br>
-  &quot;Spoken text: 
-  Broil on high for 4 to 5 minutes. You should not preheat the oven.&quot;<br>
-  &quot;Automatic caption: Broil on high for 45 minutes. You should know to preheat the oven.&quot;<br>
-  <em>optional illustration/picture:  fire coming from oven, or totally burned food on a broiler pan ;-)</em>]</p>
+{::nomarkdown}
+{% include box.html type="start" title="Example of bad automatic captions (that cause a fire)" class="simple aside"  %}
+{:/}
+
+{% include image.html src="food-fire.jpg" alt="" class="normal right" %}
+  _Spoken text:_<br>&quot;Broil on high for <strong>4 to 5 minutes</strong>. You should <strong>not</strong> preheat the oven.&quot;<br>
+  _Automatic caption:_<br>&quot;Broil on high for <strong>45 minutes</strong>. You should <strong>know to</strong> preheat the oven.&quot;
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 Plan to spend time correcting automatically-generated transcription.
 
