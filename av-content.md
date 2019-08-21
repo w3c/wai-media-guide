@@ -24,7 +24,10 @@ navigation:
   previous: /design-develop/media/planning/
   next:     /design-develop/media/description/
 
-footer: >   # Translate all the words below, including "Date:" and "Editor:". 
+footer: >   # Translate all the words below, including "Date:" and "Editor:".
+   <p><strong>Date:</strong> <strong>Draft </strong>Updated @@ August 2019.</p>
+   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: Estella Oncins, @@, and other <a href="https://www.w3.org/WAI/EO/participants">EOWG Participants</a>. Graphic artist: Ari Stiles. Previous editors: Geoff Freed and Judy Brewer.</p>
+   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <strong><abbr title="United States">U.S.</abbr> Access Board</strong>. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the <strong>Ford Foundation</strong>.</p>
 
 ---
 
