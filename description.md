@@ -26,7 +26,9 @@ navigation:
   next:     /design-develop/media/captions/
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:".
-   <p> ... Tips References: <a href="https://dcmp.org/learn/227">Description Tip Sheet <svg aria-label="External Site" class="icon-external-link "><use xlink:href="/assets/images/icons.svg#icon-external-link"></use></svg></a> and <a href="http://www.descriptionkey.org/how_to_describe.html">How to Describe <svg aria-label="External Site" class="icon-external-link "><use xlink:href="/assets/images/icons.svg#icon-external-link"></use></svg></a>. ...</p>
+   <p><strong>Date:</strong> <strong>Draft </strong>Updated @@ August 2019.</p>
+   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: Estella Oncins, @@, and other <a href="https://www.w3.org/WAI/about/groups/eowg/participants/">EOWG Participants</a>. Graphic artist: Ari Stiles. ips References: <a href="https://dcmp.org/learn/227">Description Tip Sheet <svg aria-label="External Site" class="icon-external-link "><use xlink:href="/assets/images/icons.svg#icon-external-link"></use></svg></a> and <a href="http://www.descriptionkey.org/how_to_describe.html">How to Describe <svg aria-label="External Site" class="icon-external-link "><use xlink:href="/assets/images/icons.svg#icon-external-link"></use></svg></a>. Previous editors: Geoff Freed and Judy Brewer.</p>
+   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
 ---
 
