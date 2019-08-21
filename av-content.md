@@ -55,7 +55,7 @@ This page describes accessibility considerations when planning, scripting, story
 
 This page addresses accessibility considerations when planning, scripting, storyboarding, recording, and producing audio and video.
 
-Some of the guidnace below is related to requirements in Web Content Accessibility Guidelines (WCAG) and have links to a separate resource. _(The Planning page of this resource introduces the [WCAG Standard](https://wai-media-guide.netlify.com/design-develop/media/planning/#wcag-standard).)_ Other guidance is good practice.
+Some of the guidance below is related to requirements in Web Content Accessibility Guidelines (WCAG) and have links to a separate resource. _(The Planning page of this resource introduces the [WCAG Standard](https://wai-media-guide.netlify.com/design-develop/media/planning/#wcag-standard).)_ Other guidance is good practice.
 
 ## Audio
 
@@ -118,7 +118,7 @@ For any text, consider the font family, size, and contrast between the text and 
 
 ### Plan for sign language – _storyboarding, recording_
 
-Often sign languages are provided as an overlay in the bottom right corner of videos. For example: [NHS 111 British Sign Language (BSL) Advert (YouTube){% include_cached external.html %}](https://www.youtube.com/watch?v=TCq3ru9HQSc).
+Often sign languages are provided as an overlay in the bottom right corner of videos. For example: [NHS 111 British Sign Language (BSL) Advert (YouTube)<br>{% include image.html src="sign-example.jpg" alt="" class="small video" %}](https://www.youtube.com/watch?v=TCq3ru9HQSc)
 
 Plan for the video not to include important information that would be obstructed by a sign language overlay.
 
