@@ -66,9 +66,9 @@ For background, see the introduction page of this resource _[Making Video and Au
 * user experiences to help you understand the "why" behind the requirements
 
 What accessibility features you provide with your media will likely be influenced by:
+* user needs
 * governmental regulations and other policy requirements
 * budget and time constraints
-* user needs
 
 This resource endeavors to help you know the requirements and encourages you to meet all user needs.
 
