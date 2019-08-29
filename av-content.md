@@ -78,7 +78,7 @@ Avoid sounds that can be distracting or irritating, such as some high pitches an
 
 <span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 1.4.7: Low or No Background Audio (AAA)](https://www.w3.org/WAI/WCAG21/Understanding/low-or-no-background-audio.html).</span>
 
-### Speak clearly – _speakers_
+### Speak clearly and slowly – _speakers_
 
 Speak clearly. Speak as slowly as appropriate. This will enable listeners to understand better, and make the timing better for captions and sign language.
 
