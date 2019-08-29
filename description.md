@@ -56,7 +56,7 @@ This page helps you understand and create description of visual information (cal
 
 ## Introduction
 
-_What:_ Audio description describes visual information needed to understand the content. It is usually narration added to the soundtrack.
+_What:_ Audio description describes visual information needed to understand the content. _(For example, "Pat opens a jewelry box, looks at a diamond engagement ring, and cries".)_ Description is usually narration added to the soundtrack.
 
 _Who:_ Description provides content to people who are blind and others who cannot see the video adequately.
 
