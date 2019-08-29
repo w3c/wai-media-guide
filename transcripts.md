@@ -199,9 +199,9 @@ Keep in mind that the main purpose of a transcript is to provide the information
 
 ## Where to Put Transcripts
 
-Make it is easy for users to know that a transcript is available and to get to the transcript.
+Make it is easy for users to know that a transcript is available and to get to the transcript. For example, put the transcript itself or a link to the transcript right under the video.
 
-For media on your website, often it's best to include the transcript on the same page. Here's an [example descriptive transcript at the bottom of same page with a video](https://www.w3.org/WAI/perspective-videos/captions/#transcript).
+For media on your website, usually it's best to include the transcript on the same page. Here's an [example descriptive transcript at the bottom of same page with a video](https://www.w3.org/WAI/perspective-videos/captions/#transcript).
 
 When your media is hosted elsewhere, you might have the transcript on a separate web page. Here's an [example podcast transcript on separate page](https://www.w3.org/WAI/highlights/200606wcag2interview.html).
 
