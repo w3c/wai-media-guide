@@ -41,4 +41,4 @@ Previous Editors:
 * Vicki Menezes Miller
 
 ## Graphic Artist
-* Ari Stiles
+* ??? Ari Stiles
