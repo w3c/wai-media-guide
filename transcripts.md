@@ -186,7 +186,7 @@ Keep in mind that the main purpose of a transcript is to provide the information
 * **Put the information in logical paragraphs, lists, and sections**. If you're starting with a captions file, you will probably combine several lines into paragraphs. For example, in the [example excerpts below](#example-descriptive-transcript-from-caption-files), 6 lines of captions are grouped into 2 paragraphs of text (in table cells).
 
 * **Add navigation and clarifications:**
-   * Add headings and links where it will make the transcript more usable. (This also helps with SEO.) Here's an [example with added links in short podcast transcript](http://www.w3.org/WAI/highlights/200606wcag2interview.html).
+   * Add headings and links where it will make the transcript more usable. (This also helps with SEO, search engine optimization.) Here's an [example with added links in short podcast transcript](http://www.w3.org/WAI/highlights/200606wcag2interview.html).
    * It is generally acceptable to add clarifying information, _as long as it is clear that it is not part of the actual audio_ &mdash; for example, words added to a paragraph put in [brackets], or separate sections with headings "Introduction", "Transcript", "Resources". Here's an [example with added headings in long presentation transcript](http://www.w3.org/WAI/highlights/200706wcag2pres).
 
 * **Indicate the speakers based on the type of content.** For example:
