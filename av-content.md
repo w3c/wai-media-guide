@@ -80,7 +80,9 @@ Avoid sounds that can be distracting or irritating, such as some high pitches an
 
 ### Speak clearly and slowly – _speakers_
 
-Speak clearly. Speak as slowly as appropriate. This will enable listeners to understand better, and make the timing better for captions and sign language.
+Speak clearly. This is important for people wanting to understand the content, and for captioners.
+
+Speak as slowly as appropriate. This will enable listeners to understand better, and make the timing better for captions and sign language.
 
 ### Give people time to process information – _speakers, post-production_
 
