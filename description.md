@@ -27,7 +27,7 @@ navigation:
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:".
    <p><strong>Date:</strong> <strong>Draft </strong>Updated @@ August 2019.</p>
-   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: Estella Oncins, @@, and other <a href="https://www.w3.org/WAI/about/groups/eowg/participants/">EOWG Participants</a>. Graphic artist: Ari Stiles. ips References: <a href="https://dcmp.org/learn/227">Description Tip Sheet <svg aria-label="External Site" class="icon-external-link "><use xlink:href="/assets/images/icons.svg#icon-external-link"></use></svg></a> and <a href="http://www.descriptionkey.org/how_to_describe.html">How to Describe <svg aria-label="External Site" class="icon-external-link "><use xlink:href="/assets/images/icons.svg#icon-external-link"></use></svg></a>. Previous editors: Geoff Freed and Judy Brewer.</p>
+   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: Estella Oncins, @@, and other <a href="https://www.w3.org/WAI/about/groups/eowg/participants/">EOWG Participants</a>. Graphic artist: Ari Stiles. Previous editors: Geoff Freed and Judy Brewer.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
 ---
@@ -187,7 +187,7 @@ Depending on your video situation, do one of the options below &mdash; as determ
 ### Integrated &ndash; Creating Integrated Description
 
 This approach works for some new videos. The process to develop a video with integrated description is basically:
-1. When writing the script, make sure all relevant visual information is included. See [Tips for Writing Descriptions below](#writing) and examples in Accessible Audio and Video Content, [Integrate descriptionsection](/design-develop/media/av-content/#integrate-description))
+1. When writing the script, make sure all relevant visual information is included. See [Tips for Writing Descriptions below](#writing) and examples in Accessible Audio and Video Content, [Integrate description section](/design-develop/media/av-content/#integrate-description))
 2. Before finalizing the video, check to confirm that all relevant visual information is covered in the audio.
 
 ### Text &ndash; Creating Description in a Text File
@@ -276,7 +276,7 @@ The process to develop a separate audio file and edit the visual track is basica
 * Describe objectively, without interpretation, censorship, or comment.
 * Write description in present tense, active voice, and third-person narrative style.
 
-More guidance on writing descriptions is available on the web, for example: [Description Tip Sheet [offsite icon]](https://dcmp.org/learn/227) and [How to Describe [offsite icon]](http://www.descriptionkey.org/how_to_describe.html).
+More guidance on writing descriptions is available on the web, for example: [Description Tip Sheet {% include_cached external.html %}](https://dcmp.org/learn/227) and [How to Describe {% include_cached external.html %}](http://www.descriptionkey.org/how_to_describe.html).
 
 ### Tips for Recording Descriptions {#recording}
 {:.no_toc}
