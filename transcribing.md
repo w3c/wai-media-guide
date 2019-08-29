@@ -110,7 +110,7 @@ Generally, you transcribe all speech and relevant non-speech sound (such as: bab
 * **Only include background music if** it's important to understand the content of the video. Use objective descriptions that indicate the mood; avoid subjective words, such as "beautiful." If the words in the music are important, add a musical note to the beginning and end of each caption. Put music information in italics. For example:<br>
 	<em>♪ scary music, JAWS theme ♪</em>
 
-* Do not emphasize a word using **all capital letters**, except to indicate screaming. For example:<br>
+* Do not emphasize a word using **all capital letters**, except to indicate yelling. For example:<br>
 	Jose: YOU KILLED MY NEW LAPTOP!
 
 ### Transcribe Accurately and Honestly
