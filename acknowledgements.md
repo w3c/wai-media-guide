@@ -30,6 +30,7 @@ Previous Editors:
 * Eric Eggert
 * Hidde de Vries
 * Jennifer Chadwick
+* Judy Brewer
 * Kris Anne Kinney
 * Laura Keen
 * Lewis Phillips
