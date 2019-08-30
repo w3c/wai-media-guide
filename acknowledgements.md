@@ -42,3 +42,9 @@ Previous Editors:
 
 ## Graphic Artist
 * ??? Ari Stiles
+
+## Photo Credits
+* Photo of braille device user by Jordan Nicholson for <a href="https://disabilityin.org/best-practices/disability-stock-photography/">Disability:IN</a>.
+* Photo of food in broiler is courtesy of <a href="https://www.tripadvisor.com/LocationPhotoDirectLink-g190454-d12929745-i283670458-Beef_glory-Vienna.html#283670458">TripAdvisor</a>
+* Photo of person signing by Jordan Nicholson for <a href="https://disabilityin.org/best-practices/disability-stock-photography/">Disability:IN</a>.
+
