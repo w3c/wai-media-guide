@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 75 60" style="enable-background:new 0 0 75 60;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#14828C;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#15385F;}
+</style>
+<polygon class="st0" points="0.1,14.4 0.2,56.9 18.1,48.6 18,5.8 "/>
+<polygon class="st0" points="38,14.3 38.2,56.8 56,48.5 56,5.7 "/>
+<polygon class="st0" points="74.9,14.2 74.8,56.7 56.9,48.4 57,5.6 "/>
+<polygon class="st0" points="37,14.2 36.9,56.7 19,48.4 19.1,5.6 "/>
+<polyline class="st1" points="8.4,42.4 18.7,25.7 25.9,23.1 34.2,34.3 37.6,34.3 46.6,26.9 56.7,34.1 61.3,34.1 66.1,26.6 "/>
+<circle class="st2" cx="8.3" cy="42.8" r="1.4"/>
+<circle class="st2" cx="26.2" cy="23.1" r="1.4"/>
+<circle class="st2" cx="46.8" cy="26.9" r="1.4"/>
+<circle class="st2" cx="34.5" cy="34.4" r="1.4"/>
+<circle class="st2" cx="61.3" cy="34" r="1.4"/>
+<path class="st2" d="M65.9,27.6c0,0,10.6-12.6,0.6-14.3C56.6,14.8,65.9,27.6,65.9,27.6z"/>
+<path class="st3" d="M66,25.5c0,0,8.1-9.5,0.4-10.8C58.9,15.8,66,25.5,66,25.5z"/>
+<circle class="st2" cx="66.3" cy="18.1" r="1.8"/>
+</svg>
