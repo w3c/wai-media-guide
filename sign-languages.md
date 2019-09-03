@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
 title: "Sign Languages"   # Do not translate "title:". Do translate the text after "title:".
-title_html: '<img src="/content-images/wai-media-guide/sign.png" alt="" class="" style="float: right; height: 2em;">Sign Languages'
+title_html: '<img src="/content-images/wai-media-guide/sign.svg" alt="" class="" style="float: right; height: 2em;">Sign Languages'
 nav_title: "Sign Languages" # A short title that is used in the navigation
 doc-note-type: draft
 
