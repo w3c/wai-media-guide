@@ -42,7 +42,7 @@ Previous Editors:
 * Vicki Menezes Miller
 
 ## Graphic Artist
-* ??? Ari Stiles
+* Ari Stiles
 
 ## Photo Credits
 * Photo of braille device user by Jordan Nicholson for <a href="https://disabilityin.org/best-practices/disability-stock-photography/">Disability:IN</a>
