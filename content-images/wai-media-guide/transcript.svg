@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 75 60" style="enable-background:new 0 0 75 60;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#15385F;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#14828C;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<rect x="0.3" y="7" class="st0" width="74.4" height="49.3"/>
+<path class="st1" d="M69.9,53.9H5.1c-1.2,0-2.2-1-2.2-2.2V11.7c0-1.2,1-2.2,2.2-2.2h64.8c1.2,0,2.2,1,2.2,2.2v40.1
+	C72.1,53,71.1,53.9,69.9,53.9z"/>
+<line class="st2" x1="6" y1="14.6" x2="67.5" y2="14.6"/>
+<line class="st2" x1="14.1" y1="19.7" x2="65.7" y2="19.7"/>
+<line class="st2" x1="14.1" y1="24.8" x2="59.6" y2="24.9"/>
+<line class="st2" x1="6" y1="35.1" x2="63.4" y2="35.1"/>
+<line class="st2" x1="6" y1="40.3" x2="65.1" y2="40.3"/>
+<line class="st2" x1="14.1" y1="30" x2="67.3" y2="30"/>
+<line class="st2" x1="14.2" y1="45.4" x2="65.8" y2="45.5"/>
+<line class="st2" x1="14.2" y1="50.6" x2="59.7" y2="50.6"/>
+</svg>
