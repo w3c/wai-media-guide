@@ -4,7 +4,7 @@
 title_html: "Planning Accessible Audio and Video Media"
 
 title: "Planning Audio and Video Media"   # Do not translate "title:". Do translate the text after "title:".
-title_html: '<img src="/content-images/wai-media-guide/planning.png" alt="" class="" style="float: right; height: 2em;">Planning  Audio and Video Media'
+title_html: '<img src="/content-images/wai-media-guide/planning.svg" alt="" class="" style="float: right; height: 2em;">Planning  Audio and Video Media'
 nav_title: "Planning" # A short title that is used in the navigation
 doc-note-type: draft
 
