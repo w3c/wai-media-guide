@@ -69,17 +69,15 @@ _(More information is in separate pages: [How People with Disabilities Use the W
 
 ## How to Make Audio and Video Accessible
 
-[{% include image.html src="planning.svg" alt="Planning Audio and Video Media" class="mini right" %}](/design-develop/media/planning/)
+This resource helps you understand how to make media accessible, whether you are outsourcing it or creating it in-house.
 
-This resource helps you understand how to make media accessible, whether you are outsourcing it or creating it in-house. To **figure out which accessibility aspects your specific audio or video needs**, for project management guidance, and to learn about Web Content Accessibility Guidelines (WCAG) standards, see [Planning Audio and Video Media](/design-develop/media/planning/).
+[{% include image.html src="planning.svg" alt="Planning Audio and Video Media" class="mini left" %}](/design-develop/media/planning/)
 
-[{% include image.html src="av-content.svg" alt="Audio Content and Video Content" class="mini right" %}](/design-develop/media/av-content/)
+The [Planning Audio and Video Media](/design-develop/media/planning/) page helps you **figure out which accessibility aspects your specific audio or video needs** to be accessible, provides project management guidance, and describes Web Content Accessibility Guidelines (WCAG) standards.
 
-When you are creating **new** audio or video, there are several accessibility barriers to avoid such as flashing that can cause seizures and distracting background noise. These are explained in [Audio Content and Video Content](/design-develop/media/av-content/).
+[{% include image.html src="av-content.svg" alt="Audio Content and Video Content" class="mini left" %}](/design-develop/media/av-content/)
 
-[{% include image.html src="player.svg" alt="Media Players" class="mini right" %}](/design-develop/media/player/)
-
-Most default browser media players have limited functionality to support accessibility. Some third-party players are designed specifically for accessibility. Learn more from [Media Players](/design-develop/media/player/).
+The [Audio Content and Video Content](/design-develop/media/av-content/) page explains that when you are creating **new** audio or video, there are several accessibility barriers to avoid such as flashing that can cause seizures and distracting background noise.
 
 Specific guidance for other aspects of making your media accessible are in the following pages:
 
@@ -91,6 +89,10 @@ Specific guidance for other aspects of making your media accessible are in the f
 
 * {:.left} [{% include image.html src="sign.svg" alt="" %} Sign Languages](/design-develop/media/sign-languages/) &mdash; Sign languages use hand and arm movements, facial expressions, and body positions to convey meaning. For many people who are Deaf, sign language is their native language, and some do not understand written language well. (Sign language is not required by most policies.)
 {:.nolist.withicons.mini}
+
+[{% include image.html src="player.svg" alt="Media Players" class="mini left" %}](/design-develop/media/player/)
+
+The [Media Players](/design-develop/media/player/) page explains that most default browser media players have limited functionality to support accessibility. Some third-party players are designed specifically for accessibility.
 
 ## Example Video
 
