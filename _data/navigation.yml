@@ -166,6 +166,8 @@
         url: "/design-develop/media/planning/"        
       - name: Audio Content & Video Content
         url: "/design-develop/media/av-content/"
+      - name: Media Player
+        url: "/design-develop/media/player/"
       - name: Description
         url: "/design-develop/media/description/"
       - name: Captions/Subtitles
