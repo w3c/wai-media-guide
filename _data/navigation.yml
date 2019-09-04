@@ -178,8 +178,6 @@
         url: "/design-develop/media/transcribing/"
       - name: Sign Languages
         url: "/design-develop/media/sign-languages/"
-      - name: Media Player
-        url: "/design-develop/media/player/"
   - name: Tutorials
     url: "https://www.w3.org/WAI/tutorials/"
     different: true
