@@ -98,7 +98,7 @@ The links below go to a web page in this resource with details on understanding 
 This section covers audio-only media, like podcasts that don't have video.
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/recorded.svg" | relative_url }}" alt="" style="height:1em"> Pre-Recorded Audio-only
+<img src="{{ "/content-images/wai-media-guide/recorded.png" | relative_url }}" alt="" style="height:1em"> Pre-Recorded Audio-only
 {% endcapture %}
 
 {::nomarkdown}
@@ -115,7 +115,7 @@ This section covers audio-only media, like podcasts that don't have video.
 {:/}
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/live.svg" | relative_url }}" alt="" style="height:1em"> Live Audio-only
+<img src="{{ "/content-images/wai-media-guide/live.png" | relative_url }}" alt="" style="height:1em"> Live Audio-only
 {% endcapture %}
 
 {::nomarkdown}
