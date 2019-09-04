@@ -57,7 +57,7 @@ This page helps you understand and create captions (also called "subtitles").
 
 _Who:_ Captions (also called "intralingual subtitles") provide content to people who are Deaf and others who cannot hear the audio. They are also used by people who process written information better than audio.
 
-{% include image.html src="captions.png" alt="" class="large right" %}
+{% include image.html src="captions.png" alt="" class="normal right" %}
 
 _What:_ Captions are a text version of the speech and non-speech audio information needed to understand the content. They are displayed within the media player and are synchronized with the audio.
 
@@ -66,12 +66,14 @@ Most are "closed captions" that can be hidden or shown by people watching the vi
 ### Captions and Subtitles
 
 The terms "captions" and "subtitles" are used for the same thing in different regions of the world. This resource uses:
-* _Captions_ for the same language.
+* _Captions_ for the same language as the spoken audio.
 * _Subtitles_ for spoken audio translated into another language.
 
 Some regions use _subtitles_ for both the same language as the audio and for the translation. Sometimes they are distinguished as _intralingual subtitles_ (same language) and _interlingual subtitles_ (different language).
 
 Subtitles are implemented the same way as captions. Subtitles/intralingual subtitles are usually only the spoken audio (for people who can hear the audio but do not know the spoken language). They can be a translation of the caption content, including non-speech audio information.
+
+Captions are needed for accessibility, whereas subtitles in other languages are not directly an accessibility accommodation.
 
 ### Live Captions
 
