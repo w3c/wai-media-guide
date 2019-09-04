@@ -38,7 +38,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {:/}
 
 This page helps you:
-* **figure out what your specific audio or video needs** (captions, description, a transcript, etc.)
+* **figure out what your specific audio or video needs** to be accessible (captions, description, a transcript, etc.)
 * manage projects and plan what to develop in-house and what to outsource
 * understand the **standards** for audio and video media in Web Content Accessibility Guidelines (WCAG)
 
