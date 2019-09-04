@@ -56,7 +56,7 @@ Accessible audio and video is essential for people with disabilities, and benefi
 
 Before we get into details and descriptions, it's useful to understand the user experiences of people with disabilities. Then you'll know the "why" behind the media accessibility requirements in this resource. For example, a person who is Deaf can't hear the audio, so you need to provide important audio information in another form.
 
-* Many people who are **Deaf** can read text well. They get the audio information from **transcripts** or **captions**. Some cannot, and prefer **sign language**.
+* Many people who are **Deaf** can read text well. They get the audio information from **transcripts** or **captions**. Some people prefer **sign language**.
 * Some people who are **hard of hearing** like to listen to the audio to hear what they can, and have **captions** to fill in what they can't hear adequately.
 * Some people who have **difficulty processing auditory information** also use **captions**. Many use **transcripts** so they can read at their own pace.
 * Some people who are **blind** or have low vision can't see videos well or at all. They use **audio description of visual information** to understand what's going on visually.
