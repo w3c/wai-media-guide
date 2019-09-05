@@ -71,7 +71,7 @@ _(More information is in separate pages: [How People with Disabilities Use the W
 
 [{% include image.html src="planning.svg" alt="Planning Audio and Video Media" class="mini right" %}](/design-develop/media/planning/)
 
-This resource helps you understand how to make media accessible, whether you are outsourcing it or creating it in-house. To **figure out which accessibility aspects your specific audio or video needs** to be accessible, for project management guidance, and to learn about Web Content Accessibility Guidelines (WCAG) standards, see [Planning Audio and Video Media](/design-develop/media/planning/).
+This resource helps you understand how to make media accessible, whether you are outsourcing it or creating it in-house. To **figure out which accessibility aspects your specific audio or video needs**, for project management guidance, and to learn about Web Content Accessibility Guidelines (WCAG) standards, see [Planning Audio and Video Media](/design-develop/media/planning/).
 
 [{% include image.html src="av-content.svg" alt="Audio Content and Video Content" class="mini right" %}](/design-develop/media/av-content/)
 
