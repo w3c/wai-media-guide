@@ -21,8 +21,8 @@ github:
 resource:
   ref: /design-develop/media/
 navigation:
-  previous:     /design-develop/media/sign-languages/
- 
+  previous: /design-develop/media/av-content/
+  next: /design-develop/media/description/ 
   
 footer: >   # Translate all the words below, including "Date:" and "Editor:".
    <p><strong>Date:</strong> <strong>Draft </strong>Updated @@ August 2019.</p>
