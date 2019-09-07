@@ -21,8 +21,8 @@ github:
 resource:
   ref: /design-develop/media/
 navigation:
-  previous: /design-develop/media/transcribing/
-  next:     /design-develop/media/player/
+  previous: /design-develop/media/transcripts/
+  next:     /design-develop/media/transcribing/
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:".
    <p><strong>Date:</strong> <strong>Draft </strong>Updated @@ August 2019.</p>
