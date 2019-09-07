@@ -9,6 +9,11 @@ layout: default
 github:
    repository: w3c/wai-media-guide
    path: 'acknowledgements.md'
+   
+resource:
+  ref: /design-develop/media/
+navigation:
+  previous: /design-develop/media/transcribing/ 
 
 ---
 
