@@ -22,7 +22,7 @@ github:
 resource:
   ref: /design-develop/media/
 navigation:
-  previous: /design-develop/media/av-content/
+  previous: /design-develop/media/player/
   next:     /design-develop/media/captions/
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:".
