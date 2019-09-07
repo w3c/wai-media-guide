@@ -18,7 +18,7 @@ navigation:
 
 ---
 
-<p><a href="https://www.w3.org/WAI/design-develop/media">Making Audio and Video Media Accessible</a> is developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). It was originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. It was significantly revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
+<p><cite>Making Audio and Video Media Accessible</cite> is developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). It was originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. It was significantly revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
 ## Editor
 * **[Shawn Lawton Henry](https://www.w3.org/People/Shawn/)**
