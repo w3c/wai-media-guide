@@ -1,5 +1,6 @@
 ---
 title: "Acknowledgements for Making Audio and Video Media Accessible"
+nav_title: "Acknowledgements"
 
 lang: en
 
