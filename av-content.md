@@ -22,7 +22,7 @@ resource:
   ref: /design-develop/media/
 navigation:
   previous: /design-develop/media/planning/
-  next:     /design-develop/media/description/
+  next:     /design-develop/media/player/
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:".
    <p><strong>Date:</strong> <strong>Draft </strong>Updated @@ August 2019.</p>
