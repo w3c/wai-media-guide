@@ -22,8 +22,11 @@ resource:
   ref: /design-develop/media/
 navigation:
   previous: /design-develop/media/av-content/
-  next: /design-develop/media/description/ 
-  
+  next: /design-develop/media/description/
+
+description: Introduces considerations for providing a media player that supports accessibility.
+image: /content-images/wai-media-guide/social.png
+
 footer: >   # Translate all the words below, including "Date:" and "Editor:".
    <p><strong>Date:</strong> <strong>Draft </strong>Updated @@ August 2019.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="/design-develop/media/acknowledgements/">Acknowledgements</a> lists contributors and credits.</p>
@@ -35,7 +38,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:".
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-Some media players are not accessible to people with disabilties. There are players developed specifically for accessibility. Usually it's best to use one of these existing players, rather than code your own.
+Some media players are not accessible to people with disabilities. There are players developed specifically for accessibility. Usually it's best to use one of these existing players, rather than code your own.
 
 {::nomarkdown}
 {% include box.html type="end" %}
