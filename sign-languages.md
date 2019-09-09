@@ -24,6 +24,9 @@ navigation:
   previous: /design-develop/media/transcripts/
   next:     /design-develop/media/transcribing/
 
+description: Helps you understand and create sign language interpretation for audio and video media accessibility.
+image: /content-images/wai-media-guide/social.png
+
 footer: >   # Translate all the words below, including "Date:" and "Editor:".
    <p><strong>Date:</strong> <strong>Draft </strong>Updated @@ August 2019.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="/design-develop/media/acknowledgements/">Acknowledgements</a> lists contributors and credits.</p>
