@@ -14,7 +14,10 @@ github:
 resource:
   ref: /design-develop/media/
 navigation:
-  previous: /design-develop/media/transcribing/ 
+  previous: /design-develop/media/transcribing/
+  
+description: Making Audio and Video Media Accessible is developed by the W3C Web Accessibility Initiative (WAI) Education and Outreach Working Group (EOWG) with support from...
+image: /content-images/wai-media-guide/social.png
 
 ---
 
