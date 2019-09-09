@@ -80,52 +80,58 @@ _Interactive transcripts_ highlight text phrases as they are spoken. Users can s
 
 In some cases, transcripts are not required to meet WCAG standards. _(The Planning page of this resource introduces the [WCAG Standard](https://wai-media-guide.netlify.com/design-develop/media/planning/#wcag-standard).)_
 
-<div id="checklist-ao" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
-  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
-  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
-      <li>For pre-recorded:
-        <ul>
-           <li>Transcripts are <strong><em>required</em></strong> at WCAG Level A.</li>
-        </ul>
-      </li>
-      <li>For live:
-        <ul>
-          <li>Transcripts are at WCAG Level AAA. (Captions are AA.)</li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-</div>
-<div id="checklist-vo" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
-  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video-only (no audio content):</p>
-  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
-      <li>For pre-recorded and live:
-        <ul>
-          <li>Transcripts are not needed because there is no audio information.</li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-</div>
-<div id="checklist-va" style="border: solid 1px #DDD; padding-bottom: 0;">
-  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video with audio content:</p>
-  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
-      <li>For pre-recorded:
-        <ul>
-          <li>Transcripts are at WCAG Level AAA. (Captions are AA.)</li>
-        </ul>
-      </li>
-      <li>For live:
-        <ul>
-          <li>A live stream separate from the media player is needed for people who cannot access the captions. It is not required in WCAG. (Captions are AA.)</li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-</div>
+{% capture boxhead %}
+Audio-only (e.g., podcast):
+{% endcapture %}
+
+{::nomarkdown}
+{% include box.html type="start" title=boxhead class="highlighted" id="checklist-ao" %}
+{:/}
+
+- For pre-recorded:
+   - Transcripts are **_required_** at WCAG Level A.
+   {:.alt}
+- For live:
+   - Transcripts are at WCAG Level AAA. (Captions are AA.)
+   {:.alt}
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{% capture boxhead %}
+Video-only (no audio content):
+{% endcapture %}
+
+{::nomarkdown}
+{% include box.html type="start" title=boxhead class="highlighted" id="checklist-vo" %}
+{:/}
+
+- For pre-recorded and live:
+   - Transcripts are not needed because there is no audio information.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{% capture boxhead %}
+Video with audio content:
+{% endcapture %}
+
+{::nomarkdown}
+{% include box.html type="start" title=boxhead class="highlighted" id="checklist-va" %}
+{:/}
+
+- For pre-recorded:
+   - Transcripts are at WCAG Level AAA. (Captions are AA.)
+   {:.alt}
+- For live:
+   - A live stream separate from the media player is needed for people who cannot access the captions. It is not required in WCAG. (Captions are AA.)
+   {:.alt}
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 ### Provide a Descriptive Transcript for Your Videos
 {:.no_toc}
