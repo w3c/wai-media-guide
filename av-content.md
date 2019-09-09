@@ -146,8 +146,8 @@ For many videos, the best way to handle audio description is not to need it at a
 
 <table>
   <tr>
-    <th scope="col"><svg aria-label="Wrong" class="icon-ex-circle "><use xlink:href="/WAI/assets/images/icons.svg#icon-ex-circle"></use></svg> Instead of the speaker saying:</th>
-    <th scope="col"><svg aria-label="OK" class="icon-check-circle "><use xlink:href="/WAI/assets/images/icons.svg#icon-check-circle"></use></svg> The speaker can say:</th>
+    <th scope="col">Instead of the speaker saying:</th>
+    <th scope="col">The speaker can say:</th>
   </tr>
   <tr>
     <td>As you can see on this chart, sales increased significantly from the first quarter to the second quarter.</td>
