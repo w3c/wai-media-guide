@@ -25,6 +25,9 @@ resource:
 navigation:
   previous: /design-develop/media/
   next:     /design-develop/media/av-content/
+  
+description: Helps you plan how to make audio and video media accessible, whether you are outsourcing it or creating it in-house.
+image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:".
    <p><strong>Date:</strong> <strong>Draft </strong>Updated @@ August 2019.</p>
