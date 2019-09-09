@@ -163,7 +163,7 @@ Description method:
 {:/}
 
 *   Is it a new video _and_ can the speakers describe the visual information in the main audio?
-    *   If yes, provide **integrated description** (no separate description is needed.),  
+    *   If yes, provide **integrated description** (no separate description is needed),  
         _**or**_ another option below.
     *   If no, will you use a media player that provides functionality for description from a text file?
         *   If yes, provide description in a **timed text file**,  
