@@ -22,6 +22,9 @@ resource:
   ref: /design-develop/media/
 navigation:
   next: /design-develop/media/planning/
+
+description: Covers captions/subtitles, audio description of visual information, media players, and other accessibility requirements.
+image: /content-images/wai-media-guide/social.png
  
 footer: >   # Translate all the words below, including "Date:" and "Editor:".
    <p><strong>Date:</strong> <strong>Draft </strong>Updated @@ August 2019.</p>
