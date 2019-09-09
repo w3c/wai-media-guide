@@ -78,48 +78,46 @@ This section tells you:
 * What is required in the WCAG standard at Level A, AA, and AAA. _([WCAG](https://wai-media-guide.netlify.com/design-develop/media/planning/#wcag-standard) is introduced in the Planning page of this resource.)_
 * What is needed to meet user needs, beyond WCAG. If there are no "A"s, then it is not required in WCAG.
 
-<div id="checklist-ano" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
-  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
-  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
-      <li>For pre-recorded and live:
-        <ul>
-          <li>Description is not needed because there is no visual information.</li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-</div>
+{% capture boxhead %}
+Audio-only (e.g., podcast):
+{% endcapture %}
 
-<div id="checklist-video" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
-  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video:</p>
-  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <p><strong>Does the video have visual information</strong> that is needed to understand what the video is communicating?</p>
-    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
-      <li>If no (for example, is only a person talking):
-        <ul>
-          <li>Description is not needed. Consider <a href="https://wai-media-guide.netlify.com/design-develop/media/planning/#none">informing users</a>.</li>
-        </ul>
-      </li>
-      <li>If yes:
-        <ul>
-          <li>For pre-recorded:
-            <ul>
-              <li>Description is needed to provide the important visual information to people who are blind and listen to the video.<br>
-                Description is <em><strong>required</strong></em> in WCAG at Level A or AA.</li>
-            </ul>
-          </li>
-          <li>For live:
-            <ul>
-              <li>Description is needed to provide the important visual information to people who are blind. <br>
-                Description is not required to meet WCAG.</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-</div>
+{::nomarkdown}
+{% include box.html type="start" title=boxhead class="highlighted" id="checklist-ao" %}
+{:/}
+
+*   For pre-recorded and live:
+    *   Description is not needed because there is no visual information.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{% capture boxhead %}
+Video:
+{% endcapture %}
+
+{::nomarkdown}
+{% include box.html type="start" title=boxhead class="highlighted" id="checklist-video" %}
+{:/}
+
+**Does the video have visual information** that is needed to understand what the video is communicating?
+
+*   If no (for example, it is only a person talking):
+    *   Description is not needed. Consider [informing users](https://wai-media-guide.netlify.com/design-develop/media/planning/#none).
+*   If yes:
+    *   For pre-recorded:
+        *   Description is needed to provide the important visual information to people who are blind and listen to the video.  
+            Description is **_required_** in WCAG at Level A or AA.
+        {:.alt}
+    *   For live:
+        *   Description is needed to provide the important visual information to people who are blind.  
+            Description is not required to meet WCAG.
+        {:.alt}
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 ## Description Considerations, Skills, and Tools
 
@@ -156,32 +154,28 @@ What method to use for description depends on your video content and the media p
 
 ***Use the information from above to answer the following questions*** in order to determine what method to provide description for your video. The options listed first are usually the best, yet you can choose another option.
 
-<div id="tree-method" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
-  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Description method:</p>
-  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-<ul style="padding-bottom: 11px; padding-top: 5px; margin-top:0; margin-bottom: 0;">
-  <li>Is it a new video <em>and</em> can the speakers describe the visual information in the main audio?
-    <ul>
-      <li>If yes, provide <strong>integrated description </strong>(no separate description is needed.),<br>
-        <em><strong>or</strong></em> another option below. </li>
-      <li>If no, will you use a media player that provides functionality for description from a text file?
-        <ul>
-          <li>If yes, provide description in a <strong>timed text file</strong>,<br>
-            <em><strong>or</strong></em> another option below.</li>
-          <li>If no, will you use a media player that supports a separate audio track for the description, <em>and</em> is there enough space in the main audio for the description?
-            <ul>
-              <li>If yes, provide description in a <strong>separate audio file</strong>,<br>
-                <em><strong>or</strong></em> provide a <strong>separate described video</strong>.</li>
-              <li>If no, provide a <strong>separate described video</strong>.</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-</div>
-</div>
+{% capture boxhead %}
+Description method:
+{% endcapture %}
+
+{::nomarkdown}
+{% include box.html type="start" title=boxhead class="highlighted" id="method-tree" %}
+{:/}
+
+*   Is it a new video _and_ can the speakers describe the visual information in the main audio?
+    *   If yes, provide **integrated description** (no separate description is needed.),  
+        _**or**_ another option below.
+    *   If no, will you use a media player that provides functionality for description from a text file?
+        *   If yes, provide description in a **timed text file**,  
+            _**or**_ another option below.
+        *   If no, will you use a media player that supports a separate audio track for the description, _and_ is there enough space in the main audio for the description?
+            *   If yes, provide description in a **separate audio file**,  
+                _**or**_ provide a **separate described video**.
+            *   If no, provide a **separate described video**.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 ## Options for Creating Description
 
