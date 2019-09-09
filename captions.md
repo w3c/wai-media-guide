@@ -116,16 +116,14 @@ Audio-only (e.g., podcast):
 
 *   For pre-recorded:
     *   Captions are useful for people who are hard of hearing to get the richness of listening to the audio and fill in what they don’t hear well by reading the captions.<br>Captions are not required to meet WCAG. (Transcripts are at Level A.)
-   {:.alt}
+    {:.alt}
 *   For live:
     *   Captions are needed to provide the audio content to people who are Deaf or hard of hearing.<br>Captions are **_required_** in WCAG at Level AA.
-   {:.alt}
+    {:.alt}
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
-
----------------
 
 {% capture boxhead %}
 Video-only (no audio content):
@@ -142,7 +140,7 @@ Video-only (no audio content):
 {% include box.html type="end" %}
 {:/}
 
--------
+
 {% capture boxhead %}
 Video with audio content:
 {% endcapture %}
