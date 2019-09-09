@@ -106,66 +106,68 @@ This section tells you:
 * What is required in the WCAG standard at Level A, AA, and AAA. _([WCAG](https://wai-media-guide.netlify.com/design-develop/media/planning/#wcag-standard) is introduced in the Planning page of this resource.)_
 * What is needed to meet user needs, beyond WCAG. If there are no "A"s, then it is not required in WCAG.
 
-<div id="checklist-ao" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
-  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Audio-only (e.g., podcast):</p>
-  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
-      <li>For pre-recorded:
-        <ul>
-          <li>Captions are useful for people who are hard of hearing to get the richness of listening to the audio and fill in what they don’t hear well by reading the captions.<br>Captions are not required to meet WCAG. (Transcripts are at Level A.)</li>
-        </ul>
-      </li>
-      <li>For live:
-        <ul>
-          <li>Captions are needed to provide the audio content to people who are Deaf or hard of hearing.<br>Captions are <strong><em>required</em></strong> in WCAG at Level AA.</li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-</div>
+{% capture boxhead %}
+Audio-only (e.g., podcast):
+{% endcapture %}
 
-<div id="checklist-vo" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
-  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video-only (no audio content):</p>
-  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
-      <li>For pre-recorded and live:
-        <ul>
-          <li>Captions are not needed because there is no audio information.</li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-</div>
+{::nomarkdown}
+{% include box.html type="start" title=boxhead class="highlighted" id="checklist-ao" %}
+{:/}
 
-<div id="checklist-video" style="border: solid 1px #DDD; padding-bottom: 0; margin-bottom: 1em;">
-  <p style="background:#FFF; padding: 5px 5px 5px 11px; font-weight:bold; margin: 0;">Video:</p>
-  <div style="background:#D9EDF7; padding: 5px 0 0 11px; margin-top:0;">
-    <p><strong>Does the video have audio information</strong> that is needed to understand what the video is communicating?</p>
-    <ul style="padding-bottom: 11px; padding-top: 0; margin-top: 0; margin-bottom: 0;">
-      <li>If no (for example, it is just background music):
-        <ul>
-          <li>Captions are not needed because there is no important audio content. Consider <a href="https://wai-media-guide.netlify.com/design-develop/media/planning/#none">informing users</a>.</li>
-        </ul>
-      </li>
-      <li>If yes:
-        <ul>
-          <li>For pre-recorded:
-            <ul>
-              <li>Captions are needed to provide the audio content to people who are Deaf or hard of hearing.<br>
-                Captions are <em><strong>required</strong></em> in WCAG at Level A.</li>
-            </ul>
-          </li>
-          <li>For live:
-            <ul>
-              <li>Captions are needed to provide the audio content to people who are Deaf or hard of hearing.<br>
-                Captions are <em><strong>required</strong></em> in WCAG at Level AA.</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-</div>
+*   For pre-recorded:
+    *   Captions are useful for people who are hard of hearing to get the richness of listening to the audio and fill in what they don’t hear well by reading the captions.<br>Captions are not required to meet WCAG. (Transcripts are at Level A.)
+   {:.alt}
+*   For live:
+    *   Captions are needed to provide the audio content to people who are Deaf or hard of hearing.<br>Captions are **_required_** in WCAG at Level AA.
+   {:.alt}
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+---------------
+
+{% capture boxhead %}
+Video-only (no audio content):
+{% endcapture %}
+
+{::nomarkdown}
+{% include box.html type="start" title=boxhead class="highlighted" id="checklist-vo" %}
+{:/}
+
+*   For pre-recorded and live:
+    *   Captions are not needed because there is no audio information.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+-------
+{% capture boxhead %}
+Video with audio content:
+{% endcapture %}
+
+{::nomarkdown}
+{% include box.html type="start" title=boxhead class="highlighted" id="checklist-va" %}
+{:/}
+
+Does the video have audio information that is needed to understand what the video is communicating?
+
+*   If no (for example, it is just background music):
+    *   Captions are not needed because there is no important audio content. Consider [informing users](https://wai-media-guide.netlify.com/design-develop/media/planning/#none).
+*   If yes:
+    *   For pre-recorded:
+        *   Captions are needed to provide the audio content to people who are Deaf or hard of hearing.  
+            Captions are _**required**_ in WCAG at Level A.
+        {:.alt}
+    *   For live:
+        *   Captions are needed to provide the audio content to people who are Deaf or hard of hearing.  
+            Captions are _**required**_ in WCAG at Level AA.
+        {:.alt}
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 ## Skills and Tools
 
