@@ -23,6 +23,9 @@ resource:
 navigation:
   previous: /design-develop/media/planning/
   next:     /design-develop/media/player/
+  
+description: Describes accessibility considerations when planning, scripting, storyboarding, recording, and producing audio and video media.
+image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:".
    <p><strong>Date:</strong> <strong>Draft </strong>Updated @@ August 2019.</p>
