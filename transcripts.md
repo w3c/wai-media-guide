@@ -89,7 +89,7 @@ Audio-only (e.g., podcast):
 {:/}
 
 - For pre-recorded:
-   - Transcripts are **_ required_** at WCAG Level A.
+   - Transcripts are **_required_** at WCAG Level A.
    {:.alt}
 - For live:
    - Transcripts are at WCAG Level AAA. (Captions are AA.)
