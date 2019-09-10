@@ -72,7 +72,7 @@ This resource uses "described video" in some places as a shortened form of "a vi
 ## Does My Media Need Description? {#checklist}
 
 This section tells you:
-* What is required in the WCAG standard at Level A, AA, and AAA. _([WCAG](https://wai-media-guide.netlify.com/design-develop/media/planning/#wcag-standard) is introduced in the Planning page of this resource.)_
+* What is required in the WCAG standard at Level A, AA, and AAA. _([WCAG](/media/av/planning/#wcag-standard) is introduced in the Planning page of this resource.)_
 * What is needed to meet user needs, beyond WCAG. If there are no "A"s, then it is not required in WCAG.
 
 {% capture boxhead %}
@@ -101,7 +101,7 @@ Video:
 **Does the video have visual information** that is needed to understand what the video is communicating?
 
 *   If no (for example, it is only a person talking):
-    *   Description is not needed. Consider [informing users](https://wai-media-guide.netlify.com/design-develop/media/planning/#none).
+    *   Description is not needed. Consider [informing users](/media/av/planning/#none).
 *   If yes:
     *   For pre-recorded:
         *   Description is needed to provide the important visual information to people who are blind and listen to the video.  
@@ -120,7 +120,7 @@ Video:
 
 When accessibility is considered _before_ videos are produced, it significantly cuts down on cost and effort to develop description. For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers as the video is planned and created, and you don't need separate description, thus there is no additional cost.
 
-Information on planning for description in _new videos_ is in the "Creating Audio and Video Content" page, [Plan for Audio Description of Visual Information section](/design-develop/media/av-content/#plan-description).
+Information on planning for description in _new videos_ is in the "Creating Audio and Video Content" page, [Plan for Audio Description of Visual Information section](/media/av/av-content/#plan-description).
 
 To add description to _an existing video_, you'll either need skills and tools to:
 * write it
@@ -138,9 +138,9 @@ Many organizations choose to outsource their description.
 
 What method to use for description depends on your video content and the media player that you use. First, figure out these issues about your video content, timing, and player:
 
-* **Integrated** &mdash; For new videos, can the speakers describe the relevant visual information as the video is recorded? This works for well for some videos, such as presentations and instructional videos. For examples, see the "Creating Audio and Video Content" page, [Integrated Description section](/design-develop/media/av-content/#integrate-description).
+* **Integrated** &mdash; For new videos, can the speakers describe the relevant visual information as the video is recorded? This works for well for some videos, such as presentations and instructional videos. For examples, see the "Creating Audio and Video Content" page, [Integrated Description section](/media/av/av-content/#integrate-description).
 
-* **Media player support** &mdash; Information about media player functionality is in the Accessible Media Players page under [Existing Players](/design-develop/media/player/#existing-players). Does the media player, platform, or plug-in that you are using provide functionality for:
+* **Media player support** &mdash; Information about media player functionality is in the Accessible Media Players page under [Existing Players](/media/av/player/#existing-players). Does the media player, platform, or plug-in that you are using provide functionality for:
    * description from a text file?
    * a separate audio track for description?
 
@@ -181,7 +181,7 @@ Depending on your video situation, do one of the options below &mdash; as determ
 ### Integrated &ndash; Creating Integrated Description
 
 This approach works for some new videos. The process to develop a video with integrated description is basically:
-1. When writing the script, make sure all relevant visual information is included. See [Tips for Writing Descriptions below](#writing) and examples in Accessible Audio and Video Content, [Integrate description section](/design-develop/media/av-content/#integrate-description))
+1. When writing the script, make sure all relevant visual information is included. See [Tips for Writing Descriptions below](#writing) and examples in Accessible Audio and Video Content, [Integrate description section](/media/av/av-content/#integrate-description))
 2. Before finalizing the video, check to confirm that all relevant visual information is covered in the audio.
 
 ### Text &ndash; Creating Description in a Text File
@@ -246,7 +246,7 @@ The process to develop a separate audio file and edit the visual track is basica
 2. Record the descriptions. See [Tips for Recording Descriptions below](#recording).
 3. Create a new audio file by combining the original audio and the new description audio. See [Tips for Combining Audio Files below](#combining).
 4. Create a new video:
-	* _**If**_ you have source video with longer scenes _(as described in Accessible Audio and Video Content, [Time for description section](/design-develop/media/av-content/#time-for-description))_, recut the scenes longer to fill in the visual space where you need to accommodate the time for the description.
+	* _**If**_ you have source video with longer scenes _(as described in Accessible Audio and Video Content, [Time for description section](/media/av/av-content/#time-for-description))_, recut the scenes longer to fill in the visual space where you need to accommodate the time for the description.
 	* _**If not or if you're adding to an existing video**_, you will need to leave a static image in the video while the description is playing in the audio. <!-- (For example, this video [@@ need very good example - see GitHub](https://github.com/w3c/wai-media-guide/issues/73) pauses at 00:00 for the audio description.) -->
 
 (Make sure on the web page where the video is available, the Described version uses the correct version that you just created.)
@@ -278,7 +278,7 @@ More guidance on writing descriptions is available on the web, for example: [Des
 * Use a voice, style, and delivery that is distinguishable from other voices used in the video.
 * Use a neutral voice that does not convey emotions.
 * When recording a single file with timed descriptions, voice the descriptions at the same time as the visual content, or right before the visual content. Don't put the description after the visual content.
-* See [guidance on audio content](/design-develop/media/av-content/#audio).
+* See [guidance on audio content](/media/av/av-content/#audio).
 
 ### Tips for Combining Audio Files {#combining}
 {:.no_toc}

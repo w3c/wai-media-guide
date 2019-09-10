@@ -83,9 +83,9 @@ You can start with an automatically-generated text file. There's lots of softwar
 
 Plan to spend time correcting automatically-generated transcription.
 
-More details on options and tools for transcribing are in: Transcripts on the Web, [How to get or make transcripts {% include_cached external.html %}]( http://www.uiaccess.com/transcripts/transcripts_on_the_web.html#justdoit).
+More details on options and tools for transcribing are in: Transcripts on the Web, [How to get or make transcripts {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html#justdoit).
 
-A little about captioning tools is in the Captions/Subtitles page of this resource: [Captioning Tools](https://wai-media-guide.netlify.com/design-develop/media/captions/#caption-tools).
+A little about captioning tools is in the Captions/Subtitles page of this resource: [Captioning Tools](/media/av/captions/#caption-tools).
 
 ## What to Transcribe
 
@@ -141,8 +141,8 @@ For captions:
 
 Captions also include the time that each phrase will be displayed. Most people use tools to develop and refine captions.
 
-Learn more about captions in another page of this resource: [Captions/Subtitles](/design-develop/media/captions/).
+Learn more about captions in another page of this resource: [Captions/Subtitles](/media/av/captions/).
 
 ## More on Transcripts
 
-Learn more about transcripts in another page of this resource: [Transcripts](/design-develop/media/transcripts/).
+Learn more about transcripts in another page of this resource: [Transcripts](/media/av/transcripts/).

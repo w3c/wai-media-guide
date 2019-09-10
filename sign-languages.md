@@ -73,7 +73,7 @@ There are some efforts to provide automatic sign language from text; however, av
 
 Sign language is not required in most web accessibility policies.
 
-Sign language is in the WCAG standard at Level AAA. _(The Planning page of this resource introduces the [WCAG Standard](https://wai-media-guide.netlify.com/design-develop/media/planning/#wcag-standard).)_
+Sign language is in the WCAG standard at Level AAA. _(The Planning page of this resource introduces the [WCAG Standard](/media/av/planning/#wcag-standard).)_
 
 ## Skills and Tools
 
@@ -102,7 +102,7 @@ Ensure the signer is large enough - _post-production_
 
 Avoid obscuring important content - _post-production_
 : Position the signer to avoid obscuring important information in the video. The signer is usually at the bottom right. If your video has information such as a news ticker at the bottom, position the signer above that.
-: Ideally when the video was made, the position of the signer was planned for, as noted in another page of this resource: [Plan for sign language – storyboarding, recording](/design-develop/media/av-content/#plan-for-sign-language--storyboarding-recording).
+: Ideally when the video was made, the position of the signer was planned for, as noted in another page of this resource: [Plan for sign language – storyboarding, recording](/media/av/av-content/#plan-for-sign-language--storyboarding-recording).
 
 Make sign language video(s) easy to discover and use
 : Make it easy to get to the video with sign language and to the video without sign language.

@@ -82,7 +82,7 @@ The links below go to a web page in this resource with details on understanding 
 {% include box.html type="start" title="All Audio and Video Media" class="highlighted" id="checklist-all" %}
 {:/}
 
-- **[Audio content](/design-develop/media/av-content/#audio-only-and-videos) (A)** is accessible (for example, what is said and how it's recorded)
+- **[Audio content](/media/av/av-content/#audio-only-and-videos) (A)** is accessible (for example, what is said and how it's recorded)
 - **[Video content](/design-develop/media/av-content) (A)** is accessible (for example, doesn't cause seizures)
 - **[Media player](/design-develop/media/player) (A)** supports accessibility
 {:.alt}
@@ -103,9 +103,9 @@ This section covers audio-only media, like podcasts that don't have video.
 {% include box.html type="start" title=boxhead class="highlighted" id="checklist-ap" %}
 {:/}
 
--   **[Transcript](/design-develop/media/transcripts/) (A)** separate from the audio
--   **[Sign language(s)](/design-develop/media/sign-languages/) (AAA)**
--   **[Captions](/design-develop/media/captions/)** synchronised with the audio
+-   **[Transcript](/media/av/transcripts/) (A)** separate from the audio
+-   **[Sign language(s)](/media/av/sign-languages/) (AAA)**
+-   **[Captions](/media/av/captions/)** synchronised with the audio
 {:.alt}
 
 {::nomarkdown}
@@ -120,9 +120,9 @@ This section covers audio-only media, like podcasts that don't have video.
 {% include box.html type="start" title=boxhead class="highlighted" id="checklist-la" %}
 {:/}
 
--   **[Captions](/design-develop/media/captions/) (AA)**
--   **[Transcript](/design-develop/media/transcripts/) (AAA)**
--   **[Sign language(s)](/design-develop/media/sign-languages/)**
+-   **[Captions](/media/av/captions/) (AA)**
+-   **[Transcript](/media/av/transcripts/) (AAA)**
+-   **[Sign language(s)](/media/av/sign-languages/)**
 {:.alt}
 
 {::nomarkdown}
@@ -142,16 +142,16 @@ This section covers audio-only media, like podcasts that don't have video.
 **Does the video have speech or other audio** that is needed to understand the content?
 
 -   If yes,
-    -   **[Captions](/design-develop/media/captions/)** **(AA)**
-    -   **[Transcript of audio information](/design-develop/media/transcripts/) (AAA)** *(The same text from the captions file, in a different format.)*
-    -   **[Sign language(s)](/design-develop/media/sign-languages/) (AAA)**
+    -   **[Captions](/media/av/captions/)** **(AA)**
+    -   **[Transcript of audio information](/media/av/transcripts/) (AAA)** *(The same text from the captions file, in a different format.)*
+    -   **[Sign language(s)](/media/av/sign-languages/) (AAA)**
     {:.alt}
 -   If no, [inform users](#none).
 
 **Does the video have visual information** that is needed to understand the content?
 
 -   If yes,
-    -   **[Audio description of the visual information](/design-develop/media/description) (A/AA)**
+    -   **[Audio description of the visual information](/media/av/description) (A/AA)**
     -   **[Descriptive transcript](/design-develop/media/transcripts) (AAA)** *(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)*
     {:.alt}
 -   If no, [inform users](#none).
@@ -171,8 +171,8 @@ This section covers audio-only media, like podcasts that don't have video.
 **Is there speech or other audio** that is needed to understand the content?
 
 -   If yes,
-    -   **[Captions](/design-develop/media/captions/) (AA)**
-    -   **[Sign language(s)](/design-develop/media/sign-languages/)**
+    -   **[Captions](/media/av/captions/) (AA)**
+    -   **[Sign language(s)](/media/av/sign-languages/)**
     -   Text stream available to screen readers (and braille devices)
     {:.alt}
 -   If no, [inform users](#none).
@@ -257,15 +257,15 @@ Here is an example workflow for developing an accessible video, with notes on wh
 {% include box.html type="start" title="Example Workflow and Responsibilities" class="" %}
 {:/}
 
-1. Address accessibility in **[video content](/design-develop/media/av-content/)** as the video is planned and produced.<br>_By:_ Script writers, videographers, producers, and others.
+1. Address accessibility in **[video content](/media/av/av-content/)** as the video is planned and produced.<br>_By:_ Script writers, videographers, producers, and others.
 
-2. Develop a **[described version of the video](/design-develop/media/description/)** at the same time as the main video, if needed.<br>_By:_ Usually the same people who produce the main video also produce the described version.
+2. Develop a **[described version of the video](/media/av/description/)** at the same time as the main video, if needed.<br>_By:_ Usually the same people who produce the main video also produce the described version.
 
-3. Develop **[captions](/design-develop/media/captions/)** for the main video, for the described version, and of the description itself.<br>_By:_ Usually if the video is professionally produced, the producers provide captions. Sometimes when informal videos are developed in-house, captions are outsourced.
+3. Develop **[captions](/media/av/captions/)** for the main video, for the described version, and of the description itself.<br>_By:_ Usually if the video is professionally produced, the producers provide captions. Sometimes when informal videos are developed in-house, captions are outsourced.
 
-4. Develop a **[descriptive transcript](/design-develop/media/transcripts/)** using the text from the caption files.<br>_By:_ Often transcripts are developed in-house from caption files.
+4. Develop a **[descriptive transcript](/media/av/transcripts/)** using the text from the caption files.<br>_By:_ Often transcripts are developed in-house from caption files.
 
-5. Implement it in an **[accesible media player](/design-develop/media/player/)** (usually an existing player with good accessibility support).<br>_By:_ Usually in-house web developers.
+5. Implement it in an **[accesible media player](/media/av/player/)** (usually an existing player with good accessibility support).<br>_By:_ Usually in-house web developers.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -274,11 +274,11 @@ Here is an example workflow for developing an accessible video, with notes on wh
 ### Resourcing Accessibility {#in-or-out}
 
 To help you **plan in-house and outsourced work**, the pages of this resource include considerations, skills, and tools needed for creating accessible media in these sections:
-* [Description Considerations, Skills, and Tools](/design-develop/media/description/#audio-description-considerations-skills-and-tools)
-* [Captions, Skills and Tools](/design-develop/media/captions/#skills-and-tools) and [Automatic Captions are Not Sufficient](/design-develop/media/captions/#automatic-captions-are-not-sufficient)
-* [Transcripts, Process - Skills and Tools](/design-develop/media/transcripts/#process---skills-and-tools)
-* [Media Players, Skills and Tools](/design-develop/media/player/#skills-and-tools)
-* [Sign Languages, Skills and Tools](/design-develop/media/sign-languages/#skills-and-tools)
+* [Description Considerations, Skills, and Tools](/media/av/description/#audio-description-considerations-skills-and-tools)
+* [Captions, Skills and Tools](/media/av/captions/#skills-and-tools) and [Automatic Captions are Not Sufficient](/design-develop/media/captions/#automatic-captions-are-not-sufficient)
+* [Transcripts, Process - Skills and Tools](/media/av/transcripts/#process---skills-and-tools)
+* [Media Players, Skills and Tools](/media/av/player/#skills-and-tools)
+* [Sign Languages, Skills and Tools](/media/av/sign-languages/#skills-and-tools)
 
 When planning and budgeting for accessible media, it is often helpful to communicate the **benefits to organizations**, such as search engine optimization (SEO), better user experience for all, improved customer satisfaction, and more listed in the intro page under [Benefits to Organizations and Individuals](/#benefits).
 
@@ -386,8 +386,8 @@ To learn more about WCAG requirements for media, see [Understanding Guideline 1.
 
 Other WCAG requirements related to audio and video include:
 * In this resource:
-  * [Accessible Audio and Video Content](/design-develop/media/av-content/)
-  * [Media Player Functionality](/design-develop/media/player/#player-accessibility-functionality)
+  * [Accessible Audio and Video Content](/media/av/av-content/)
+  * [Media Player Functionality](/media/av/player/#player-accessibility-functionality)
 * In Understanding WCAG:
    * [2.2.2 Pause, Stop, Hide](https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide) (Level A) For moving, blinking, scrolling, or auto-updating information, all of the following are true:...
    * [1.4.2 Audio Control](https://www.w3.org/WAI/WCAG21/Understanding/audio-control) (Level A) If any audio on a Web page plays automatically for more than 3 seconds, either a mechanism is available to pause or stop the audio, or a mechanism is available to control audio volume...

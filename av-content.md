@@ -58,7 +58,7 @@ This page describes accessibility considerations when planning, scripting, story
 
 This page addresses accessibility considerations when planning, scripting, storyboarding, recording, and producing audio and video.
 
-Some of the guidance below is related to requirements in Web Content Accessibility Guidelines (WCAG) and have links to a separate resource. _(The Planning page of this resource introduces the [WCAG Standard](https://wai-media-guide.netlify.com/design-develop/media/planning/#wcag-standard).)_ Other guidance is good practice.
+Some of the guidance below is related to requirements in Web Content Accessibility Guidelines (WCAG) and have links to a separate resource. _(The Planning page of this resource introduces the [WCAG Standard](/media/av/planning/#wcag-standard).)_ Other guidance is good practice.
 
 ## Audio
 
@@ -127,7 +127,7 @@ Often sign languages are provided as an overlay in the bottom right corner of vi
 
 Plan for the video not to include important information that would be obstructed by a sign language overlay.
 
-For other guidance including recording, see another page of this resource: [Sign Languages](/design-develop/media/sign-languages/)
+For other guidance including recording, see another page of this resource: [Sign Languages](/media/av/sign-languages/)
 
 ### Plan for audio description of visual information – _storyboarding, recording_ {#plan-description}
 
@@ -160,7 +160,7 @@ For many videos, the best way to handle audio description is not to need it at a
   </tr>
 </table>
 
-Guidance on what to include is in the "Creating Audio Description of Visual Information" page, [Tips for Writing Description section](/design-develop/media/description/#tips-for-writing-description).
+Guidance on what to include is in the "Creating Audio Description of Visual Information" page, [Tips for Writing Description section](/media/av/description/#tips-for-writing-description).
 
 #### Time for description
 
@@ -195,4 +195,4 @@ An example of this is the [Web Accessibility Perspectives: Video Captions](https
 
 #### More about description
 
-More information is in the next page of this resource: [Audio Description of Visual Information](/design-develop/media/description/).
+More information is in the next page of this resource: [Audio Description of Visual Information](/media/av/description/).

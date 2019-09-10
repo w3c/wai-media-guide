@@ -100,7 +100,7 @@ For optimum accessibility, provide a separate caption file of the audio descript
 ## Does My Media Need Captions? {#checklist}
 
 This section tells you:
-* What is required in the WCAG standard at Level A, AA, and AAA. _([WCAG](https://wai-media-guide.netlify.com/design-develop/media/planning/#wcag-standard) is introduced in the Planning page of this resource.)_
+* What is required in the WCAG standard at Level A, AA, and AAA. _([WCAG](/media/av/planning/#wcag-standard) is introduced in the Planning page of this resource.)_
 * What is needed to meet user needs, beyond WCAG. If there are no "A"s, then it is not required in WCAG.
 
 {% capture boxhead %}
@@ -149,7 +149,7 @@ Video with audio content:
 Does the video have audio information that is needed to understand what the video is communicating?
 
 *   If no (for example, it is just background music):
-    *   Captions are not needed because there is no important audio content. Consider [informing users](https://wai-media-guide.netlify.com/design-develop/media/planning/#none).
+    *   Captions are not needed because there is no important audio content. Consider [informing users](/media/av/planning/#none).
 *   If yes:
     *   For pre-recorded:
         *   Captions are needed to provide the audio content to people who are Deaf or hard of hearing.  
@@ -166,7 +166,7 @@ Does the video have audio information that is needed to understand what the vide
 
 ## Skills and Tools
 
-Creating captions requires typing up the audio (&quot;transcribing&quot;) and formatting it in a file with timestamps. Transcribing an audio file is fairly difficult and takes quite a bit of time for people who don't have the software and skill for it. The file format for captions are simple, yet it's tedious to add timestamps, especially without software or service for developing caption files.
+Creating captions requires typing up the audio ("transcribing") and formatting it in a file with timestamps. Transcribing an audio file is fairly difficult and takes quite a bit of time for people who don't have the software and skill for it. The file format for captions are simple, yet it's tedious to add timestamps, especially without software or service for developing caption files.
 
 Creating high-quality captions requires knowledge of which non-speech audio information should be included in the captions. It's more art than science --- for example, it's not always clear which non-speech audio information to include and how to communicate it in text.
 
@@ -234,7 +234,7 @@ Most people use software or services to help develop captions. There are several
 
 Several free and fee-based tools create automatic captions that you can use as a starting point. For example, a common video website includes automatic captions and tools for you to edit the captions. **You will need to edit automatic captions for accuracy.**
 
-If you already have transcription of the audio into text, there are free tools that will generate a captions file with timestamps. You will need to edit it for line breaks as described in another page of this resource, Transcribing Audio to Text: [More on Captions](/design-develop/media/transcribing/#more-on-captions).
+If you already have transcription of the audio into text, there are free tools that will generate a captions file with timestamps. You will need to edit it for line breaks as described in another page of this resource, Transcribing Audio to Text: [More on Captions](/media/av/transcribing/#more-on-captions).
 
 Most caption-editing tools can export a plain text transcript.
 
@@ -242,7 +242,7 @@ Most caption-editing tools can export a plain text transcript.
 
 ### Transcribing Audio to Text
 
-For specific guidance on what to type up, see another page in this resource: [Transcribing Audio to Text]( /design-develop/media/transcribing/).
+For specific guidance on what to type up, see another page in this resource: [Transcribing Audio to Text]( /media/av/transcribing/).
 
 ## Positioning and Styling Captions
 

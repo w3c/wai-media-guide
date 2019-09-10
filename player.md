@@ -94,7 +94,7 @@ Each media player provides documentation of the steps to set it up in a web page
 
 ### Support for Description Methods
 
-Media player functionality is required for some methods of providing audio description of visual information, as described in the [Description page](/design-develop/media/description/). To the best of our knowledge, the following media players provide such functionality:
+Media player functionality is required for some methods of providing audio description of visual information, as described in the [Description page](/media/av/description/). To the best of our knowledge, the following media players provide such functionality:
 * Supports description in text file (VTT format):
    * AblePlayer &mdash; supports description when there is space in the audio, and when the video needs to pause ("extended description")
    * video.js &mdash; supports description when there is space in the audio; does **not** support description when the video needs to pause ("extended description")

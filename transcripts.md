@@ -75,7 +75,7 @@ _Interactive transcripts_ highlight text phrases as they are spoken. Users can s
 
 **Short answer: Yes, transcripts are needed to meet the wide range of user needs**.
 
-In some cases, transcripts are not required to meet WCAG standards. _(The Planning page of this resource introduces the [WCAG Standard](https://wai-media-guide.netlify.com/design-develop/media/planning/#wcag-standard).)_
+In some cases, transcripts are not required to meet WCAG standards. _(The Planning page of this resource introduces the [WCAG Standard](/media/av/planning/#wcag-standard).)_
 
 {% capture boxhead %}
 Audio-only (e.g., podcast):
@@ -133,7 +133,7 @@ Video with audio content:
 ### Provide a Descriptive Transcript for Your Videos
 {:.no_toc}
 
-Descriptive transcripts are needed by people who are Deaf-blind and others. (A bit more justification is in the Planning page: [Descriptive Transcripts](/design-develop/media/planning/#descriptive-transcripts).) And **descriptive transcripts are easy and inexpensive to make** using captions and audio description that you already have to meet Level AA, as explained on this page.
+Descriptive transcripts are needed by people who are Deaf-blind and others. (A bit more justification is in the Planning page: [Descriptive Transcripts](/media/av/planning/#descriptive-transcripts).) And **descriptive transcripts are easy and inexpensive to make** using captions and audio description that you already have to meet Level AA, as explained on this page.
 
 ## Process - Skills and Tools
 
@@ -144,13 +144,13 @@ The process for providing transcripts is basically:
 
 ### If You Start with Captions
 
-For videos, often transcribing the audio to text is done to create captions, as described in the [captions page](/design-develop/media/captions/). Then the captions file is used to create the transcript.
+For videos, often transcribing the audio to text is done to create captions, as described in the [captions page](/media/av/captions/). Then the captions file is used to create the transcript.
 
 Creating transcripts from caption files is easy with basic web skills and tools.
 
 ### If You Start with Transcribing
 
-Transcribing an audio file takes quite a bit of time for people who don't have the software and skill for it. Many organizations choose to outsource the transcribing. Guidance for doing it yourself (DIY) is in another page of this resource: [Transcribing Audio to Text](/design-develop/media/transcribing/).
+Transcribing an audio file takes quite a bit of time for people who don't have the software and skill for it. Many organizations choose to outsource the transcribing. Guidance for doing it yourself (DIY) is in another page of this resource: [Transcribing Audio to Text](/media/av/transcribing/).
 
 Once you have the transcription, creating the transcript is easy with basic web skills and tools.
 
@@ -158,7 +158,7 @@ Once you have the transcription, creating the transcript is easy with basic web 
 
 If you already have captions, you can use that file to create the transcript. Most caption-editing tools provide an option to export a plain text transcript. Otherwise, you will need to delete the timestamps, or edit them per below.
 
-If you don't have captions, you'll need transcription of the audio information. That's addressed in another page of this resource: [Transcribing Audio to Text](/design-develop/media/transcribing/).
+If you don't have captions, you'll need transcription of the audio information. That's addressed in another page of this resource: [Transcribing Audio to Text](/media/av/transcribing/).
 
 ### Transcript File Format
 
