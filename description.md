@@ -5,7 +5,7 @@ title_html: '<img src="/content-images/wai-media-guide/ad.svg" alt="" class="" s
 nav_title: "Description"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2019-10-09   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2019-09-10   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
