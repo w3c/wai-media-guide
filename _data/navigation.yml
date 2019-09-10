@@ -163,7 +163,7 @@
     url: "/media/av/"
     pages:
       - name: Planning
-        url: "/media/av/planning/"        
+        url: "/media/av/planning/"
       - name: Audio Content & Video Content
         url: "/media/av/av-content/"
       - name: Media Player
@@ -178,6 +178,10 @@
         url: "/media/av/sign-languages/"
       - name: Transcribing Audio to Text
         url: "/media/av/transcribing/"
+      - name:
+          en: Achnowledgements
+        url: /media/av/acknowledgements/
+        hide: true
   - name: Tutorials
     url: "https://www.w3.org/WAI/tutorials/"
     different: true
