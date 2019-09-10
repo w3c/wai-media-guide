@@ -59,7 +59,7 @@ This page helps you:
 ## Introduction
 {:.no_toc}
 
-For background, see the introduction page of this resource _[Making Video and Audio Accessible](index)_, for:
+For background, see the introduction page of this resource _[Making Video and Audio Accessible](/media/av/)_, for:
 * brief explanations of captions, transcripts, description, sign language, and media player accessibility
 * user experiences to help you understand the "why" behind the requirements
 
@@ -83,8 +83,8 @@ The links below go to a web page in this resource with details on understanding 
 {:/}
 
 - **[Audio content](/media/av/av-content/#audio-only-and-videos) (A)** is accessible (for example, what is said and how it's recorded)
-- **[Video content](/design-develop/media/av-content) (A)** is accessible (for example, doesn't cause seizures)
-- **[Media player](/design-develop/media/player) (A)** supports accessibility
+- **[Video content](/media/av/av-content/) (A)** is accessible (for example, doesn't cause seizures)
+- **[Media player](/media/av/player/) (A)** supports accessibility
 {:.alt}
 
 {::nomarkdown}
@@ -151,8 +151,8 @@ This section covers audio-only media, like podcasts that don't have video.
 **Does the video have visual information** that is needed to understand the content?
 
 -   If yes,
-    -   **[Audio description of the visual information](/media/av/description) (A/AA)**
-    -   **[Descriptive transcript](/design-develop/media/transcripts) (AAA)** *(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)*
+    -   **[Audio description of the visual information](/media/av/description/) (A/AA)**
+    -   **[Descriptive transcript](//media/av/transcripts/) (AAA)** *(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)*
     {:.alt}
 -   If no, [inform users](#none).
 
@@ -222,7 +222,7 @@ For videos, captions enable people who are Deaf or hard of hearing to see the vi
 
 For audio-only, captions enable people who are hard of hearing to get the richness of listening to the audio and fill in what they don't hear well by reading the captions.
 
-Transcripts are needed to provide access to people who are Deaf-blind and use braille. Also, transcripts are used by people without disabilities, as listed in the intro page of this resource under [Benefits to Organizations and Individuals](/#benefits).
+Transcripts are needed to provide access to people who are Deaf-blind and use braille. Also, transcripts are used by people without disabilities, as listed in the intro page of this resource under [Benefits to Organizations and Individuals](/media/av/#benefits).
 
 ### Descriptive Transcripts
 
@@ -230,7 +230,7 @@ Descriptive transcripts for videos:
 
 * are needed for most videos to be accessible to people who are "Deaf-blind"
 * meet a wide range of accessibility needs, including for people who have difficulty processing auditory information and people who cannot focus and comprehend auditory or visual information when there is changing visuals
-* are used by people _without_ disabilities, and benefit your organization (examples are in the intro page under [Benefits to Organizations and Individuals](/#benefits))
+* are used by people _without_ disabilities, and benefit your organization (examples are in the intro page under [Benefits to Organizations and Individuals](/media/av/#benefits))
 * **are easy and inexpensive to develop** using captions and description that you already have to meet Level AA
 
 **Captions and transcripts use the same text. Once you have one, it's fairly easy to develop the other.**
@@ -275,16 +275,16 @@ Here is an example workflow for developing an accessible video, with notes on wh
 
 To help you **plan in-house and outsourced work**, the pages of this resource include considerations, skills, and tools needed for creating accessible media in these sections:
 * [Description Considerations, Skills, and Tools](/media/av/description/#audio-description-considerations-skills-and-tools)
-* [Captions, Skills and Tools](/media/av/captions/#skills-and-tools) and [Automatic Captions are Not Sufficient](/design-develop/media/captions/#automatic-captions-are-not-sufficient)
+* [Captions, Skills and Tools](/media/av/captions/#skills-and-tools) and [Automatic Captions are Not Sufficient](/media/av/captions/#automatic-captions-are-not-sufficient)
 * [Transcripts, Process - Skills and Tools](/media/av/transcripts/#process---skills-and-tools)
 * [Media Players, Skills and Tools](/media/av/player/#skills-and-tools)
 * [Sign Languages, Skills and Tools](/media/av/sign-languages/#skills-and-tools)
 
-When planning and budgeting for accessible media, it is often helpful to communicate the **benefits to organizations**, such as search engine optimization (SEO), better user experience for all, improved customer satisfaction, and more listed in the intro page under [Benefits to Organizations and Individuals](/#benefits).
+When planning and budgeting for accessible media, it is often helpful to communicate the **benefits to organizations**, such as search engine optimization (SEO), better user experience for all, improved customer satisfaction, and more listed in the intro page under [Benefits to Organizations and Individuals](/media/av/#benefits).
 
 ## WCAG Standard
 
-Web Content Accessibility Guidelines (WCAG) is introduced in a separate resource: [WCAG Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
+Web Content Accessibility Guidelines (WCAG) is introduced in a separate resource: [WCAG Overview](/standards-guidelines/wcag/).
 
 {::nomarkdown}
 {% include box.html type="start" class="" %}
@@ -392,4 +392,4 @@ Other WCAG requirements related to audio and video include:
    * [2.2.2 Pause, Stop, Hide](https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide) (Level A) For moving, blinking, scrolling, or auto-updating information, all of the following are true:...
    * [1.4.2 Audio Control](https://www.w3.org/WAI/WCAG21/Understanding/audio-control) (Level A) If any audio on a Web page plays automatically for more than 3 seconds, either a mechanism is available to pause or stop the audio, or a mechanism is available to control audio volume...
 
-Your audio and video may be subject to additional requirements, for example under governmental regulations. Some of these are listed in [Web Accessibility Laws & Policies](https://www.w3.org/WAI/policies/).
+Your audio and video may be subject to additional requirements, for example under governmental regulations. Some of these are listed in [Web Accessibility Laws & Policies](/policies/).
