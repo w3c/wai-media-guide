@@ -1,38 +1,33 @@
 ---
-# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
-
-title_html: "Planning Accessible Audio and Video Media"
-
-title: "Planning Audio and Video Media"   # Do not translate "title:". Do translate the text after "title:".
+title: "Planning Audio and Video Media"
 title_html: '<img src="/content-images/wai-media-guide/planning.svg" alt="" class="" style="float: right; height: 2em;">Planning  Audio and Video Media'
-nav_title: "Planning" # A short title that is used in the navigation
-doc-note-type: draft
+nav_title: "Planning"
 
-lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-04-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translator: "@@"   # Replace @@ with name or names separated with a comma
-# contributors: "@@"   # Replace @@ with name(s) or delete this line
+lang: en   # change "en" to lang code, here and 2 @@s below
+last_updated: 2019-10-09   # Change to date of translation YYYY-MM-DD (month in middle)
+# translator: "..."
+# contributors: "..."
 
-permalink: /design-develop/media/planning/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
-ref: /design-develop/media/planning/   # Do not change this
+permalink: /media/av/planning/   # Add lang to end /link/to/page/@@
+ref: /media/av/planning/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
-   path: 'planning.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
+   path: 'planning.md'   # Add lang to the middle of the filename, e.g., index.@@.md
 
 resource:
-  ref: /design-develop/media/
+  ref: /media/av/
 navigation:
-  previous: /design-develop/media/
-  next:     /design-develop/media/av-content/
+  previous: /media/av/
+  next:     /media/av/av-content/
   
 description: Helps you plan how to make audio and video media accessible, whether you are outsourcing it or creating it in-house.
 image: /content-images/wai-media-guide/social.png
 
-footer: >   # Translate all the words below, including "Date:" and "Editor:".
-   <p><strong>Date:</strong> <strong>Draft </strong>Updated @@ August 2019.</p>
-   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="/design-develop/media/acknowledgements/">Acknowledgements</a> lists contributors and credits.</p>
-   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
+footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
+   <p><strong>Date:</strong> Updated 10 September 2019.</p>
+   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="/media/av/acknowledgements/">Acknowledgements</a> lists contributors and credits.</p>
+   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
 ---
 
