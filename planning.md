@@ -1,5 +1,5 @@
 ---
-title: "Planning Audio and Video Media"
+title: "Planning"
 title_html: '<img src="/content-images/wai-media-guide/planning.svg" alt="" class="" style="float: right; height: 2em;">Planning  Audio and Video Media'
 nav_title: "Planning"
 
