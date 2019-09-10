@@ -1,35 +1,32 @@
 ---
-# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
-
-title: "Sign Languages"   # Do not translate "title:". Do translate the text after "title:".
+title: "Sign Languages"
 title_html: '<img src="/content-images/wai-media-guide/sign.svg" alt="" class="" style="float: right; height: 2em;">Sign Languages'
-nav_title: "Sign Languages" # A short title that is used in the navigation
-doc-note-type: draft
+nav_title: "Sign Languages"
 
-lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-04-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translator: "@@"   # Replace @@ with name or names separated with a comma
-# contributors: "@@"   # Replace @@ with name(s) or delete this line
+lang: en   # change "en" to lang code, here and 2 @@s below
+last_updated: 2019-09-10   # Change to date of translation YYYY-MM-DD (month in middle)
+# translator: "..."
+# contributors: "..."
 
-permalink: /design-develop/media/sign-languages/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
-ref: /design-develop/media/sign-languages/   # Do not change this
+permalink: /media/av/sign-languages/   # Add lang to end /link/to/page/@@
+ref: /media/av/sign-languages/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
-   path: 'sign-languages.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
+   path: 'sign-languages.md'   # Add lang to the middle of the filename, e.g., index.@@.md
 
 resource:
-  ref: /design-develop/media/
+  ref: /media/av/
 navigation:
-  previous: /design-develop/media/transcripts/
-  next:     /design-develop/media/transcribing/
+  previous: /media/av/transcripts/
+  next:     /media/av/transcribing/
 
 description: Helps you understand and create sign language interpretation for audio and video media accessibility.
 image: /content-images/wai-media-guide/social.png
 
-footer: >   # Translate all the words below, including "Date:" and "Editor:".
-   <p><strong>Date:</strong> <strong>Draft </strong>Updated @@ August 2019.</p>
-   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="/design-develop/media/acknowledgements/">Acknowledgements</a> lists contributors and credits.</p>
+footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
+   <p><strong>Date:</strong> Updated 10 September 2019.</p>
+   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="/media/av/acknowledgements/">Acknowledgements</a> lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
 ---
