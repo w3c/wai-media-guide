@@ -160,7 +160,7 @@ For many videos, the best way to handle audio description is not to need it at a
   </tr>
 </table>
 
-Guidance on what to include is in the "Creating Audio Description of Visual Information" page, [Tips for Writing Description section](/media/av/description/#tips-for-writing-description).
+Guidance on what to include is in the "Creating Audio Description of Visual Information" page, [Tips for Writing Description section](/media/av/description/#writing).
 
 #### Time for description
 
@@ -191,7 +191,7 @@ Where the description is longer that you want to leave space in the main audio, 
   </tr>
 </table>
 
-An example of this is the [Web Accessibility Perspectives: Video Captions](https://www.w3.org/WAI/perspective-videos/captions/) video. The main video is 48 seconds long. The described version is 1 minute and 18 seconds long, yet there are no pauses in the visual aspect of the video.
+An example of this is the [Web Accessibility Perspectives: Video Captions](/perspective-videos/captions/) video. The main video is 48 seconds long. The described version is 1 minute and 18 seconds long, yet there are no pauses in the visual aspect of the video.
 
 #### More about description
 
