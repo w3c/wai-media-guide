@@ -1,5 +1,5 @@
 ---
-title: "Transcribing Audio to Text
+title: "Transcribing Audio to Text"
 nav_title: "Transcribing Audio to Text"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
