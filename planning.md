@@ -4,7 +4,7 @@ title_html: '<img src="/content-images/wai-media-guide/planning.svg" alt="" clas
 nav_title: "Planning"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2019-10-09   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2019-09-10   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
