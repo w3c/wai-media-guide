@@ -2,19 +2,19 @@
 title: "Acknowledgements"
 nav_title: "Acknowledgements"
 
-lang: en
+lang: en   # change "en" to lang code, here and 2 @@s below
 
-permalink: /design-develop/media/acknowledgements/
-ref: /design-develop/media/acknowledgements/
+permalink: /media/av/acknowledgements/   # Add lang to end /link/to/page/@@
+ref: /media/av/acknowledgements/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
-   path: 'acknowledgements.md'
+   path: 'acknowledgements. md'   # Add lang to the middle of the filename, e.g., index.@@.md
    
 resource:
-  ref: /design-develop/media/
+  ref: /media/av/
 navigation:
-  previous: /design-develop/media/transcribing/
+  previous: /media/av/transcribing/
   
 description: Making Audio and Video Media Accessible is developed by the W3C Web Accessibility Initiative (WAI) Education and Outreach Working Group (EOWG) with support from...
 image: /content-images/wai-media-guide/social.png
