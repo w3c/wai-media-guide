@@ -304,6 +304,4 @@ That's the situation for everyone who can't hear.
 
 **Notice that the single lines in the caption files have been grouped together in table cells.**
 
-<p style="text-align:center"><em>[? detailed instructions &/or video showing slh's process for quickly developing descriptive transcript from the 2 VTT files]</em></p>
-
 {% include excol.html type="end" %}
