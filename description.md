@@ -27,7 +27,7 @@ image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
    <p><strong>Date:</strong> Updated 10 September 2019.</p>
-   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="/media/av/acknowledgements/">Acknowledgements</a> lists contributors and credits.</p>
+   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="/WAI/media/av/acknowledgements/">Acknowledgements</a> lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
 ---
@@ -200,7 +200,7 @@ If the descriptions do not fit into the main audio space, provide instructions t
 {% include box.html type="start" title="To set the video to pause for audio description of visual information:" class="" %}
 {:/}
 
-<img src="/content-images/wai-media-guide/player-preferences.png " alt="" class="" style="float: right; height: 7em; padding-left 3px;'">
+<img src="/content-images/wai-media-guide/player-preferences.png" alt="" class="" style="float: right; height: 7em; padding-left 7px;'">
 
 * Select "Preferences", then "Descriptions".<br>
 The "Audio Description Preferences" box opens.
