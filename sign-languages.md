@@ -1,6 +1,6 @@
 ---
 title: "Sign Languages"
-title_html: '<img src="/content-images/wai-media-guide/sign.svg" alt="" class="" style="float: right; height: 2em;">Sign Languages'
+title_image: /content-images/wai-media-guide/sign.svg
 nav_title: "Sign Languages"
 
 lang: en   # change "en" to lang code, here and 2 @@s below

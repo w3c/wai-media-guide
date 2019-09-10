@@ -1,6 +1,6 @@
 ---
 title: "Planning Audio and Video Media"
-title_html: '<img src="/content-images/wai-media-guide/planning.svg" alt="" class="" style="float: right; height: 2em;">Planning  Audio and Video Media'
+title_image: /content-images/wai-media-guide/planning.svg
 nav_title: "Planning"
 
 lang: en   # change "en" to lang code, here and 2 @@s below

@@ -1,6 +1,6 @@
 ---
 title: "Audio Description of Visual Information"
-title_html: '<img src="/content-images/wai-media-guide/ad.svg" alt="" class="" style="float: right; height: 2em;">Audio Description of Visual Information'
+title_image: /content-images/wai-media-guide/ad.svg
 
 nav_title: "Description"
 

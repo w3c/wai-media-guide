@@ -1,6 +1,6 @@
 ---
 title: "Captions/Subtitles"
-title_html: '<img src="/content-images/wai-media-guide/cc.svg" alt="" class="" style="float: right; height: 2em;">Captions/Subtitles'
+title_image: /content-images/wai-media-guide/cc.svg
 nav_title: "Captions/Subtitles"
 
 lang: en   # change "en" to lang code, here and 2 @@s below

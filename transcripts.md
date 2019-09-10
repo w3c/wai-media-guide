@@ -1,6 +1,6 @@
 ---
 title: "Transcripts"
-title_html: '<img src="/content-images/wai-media-guide/transcript.svg" alt="" class="" style="float: right; height: 2em;">Transcripts'
+title_image: /content-images/wai-media-guide/transcript.svg
 nav_title: "Transcripts"
 
 lang: en   # change "en" to lang code, here and 2 @@s below

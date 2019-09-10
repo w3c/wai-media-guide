@@ -1,6 +1,6 @@
 ---
 title: "Audio Content and Video Content"
-title_html: '<img src="/content-images/wai-media-guide/av-content.svg" alt="" class="" style="float: right; height: 2em;">Audio Content and Video Content'
+title_image: /content-images/wai-media-guide/av-content.svg
 nav_title: "Audio Content & Video Content"
 
 lang: en   # change "en" to lang code, here and 2 @@s below

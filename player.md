@@ -1,6 +1,6 @@
 ---
 title: "Media Players"
-title_html: '<img src="/content-images/wai-media-guide/player-nobackground.svg" alt="" class="" style="float: right; height: 2em;">Media Players'
+title_image: /content-images/wai-media-guide/player-nobackground.svg
 nav_title: "Media Player"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
