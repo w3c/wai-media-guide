@@ -1,5 +1,5 @@
 ---
-title: "Making Audio and Video Media Accessible
+title: "Making Audio and Video Media Accessible"
 nav_title: "Audio & Video Media"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
