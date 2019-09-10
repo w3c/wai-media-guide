@@ -82,8 +82,8 @@ The links below go to a web page in this resource with details on understanding 
 {% include box.html type="start" title="All Audio and Video Media" class="highlighted" id="checklist-all" %}
 {:/}
 
-- **[Audio content](/media/av/av-content/#audio-only-and-videos) (A)** is accessible (for example, what is said and how it's recorded)
-- **[Video content](/media/av/av-content/) (A)** is accessible (for example, doesn't cause seizures)
+- **[Audio content](/media/av/av-content/#audio) (A)** is accessible (for example, what is said and how it's recorded)
+- **[Video content](/media/av/av-content/#video) (A)** is accessible (for example, doesn't cause seizures)
 - **[Media player](/media/av/player/) (A)** supports accessibility
 {:.alt}
 
@@ -274,10 +274,10 @@ Here is an example workflow for developing an accessible video, with notes on wh
 ### Resourcing Accessibility {#in-or-out}
 
 To help you **plan in-house and outsourced work**, the pages of this resource include considerations, skills, and tools needed for creating accessible media in these sections:
-* [Description Considerations, Skills, and Tools](/media/av/description/#audio-description-considerations-skills-and-tools)
+* [Description Considerations, Skills, and Tools](/media/av/description/#description-considerations-skills-and-tools)
 * [Captions, Skills and Tools](/media/av/captions/#skills-and-tools) and [Automatic Captions are Not Sufficient](/media/av/captions/#automatic-captions-are-not-sufficient)
 * [Transcripts, Process - Skills and Tools](/media/av/transcripts/#process---skills-and-tools)
-* [Media Players, Skills and Tools](/media/av/player/#skills-and-tools)
+* [Media Players, Skills and Tools](/media/av/player/#skills)
 * [Sign Languages, Skills and Tools](/media/av/sign-languages/#skills-and-tools)
 
 When planning and budgeting for accessible media, it is often helpful to communicate the **benefits to organizations**, such as search engine optimization (SEO), better user experience for all, improved customer satisfaction, and more listed in the intro page under [Benefits to Organizations and Individuals](/media/av/#benefits).
