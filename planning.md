@@ -36,9 +36,9 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 {:/}
 
 This page helps you:
-* **figure out which accessibility aspects your specific audio or video needs** (captions, description, a transcript, etc.)
+* **figure out which accessibility aspects your specific audio or video needs** (captions, description, a transcript or screenplay, etc.)
 * manage projects and plan what to develop in-house and what to outsource
-* understand the **standards** for audio and video media in Web Content Accessibility Guidelines (WCAG)
+* understand the **requirements** for audio and video media from Web Content Accessibility Guidelines (WCAG)
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -60,8 +60,8 @@ This page helps you:
 {:.no_toc}
 
 For background, see the introduction page of this resource _[Making Video and Audio Accessible](/media/av/)_, for:
-* brief explanations of captions, transcripts, description, sign language, and media player accessibility
-* user experiences to help you understand the "why" behind the requirements
+* brief explanations of captions, transcripts (and screenplays), audio description, sign language, and media player accessibility
+* user experiences to help you understand the “why” behind the requirements
 
 What accessibility features you provide with your media will likely be influenced by:
 * user needs
@@ -74,7 +74,7 @@ This resource endeavors to help you know the requirements and encourages you to 
 
 The checklists below cover audio-only content and video content, and pre-recorded and live. They include:
 * What is required in the Web Content Accessibility Guidelines (WCAG) standard at Level A, AA, and AAA. _([WCAG](#wcag-standard) is explained below.)_
-* What is needed to meet user needs, beyond WCAG. (If it doesn't have any 'A', then it is not required in WCAG.)
+* What is needed to meet user needs, beyond WCAG. (If it doesn’t have any ‘A’, ‘AA’, or ‘AAA’, then it is not required in WCAG.)
 
 The links below go to a web page in this resource with details on understanding and implementing each thing.
 
@@ -82,8 +82,8 @@ The links below go to a web page in this resource with details on understanding 
 {% include box.html type="start" title="All Audio and Video Media" class="highlighted" id="checklist-all" %}
 {:/}
 
-- **[Audio content](/media/av/av-content/#audio) (A)** is accessible (for example, what is said and how it's recorded)
-- **[Video content](/media/av/av-content/#video) (A)** is accessible (for example, doesn't cause seizures)
+- **[Audio content](/media/av/av-content/#audio) (A)** is accessible (for example, what is said and how it’s recorded)
+- **[Video content](/media/av/av-content/#video) (A)** is accessible (for example, doesn’t cause seizures)
 - **[Media player](/media/av/player/) (A)** supports accessibility
 {:.alt}
 
@@ -105,7 +105,7 @@ This section covers audio-only media, like podcasts that don't have video.
 
 -   **[Transcript](/media/av/transcripts/) (A)** separate from the audio
 -   **[Sign language(s)](/media/av/sign-languages/) (AAA)**
--   **[Captions](/media/av/captions/)** synchronised with the audio
+-   **[Captions](/media/av/captions/)** or streaming text that is synchronised with the audio
 {:.alt}
 
 {::nomarkdown}
@@ -120,8 +120,7 @@ This section covers audio-only media, like podcasts that don't have video.
 {% include box.html type="start" title=boxhead class="highlighted" id="checklist-la" %}
 {:/}
 
--   **[Captions](/media/av/captions/) (AA)**
--   **[Transcript](/media/av/transcripts/) (AAA)**
+-   **[Captions](/media/av/captions/) (AA)** or streaming text that is synchronised with the audio
 -   **[Sign language(s)](/media/av/sign-languages/)**
 {:.alt}
 
@@ -143,7 +142,7 @@ This section covers audio-only media, like podcasts that don't have video.
 
 -   If yes,
     -   **[Captions](/media/av/captions/)** **(AA)**
-    -   **[Transcript of audio information](/media/av/transcripts/) (AAA)** *(The same text from the captions file, in a different format.)*
+    -   **[Descriptive transcript](/media/av/transcripts/) (AAA)** *(Start with the same text from the captions file, in a different format, and add the informative visual information that is not captured by the captions.)*
     -   **[Sign language(s)](/media/av/sign-languages/) (AAA)**
     {:.alt}
 -   If no, [inform users](#none).
@@ -151,8 +150,8 @@ This section covers audio-only media, like podcasts that don't have video.
 **Does the video have visual information** that is needed to understand the content?
 
 -   If yes,
-    -   **[Audio description of the visual information](/media/av/description/) (A/AA)**
-    -   **[Descriptive transcript](//media/av/transcripts/) (AAA)** *(If you have a descriptive transcript, you do not need an additional transcript of only audio information from the previous question.)*
+    -   **[Audio description](/media/av/description/) (A/AA)**
+    -   **[Descriptive transcript](//media/av/transcripts/) (AAA)** *(If you have a descriptive transcript, or a screenplay, you do not need an additional transcript of only the audio.)*
     {:.alt}
 -   If no, [inform users](#none).
 
@@ -173,13 +172,15 @@ This section covers audio-only media, like podcasts that don't have video.
 -   If yes,
     -   **[Captions](/media/av/captions/) (AA)**
     -   **[Sign language(s)](/media/av/sign-languages/)**
-    -   Text stream available to screen readers (and braille devices)
+    -   Text streaming (access for people who are Deaf-blind and use dynamic braille displays)
     {:.alt}
 -   If no, [inform users](#none).
 
 **Is there visual information** that is needed to understand the content?
 
 -   If yes,
+    -   Audio description on a separate channel
+    -   Ask presenters to provide audio description of any visual aids
     -   Description of important visual information in a text stream available to screen readers (and braille devices)
     {:.alt}
 -   If no, [inform users](#none).
@@ -216,24 +217,24 @@ Description not needed: The visuals in this video only support what is spoken; t
 
 ### Provide Both Captions and a Transcript {#captions-and-transcript}
 
-It is best to provide captions and a separate transcript.
+It is best to provide captions and a separate descriptive transcript (sometimes called a screenplay).
 
 For videos, captions enable people who are Deaf or hard of hearing to see the visual content and read the captions at the same time. 
 
 For audio-only, captions enable people who are hard of hearing to get the richness of listening to the audio and fill in what they don't hear well by reading the captions.
 
-Transcripts are needed to provide access to people who are Deaf-blind and use braille. Also, transcripts are used by people without disabilities, as listed in the intro page of this resource under [Benefits to Organizations and Individuals](/media/av/#benefits).
+Descriptive transcripts are needed to provide access to people who are Deaf-blind and use braille. Also, transcripts are used by people without disabilities, as listed in the intro page of this resource under [Benefits to Organizations and Individuals](/media/av/#benefits).
 
 ### Descriptive Transcripts
 
-Descriptive transcripts for videos:
+Descriptive transcripts (also called ‘screenplay’) for videos:
 
 * are needed for most videos to be accessible to people who are "Deaf-blind"
 * meet a wide range of accessibility needs, including for people who have difficulty processing auditory information and people who cannot focus and comprehend auditory or visual information when there is changing visuals
 * are used by people _without_ disabilities, and benefit your organization (examples are in the intro page under [Benefits to Organizations and Individuals](/media/av/#benefits))
-* **are easy and inexpensive to develop** using captions and description that you already have to meet Level AA
+* **are easy and inexpensive to develop** using captions and audio description that you already have to meet Level AA
 
-**Captions and transcripts use the same text. Once you have one, it's fairly easy to develop the other.**
+**Captions and transcripts use the same text. Once you have one, it's fairly easy to develop the other.**  A descriptive transcript will also include visual content that is not included in captions.
 
 ### Other Languages
 
@@ -247,7 +248,7 @@ Translation of the audio into other languages can be provided:
 <!-- maybe better image in future iteration: <img src="{{ "/content-images/wai-media-guide/in-or-out.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px"> -->
 
 Include specific accessibility requirements in your:
-* Project requirements - internal and external
+* Project requirements — internal and external
 * Requests for Proposal (RFP) or Requests for Tender (RFT)
 * Contracts
 
@@ -259,11 +260,11 @@ Here is an example workflow for developing an accessible video, with notes on wh
 
 1. Address accessibility in **[video content](/media/av/av-content/)** as the video is planned and produced.<br>_By:_ Script writers, videographers, producers, and others.
 
-2. Develop a **[described version of the video](/media/av/description/)** at the same time as the main video, if needed.<br>_By:_ Usually the same people who produce the main video also produce the described version.
+2. Develop a **[audio described version of the video](/media/av/description/)** at the same time as the main video, if needed.<br>_By:_ Usually the same people who produce the main video also produce the audio described version.
 
-3. Develop **[captions](/media/av/captions/)** for the main video, for the described version, and of the description itself.<br>_By:_ Usually if the video is professionally produced, the producers provide captions. Sometimes when informal videos are developed in-house, captions are outsourced.
+3. Develop **[captions](/media/av/captions/)** for the main video.<br>_By:_ Usually if the video is professionally produced, the producers provide captions. Sometimes when informal videos are developed in-house, captions are outsourced.
 
-4. Develop a **[descriptive transcript](/media/av/transcripts/)** using the text from the caption files.<br>_By:_ Often transcripts are developed in-house from caption files.
+4. Develop a **[descriptive transcript](/media/av/transcripts/)** using the text from the caption files and adding text describing the visual content that is not otherwise spoken.<br>_By:_ Often transcripts are developed in-house from caption files.
 
 5. Implement it in an **[accesible media player](/media/av/player/)** (usually an existing player with good accessibility support).<br>_By:_ Usually in-house web developers.
 
@@ -282,7 +283,7 @@ To help you **plan in-house and outsourced work**, the pages of this resource in
 
 When planning and budgeting for accessible media, it is often helpful to communicate the **benefits to organizations**, such as search engine optimization (SEO), better user experience for all, improved customer satisfaction, and more listed in the intro page under [Benefits to Organizations and Individuals](/media/av/#benefits).
 
-## WCAG Standard
+## WCAG Requirements
 
 Web Content Accessibility Guidelines (WCAG) is introduced in a separate resource: [WCAG Overview](/standards-guidelines/wcag/).
 
@@ -291,8 +292,8 @@ Web Content Accessibility Guidelines (WCAG) is introduced in a separate resource
 {:/}
 
 This resource uses most WCAG terminology, with a few differences:
-* "time-based media" in WCAG = "audio and video media" in this resource
-* "[alternative for time based media in WCAG](https://www.w3.org/TR/WCAG#alt-time-based-mediadef)" = "transcript" for audio-only and "descriptive transcript" for video in this resource
+* “synchronized media” and “time-based media” in WCAG == “audio and video media” in this resource
+* “[alternative for time based media in WCAG](https://www.w3.org/TR/WCAG#alt-time-based-mediadef)” == “transcript” for audio-only and “descriptive transcript” or “screenplay” for video in this resource
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -302,7 +303,7 @@ WCAG includes requirements for audio and video media at Level A, AA, and AAA. (M
 
 Accessibility requirements for video and audio are different based on if they are:
 * pre-recorded or live
-* video with audio, video without audio (video only), or audio only
+* video with audio, video without audio (video-only), or audio-only
 
 The links in the tables below go to a page in a separate resource: Understanding WCAG 2.1.
 
@@ -314,13 +315,12 @@ The links in the tables below go to a page in a separate resource: Understanding
 <th scope="col">&nbsp;</th>
 <th scope="col">Transcript <span class="normal-weight">(including auditory and visual content)</span></th>
 <th scope="col">Captions</th>
-<th scope="col">Audio Description <span class="normal-weight">(if visual content not in audio)</span></th>
+<th scope="col">Audio Description <span class="normal-weight">(for visual content not in audio)</span></th>
 <th scope="col">Sign Language</th>
 </tr>
 <tr>
   <th scope="row">Audio only</th>
-  <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded">A 1.2.1</a></strong><br>
-  <a href="https://www.w3.org/WAI/WCAG21/Understanding/media-alternative-prerecorded">AAA 1.2.8</a></td>
+  <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded">A 1.2.1</a></strong>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
   <td><a href="https://www.w3.org/WAI/WCAG21/Understanding/sign-language-prerecorded">AAA 1.2.6</a></td>
@@ -330,15 +330,14 @@ The links in the tables below go to a page in a separate resource: Understanding
 <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded">A 1.2.1</a></strong> (transcript <em><strong>or</strong></em> audio description)<br>
 <a href="https://www.w3.org/WAI/WCAG21/Understanding/media-alternative-prerecorded">AAA 1.2.8</a></td>
 <td>&nbsp;</td>
-<td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded">A 1.2.3</a></strong>&nbsp;(audio description <em><strong>or</strong></em> transcript)<br>
-<strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded">AA 1.2.5</a></strong></td>
+<td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded">A 1.2.3</a></strong> (audio description <em><strong>or</strong></em> transcript) Note that the audio-description can be added to the video file (which would then no longer be audio-only) or can be a separate audio-only file.
 <td>&nbsp;</td>
 </tr>
 <tr>
   <th scope="row">Video with Audio</th>
   <td><a href="https://www.w3.org/WAI/WCAG21/Understanding/media-alternative-prerecorded">AAA 1.2.8</a></td>
   <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded">A 1.2.2</a></strong></td>
-  <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded">A 1.2.3</a></strong>&nbsp;(audio description <em><strong>or</strong></em> transcript)<br>
+  <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded">A 1.2.3</a></strong> (audio description <em><strong>or</strong></em> descriptive transcript or screenplay)<br>
     <strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded">AA 1.2.5</a></strong><br>
     <a href="https://www.w3.org/WAI/WCAG21/Understanding/extended-audio-description-prerecorded">AAA 1.2.7</a></td>
   <td><a href="https://www.w3.org/WAI/WCAG21/Understanding/sign-language-prerecorded">AAA 1.2.6</a></td>
@@ -358,8 +357,8 @@ The links in the tables below go to a page in a separate resource: Understanding
 </tr>
 <tr>
   <th scope="row">Audio only</th>
-  <td><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-live">AAA 1.2.9</a></td>
-  <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-live">AA 1.2.4</a></strong></td>
+  <td>&nbsp;</td>
+  <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-live">AA 1.2.4</a></strong> (In the case of live audio-only media, the captions may appear as streaming text from a different resource.)</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
 </tr>
@@ -379,10 +378,10 @@ The links in the tables below go to a page in a separate resource: Understanding
 </tr>
 </table>
 
-### More about Standards
+### More about Requirements
 {:.no_toc}
 
-To learn more about WCAG requirements for media, see [Understanding Guideline 1.2: Time-based Media](https://www.w3.org/WAI/WCAG21/Understanding/time-based-media).
+To learn more about the WCAG requirements for media, see [Understanding Guideline 1.2: Time-based Media](https://www.w3.org/WAI/WCAG21/Understanding/time-based-media).
 
 Other WCAG requirements related to audio and video include:
 * In this resource:
