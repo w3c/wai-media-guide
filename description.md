@@ -200,7 +200,7 @@ If the descriptions do not fit into the main audio space, provide instructions t
 {% include box.html type="start" title="To set the video to pause for audio description of visual information:" class="" %}
 {:/}
 
-<img src="/content-images/wai-media-guide/player-preferences.png" alt="" class="" style="float: right; height: 7em; padding-left 7px;'">
+<img src="{{ "/content-images/wai-media-guide/player-preferences.png" | relative_url }}" alt="" class="" style="float: right; height: 7em; padding-left 7px;'">
 
 * Select "Preferences", then "Descriptions".<br>
 The "Audio Description Preferences" box opens.
