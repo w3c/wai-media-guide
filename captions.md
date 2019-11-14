@@ -115,7 +115,7 @@ Audio-only (e.g., podcast):
     *   Captions are useful for people who are hard of hearing to get the richness of listening to the audio and fill in what they don’t hear well by reading the captions.<br>Captions are not required to meet WCAG. (Transcripts are at Level A.)
     {:.alt}
 *   For live:
-    *   Captions are needed to provide the audio content to people who are Deaf or hard of hearing.<br>Captions are **_required_** in WCAG at Level AA.
+    *   Captions are useful for people who are hard of hearing to get the richness of listening to the audio and fill in what they don’t hear well by reading the captions.<br>Live text stream or accurate script of the audio available when live is required in WCAG at Level AAA.
     {:.alt}
 
 {::nomarkdown}
