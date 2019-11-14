@@ -104,8 +104,8 @@ This section covers audio-only media, like podcasts that don't have video.
 {:/}
 
 -   **[Transcript](/media/av/transcripts/) (A)** separate from the audio
--   **[Sign language(s)](/media/av/sign-languages/) (AAA)**
 -   **[Captions](/media/av/captions/)** synchronised with the audio
+-   **[Sign language(s)](/media/av/sign-languages/)**
 {:.alt}
 
 {::nomarkdown}
@@ -120,8 +120,8 @@ This section covers audio-only media, like podcasts that don't have video.
 {% include box.html type="start" title=boxhead class="highlighted" id="checklist-la" %}
 {:/}
 
--   **[Captions](/media/av/captions/) (AA)**
--   **[Transcript](/media/av/transcripts/) (AAA)**
+-   **[Transcript](/media/av/transcripts/) (AAA)** &mdash; live stream or transcript when live
+-   **[Captions](/media/av/captions/)**
 -   **[Sign language(s)](/media/av/sign-languages/)**
 {:.alt}
 
@@ -129,7 +129,7 @@ This section covers audio-only media, like podcasts that don't have video.
 {% include box.html type="end" %}
 {:/}
 
-### <img src="{{ "/content-images/wai-media-guide/video.svg" | relative_url }}" alt="" style="height:1.3em">  Video Checklists
+### <img src="{{ "/content-images/wai-media-guide/video.svg" | relative_url }}" alt="" style="height:1.3em"> Video Checklists
 
 {% capture boxhead %}
 <img src="{{ "/content-images/wai-media-guide/recorded.svg" | relative_url }}" alt="" style="height:1em"> Pre-Recorded Video
@@ -302,7 +302,7 @@ WCAG includes requirements for audio and video media at Level A, AA, and AAA. (M
 
 Accessibility requirements for video and audio are different based on if they are:
 * pre-recorded or live
-* video with audio, video without audio (video only), or audio only
+* video with audio, video without audio (video-only), or audio-only
 
 The links in the tables below go to a page in a separate resource: Understanding WCAG 2.1.
 
@@ -318,14 +318,14 @@ The links in the tables below go to a page in a separate resource: Understanding
 <th scope="col">Sign Language</th>
 </tr>
 <tr>
-  <th scope="row">Audio only</th>
+  <th scope="row">Audio-only</th>
   <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded">A 1.2.1</a></strong></td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
 </tr>
 <tr>
-<th scope="row">Video only</th>
+<th scope="row">Video-only</th>
 <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded">A 1.2.1</a></strong> (transcript <em><strong>or</strong></em> audio track)<br>
 <a href="https://www.w3.org/WAI/WCAG21/Understanding/media-alternative-prerecorded">AAA 1.2.8</a></td>
 <td>&nbsp;</td>
@@ -355,14 +355,14 @@ The links in the tables below go to a page in a separate resource: Understanding
 <th scope="col">Sign Language</th>
 </tr>
 <tr>
-  <th scope="row">Audio only</th>
+  <th scope="row">Audio-only</th>
   <td><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-live">AAA 1.2.9</a> (live stream <em><strong>or</strong></em> accurate transcript when live)</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
 </tr>
 <tr>
-<th scope="row">Video only</th>
+<th scope="row">Video-only</th>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
