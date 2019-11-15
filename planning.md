@@ -142,7 +142,7 @@ This section covers audio-only media, like podcasts that don't have video.
 **Does the video have speech or other audio** that is needed to understand the content?
 
 -   If yes,
-    -   **[Captions](/media/av/captions/)** **(AA)**
+    -   **[Captions](/media/av/captions/)** **(A)**
     -   **[Transcript of audio information](/media/av/transcripts/) (AAA)** *(The same text from the captions file, in a different format.)*
     -   **[Sign language(s)](/media/av/sign-languages/) (AAA)**
     {:.alt}
