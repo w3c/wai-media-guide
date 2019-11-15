@@ -89,7 +89,7 @@ Audio-only (e.g., podcast):
    - Transcripts are **_required_** at WCAG Level A.
    {:.alt}
 - For live:
-   - Transcripts are at WCAG Level AAA. (Captions are AA.)
+   - Transcripts are at WCAG Level AAA. Usually this needs to be a live text stream. If the audio follows a script, you can provide the text script.
    {:.alt}
 
 {::nomarkdown}
@@ -120,7 +120,7 @@ Video with audio content:
 {:/}
 
 - For pre-recorded:
-   - Transcripts are at WCAG Level AAA. (Captions are AA.)
+   - Transcripts are at WCAG Level AAA. (Captions are A.)
    {:.alt}
 - For live:
    - A live stream separate from the media player is needed for people who cannot access the captions. It is not required in WCAG. (Captions are AA.)
