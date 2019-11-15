@@ -160,6 +160,8 @@ If you already have captions, you can use that file to create the transcript. Mo
 
 If you don't have captions, you'll need transcription of the audio information. That's addressed in another page of this resource: [Transcribing Audio to Text](/media/av/transcribing/).
 
+Often you'll need to add visual information to the transcript, such as text that is in the video. 
+
 ### Transcript File Format
 
 Most transcripts on the web are provided in HTML. There is not a set design for transcripts. Different options and examples are described throughout the guidance below.
