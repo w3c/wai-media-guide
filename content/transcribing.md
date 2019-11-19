@@ -12,7 +12,7 @@ ref: /media/av/transcribing/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
-   path: 'transcribing.md'   # Add lang to the middle of the filename, e.g., index.@@.md
+   path: 'content/transcribing.md'   # Add lang to the middle of the filename, e.g., index.@@.md
 
 resource:
   ref: /media/av/

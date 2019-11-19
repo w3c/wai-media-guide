@@ -10,7 +10,7 @@ ref: /media/av/changelog/   # Do not change
 layout: default
 github:
    repository: w3c/wai-media-guide
-   path: 'changelog.md'
+   path: 'content/changelog.md'
 
 resource:
   title: "Making Audio and Video Media Accessible"

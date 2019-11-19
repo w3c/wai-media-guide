@@ -13,7 +13,7 @@ ref: /media/av/captions/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
-   path: 'captions.md'   # Add lang to the middle of the filename, e.g., index.@@.md
+   path: 'content/captions.md'   # Add lang to the middle of the filename, e.g., index.@@.md
 
 resource:
   ref: /media/av/

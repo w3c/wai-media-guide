@@ -9,7 +9,7 @@ ref: /media/av/acknowledgements/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
-   path: 'acknowledgements. md'   # Add lang to the middle of the filename, e.g., index.@@.md
+   path: 'content/acknowledgements. md'   # Add lang to the middle of the filename, e.g., index.@@.md
    
 resource:
   ref: /media/av/

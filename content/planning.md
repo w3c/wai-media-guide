@@ -13,7 +13,7 @@ ref: /media/av/planning/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
-   path: 'planning.md'   # Add lang to the middle of the filename, e.g., index.@@.md
+   path: 'content/planning.md'   # Add lang to the middle of the filename, e.g., index.@@.md
 
 resource:
   ref: /media/av/

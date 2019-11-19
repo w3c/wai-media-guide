@@ -12,7 +12,7 @@ ref: /media/av/   # Do not change
 layout: default
 github:
    repository: w3c/wai-media-guide
-   path: 'index.md'   # Add lang to the middle of the filename, e.g., index.@@.md
+   path: 'content/index.md'   # Add lang to the middle of the filename, e.g., index.@@.md
 
 resource:
   title: "Making Audio and Video Media Accessible"
