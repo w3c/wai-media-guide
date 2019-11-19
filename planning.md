@@ -20,13 +20,15 @@ resource:
 navigation:
   previous: /media/av/
   next:     /media/av/av-content/
-  
+changelog: /media/av/changelog/
+acknowledgements: /media/av/acknowledgements/
+
 description: Helps you plan how to make audio and video media accessible, whether you are outsourcing it or creating it in-house.
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 10 September 2019.</p>
-   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="/WAI/media/av/acknowledgements/">Acknowledgements</a> lists contributors and credits.</p>
+   <p><strong>Date:</strong> Updated 10 September 2019. CHANGELOG.</p>
+   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
 ---
@@ -104,8 +106,8 @@ This section covers audio-only media, like podcasts that don't have video.
 {:/}
 
 -   **[Transcript](/media/av/transcripts/) (A)** separate from the audio
--   **[Sign language(s)](/media/av/sign-languages/) (AAA)**
 -   **[Captions](/media/av/captions/)** synchronised with the audio
+-   **[Sign language(s)](/media/av/sign-languages/)**
 {:.alt}
 
 {::nomarkdown}
@@ -120,8 +122,8 @@ This section covers audio-only media, like podcasts that don't have video.
 {% include box.html type="start" title=boxhead class="highlighted" id="checklist-la" %}
 {:/}
 
--   **[Captions](/media/av/captions/) (AA)**
--   **[Transcript](/media/av/transcripts/) (AAA)**
+-   **[Transcript](/media/av/transcripts/) (AAA)** &mdash; live stream or transcript when live
+-   **[Captions](/media/av/captions/)**
 -   **[Sign language(s)](/media/av/sign-languages/)**
 {:.alt}
 
@@ -129,7 +131,7 @@ This section covers audio-only media, like podcasts that don't have video.
 {% include box.html type="end" %}
 {:/}
 
-### <img src="{{ "/content-images/wai-media-guide/video.svg" | relative_url }}" alt="" style="height:1.3em">  Video Checklists
+### <img src="{{ "/content-images/wai-media-guide/video.svg" | relative_url }}" alt="" style="height:1.3em"> Video Checklists
 
 {% capture boxhead %}
 <img src="{{ "/content-images/wai-media-guide/recorded.svg" | relative_url }}" alt="" style="height:1em"> Pre-Recorded Video
@@ -142,8 +144,8 @@ This section covers audio-only media, like podcasts that don't have video.
 **Does the video have speech or other audio** that is needed to understand the content?
 
 -   If yes,
-    -   **[Captions](/media/av/captions/)** **(AA)**
-    -   **[Transcript of audio information](/media/av/transcripts/) (AAA)** *(The same text from the captions file, in a different format.)*
+    -   **[Captions](/media/av/captions/)** **(A)**
+    -   **[Transcript of audio information](/media/av/transcripts/) (AAA)**
     -   **[Sign language(s)](/media/av/sign-languages/) (AAA)**
     {:.alt}
 -   If no, [inform users](#none).
@@ -261,7 +263,7 @@ Here is an example workflow for developing an accessible video, with notes on wh
 
 2. Develop a **[described version of the video](/media/av/description/)** at the same time as the main video, if needed.<br>_By:_ Usually the same people who produce the main video also produce the described version.
 
-3. Develop **[captions](/media/av/captions/)** for the main video, for the described version, and of the description itself.<br>_By:_ Usually if the video is professionally produced, the producers provide captions. Sometimes when informal videos are developed in-house, captions are outsourced.
+3. Develop **[captions](/media/av/captions/)** for the main video and for the described version.<br>_By:_ Usually if the video is professionally produced, the producers provide captions. Sometimes when informal videos are developed in-house, captions are outsourced.
 
 4. Develop a **[descriptive transcript](/media/av/transcripts/)** using the text from the caption files.<br>_By:_ Often transcripts are developed in-house from caption files.
 
@@ -302,7 +304,7 @@ WCAG includes requirements for audio and video media at Level A, AA, and AAA. (M
 
 Accessibility requirements for video and audio are different based on if they are:
 * pre-recorded or live
-* video with audio, video without audio (video only), or audio only
+* video with audio, video without audio (video-only), or audio-only
 
 The links in the tables below go to a page in a separate resource: Understanding WCAG 2.1.
 
@@ -318,20 +320,18 @@ The links in the tables below go to a page in a separate resource: Understanding
 <th scope="col">Sign Language</th>
 </tr>
 <tr>
-  <th scope="row">Audio only</th>
-  <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded">A 1.2.1</a></strong><br>
-  <a href="https://www.w3.org/WAI/WCAG21/Understanding/media-alternative-prerecorded">AAA 1.2.8</a></td>
+  <th scope="row">Audio-only</th>
+  <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded">A 1.2.1</a></strong></td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
-  <td><a href="https://www.w3.org/WAI/WCAG21/Understanding/sign-language-prerecorded">AAA 1.2.6</a></td>
+  <td>&nbsp;</td>
 </tr>
 <tr>
-<th scope="row">Video only</th>
-<td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded">A 1.2.1</a></strong> (transcript <em><strong>or</strong></em> audio description)<br>
+<th scope="row">Video-only</th>
+<td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded">A 1.2.1</a></strong> (transcript <em><strong>or</strong></em> audio track)<br>
 <a href="https://www.w3.org/WAI/WCAG21/Understanding/media-alternative-prerecorded">AAA 1.2.8</a></td>
 <td>&nbsp;</td>
-<td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded">A 1.2.3</a></strong>&nbsp;(audio description <em><strong>or</strong></em> transcript)<br>
-<strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded">AA 1.2.5</a></strong></td>
+<td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded">A 1.2.1</a></strong> (audio track <em><strong>or</strong></em> transcript)</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
@@ -357,14 +357,14 @@ The links in the tables below go to a page in a separate resource: Understanding
 <th scope="col">Sign Language</th>
 </tr>
 <tr>
-  <th scope="row">Audio only</th>
-  <td><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-live">AAA 1.2.9</a></td>
-  <td><strong><a href="https://www.w3.org/WAI/WCAG21/Understanding/captions-live">AA 1.2.4</a></strong></td>
+  <th scope="row">Audio-only</th>
+  <td><a href="https://www.w3.org/WAI/WCAG21/Understanding/audio-only-live">AAA 1.2.9</a> (live stream <em><strong>or</strong></em> accurate transcript when live)</td>
+  <td>&nbsp;</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
 </tr>
 <tr>
-<th scope="row">Video only</th>
+<th scope="row">Video-only</th>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>

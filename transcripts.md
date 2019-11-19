@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/transcript.svg
 nav_title: "Transcripts"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2019-09-10   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2019-01-18   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -20,13 +20,15 @@ resource:
 navigation:
   previous: /media/av/captions/
   next:     /media/av/sign-languages/
+changelog: /media/av/changelog/
+acknowledgements: /media/av/acknowledgements/
 
 description: Helps you understand and create transcripts for audio and video media accessibility.
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 10 September 2019.</p>
-   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="/WAI/media/av/acknowledgements/">Acknowledgements</a> lists contributors and credits.</p>
+   <p><strong>Date:</strong> Updated 18 November 2019. CHANGELOG.</p>
+   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
 ---
@@ -89,7 +91,7 @@ Audio-only (e.g., podcast):
    - Transcripts are **_required_** at WCAG Level A.
    {:.alt}
 - For live:
-   - Transcripts are at WCAG Level AAA. (Captions are AA.)
+   - Transcripts are at WCAG Level AAA. Usually this needs to be a live text stream. If the audio follows a script, you can provide the text script.
    {:.alt}
 
 {::nomarkdown}
@@ -120,7 +122,7 @@ Video with audio content:
 {:/}
 
 - For pre-recorded:
-   - Transcripts are at WCAG Level AAA. (Captions are AA.)
+   - Transcripts are at WCAG Level AAA. (Captions are A.)
    {:.alt}
 - For live:
    - A live stream separate from the media player is needed for people who cannot access the captions. It is not required in WCAG. (Captions are AA.)
@@ -159,6 +161,8 @@ Once you have the transcription, creating the transcript is easy with basic web 
 If you already have captions, you can use that file to create the transcript. Most caption-editing tools provide an option to export a plain text transcript. Otherwise, you will need to delete the timestamps, or edit them per below.
 
 If you don't have captions, you'll need transcription of the audio information. That's addressed in another page of this resource: [Transcribing Audio to Text](/media/av/transcribing/).
+
+Often you'll need to add visual information to the transcript, such as text that is in the video. 
 
 ### Transcript File Format
 

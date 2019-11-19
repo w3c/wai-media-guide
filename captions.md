@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/cc.svg
 nav_title: "Captions/Subtitles"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2019-09-10   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2019-11-18   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -20,13 +20,15 @@ resource:
 navigation:
   previous: /media/av/description/
   next:     /media/av/transcripts/
+changelog: /media/av/changelog/
+acknowledgements: /media/av/acknowledgements/
 
 description: Helps you understand and create captions (also called “subtitles”) for audio and video media accessibility.
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 10 September 2019.</p>
-   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="/WAI/media/av/acknowledgements/">Acknowledgements</a> lists contributors and credits.</p>
+   <p><strong>Date:</strong> Updated 18 November 2019. CHANGELOG.</p>
+   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
 ---
@@ -115,7 +117,7 @@ Audio-only (e.g., podcast):
     *   Captions are useful for people who are hard of hearing to get the richness of listening to the audio and fill in what they don’t hear well by reading the captions.<br>Captions are not required to meet WCAG. (Transcripts are at Level A.)
     {:.alt}
 *   For live:
-    *   Captions are needed to provide the audio content to people who are Deaf or hard of hearing.<br>Captions are **_required_** in WCAG at Level AA.
+    *   Captions are useful for people who are hard of hearing to get the richness of listening to the audio and fill in what they don’t hear well by reading the captions.<br>Live text stream or accurate script of the audio available when live is in WCAG at Level AAA.
     {:.alt}
 
 {::nomarkdown}
