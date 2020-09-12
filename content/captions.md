@@ -27,7 +27,7 @@ description: Helps you understand and create captions (also called â€œsubtitlesâ
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 18 November 2019. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 12 September 2020. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -73,7 +73,7 @@ The terms "captions" and "subtitles" are used for the same thing in different re
 
 Some regions use _subtitles_ for both the same language as the audio and for the translation. Sometimes they are distinguished as _intralingual subtitles_ (same language) and _interlingual subtitles_ (different language).
 
-Subtitles are implemented the same way as captions. Subtitles/intralingual subtitles are usually only the spoken audio (for people who can hear the audio but do not know the spoken language). They can be a translation of the caption content, including non-speech audio information.
+Subtitles are implemented the same way as captions. Subtitles/interlingual subtitles are usually only the spoken audio (for people who can hear the audio but do not know the spoken language). They can be a translation of the caption content, including non-speech audio information.
 
 Captions are needed for accessibility, whereas subtitles in other languages are not directly an accessibility accommodation.
 
