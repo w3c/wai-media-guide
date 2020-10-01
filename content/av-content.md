@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/av-content.svg
 nav_title: "Audio Content & Video Content"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2019-09-10   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2020-10-01   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -27,7 +27,7 @@ description: Describes accessibility considerations when planning, scripting, st
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 10 September 2019. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 1 October 2020. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -123,7 +123,7 @@ For any text, consider the font family, size, and contrast between the text and 
 
 <span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 1.4.3: Contrast (Minimum) (AA)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) and [Understanding Success Criterion 1.4.6: Contrast (Enhanced) (AAA)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced).</span>
 
-### Plan for sign language – _storyboarding, recording_
+### Plan for sign language – _storyboarding, recording_ (WCAG AAA)
 
 Often sign languages are provided as an overlay in the bottom right corner of videos. For example: [NHS 111 British Sign Language (BSL) Advert (YouTube)<br>{% include image.html src="sign-example.jpg" alt="" class="normal video" %}](https://www.youtube.com/watch?v=TCq3ru9HQSc)
 
@@ -131,7 +131,7 @@ Plan for the video not to include important information that would be obstructed
 
 For other guidance including recording, see another page of this resource: [Sign Languages](/media/av/sign-languages/)
 
-### Plan for audio description of visual information – _storyboarding, recording_ {#plan-description}
+### Plan for audio description of visual information – _storyboarding, recording_  (WCAG A, AA) {#plan-description}
 
 _Description_ provides content to people who are blind and others who cannot see the video adequately. It describes the visual information needed to understand the content.
 
