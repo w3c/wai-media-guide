@@ -3,7 +3,7 @@ title: "Changelog"
 nav_title: "Changelog"
 
 lang: en
-last_updated: 2020-09-12
+last_updated: 2020-10-01
 
 permalink: /media/av/changelog/
 ref: /media/av/changelog/   # Do not change
@@ -19,9 +19,17 @@ navigation:
 
 ---
 
+## 2020-October-1
+
+* In [Audio Content and Video Content page](https://www.w3.org/WAI/media/av/av-content/), added missing WCAG to:
+   * Plan for sign language – _storyboarding, recording_ (WCAG AAA)
+   * Plan for audio description of visual information – _storyboarding, recording_  (WCAG A, AA)
+
+([Diff 2020-October-1](https://github.com/w3c/wai-media-guide/commit/77727ef8d05f3fee95b6150164d837465cb8cb8c))
+
 ## 2020-September-12
 
-* [In Captions page](https://www.w3.org/WAI/media/av/captions/#captions-and-subtitles), corrected: "Subtitles/interlingual subtitles are usually only the spoken audio (for people who can hear the audio but do not know the spoken language)."
+* In [Captions page](https://www.w3.org/WAI/media/av/captions/#captions-and-subtitles), corrected: "Subtitles/interlingual subtitles are usually only the spoken audio (for people who can hear the audio but do not know the spoken language)."
 
 ## 2019-November-18
 
