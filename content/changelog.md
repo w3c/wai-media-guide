@@ -3,7 +3,7 @@ title: "Changelog"
 nav_title: "Changelog"
 
 lang: en
-last_updated: 2020-10-01
+last_updated: 2020-10-09
 
 permalink: /media/av/changelog/
 ref: /media/av/changelog/   # Do not change
@@ -18,6 +18,13 @@ resource:
 navigation:
 
 ---
+
+## 2020-October-09
+
+* In Transcripts page, [Does My Media Need a Transcript? section](https://www.w3.org/WAI/media/av/transcripts/#checklist), corrected bullets under:
+   * Video-only (no audio content)
+   
+([Diff 2020-October-09](https://github.com/w3c/wai-media-guide/pull/128/files))
 
 ## 2020-October-1
 
