@@ -107,9 +107,11 @@ Video-only (no audio content):
 {:/}
 
 - For pre-recorded:
-   - Descriptive transcript _*or*_ audio description is _*required*_ at WCAG Level A.
+   - Descriptive transcript **or** audio description is **_required_** at WCAG Level A.
+   {:.alt}
 - For live:
    - A description of the visual information is needed. Usually it is a live text stream, rather than a transcript. It is not required in WCAG.
+   {:.alt}
 
 {::nomarkdown}
 {% include box.html type="end" %}
