@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/av-content.svg
 nav_title: "Audio Content & Video Content"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2020-10-01   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2020-10-10   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -27,7 +27,7 @@ description: Describes accessibility considerations when planning, scripting, st
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 1 October 2020. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated @@ October 2020. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -60,7 +60,11 @@ This page describes accessibility considerations when planning, scripting, story
 
 This page addresses accessibility considerations when planning, scripting, storyboarding, recording, and producing audio and video.
 
-Some of the guidance below is related to requirements in Web Content Accessibility Guidelines (WCAG) and have links to a separate resource. _(The Planning page of this resource introduces the [WCAG Standard](/media/av/planning/#wcag-standard).)_ Other guidance is good practice.
+Some of the guidance below is related to requirements in Web Content Accessibility Guidelines (WCAG) and has links to a separate resource. _(The Planning page of this resource introduces the [WCAG Standard](/media/av/planning/#wcag-standard).)_ Other guidance is good practice.
+
+Many media creators will particularly need to learn how to provide information to people who cannot see and/or cannot hear, per:
+* [Provide redundancy for sensory characteristics – _script_ (WCAG A)](#sensory)
+* [Plan for audio description of visual information – _storyboarding, script, recording_ (WCAG A, AA)](#plan-description)
 
 ## Audio
 
@@ -94,7 +98,7 @@ Pause between topics.
 
 Avoid or explain jargon, acronyms, and idioms. For example, expressions such as “raising the bar” can be interpreted literally by some people with cognitive disabilities and can be confusing.
 
-### Provide redundancy for sensory characteristics – _script_ (WCAG A)
+### Provide redundancy for sensory characteristics – _script_ (WCAG A)  {#sensory}
 
 Make your information work for people who cannot see and/or cannot hear.
 
@@ -123,7 +127,7 @@ For any text, consider the font family, size, and contrast between the text and 
 
 <span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 1.4.3: Contrast (Minimum) (AA)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) and [Understanding Success Criterion 1.4.6: Contrast (Enhanced) (AAA)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced).</span>
 
-### Plan for sign language – _storyboarding, recording_ (WCAG AAA)
+### Plan for sign language – _storyboarding, script, recording_ (WCAG AAA)
 
 Often sign languages are provided as an overlay in the bottom right corner of videos. For example: [NHS 111 British Sign Language (BSL) Advert (YouTube)<br>{% include image.html src="sign-example.jpg" alt="" class="normal video" %}](https://www.youtube.com/watch?v=TCq3ru9HQSc)
 
@@ -133,7 +137,9 @@ For other guidance including recording, see another page of this resource: [Sign
 
 ### Plan for audio description of visual information – _storyboarding, recording_  (WCAG A, AA) {#plan-description}
 
-_Description_ provides content to people who are blind and others who cannot see the video adequately. It describes the visual information needed to understand the content.
+_Description_ provides content to people who are blind and others who cannot see the video adequately. It describes the visual information needed to understand the content. This usually includes all text in videos. 
+
+Guidance on what to include is in the "Creating Audio Description of Visual Information" page, [Tips for Writing Description section](/media/av/description/#writing).
 
 Plan to either:
 * Integrate description of the visual information that users need to understand into the main audio content,<br>_**or**_
@@ -161,8 +167,6 @@ For many videos, the best way to handle audio description is not to need it at a
     <td>Attach the small ring to the green end, which is the larger end.</td>
   </tr>
 </table>
-
-Guidance on what to include is in the "Creating Audio Description of Visual Information" page, [Tips for Writing Description section](/media/av/description/#writing).
 
 #### Time for description
 
