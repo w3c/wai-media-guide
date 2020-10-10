@@ -22,19 +22,19 @@ navigation:
 ## 2020-October-09
 
 * In Transcripts page, [Does My Media Need a Transcript? section](https://www.w3.org/WAI/media/av/transcripts/#checklist), corrected bullets under "Video-only (no audio content)"
-* ([Diff 2020-October-09](https://github.com/w3c/wai-media-guide/pull/128/files)
+* ([Diff 2020-October-09](https://github.com/w3c/wai-media-guide/pull/128/files))
 
 ## 2020-October-01
 
 * In [Audio Content and Video Content page](https://www.w3.org/WAI/media/av/av-content/), added missing WCAG to:
    * Plan for sign language – _storyboarding, recording_ (WCAG AAA)
    * Plan for audio description of visual information – _storyboarding, recording_  (WCAG A, AA)
-   * ([Diff 2020-October-01](https://github.com/w3c/wai-media-guide/commit/77727ef8d05f3fee95b6150164d837465cb8cb8c))
+* ([Diff 2020-October-01](https://github.com/w3c/wai-media-guide/commit/77727ef8d05f3fee95b6150164d837465cb8cb8c))
 
 ## 2020-September-12
 
 * In [Captions page](https://www.w3.org/WAI/media/av/captions/#captions-and-subtitles), corrected: "Subtitles/interlingual subtitles are usually only the spoken audio (for people who can hear the audio but do not know the spoken language)."
-* In [Planning Audio and Video Media](https://www.w3.org/WAI/media/av/planning/), corrected "(called subtitles or intralingual subtitles)"
+* In [Planning Audio and Video Media](https://www.w3.org/WAI/media/av/planning/), corrected "(called subtitles or interlingual subtitles)"
 
 ## 2019-November-18
 
