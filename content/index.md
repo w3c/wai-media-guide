@@ -1,5 +1,5 @@
 ---
-title: "Making Audio and Video Media Accessible"
+title: "Rendre les médias audio et vidéo accessibles"
 nav_title: "Audio & Video Media"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
@@ -24,7 +24,7 @@ acknowledgements: /media/av/acknowledgements/
 
 description: Covers captions/subtitles, audio description of visual information, media players, and other accessibility requirements.
 image: /content-images/wai-media-guide/social.png
- 
+
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
    <p><strong>Date:</strong> Updated 18 November 2019. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
