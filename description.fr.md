@@ -1,20 +1,22 @@
 ---
-title: "Audio Description of Visual Information"
+title: "Audiodescription des informations visuelles"
 title_image: /content-images/wai-media-guide/ad.svg
 
 nav_title: "Description"
 
-lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2019-09-10   # Change to date of translation YYYY-MM-DD (month in middle)
+lang: fr   # change "en" to lang code, here and 2 @@s below
+last_updated: 2020-10-28   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
+Translators:
+-name: Sofia Ahmed
 # contributors: "..."
 
-permalink: /media/av/description/   # Add lang to end /link/to/page/@@
+permalink: /media/av/description/fr   # Add lang to end /link/to/page/@@
 ref: /media/av/description/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
-   path: 'content/description.md'   # Add lang to the middle of the filename, e.g., index.@@.md
+   path: 'content/description.fr.md'   # Add lang to the middle of the filename, e.g., index.@@.md
 
 resource:
   ref: /media/av/
@@ -24,28 +26,28 @@ navigation:
 changelog: /media/av/changelog/
 acknowledgements: /media/av/acknowledgements/
 
-description: Helps you understand and create description of visual information (called audio description, video description, and described video) for audio and video media accessibility.
+description: aide à comprendre et à créer une description des informations visuelles (appelée audiodescription) pour l'accessibilité des contenus audios et vidéos.
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 10 September 2019. CHANGELOG.</p>
-   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
-   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
+   <p><strong>Date :</strong> Mise à jour 10 septembre 2019. JOURNAL DES MODIFICATIONS.</p>
+   <p><strong>Auteur :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. RERMERCIEMENTS : liste les contributeurs et les crédits.</p>
+   <p>Développé par le Groupe de travail Education et formation (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Acess</a> financé par la fondation Ford.</p>
 
 ---
 
 {::nomarkdown}
-{% include box.html type="start" title="Summary" class="" %}
+{% include box.html type="start" title="Résumé" class="" %}
 {:/}
 
-This page helps you understand and create description of visual information (called _audio description_, _video description_, and _described video_) for new and existing videos. (It does not apply to audio-only, such as podcasts.)
+Cette page vous aide à comprendre et à créer une description des informations visuelles (appelée _audiodescription_, _vidéodescription_, et _description vidéo_) pour de nouvelles vidéos ou des vidéos déjà existantes. (Cela ne concerne pas le contenu uniquement audio, tel que les podcasts.)
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
 {::nomarkdown}
-{% include toc.html type="start" title="Page Contents" %}
+{% include toc.html type="start" title="Table des matières" %}
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
@@ -58,35 +60,35 @@ This page helps you understand and create description of visual information (cal
 
 ## Introduction
 
-_What:_ Audio description describes visual information needed to understand the content. (For example, "Pat opens a jewelry box, looks at a diamond engagement ring, and cries".) Description is usually narration added to the soundtrack.
+_Quoi :_ L'audiodescription décrit les informations visuelles nécessaires à la compréhension du contenu. (Par exemple, "Pat ouvre une boîte à bijoux, regarde une bague de fiançailles en diamant, et pleure".) La description est généralement une narration ajoutée à la bande sonore.
 
-_Who:_ Description provides content to people who are blind and others who cannot see the video adequately.
+_Qui :_ La description fournit du contenu aux personnes aveugles et aux autres personnes qui ne peuvent pas voir la vidéo correctement.
 
-_Example:_ [Video that includes audio description of the visual information (YouTube)<br>{% include image.html src="using-description.jpg" alt="" class="large video" %}](https://www.youtube.com/watch?v=F3A1VffiOH4&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-&index=3)
+_Exemple :_ [Vidéo qui comprend une audiodescription des informations visuelles (YouTube)<br>{% include image.html src="using-description.jpg" alt="" class="large video" %}](https://www.youtube.com/watch?v=F3A1VffiOH4&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-&index=3)
 
-### Terminology
+### Terminologie
 {:.no_toc}
 
-Description of visual information provided via audio is called "audio description" in Web Content Accessibility Guidelines (WCAG). In some regions and documents it is called "video description" or "described video".
+La description des informations visuelles fournie en audio est appelée "audiodescription" dans les Règles pour l'accessibilité des contenus Web (WCAG). Dans certaines régions et certains documents, elle est appelée "vidéodescription" ou "description vidéo".
 
-This resource uses "described video" in some places as a shortened form of "a video that includes description of the visual information in audio".
+Cette ressource utilise le terme "description vidéo" à certains endroits comme une forme abrégée de "vidéo qui comprend la description des informations visuelles en audio".
 
-## Does My Media Need Description? {#checklist}
+## Mon contenu multimédia nécessite-t-il une description ? {#checklist}
 
-This section tells you:
-* What is required in the WCAG standard at Level A, AA, and AAA. _([WCAG](/media/av/planning/#wcag-standard) is introduced in the Planning page of this resource.)_
-* What is needed to meet user needs, beyond WCAG. If there are no "A"s, then it is not required in WCAG.
+Cette section vous indique :
+* Quels sont les recommandations du standard WCAG aux niveaux A, AA, et AAA. _(Les [WCAG](/media/av/planning/#wcag-standard) sont introduites dans la page Planification de cette ressource.)_
+* Quelles sont les exigences pour répondre aux besoins des utilisateurs, au-delà des WCAG. S'il n'y a pas de "A", cela veut dire que ce n'est pas requis dans les WCAG.
 
 {% capture boxhead %}
-Audio-only (e.g., podcast):
+Audio uniquement (par exemple, les podcasts):
 {% endcapture %}
 
 {::nomarkdown}
 {% include box.html type="start" title=boxhead class="highlighted" id="checklist-ao" %}
 {:/}
 
-*   For pre-recorded and live:
-    *   Description is not needed because there is no visual information.
+*   Pour les vidéos préenregistrées et en direct :
+    *   La description n'est pas nécessaire car il n'y a pas d'information visuelle.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -100,218 +102,218 @@ Video:
 {% include box.html type="start" title=boxhead class="highlighted" id="checklist-video" %}
 {:/}
 
-**Does the video have visual information** that is needed to understand what the video is communicating?
+**La vidéo contient-elle des informations visuelles** nécessaires à la compréhension du message communiqué par la vidéo ?
 
-*   If no (for example, it is only a person talking):
-    *   Description is not needed. Consider [informing users](/media/av/planning/#none).
-*   If yes:
-    *   For pre-recorded:
-        *   Description is needed to provide the important visual information to people who are blind and listen to the video.
-            Description is **_required_** in WCAG at Level A or AA.
+*   Si ce n'est pas le cas (par exemple, il ne s'agit que d'une personne qui parle) :
+    *   La description n'est pas nécessaire. Allez sur [informer les utilisateurs](/media/av/planning/#none).
+*   Si c'est le cas :
+    *   Pour les vidéos préenregistrées :
+        *   La description est nécessaire pour fournir les informations visuelles importantes aux personnes aveugles et qui écoutent la vidéo.
+            La description est **_recommandée_** dans les WCAG aux niveaux A ou AA.
         {:.alt}
-    *   For live:
-        *   Description is needed to provide the important visual information to people who are blind.
-            Description is not required to meet WCAG.
+    *   Pour les vidéos en direct :
+        *   La description est nécessaire pour fournir les informations visuelles importantes aux personnes aveugles.
+            La description n'est pas besoin de répondre aux recommandations des WCAG.
         {:.alt}
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-## Description Considerations, Skills, and Tools
+## Considérations à prendre en compte pour la description, compétences, et outils
 
-When accessibility is considered _before_ videos are produced, it significantly cuts down on cost and effort to develop description. For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers as the video is planned and created, and you don't need separate description, thus there is no additional cost.
+Lorsque l'accessibilité est prise en compte _avant_ de commencer la production des vidéos, les coûts et les efforts sont significativement moindres pour créer une descritpion. Pour certains types de vidéos (telles que les vidéos de formation), la description des informations visuelles peut être intégrée facilement par les locuteurs au moment de la planification et de la création de la vidéo, vous n'aurez donc pas besoin d'une description à part, ce qui vous fera économiser des coûts supplémentaires.
 
-Information on planning for description in _new videos_ is in the "Creating Audio and Video Content" page, [Plan for Audio Description of Visual Information section](/media/av/av-content/#plan-description).
+Retrouvez des informations relatives à la planification de la description dans les _nouvelles vidéos_ sur la page "Créer du contenu audio et vidéo", dans la section [Planification de l'audiodescription des informations](/media/av/av-content/#plan-description).
 
-To add description to _an existing video_, you'll either need skills and tools to:
-* write it
-* create a VTT file with the timed descriptions
+Pour ajouter une description à une _vidéo déjà existante_, vous aurez besoin à la fois des compétences et des outils pour :
+* l'écrire
+* créer un fichier VTT avec des descritpions synchronisées
 
-Or:
-* write it
-* narrate it
-* record it
-* integrate it in new audio and/or video files
+Ou :
+* l'écrire
+* la raconter
+* l'enregistrer
+* l'intégrer dans de nouveaux fichiers audios et/ou vidéos
 
-Many organizations choose to outsource their description.
+De nombreuses organisations choisissent de sous-traiter leur description.
 
-## What Method of Description?
+## Quel mode de description ?
 
-What method to use for description depends on your video content and the media player that you use. First, figure out these issues about your video content, timing, and player:
+Choisir votre mode de description dépend du contenu de la vidéo et du lecteur multimédia que vous utilisez. Tout d'abord, réglez les questions suivantes concernant votre contenu vidéo, la durée, et le lecteur :
 
-* **Integrated** &mdash; For new videos, can the speakers describe the relevant visual information as the video is recorded? This works for well for some videos, such as presentations and instructional videos. For examples, see the "Creating Audio and Video Content" page, [Integrated Description section](/media/av/av-content/#integrate-description).
+* **Intégrée** : Pour les nouvelles vidéos, les locuteurs peuvent-ils décrire les informations visuelles pertinentes au moment où la vidéo est enregistrée ? Cela fonctionne bien avec certaines vidéos, comme les vidéos de présentation ou didactique. À titre d'exemple, allez sur la page "Création de contenus audios et vidéos", dans la section ["Description intégrée"](/media/av/av-content/#integrate-description).
 
-* **Media player support** &mdash; Information about media player functionality is in the Accessible Media Players page under [Existing Players](/media/av/player/#existing-players). Does the media player, platform, or plug-in that you are using provide functionality for:
-   * description from a text file?
-   * a separate audio track for description?
+* **Un lecteur multimédia accessible** : retrouvez des informations relatives aux fonctionnalités des lecteurs multimédia sur la page "Des lecteurs multimédia accessibles" sous [Lecteurs déjà existants](/media/av/player/#existing-players). Le lecteur multimédia, la plate-forme, ou le plug-in que vous utilisez fournissent-ils des fonctionnalités pour :
+   * une description provenant d'un fichier texte ?
+   * une bande sonore à part pour la description ?
 
 <a id="space"> </a>
-* **Space in audio** &mdash; Is there enough space in the main audio for the description? That is, are there sufficient pauses throughout the narration or speaking where the relevant description will fit? For example,
-   * If the only description needed is at the beginning of the video where these is a text title and background music, then: Yes, there is enough space.
-   * If the speaker talks continually without pausing, then: No, there is not enough space for description.
+* **Espace de l'audio** : y'a-t-il suffisamment d'espace dans l'audio principal pour la description ? En d'autres mots, le nombre de pauses est-il suffisant durant la narration ou les dialogues où la description pertinente pourrait apparaître ? Par exemple,
+   * Si la seule description nécessaire se trouve au début de la vidéo où un titre textuel et de la musique apparaissent, alors : oui, il y a assez d'espace.
+   * Si le locuteur parle continuellement sans faire de pauses, alors : non, il n'y a pas assez d'espace pour la description.
 
-***Use the information from above to answer the following questions*** in order to determine what method to provide description for your video. The options listed first are usually the best, yet you can choose another option.
+***Utilisez les informations ci-dessus pour répondre aux questions suivantes*** pour déterminer quel mode utiliser pour la description de votre vidéo. Les options listées en premier sont généralement celles à privilégier, mais vous pouvez tout à fait choisir une autre option.
 
 {% capture boxhead %}
-Description method:
+Mode de description :
 {% endcapture %}
 
 {::nomarkdown}
 {% include box.html type="start" title=boxhead class="highlighted" id="method-tree" %}
 {:/}
 
-*   Is it a new video _and_ can the speakers describe the visual information in the main audio?
-    *   If yes, provide **integrated description** (no separate description is needed),
-        _**or**_ another option below.
-    *   If no, will you use a media player that provides functionality for description from a text file?
-        *   If yes, provide description in a **timed text file**,
-            _**or**_ another option below.
-        *   If no, will you use a media player that supports a separate audio track for the description, _and_ is there enough space in the main audio for the description?
-            *   If yes, provide description in a **separate audio file**,
-                _**or**_ provide a **separate described video**.
-            *   If no, provide a **separate described video**.
+*   Est-ce une nouvelle vidéo _et_ les locuteurs peuvent-ils décrire les informations visuelles dans l'audio principal ?
+    *   Si oui, fournissez une **description intégrée** (une description à part n'est pas nécessaire),
+        _**ou**_ une autre option ci-dessous.
+    *   Si non, allez-vous utiliser un lecteur multimédia qui possède les fonctionnalités pour lire une description provenant d'un fichier de texte ?
+        *   Si oui, fournissez une description dans un **fichier de texte synchronisé**,
+            _**ou**_ une autre option ci-dessous.
+        *   Si non, allez-vous utiliser un lecteur multimédia favorable à une bande sonore à part pour la description, _et_ y'a-t-il de l'espace en suffisance dans l'audio principal pour la description ?
+            *   Si oui, fournissez une description dans un **fichier audio à part**,
+                _**ou**_ fournissez une **description vidéo à part**.
+            *   Si non, fournissez une **description vidéo à part**.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-## Options for Creating Description
+## Options pour la création d'une description
 
-Depending on your video situation, do one of the options below &mdash; as determined from the "What Description to Provide for My Video?" section above.
+En fonction des caractéristiques de votre vidéo, choisissez une des options ci-dessous (comme indiqué dans la section "Quel description fournir pour ma vidéo ?" ci-dessus.)
 
-### Integrated &ndash; Creating Integrated Description
+### Intégrée : création d'une description intégrée
 
-This approach works for some new videos. The process to develop a video with integrated description is basically:
-1. When writing the script, make sure all relevant visual information is included. See [Tips for Writing Descriptions below](#writing) and examples in Accessible Audio and Video Content, [Integrate description section](/media/av/av-content/#integrate-description))
-2. Before finalizing the video, check to confirm that all relevant visual information is covered in the audio.
+Cette approche fonctionne pour certaines vidéos nouvelles. Voici les étapes essentielles du processus de développement d'une vidéo avec description intégrée :
+1. Lors de l'écriture du scénario, assurez-vous que toutes les informations visuelles pertinentes sont reprises. Retrouvez des [Conseils pour l'écriture de descriptions ci-dessous](#writing) et des exemples dans "Du contenu audio et vidéo accessible", [La section "Une description intégrée"](/media/av/av-content/#integrate-description))
+2. Avant de finaliser la vidéo, vérifier pour confirmer que toutes les informations visuelles pertinentes sont présentes dans l'audio.
 
-### Text &ndash; Creating Description in a Text File
+### Texte : création d'une description dans un fichier de texte
 
-This approach only works when the media player that you're using supports text-based audio description that is read aloud. And, either the description fits in the space of the main audio, or the player provides functionality to pause during audio description. It requires someone to create a timed text file &mdash; minimal skills are needed; tools are not required, yet, they make it faster and easier.
+Cette approche ne fonctionne que lorsque le lecteur multimédia que vous utilisez peut lire une description audio basée sur du texte lu à voix haute. De plus, soit l'espace est suffisant dans l'audio principal pour la description, soit le lecteur fournit des fonctionnalités pour mettre la vidéo sur pause lors de la description audio. Ce procédé nécessite la création d'un fichier de texte synchronisé : un minimum de compétences est requis, et des outils ne sont pas nécessaires, bien qu'ils accélèrent et facilitent la création.
 
-The process to develop descriptions in a text file is basically:
-1. Write out the descriptions. See [Tips for Writing Descriptions below](#writing).
-2. Add the timestamps for the descriptions in the file format used by the media player. It is usually [WebVTT like the example below](#vtt).
+Voici les étapes essentielles du processus de développement de descritpions dans un fichier de texte :
+1. L'écriture des descriptions. Retrouvez des [Conseils pour l'écriture de descriptions ci-dessous](#writing).
+2. Ajouter les horodatages des descriptions dans le format de fichier utilisé par le lecteur multimédia. Il s'agit généralement de [WebVTT comme dans l'exemple ci-dessous](#vtt).
 
-(Make sure the descriptions file is included with the video.)
+(Assurez-vous que le fichier des descriptions soit inclut dans la vidéo.)
 
-If the descriptions do not fit into the main audio space, provide instructions to users to set their player to pause the video during audio description. For example:
+Si l'espace de l'audio principal est insuffisant pour les descriptions, fournissez aux utilisateurs des instructions pour mettre leur lecteur en pause pendant l'audiodescription. Par exemple :
 
 {::nomarkdown}
-{% include box.html type="start" title="To set the video to pause for audio description of visual information:" class="" %}
+{% include box.html type="start" title="Mettre la vidéo en pause pour l'audiodescription des informations visuelles :" class="" %}
 {:/}
 
 <img src="{{ "/content-images/wai-media-guide/player-preferences.png" | relative_url }}" alt="" class="" style="float: right; height: 7em; padding-left 7px;'">
 
-* Select "Preferences", then "Descriptions".<br>
-The "Audio Description Preferences" box opens.
-* Under "Text-based audio description", select the checkbox for "Automatically pause video when description starts".
-* Select the Save button.
+* Sélectionnez "Préférences", puis "Descriptions".<br>
+La boîte de dialogue "Préférences pour l'audiodescription" s'ouvre.
+* Sous "Audiodescription textuelle", sélectionnez la case à cocher "Mettre en pause la vidéo automatiquement quand la description commence".
+* Sélectionnez le bouton "Enregistrer".
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-### Audio Only &ndash; Creating Description in a Separate Audio File Only
+### Contenu uniquement audio : création d'une description dans un fichier uniquement audio à part
 
-This approach only works when there is enough space in the main audio for the description, *and* the media player supports a separate audio track for the description. This requires skills and software for audio recording and audio editing.
+Cette approche ne fonctionne que lorsque l'espace dans l'audio principal est suffisant pour la description, *et* lorsque le lecteur multimédia peut lire une bande sonore à part pour la description. Cela nécessite des compétences et un logiciel d'enregistrement et de montage de contenu audio.
 
-The process to develop description in a separate audio file is basically:
-1. Write out the descriptions. See [Tips for Writing Descriptions below](#writing).
-2. Record the descriptions. See [Tips for Recording Descriptions below](#recording).
-3. Ensure the descriptions play in the audio spaces with the main video.
-4. Provide a caption file of the description. [Example VTT file of audio description](#vtt)
+Voici les étapes essentielles du processus de développement d'une description dans un fichier audio à part :
+1. L'écriture ds descriptions. Retrouvez des [Conseils pour l'écriture de descriptions ci-dessous](#writing).
+2. Enregistrer les descriptions. Retrouvez des [Conseils pour l'enregistrement de descriptions ci-dessous](#recording).
+3. Assurez-vous que les descriptions s'activent dans les espaces audios de la vidéo principale.
+4. Fournissez un fichier de sous-titres de la description. [Exemple de fichier VTT de l'audiodescription](#vtt)
 
-(Ensure the files are integrated with the player on the web page.)
+(Assurez-vous que les fichiers sont intégrés au lecteur sur la page Web.)
 
-### Video with Space &ndash; Creating a Separate Described Video - If Descriptions Fit in Audio Spaces
+### Vidéo avec de l'espace : création d'une description vidéo à part - Si les espaces audios sont suffisants pour les descriptions
 
-This applies if the descriptions do fit in the spaces, as described in [Space in audio above](#space)_. It requires skills and software for audio recording and video editing. Depending on the player that you are using, you might need video software to regenerate the video.
+Cela concerne les descriptions pour lesquelles l'espace dans la vidéo est insuffisant, comme décrit dans [Espace dans le contenu audio ci-dessus](#space)_. Cela nécessite des compétences et un logiciel d'enregistrement et de montage de contenu vidéo. En fonction du lecteur que vous utilisez, vous pourriez nécessiter un logiciel vidéo pou regénérer la vidéo.
 
-The process to develop a separate audio file is basically:
-1. Write out the descriptions. See [Tips for Writing Descriptions below](#writing).
-2. Record the descriptions. See [Tips for Recording Descriptions below](#recording).
-3. Create a new audio file by combining the original audio and the new description audio. See [Tips for Combining Audio Files below](#combining).
-4. Provide the file(s):
-* _**If**_ your player uses separate video and audio tracks,<br>you're done.
-* _**If**_ your player uses a single video file that includes the audio,<br>generate the new described video with the audio file that you just created.
+Les étapes essentielles du processus de développement d'un fichier audio séparé :
+1. L'écriture des descriptions. Retrouvez des [Conseils pour l'écritures de descriptions ci-dessous](#writing).
+2. L'enregistrement des descriptions. Retrouvez des [Conseils pour l'enregistrement de descriptions ci-dessous](#recording).
+3. La création d'un nouveau fichier audio en associant l'audio original et la nouvelle audiodescription. Retrouvez des [Conseils pour associer des fichiers audios ci-dessous](#combining).
+4. Fournissez le(s) fichier(s) :
+* _**Si**_ votre lecteur utilise une vidéo et des bandes sonores séparées,<br>vous avez fini.
+* _**Si**_ votre lecteur utilise un seul fichier vidéo qui comprend l'audio,<br>générez la nouvelle description vidéo avec le fichier audio que vous venez de créer.
 
-(Make sure on the web page where the video is available, the Described version uses the correct version that you just created.)
+(Assurez-vous que sur la page Web où la vidéo est disponible, la version décrite utilise la version correcte que vous venez de créer.)
 
-### Video Without Space &ndash; Creating a Separate Described Video - If Descriptions Do _Not_ Fit in Audio Spaces
+### Vidéo sans espace : la création d'une description vidéo à part - S'il n'y a _pas_ suffisamment de place dans l'audio pour les descriptions
 
-If all the descriptions do **not** fit in the spaces _(as described in [Space in audio above](#space)_), you'll need to develop a separate audio file and also edit the visual track. This requires skills and software for audio recording, audio editing, and video editing.
+S'il n'y a **pas** suffisamment de place pour toutes les descriptions _(comme décrit dans [Espace dans l'audio ci-dessus](#space))_, vous devrez développer un fichier audio à part et créer une piste visuelle. Cela nécessite des compétences et un logiciel d'enregistrement, de montage de contenu audio, et de montage de contenu vidéo.
 
-The process to develop a separate audio file and edit the visual track is basically:
-1. Write out the descriptions. See [Tips for Writing Descriptions below](#writing).
-2. Record the descriptions. See [Tips for Recording Descriptions below](#recording).
-3. Create a new audio file by combining the original audio and the new description audio. See [Tips for Combining Audio Files below](#combining).
-4. Create a new video:
-	* _**If**_ you have source video with longer scenes _(as described in Accessible Audio and Video Content, [Time for description section](/media/av/av-content/#time-for-description))_, recut the scenes longer to fill in the visual space where you need to accommodate the time for the description.
-	* _**If not or if you're adding to an existing video**_, you will need to leave a static image in the video while the description is playing in the audio. <!-- (For example, this video [@@ need very good example - see GitHub](https://github.com/w3c/wai-media-guide/issues/73) pauses at 00:00 for the audio description.) -->
+Voici les étapes essentielles du processus de développement d'un fichier audio séparé et de création d'une piste visuelle :
+1. L'écriture des descriptions. Retrouvez des [Conseils pour l'écriture de descriptions ci-dessous](#writing).
+2. L'enregistrement des descriptions. Retrouvez des [Conseils pour l'enregistrement de descriptions ci-dessous](#recording).
+3. La création d'un nouveau fichier audio en associant le contenu audio original et la nouvelle audiodescription. Retrouvez des [Conseils pour associer les fichiers audios ci-dessous](#combining).
+4. La création d'une nouvelle vidéo :
+	* _**Si**_ votre vidéo source contient des scènes plus longues _(comme décrit dans "Des contenus audios et vidéos accessibles, dans la section ["Durée pour la description"](/media/av/av-content/#time-for-description))_, recouper les scènes plus longues pour remplir les espaces visuels où vous avez besoin de faire de la place pour la description.
+	* _**Si ce n'est pas le cas ou si vous faites un ajout à une vidéo déjà existante**_, vous devrez laisser une image statique dans la vidéo au moment où la description apparaît dans l'audio. <!-- (For example, this video [@@ need very good example - see GitHub](https://github.com/w3c/wai-media-guide/issues/73) pauses at 00:00 for the audio description.) -->
 
-(Make sure on the web page where the video is available, the Described version uses the correct version that you just created.)
+(Assurez-vous que sur la page Web où la vidéo est disponible, la version décrite utilise la version correcte que vous venez de créer.)
 
-### Other Options
+### D'autres options
 {:.no_toc}
 
-* Extended Description with SMIL &mdash; The only markup-based method for providing extended audio descriptions is to use SMIL 3.0. Support for SMIL is very limited. Implementations would most likely require plug-ins and/or heavily customized approaches.
-* Provide functionality for the video to pause for the description &mdash; This is not suggested in most cases because it requires extra coding and provides a less-than-optimum user experience.
+* Une description étendue avec SMIL : le seul mode de balisage pour fournir des audiodescriptions est l'utilisation de SMIL 3.0. L'assitance au SMIL est très limitée. Les implémentations nécessiteront certainement des plug-ins et/ou des approches extrêmement personnalisées.
+* Fournir les fonctionnalités pour que la vidéo se mette en pause au moment de la description : cela n'est pas proposé dans la plupart des cas car un codage supplémentaire est nécessaire et l'expérience utilisateur est moins optimale.
 
 {% include_cached excol.html type="start" id="tips" %}
 
-## Tips for Doing Description Yourself
+## Conseils pour créer une description vous-mêmes
 
 {% include_cached excol.html type="middle" %}
 
-### Tips for Writing Descriptions {#writing}
+### Conseils pour l'écriture de descriptions {#writing}
 {:.no_toc}
 
-* Describe the visual elements that are important to understand what the video is communicating. Imagine that you are describing the video to someone who cannot see it &mdash; what do you say? You don't need to describe every detail or things that are apparent from the audio.
-* Describe objectively, without interpretation, censorship, or comment.
-* Write description in present tense, active voice, and third-person narrative style.
+* Décrivez les éléments visuels importants à la compréhension du message communiqué par la vidéo. Imaginez que vous décrivez la vidéo à une personne qui ne peut pas la voir : que dites-vous ? Vous n'avez pas besoin de décrire chaque détail ou chaque élément apparent dans l'audio.
+* Décrit objectivement, sans interprétation, censure, ou commentaire.
+* Écrire une description au présent, à la voie active, et à la troisième personne du style narratif.
 
-More guidance on writing descriptions is available on the web, for example: [Description Tip Sheet {% include_cached external.html %}](https://dcmp.org/learn/227) and [How to Describe {% include_cached external.html %}](http://www.descriptionkey.org/how_to_describe.html).
+Retrouvez plus d'informations sur l'écriture des descriptions disponible sur le Web, par exemple : [Fiche descriptive {% include_cached external.html %}](https://dcmp.org/learn/227) and [Comment décrire {% include_cached external.html %}](http://www.descriptionkey.org/how_to_describe.html).
 
-### Tips for Recording Descriptions {#recording}
+### Conseils pour l'enregistrement de descriptions {#recording}
 {:.no_toc}
 
-* Use a voice, style, and delivery that is distinguishable from other voices used in the video.
-* Use a neutral voice that does not convey emotions.
-* When recording a single file with timed descriptions, voice the descriptions at the same time as the visual content, or right before the visual content. Don't put the description after the visual content.
-* See [guidance on audio content](/media/av/av-content/#audio).
+* Utilisez une voix, un style, et un débit qui se distinguent des autres voix utilisées dans la vidéo.
+* Utilisez une voix neutre qui ne transmet pas d'émotions.
+* Lors de l'enregistrement d'un seul fichier avec des descriptions synchronisées, prononcez les descriptions au même moment que le contenu visuel, ou juste avant le contenu visuel. Ne faites pas apparaitre la description après le contenu visuel.
+* Allez sur [aide pour le contenu audio](/media/av/av-content/#audio).
 
-### Tips for Combining Audio Files {#combining}
+### Conseils pour associer des fichiers audios {#combining}
 {:.no_toc}
 
-* Put descriptions at the same time as the visual content, or right before the visual content. Don't put the description after the visual content.
+* Faites apparaitre les descriptions au même moment que le contenu visuel, ou juste avant celui-ci. Ne faites pas apparaitre la description après.
 
-* Make the description clear above other noises. When mixing the descriptions with the main audio, lower the main audio level when the description plays and raise the description audio level. When the description is finished playing, lower the description audio level and raise the main audio level to its normal setting. Repeat this process (known as "ducking") for every description instance.
+* Faites en sorte que la description soit plus claire que les autres bruits. Au moment d'associer les descriptions avec le contenu audio principal, baissez le volume de l'audio principal au moment de l'apparition de la description et augmentez le volume de l'audio de la description. Lorsque la description est finie, baissez le volume de l'audio de la description et augmentez le volume de l'audio principal à son réglage normal. Répétez ce processus (appelé "ducking") pour chaque moment de description.
 
 {% include_cached excol.html type="end" %}
 
-### VTT File
+### Fichier VTT
 {:.no_toc}
 
 {::nomarkdown}
-{% include box.html type="start" title="Example VTT file of audio description" class="" id="vtt" %}
+{% include box.html type="start" title="Exemple de fichier VTT de l'audiodescription" class="" id="vtt" %}
 {:/}
 
 ```
 WEBVTT
 
 00:00:04.000 --> 00:00:07.980
-<v Audio Descriptions>A man sitting at a desk starts watching a video on his computer.
+<v Audiodescriptions>Un homme assis à un bureau commence à regarder une vidéo sur son ordinateur.
 
 00:00:17.260 --> 00:00:20.780
-<v Audio Descriptions>The video on his computer shows a person speaking to the camera.
+<v Audiodescriptions>La vidéo sur son ordinateur montre une personne qui parle à la caméra.
 
 00:00:20.780 --> 00:00:23.140
-<v Audio Descriptions>It is playing with no audio.
+<v Audiodescriptions>Elle fonctionne sans audio.
 
 00:00:26.880 --> 00:00:29.620
-<v Audio Descriptions>The man watching the video has a hearing aid.
+<v Audiodescriptions>L'homme qui regarde la vidéo a un appareil auditif.
 ```
 
 {::nomarkdown}
