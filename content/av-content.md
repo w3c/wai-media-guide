@@ -133,7 +133,7 @@ For other guidance including recording, see another page of this resource: [Sign
 
 ### Plan for audio description of visual information – _storyboarding, recording_  (WCAG A, AA) {#plan-description}
 
-_Description_ provides content to people who are blind and others who cannot see the video adequately. It describes the visual information needed to understand the content.
+_Description_ provides content to people who are blind and others who cannot see the video adequately. It describes the visual information needed to understand the content, **including text displayed in the video**.
 
 Plan to either:
 * Integrate description of the visual information that users need to understand into the main audio content,<br>_**or**_
