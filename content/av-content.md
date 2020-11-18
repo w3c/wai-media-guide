@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/av-content.svg
 nav_title: "Audio Content & Video Content"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2020-10-10   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2020-11-24   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -27,7 +27,7 @@ description: Describes accessibility considerations when planning, scripting, st
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated @@ October 2020. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 24 November 2020. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -38,6 +38,11 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 {:/}
 
 This page describes accessibility considerations when planning, scripting, storyboarding, recording, and producing audio and video.
+
+This page covers **common accessibility barriers** including:
+* [missing description of visual information](#plan-description) (such as text in the video) for people who cannot see the video
+* [requiring sight to understand the content](#sensory) of the video
+* [making text in the video hard for some people to see ](#readable) because there is not enough contrast between the text and the background colors
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -61,10 +66,6 @@ This page describes accessibility considerations when planning, scripting, story
 This page addresses accessibility considerations when planning, scripting, storyboarding, recording, and producing audio and video.
 
 Some of the guidance below is related to requirements in Web Content Accessibility Guidelines (WCAG) and has links to a separate resource. _(The Planning page of this resource introduces the [WCAG Standard](/media/av/planning/#wcag-standard).)_ Other guidance is good practice.
-
-Many media creators will particularly need to learn how to provide information to people who cannot see and/or cannot hear, per:
-* [Provide redundancy for sensory characteristics – _script_ (WCAG A)](#sensory)
-* [Plan for audio description of visual information – _storyboarding, script, recording_ (WCAG A, AA)](#plan-description)
 
 ## Audio
 
@@ -121,7 +122,7 @@ Avoid anything that flashes more than three times in any one second period.
 
 Some people use mouth movement to help understand spoken language. When feasible, ensure that the speaker's face is visible and in good light.
 
-### Make overlay text readable – _storyboarding, post-production_ (WCAG AA, AAA)
+### Make overlay text readable – _storyboarding, post-production_ (WCAG AA, AAA) {#readable}
 
 For any text, consider the font family, size, and contrast between the text and background.
 
