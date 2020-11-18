@@ -3,7 +3,7 @@ title: "Changelog"
 nav_title: "Changelog"
 
 lang: en
-last_updated: 2020-10-01
+last_updated: 2020-11-24
 
 permalink: /media/av/changelog/
 ref: /media/av/changelog/   # Do not change
@@ -18,6 +18,14 @@ resource:
 navigation:
 
 ---
+
+## 2020-November-24
+
+* In Audio Description of Visual Information page, under [Tips for Writing Descriptions](https://www.w3.org/WAI/media/av/description/#writing), added paragraph:<br>"Generally, all text in the video should be included in the main audio (integrated description) or in the separate description. For example, title text at the beginning of the video, links and e-mail addresses shown at the end, speakers’ names in text, and text in a presentation. The text does not have to be included verbatim (exactly word-for-word), yet all of the information conveyed by the text needs to be available in the main audio, in the separate description, or clearly with the video."
+* In first page, under [How to Make Audio and Video Accessible](https://www.w3.org/WAI/media/av/#how-to-make-audio-and-video-accessible), at end of Audio Description of Visual Information paragraph, added:<br>", including text displayed in the video."
+* In Audio Content and Video Content page, under [Plan for audio description of visual information](https://www.w3.org/WAI/media/av/av-content/#plan-description), at end of first paragraph, added:<br>", **including text displayed in the video**."
+
+([Diff for text in description](https://github.com/w3c/wai-media-guide/pull/126/files))
 
 ## 2020-October-1
 
