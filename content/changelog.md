@@ -19,6 +19,19 @@ navigation:
 
 ---
 
+## 2020-November-24
+
+* In [Audio Content and Video Content page](https://www.w3.org/WAI/media/av/av-content/)
+  * Added to summary:<br>"This page covers **common accessibility barriers** including:...<br>{and 3 bullets with in-page links}"
+  * Moved paragraph: "Guidance on what to include is in the "Creating Audio Description of Visual Information" page, [Tips for Writing Description section](/media/av/description/#writing)."
+  * Added "script" to "### Plan for sign language – _storyboarding, script, recording_ (WCAG AAA)"
+  * Added targets:
+    * "### Provide redundancy for sensory characteristics – _script_ (WCAG A)  {#sensory}"
+    * "### Make overlay text readable – _storyboarding, post-production_ (WCAG AA, AAA) {#readable}"
+  * Corrected grammar have->has:<br>"Some of the guidance below is related to requirements in Web Content Accessibility Guidelines (WCAG) and have links to a separate resource." -><br>"Some of the guidance below is related to requirements in Web Content Accessibility Guidelines (WCAG) and has links to a separate resource."
+
+([Diff 2020-November-24 AV Content](https://github.com/w3c/wai-media-guide/pull/127/files))
+
 ## 2020-October-1
 
 * In [Audio Content and Video Content page](https://www.w3.org/WAI/media/av/av-content/), added missing WCAG to:
