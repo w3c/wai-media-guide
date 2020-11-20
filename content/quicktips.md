@@ -58,6 +58,3 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 {:.paragraph-like}
 
 **Learn more about [[Making Audio and Video Media Accessible]](/media/av/).**
-
-
-@@ add movement to AV content
