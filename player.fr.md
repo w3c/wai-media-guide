@@ -1,5 +1,5 @@
 ---
-title: "Lecteurs multimédia"
+title: "Lecteurs multimédias"
 title_image: /content-images/wai-media-guide/player-nobackground.svg
 nav_title: "Lecteur multimédia"
 
@@ -72,13 +72,13 @@ Le développement de votre propre lecteur multimédia accessible requiert des co
 
 ## Les fonctionnalités d'un lecteur accessible
 
-Les lecteurs multimédia accessibles fournissent une interface utilisateur qui fonctionne sans souris, grâce à l'interface vocale, lorsque la page est agrandie, et avec des lecteurs d'écran. Par exemple, les lecteurs multimédia doivent :
+Les lecteurs multimédias accessibles fournissent une interface utilisateur qui fonctionne sans souris, grâce à l'interface vocale, lorsque la page est agrandie, et avec des lecteurs d'écran. Par exemple, les lecteurs multimédias doivent :
 * Fournir une assistance au clavier dans ([Comprendre les WCAG : Accessible au clavier](https://www.w3.org/WAI/WCAG21/Understanding/keyboard-accessible))
 * Rendre l'indicateur du focus clavier visible dans ([Comprendre les WCAG : Visibilité du focus](https://www.w3.org/WAI/WCAG21/Understanding/focus-visible))
 * Fournir des étiquettes claires dans ([Comprendre les WCAG : Étiquettes ou instructions](https://www.w3.org/WAI/WCAG21/Understanding/labels-or-instructions), [Information et relations](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships))
 * Avoir un contraste suffisant entre les couleurs du texte, des commandes, et des fonds dans ([Comprendre les WCAG : Contraste (minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum), [Contraste (amélioré)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced), [Contraste non textuel](https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html))
 
-Certains lecteurs multimédia fournissent aux utilisateurs des fonctionnalités d'accessibilité supplémentaires telles que :
+Certains lecteurs multimédias fournissent aux utilisateurs des fonctionnalités d'accessibilité supplémentaires telles que :
 * Modifier la vitesse de la vidéo
 * Paramétrer la manière dont les sous-titres apparaissent (par exemple, le style, la taille, et les couleurs du texte, ainsi que la position des sous-titres)
 * Lire les sous-titres à l'aide d'un lecteur d'écran et d'un outil baille
@@ -88,17 +88,17 @@ Les transcriptions interactives utilisent le fichier des sous-titres. Les transc
 
 <img src="{{ "/content-images/wai-media-guide/interactive-transcript.png" | relative_url }}" alt="">
 
-Retrouvez plus de détails sur les fonctionnalités d'un lecteur accessible sur ce document à part : [Exigences des utilisateurs en matière d'accessibilité des contenus multimédia](https://www.w3.org/TR/media-accessibility-reqs/).
+Retrouvez plus de détails sur les fonctionnalités d'un lecteur accessible sur ce document à part : [Exigences des utilisateurs en matière d'accessibilité des contenus multimédias](https://www.w3.org/TR/media-accessibility-reqs/).
 
 ## Lecteurs déjà existants
 
-Il existe des informations en ligne en matière d'accessibilité des lecteurs multimédia. Par exemple, [Tableau comparatif de l'accessibilité des lecteurs multimédia sur le Web _(dernière mise à jour : juillet 2016)_ {% include_cached external.html %}](http://kensgists.github.io/apt/).
+Il existe des informations en ligne en matière d'accessibilité des lecteurs multimédias. Par exemple, [Tableau comparatif de l'accessibilité des lecteurs multimédias sur le Web _(dernière mise à jour : juillet 2016)_ {% include_cached external.html %}](http://kensgists.github.io/apt/).
 
 Chaque lecteur multimédia fournit de la documentation sur les étapes à suivre pour les installer sur une page Web. Par exemple, [Les étapes d'installation d'<em>AblePlayer</em> {% include_cached external.html %}](https://ableplayer.github.io/ableplayer/#setup-step-1-use-html5-doctype).
 
 ### Compatibilité pour les modes de description
 
-Les fonctionnalités de lecteur multimédia sont nécessaires pour certains modes d'audiodescription des informations visuelles, comme décrit dans la page [Description](/media/av/description/). À notre connaissance, les lecteurs multimédia suivants fournissent de telles fonctionnalités :
+Les fonctionnalités de lecteur multimédia sont nécessaires pour certains modes d'audiodescription des informations visuelles, comme décrit dans la page [Description](/media/av/description/). À notre connaissance, les lecteurs multimédias suivants fournissent de telles fonctionnalités :
 * Lit la description dans un fichier de données (format VTT):
    * AblePlayer : lit la description lorsqu'il y a de l'espace dans l'audio, et lorsque la vidéo doit être mise en pause ("description étendue")
    * video.js : lit la description lorsqu'il y a de l'espace dans l'audio ; ne lit **pas** la description lorsque la vidéo doit être mise en pause ("description étendue")
