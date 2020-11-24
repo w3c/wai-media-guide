@@ -37,7 +37,10 @@ navigation:
     * Corrected grammar have->has:<br>"Some of the guidance below is related to requirements in Web Content Accessibility Guidelines (WCAG) and have links to a separate resource." -><br>"Some of the guidance below is related to requirements in Web Content Accessibility Guidelines (WCAG) and has links to a separate resource."
   * ([Diff 2020-November-24 AV Content](https://github.com/w3c/wai-media-guide/pull/127/files))
 * Added alt ([per 146](https://github.com/w3c/wai-media-guide/issues/146):
-  * In [Captions/Subtitles](https://www.w3.org/WAI/media/av/captions/) and [Transcribing Audio to Text](https://www.w3.org/WAI/media/av/transcribing/) added alt "food on fire under broiler" to:<br><code>{% include image.html src="food-fire.jpg" alt="food on fire under broiler" class="normal right" %}</code>
+  * In [Captions/Subtitles](https://www.w3.org/WAI/media/av/captions/) and [Transcribing Audio to Text](https://www.w3.org/WAI/media/av/transcribing/) added alt "food on fire under broiler" to:
+    ```
+    {% include image.html src="food-fire.jpg" alt="food on fire under broiler" class="normal right" %}
+      ```
 
 ## 2020-October-09
 
