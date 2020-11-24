@@ -3,7 +3,7 @@ title: "Transcribing Audio to Text"
 nav_title: "Transcribing Audio to Text"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2019-09-10   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2020-11-24   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -26,7 +26,7 @@ description: Provides guidance on transcribing audio to text -- to create captio
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 10 September 2019. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 24 November 2020. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
   
@@ -75,7 +75,7 @@ You can start with an automatically-generated text file. There's lots of softwar
 {% include box.html type="start" title="Example of bad automatic captions (that cause a fire)" class="simple aside"  %}
 {:/}
 
-{% include image.html src="food-fire.jpg" alt="" class="normal right" %}
+{% include image.html src="food-fire.jpg" alt="food on fire under broiler" class="normal right" %}
   _Spoken text:_<br>&quot;Broil on high for <strong>4 to 5 minutes</strong>. You should <strong>not</strong> preheat the oven.&quot;<br>
   _Automatic caption:_<br>&quot;Broil on high for <strong>45 minutes</strong>. You should <strong>know to</strong> preheat the oven.&quot;
 
