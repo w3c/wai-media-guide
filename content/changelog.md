@@ -3,7 +3,7 @@ title: "Changelog"
 nav_title: "Changelog"
 
 lang: en
-last_updated: 2020-10-10
+last_updated: 2020-11-24
 
 permalink: /media/av/changelog/
 ref: /media/av/changelog/   # Do not change
@@ -18,6 +18,10 @@ resource:
 navigation:
 
 ---
+
+## 2020-November-24
+
+* In [Captions/Subtitles](https://www.w3.org/WAI/media/av/captions/) and [Transcribing Audio to Text](https://www.w3.org/WAI/media/av/transcribing/) added alt "food on fire under broiler" to:<br><code>{% include image.html src="food-fire.jpg" alt="food on fire under broiler" class="normal right" %}</code>
 
 ## 2020-October-09
 
