@@ -39,6 +39,11 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 
 This page describes accessibility considerations when planning, scripting, storyboarding, recording, and producing audio and video.
 
+This page covers **common accessibility barriers** including:
+* [missing description of visual information](#plan-description) (such as text in the video) for people who cannot see the video
+* [requiring sight to understand the content](#sensory) of the video
+* [making text in the video hard for some people to see ](#readable) because there is not enough contrast between the text and the background colors
+
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
@@ -60,7 +65,7 @@ This page describes accessibility considerations when planning, scripting, story
 
 This page addresses accessibility considerations when planning, scripting, storyboarding, recording, and producing audio and video.
 
-Some of the guidance below is related to requirements in Web Content Accessibility Guidelines (WCAG) and have links to a separate resource. _(The Planning page of this resource introduces the [WCAG Standard](/media/av/planning/#wcag-standard).)_ Other guidance is good practice.
+Some of the guidance below is related to requirements in Web Content Accessibility Guidelines (WCAG) and has links to a separate resource. _(The Planning page of this resource introduces the [WCAG Standard](/media/av/planning/#wcag-standard).)_ Other guidance is good practice.
 
 ## Audio
 
@@ -94,7 +99,7 @@ Pause between topics.
 
 Avoid or explain jargon, acronyms, and idioms. For example, expressions such as “raising the bar” can be interpreted literally by some people with cognitive disabilities and can be confusing.
 
-### Provide redundancy for sensory characteristics – _script_ (WCAG A)
+### Provide redundancy for sensory characteristics – _script_ (WCAG A)  {#sensory}
 
 Make your information work for people who cannot see and/or cannot hear.
 
@@ -117,13 +122,13 @@ Avoid anything that flashes more than three times in any one second period.
 
 Some people use mouth movement to help understand spoken language. When feasible, ensure that the speaker's face is visible and in good light.
 
-### Make overlay text readable – _storyboarding, post-production_ (WCAG AA, AAA)
+### Make overlay text readable – _storyboarding, post-production_ (WCAG AA, AAA) {#readable}
 
 For any text, consider the font family, size, and contrast between the text and background.
 
 <span style="color:#585858; font-style:italic;">More information is in [Understanding Success Criterion 1.4.3: Contrast (Minimum) (AA)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) and [Understanding Success Criterion 1.4.6: Contrast (Enhanced) (AAA)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced).</span>
 
-### Plan for sign language – _storyboarding, recording_ (WCAG AAA)
+### Plan for sign language – _storyboarding, script, recording_ (WCAG AAA)
 
 Often sign languages are provided as an overlay in the bottom right corner of videos. For example: [NHS 111 British Sign Language (BSL) Advert (YouTube)<br>{% include image.html src="sign-example.jpg" alt="" class="normal video" %}](https://www.youtube.com/watch?v=TCq3ru9HQSc)
 
@@ -134,6 +139,8 @@ For other guidance including recording, see another page of this resource: [Sign
 ### Plan for audio description of visual information – _storyboarding, recording_  (WCAG A, AA) {#plan-description}
 
 _Description_ provides content to people who are blind and others who cannot see the video adequately. It describes the visual information needed to understand the content, **including text displayed in the video**.
+
+Guidance on what to include is in the "Creating Audio Description of Visual Information" page, [Tips for Writing Description section](/media/av/description/#writing).
 
 Plan to either:
 * Integrate description of the visual information that users need to understand into the main audio content,<br>_**or**_
@@ -161,8 +168,6 @@ For many videos, the best way to handle audio description is not to need it at a
     <td>Attach the small ring to the green end, which is the larger end.</td>
   </tr>
 </table>
-
-Guidance on what to include is in the "Creating Audio Description of Visual Information" page, [Tips for Writing Description section](/media/av/description/#writing).
 
 #### Time for description
 
