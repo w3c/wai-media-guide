@@ -21,12 +21,12 @@ navigation:
 
 ## 2020-November-24
 
-* Include text in description
+* Include text in description:
   * In Audio Description of Visual Information page, under [Tips for Writing Descriptions](https://www.w3.org/WAI/media/av/description/#writing), added paragraph:<br>"Generally, all text in the video should be included in the main audio (integrated description) or in the separate description. For example, title text at the beginning of the video, links and e-mail addresses shown at the end, speakers’ names in text, and text in a presentation. The text does not have to be included verbatim (exactly word-for-word), yet all of the information conveyed by the text needs to be available in the main audio, in the separate description, or clearly with the video."
   * In first page, under [How to Make Audio and Video Accessible](https://www.w3.org/WAI/media/av/#how-to-make-audio-and-video-accessible), at end of Audio Description of Visual Information paragraph, added:<br>", including text displayed in the video."
   * In Audio Content and Video Content page, under [Plan for audio description of visual information](https://www.w3.org/WAI/media/av/av-content/#plan-description), at end of first paragraph, added:<br>", **including text displayed in the video**."
   * ([Diff for text in description](https://github.com/w3c/wai-media-guide/pull/126/files))
-* bring up common barriers in content
+* Common barriers in content:
   * In [Audio Content and Video Content page](https://www.w3.org/WAI/media/av/av-content/)
     * Added to summary:<br>"This page covers **common accessibility barriers** including:...<br>{and 3 bullets with in-page links}"
     * Moved paragraph: "Guidance on what to include is in the "Creating Audio Description of Visual Information" page, [Tips for Writing Description section](/media/av/description/#writing)."
@@ -36,7 +36,7 @@ navigation:
       * "### Make overlay text readable – _storyboarding, post-production_ (WCAG AA, AAA) {#readable}"
     * Corrected grammar have->has:<br>"Some of the guidance below is related to requirements in Web Content Accessibility Guidelines (WCAG) and have links to a separate resource." -><br>"Some of the guidance below is related to requirements in Web Content Accessibility Guidelines (WCAG) and has links to a separate resource."
   * ([Diff 2020-November-24 AV Content](https://github.com/w3c/wai-media-guide/pull/127/files))
-* add alt
+* Added alt ([per 146](https://github.com/w3c/wai-media-guide/issues/146):
   * In [Captions/Subtitles](https://www.w3.org/WAI/media/av/captions/) and [Transcribing Audio to Text](https://www.w3.org/WAI/media/av/transcribing/) added alt "food on fire under broiler" to:<br><code>{% include image.html src="food-fire.jpg" alt="food on fire under broiler" class="normal right" %}</code>
 
 ## 2020-October-09
