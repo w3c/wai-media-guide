@@ -5,7 +5,7 @@ title_image: /content-images/wai-media-guide/ad.svg
 nav_title: "Description"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2019-09-10   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2020-11-24   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -28,7 +28,7 @@ description: Helps you understand and create description of visual information (
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 10 September 2019. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 24 November 2020. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -271,6 +271,8 @@ The process to develop a separate audio file and edit the visual track is basica
 * Describe the visual elements that are important to understand what the video is communicating. Imagine that you are describing the video to someone who cannot see it &mdash; what do you say? You don't need to describe every detail or things that are apparent from the audio.
 * Describe objectively, without interpretation, censorship, or comment.
 * Write description in present tense, active voice, and third-person narrative style.
+
+Generally, all text in the video should be included in the main audio (integrated description) or in the separate description. For example, title text at the beginning of the video, links and e-mail addresses shown at the end, speakers' names in text, and text in a presentation. The text does not have to be included verbatim (exactly word-for-word), yet all of the information conveyed by the text needs to be available in the main audio, in the separate description, or clearly with the video.
 
 More guidance on writing descriptions is available on the web, for example: [Description Tip Sheet {% include_cached external.html %}](https://dcmp.org/learn/227) and [How to Describe {% include_cached external.html %}](http://www.descriptionkey.org/how_to_describe.html).
 
