@@ -39,7 +39,7 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 
 This page describes accessibility considerations when planning, scripting, storyboarding, recording, and producing audio and video.
 
-This page covers **common accessibility barriers** including:
+It covers **common accessibility barriers** including:
 * [missing description of visual information](#plan-description) (such as text in the video) for people who cannot see the video
 * [requiring sight to understand the content](#sensory) of the video
 * [making text in the video hard for some people to see ](#readable) because there is not enough contrast between the text and the background colors
