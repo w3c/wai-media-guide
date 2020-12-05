@@ -3,7 +3,7 @@ title: "Making Audio and Video Media Accessible"
 nav_title: "Audio & Video Media"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2020-12-20   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2020-12-10   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -26,7 +26,7 @@ description: Covers captions/subtitles, audio description of visual information,
 image: /content-images/wai-media-guide/social.png
  
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated @@ December 2020. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 10 December 2020. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -39,12 +39,12 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 Accessible audio and video is essential for people with disabilities, and benefits organizations. This resource describes accessibility requirements in Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/media/av/planning/#wcag-standard)) and good practices beyond WCAG. It helps you:
 
 * **[Plan](/media/av/planning/) for accessibility from the very start** of your project (before recording), to save time and money. Use [checklists](/media/av/planning/#checklist).
-* **Make [audio and video content](/media/av/av-content/) accessible**. Avoid accessibility barriers when **scripting, storyboarding, and recording** content.
-* Use a [media player](/media/av/player/) that supports accessibility.
+* **Make [audio and video content](/media/av/av-content/) accessible**. Avoid accessibility barriers when scripting, storyboarding, and recording content.
+* **Use a [media player](/media/av/player/) that supports accessibility**.
 * **[Describe visual information](/media/av/player/)** -- such as charts and speakers’ names in text -- so that people who are blind and others who cannot see the video get the visual information needed to understand the content.
 * **Provide [captions](/media/av/captions/)** (called “**subtitles**” in some areas) so that people who are Deaf or hard-of-hearing get a synchronized text version of the speech and other audio information needed to understand the content.
 * **Provide a [text transcript](/media/av/transcripts/)** from the caption text and the description of visual information so that people who are Deaf-blind get the video content.
-* Provide [sign language](/media/av/sign-languages/) so that Deaf people whose native language is sign get the content in their language.
+* **Provide [sign language](/media/av/sign-languages/)** so that Deaf people whose native language is sign get the content in their language.
 
 {::nomarkdown}
 {% include box.html type="end" %}
