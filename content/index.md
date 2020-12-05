@@ -38,7 +38,7 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 
 Accessible audio and video is essential for people with disabilities, and benefits organizations. This resource describes accessibility requirements in Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/media/av/planning/#wcag-standard)) and good practices beyond WCAG. It helps you:
 
-* **[Plan](/media/av/planning/) for accessibility from the very start** of your project (before recording), to save time and money. Use [checklists](/media/av/planning/#checklist).
+* **[Plan](/media/av/planning/) for accessibility from the very start** of your project (before recording), to save time and money.
 * **Make [audio and video content](/media/av/av-content/) accessible**. Avoid accessibility barriers when scripting, storyboarding, and recording content.
 * **Use a [media player](/media/av/player/) that supports accessibility**.
 * **[Describe visual information](/media/av/player/)** -- such as charts and speakers’ names in text -- so that people who are blind and others who cannot see the video get the visual information needed to understand the content.
