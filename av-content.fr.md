@@ -1,11 +1,12 @@
 ---
-title: "Contenu audio et contenu vidéo"
+title: "Les contenus audios et vidéos"
 title_image: /content-images/wai-media-guide/av-content.svg
-nav_title: "Contenu audio et contenu vidéo"
+nav_title: "Les contenus audios et vidéos"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
 last_updated: 2020-10-27   # Change to date of translation YYYY-MM-DD (month in middle)
-# translator: "..."
+translator:
+-name: Sofia Ahmed
 # contributors: "..."
 
 permalink: /media/av/av-content/fr   # Add lang to end /link/to/page/@@
@@ -28,8 +29,8 @@ image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
    <p><strong>Date :</strong> Mise à jour 1 October 2020. JOURNAL DES MODIFICATIONS.</p>
-   <p><strong>Auteur :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. REMERCIEMENT liste les contributeurs et les crédits.</p>
-   <p>Développé par le Groupe de travail Education et formation (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Acess</a> financé par la fondation Ford.</p>
+   <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. REMERCIEMENTS liste les contributeurs et les crédits.</p>
+   <p>Développé par le Groupe de travail Éducation et formation (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Acess</a> financé par la fondation Ford.</p>
 
 ---
 
@@ -37,7 +38,7 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 {% include box.html type="start" title="Résumé" class="" %}
 {:/}
 
-Cette page décrit les considérations pour l'accessibilité lors de la planification, de la création du scénario et du story-board, de l'enregistrement, et de la production de contenus audios et vidéos.
+Cette page décrit les considérations en matière d'accessibilité au moment d'organiser, de rédiger le scénario, de réaliser le storyboard, d'enregistrer et de produire des contenus audios et vidéos.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -58,33 +59,33 @@ Cette page décrit les considérations pour l'accessibilité lors de la planific
 ## Introduction
 {:.no_toc}
 
-Cette page décrit les considérations pour l'accessibilité lors de la planification, de la création du scénario et du story-board, de l'enregistrement, et de la production de contenus audios et vidéos.
+Cette page décrit les considérations en matière d'accessibilité au moment d'organiser, de rédiger le scénario, de réaliser le storyboard, d'enregistrer et de produire des contenus audios et vidéos.
 
-Certaines des recommandations ci-dessous sont liées aux critères repris dans les Règles pour l'accessibilité des contenus Web (WCAG) et contiennent des liens vers une ressource à part. _(La page sur la planification de cette ressource introduit le [standard WCAG](/media/av/planning/#wcag-standard).)_ Other guidance is good practice.
+Certains conseils énumérés ci-dessous sont liés aux recommandations reprises dans les Règles pour l'accessibilité des contenus Web (WCAG) et contiennent des liens vers une ressource à part. _(La page "Organisation" de cette ressource introduit le [standard WCAG](/media/av/planning/#wcag-standard).)_ Les autres conseils constituent de bonnes pratiques.
 
 ## Audio
 
-### Créez un contenu audio de haute qualité – _planification de l'enregistrement_
+### Créez un contenu audio de haute qualité – _organisation de l'enregistrement_
 
 * Utilisez des micros de haute qualité et un logiciel d'enregistrement.
 * Si possible, enregistrez dans un pièce isolée de tout bruit externe.
-* Evitez les pièces aux surfaces dure, telles que le parquet ou le carrelage.
+* Évitez les pièces aux surfaces dures, telles que le parquet ou le carrelage.
 
 ### Utilisez un arrière-plan sonore de faible volume  – _enregistrement, postproduction_ (WCAG AAA)
 
-Lorsque le son principal est une personne qui parle et qu'il y a une musique de fond, réglez les niveaux de manière à ce que les personnes atteintes de troubles auditifs ou cognitifs puissent facilement distinguer le contenu parlé de la musique de fond.
+Lorsque le son principal provient d'une personne qui parle et qu'il y a une musique de fond, réglez les niveaux de manière à ce que les personnes présentant des troubles auditifs ou cognitifs puissent facilement faire la distinction entre le contenu parlé et la musique de fond.
 
-Précisément, faites en sorte que l'arrière-plan sonore soit 20 décibels en dessous du contenu parlé d'avant-plan (avec une exception pour les sons occasionels qui ne durent qu'une ou deux secondes).  
+Plus précisément, faites en sorte que l'arrière-plan sonore soit 20 décibels en dessous du contenu parlé d'avant-plan (excepté pour les sons occasionels qui ne durent qu'une ou deux secondes).  
 
-Evitez les sons qui peuvent distraire ou déranger, tels que les sons aigus et répétitifs.  
+Évitez les sons qui peuvent distraire ou déranger, tels que les sons aigus et répétitifs.  
 
 <span style="color:#585858; font-style:italic;">Retrouvez plus d'informations sur [Comprendre le CS 1.4.7 : Arrière-plan sonore de faible volume ou absent (AAA)](https://www.w3.org/WAI/WCAG21/Understanding/low-or-no-background-audio.html).</span>
 
-### Parlez clairement et lentement – _locuteurs_
+### Parlez distinctement et lentement – _locuteurs_
 
-Parlez clairement. C'est important pour les personnes qui souhaitent comprendre le contenu, et pour les sous-titres.
+Parlez distinctement. Cela a son importance pour les personnes qui souhaitent comprendre le contenu et pour les sous-titres.
 
-Parlez aussi lentement autant que cela soit approprié. Cela permettra aux auditeurs de mieux comprendre, et d'améliorer la synchronisation pour les sous-titres et la langue des signes.  
+Parlez aussi lentement que possible. Cela permettra aux auditeurs de mieux comprendre, et d'améliorer la synchronisation pour les sous-titres et la langue des signes.  
 
 ### Donnez aux auditeurs le temps de comprendre l'information – _locuteurs, postproduction_
 
@@ -92,56 +93,56 @@ Faites des pauses entre les différents sujets.
 
 ### Utilisez un langage clair – _scénario_
 
-Evitez ou expliquez le jargon, les acronymes, et les idiomes. Par exemple, les expressions telles que "mettre la barre plus haut" peuvent être interprétées littéralement par certaines personnes souffrant de troubles cognitifs et celles-ci peuvent être perdues.
+Évitez ou expliquez le jargon, les acronymes, et les idiomes. Par exemple, les expressions telles que "mettre la barre plus haut" peuvent être interprétées littéralement par certaines personnes souffrant de troubles cognitifs, ce qui pourrait être perturbant.
 
 ### Fournissez une redondance pour les caractéristiques sensorielles – _scénario_ (WCAG A)
 
-Rendez votre information accessible aux personnes qui ne peuvent pas voir ou entendre.
+Rendez vos informations accessible aux personnes qui ne peuvent pas voir ou entendre.
 
 Par exemple, au lieu de dire :
 <blockquote>Fixez cela à l'extrémité verte.</blockquote>
 Dites :
 <blockquote>Fixez le petit anneau à l'extrémité verte, qui est l'extrémité la plus grande.</blockquote>
 
-<span style="color:#585858; font-style:italic;">Retrouvez plus d'informations qui concernent principalement les pages Web, mais qui sont pertinentes pour les contenus audios et vidéos, sur [Comprendre le SC 1.3.3 : Caractéristiques sensorielles (A)](https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html).</span>
+<span style="color:#585858; font-style:italic;">Retrouvez plus d'informations concernant principalement les pages Web, mais pertinentes pour les contenus audios et vidéos, sur [Comprendre le SC 1.3.3 : Caractéristiques sensorielles (A)](https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html).</span>
 
 ## Vidéo
 
-### Evitez les crises – _story-board, postproduction_ (WCAG A)
+### Évitez les crises d'épilepsie – _story-board, postproduction_ (WCAG A)
 
-Evitez tout élément qui clignote plus de trois fois par seconde.
+Évitez tout élément qui clignote plus de trois fois par seconde.
 
-<span style="color:#585858; font-style:italic;">Retrouvez plus d'informations surMore information is in [Comprendre le CS 2.3.2 : Trois flashs (AAA)](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes.html) et [Comprendre le CS 2.3.1: Pas plus de trois flashs ou sous le seuil critique (A)](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold.html)</span>
+<span style="color:#585858; font-style:italic;">Retrouvez plus d'informations sur [Comprendre le CS 2.3.2 : Trois flashs (AAA)](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes.html) et [Comprendre le CS 2.3.1: Pas plus de trois flashs ou sous le seuil critique (A)](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold.html)</span>
 
 ### Prenez en compte la visibilité du locuteur – _story-board, enregistrement, postproduction_
 
-Certaines personnes utilisent les mouvement de la bouche pour comprendre le langage. Lorsque c'est possible, assurez-vous que le visage du locuteur soit visible et bien éclairé.
+Certaines personnes utilisent les mouvements de la bouche pour comprendre le langage. Lorsque c'est possible, assurez-vous que le visage du locuteur soit visible et bien éclairé.
 
 ### Rendez le texte superposé lisible – _story-board, postproduction_ (WCAG AA, AAA)
 
 Pour tout texte, prenez en considération la famille de police, la taille, et le contraste entre le texte et le fond.
 
-<span style="color:#585858; font-style:italic;">Retrouvez plus d'informations surMore information is in [Comprendre le CS 1.4.3 : Contraste (minimum) (AA)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) et [Comprendre le CS 1.4.6 : Contraste (amélioré) (AAA)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced).</span>
+<span style="color:#585858; font-style:italic;">Retrouvez plus d'informations sur [Comprendre le CS 1.4.3 : Contraste (minimum) (AA)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) et [Comprendre le CS 1.4.6 : Contraste (amélioré) (AAA)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced).</span>
 
-### Planification pour la langue des signes – _story-board, enregistrement_ (WCAG AAA)
+### Organisation pour la langue des signes – _storyboard, script, enregistrement_ (WCAG AAA)
 
-Parfois, les langues des signes sont fournies en superposition dans le coin en bas à droite des vidéos. Par exemple : [NHS 111 British Sign Language (BSL) Advert (YouTube)<br>{% include image.html src="sign-example.jpg" alt="" class="normal video" %}](https://www.youtube.com/watch?v=TCq3ru9HQSc)
+Parfois, les langues des signes apparaissent en superposition dans le coin en bas à droite des vidéos. Par exemple : [NHS 111 British Sign Language (BSL) Advert (YouTube)<br>{% include image.html src="sign-example.jpg" alt="" class="normal video" %}](https://www.youtube.com/watch?v=TCq3ru9HQSc)
 
-Veillez à ce que la vidéo ne comprenne pas d'information importante qui pourrait être cachée par la superposition de la langue des signes.
+Veillez à ce que la vidéo ne comprenne pas d'informations importantes qui pourraient être cachées par la superposition de la langue des signes.
 
-Pour d'autres recommandations comprenant l'enregistrement, allez sur une autre page de cette ressource : [Langues des signes](/media/av/sign-languages/)
+Pour d'autres recommandations sur l'enregistrement, allez sur une autre page de cette ressource : [Langues des signes](/media/av/sign-languages/)
 
-### Planification pour audiodescription des informations visuelles – _story-board, enregistrement_  (WCAG A, AA) {#plan-description}
+### Organisation pour l'audiodescription des informations visuelles – _storyboard, enregistrement_  (WCAG A, AA) {#plan-description}
 
 La _description_ fournit du contenu pour les personnes aveugles et d'autres personnes qui ne peuvent pas voir la vidéo correctement. Elle décrit l'information visuelle nécessaire à la compréhension du contenu.
 
-Planification pour soit :
-* Intégrer une description des informations visuelles que les utilisateurs ont besoin de comprendre au sein du contenu audio principal,<br>_**ou**_
+Pensez à :
+* Intégrer dans le contenu audio principal une description des informations visuelles nécessaires aux utilisateurs pour comprendre le contenu,<br>_**ou**_
 * Enregistrer du temps supplémentaire pour les scènes qui nécessitent une description des informations visuelles.
 
 #### Intégrez une description
 
-Pour de nombreuses vidéos, la meilleure façon de se charger de l'audiodescription est de ne pas en avoir besoin du toutFor many videos, the best way to handle audio description is not to need it at all &mdash; ce qui veut dire que toutes les informations visuelles nécessaires aux utilisateurs pour comprendre le contenu est intégré à l'audio principal. En planifiant d'avance, cela est relativement facile pour de nombreux types de vidéos sur le Web, telles que les vidéos de présentation ou d'instruction. Par exemple :
+Pour de nombreuses vidéos, la meilleure façon de gérer l'audiodescription est de ne pas en avoir besoin du tout, c'est-à-dire que toutes les informations visuelles nécessaires aux utilisateurs pour comprendre le contenu sont intégrées à l'audio principal. En s'organisant à l'avance, cela est relativement facile pour de nombreux types de vidéos sur le Web, telles que les vidéos de présentation ou d'instruction. Par exemple :
 
 <table>
   <tr>
@@ -149,7 +150,7 @@ Pour de nombreuses vidéos, la meilleure façon de se charger de l'audiodescript
     <th scope="col">Le locuteur peut dire :</th>
   </tr>
   <tr>
-    <td>Comme vous pouvez le voir sur ce graphique, les ventes ont augmenté au second quadrimestre depuis le premier quadrimestre.</td>
+    <td>Comme vous pouvez le voir sur ce graphique, les ventes ont augmenté du premier au second quadrimestre.</td>
     <td>Ce graphique montre que les ventes ont augmenté significativement, de 1 million au premier quadrimestre, à 1,3 millions au second quadrimestre.</td>
   </tr>
   <tr>
@@ -162,13 +163,13 @@ Pour de nombreuses vidéos, la meilleure façon de se charger de l'audiodescript
   </tr>
 </table>
 
-Retrouvez les recommandations sur ce qu'il faut inclure sur la page "Créer une audiodescription pour les informations visuelles",[Conseils pour écrire une section de description](/media/av/description/#writing).
+Retrouvez des conseils pour savoir quels éléments inclure sur la page "Créer une audiodescription pour les informations visuelles",[Conseils pour écrire une section de description](/media/av/description/#writing).
 
 #### La durée de la description
 
-Pour certains types de vidéos, la description des informations visuelles ne peut pas être effectuée subtilement par les locuteurs de la vidéo principale, car cela rendrait la vidéo par défaut bien plus longue ou trop lourde. Pour ces vidéos, la description sera disponible à part.
+Pour certains types de vidéos, la description des informations visuelles ne peut pas être effectuée subtilement par les locuteurs de la vidéo principale, car cela rendrait la vidéo par défaut bien plus longue ou trop lourde. Pour ces vidéos, la description devra être disponible séparément.
 
-Lorsque la description est relativement courte, prévoyez de l'espace dans l'audio pour l'ajouter.
+Lorsque la description est relativement courte, prévoyez de l'espace dans votre audio pour l'ajouter.
 
 Lorsque la description est plus longue et que vous voulez laisser de l'espace dans la vidéo principale, vous pouvez enregistrer un lapse de temps supplémentaire dans la scène pour intégrer la description sans devoir mettre la scène sur pause. En d'autres termes, la même scène est plus courte dans la vidéo principale. Dans la version décrite, cette même scène est légèrement plus longue au début et à la fin. Par exemple :
 
@@ -193,7 +194,7 @@ Lorsque la description est plus longue et que vous voulez laisser de l'espace da
   </tr>
 </table>
 
-Retrouvez un exemple de ceci avec la vidéo : [L'accessibilité Web illustrée : les sous-titres de vidéo](/perspective-videos/captions/). La vidéo principale dure 48 secondes. La version décrite dure 1 minute et 18 secondes, pourtant, il n'y a aucune pause dans l'aspect visuel de la vidéo.
+Retrouvez un exemple de ceci dans la vidéo : [L'accessibilité Web illustrée : les sous-titres de vidéo](/perspective-videos/captions/). La vidéo principale dure 48 secondes. La version décrite dure 1 minute et 18 secondes, pourtant, aucune pause n'apparaît visuellement dans la vidéo.
 
 #### En savoir plus sur la description
 
