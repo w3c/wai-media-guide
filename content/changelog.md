@@ -3,7 +3,7 @@ title: "Changelog"
 nav_title: "Changelog"
 
 lang: en
-last_updated: 2020-11-24
+last_updated: 2020-12-12
 
 permalink: /media/av/changelog/
 ref: /media/av/changelog/   # Do not change
@@ -18,6 +18,16 @@ resource:
 navigation:
 
 ---
+
+## 2020-December-12
+
+* Text from the first page, [How to Make Audio and Video Accessible section](/media/av/#how-to-make-audio-and-video-accessible), added to the Summary sections of [Audio Description of Visual Information](/media/av/description/),  [Captions/Subtitles](/media/av/captions/), [Transcripts](/media/av/transcripts/), and [Sign Languages](/media/av/sign-languages/) pages.
+* Added WCAG excerpts
+  * [Audio Description of Visual Information](/media/av/description/), at end of [Does My Media Need a Description?]/media/av/description/#checklist) section, added sentence starting with "WCAG excerpts" and the bullets under it.
+  * [Captions/Subtitles](/media/av/captions/), at end of [Does My Media Need a Captions?]/media/av/captions/#checklist) section, added sentence starting with "WCAG excerpts" and the bullets under it.
+  * [Transcripts](/media/av/transcripts/), at end of [Does My Media Need a Transcript?]/media/av/transcripts/#checklist) section, added sentence starting with "WCAG excerpts" and the bullets under it.
+  * [Sign Languages](/media/av/sign-languages/), in [Standards Requirements](/media/av/sign-languages/#standards-requirements) section, in second sentence, added link<br> ```: [Understanding 1.2.6 Sign Language](https://www.w3.org/WAI/WCAG21/Understanding/sign-language-prerecorded.html)```
+* ([Diff 2020-December-12](https://github.com/w3c/wai-media-guide/pull/148/files))
 
 ## 2020-November-24
 
