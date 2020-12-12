@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/cc.svg
 nav_title: "Captions/Subtitles"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2020-11-24  # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2020-12-12  # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -27,7 +27,7 @@ description: Helps you understand and create captions (also called â€œsubtitlesâ
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 24 November 2020. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 12 December 2020. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -37,7 +37,9 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page helps you understand and create captions (also called "subtitles").
+Captions (called "subtitles" in some areas) provide content to people who are Deaf and hard-of-hearing. Captions are a text version of the speech and non-speech audio information needed to understand the content. They are synchronized with the audio and usually shown in a media player when users turn them on.
+
+This page helps you understand and create captions and subtitles.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -165,6 +167,12 @@ Does the video have audio information that is needed to understand what the vide
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+
+<br>
+
+**WCAG excerpts** with links to more information in "Understanding WCAG":
+* [A 1.2.2 Captions](https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded.html) (Prerecorded): Captions are provided for all prerecorded audio content in synchronized media...
+* [AA 1.2.4 Captions](https://www.w3.org/WAI/WCAG21/Understanding/captions-live.html) (Live): Captions are provided for all live audio content in synchronized media. 
 
 ## Skills and Tools
 
