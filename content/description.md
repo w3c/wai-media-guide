@@ -38,9 +38,12 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
+Description of visual information is called **_audio description_**, **_video description_**, or **_described video_** in different areas.
+
 Description provides content to people who are blind and others who cannot see the video adequately. It describes visual information needed to understand the content, including text displayed in the video.
 
-This page helps you understand and create description of visual information (called _audio description_, _video description_, and _described video_) for new and existing videos. (Description does not apply to audio-only, such as podcasts.)
+This page helps you understand and create description of visual information for new and existing videos.
+(Description does not apply to audio-only, such as podcasts.)
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -120,8 +123,10 @@ Video:
 {% include box.html type="end" %}
 {:/}
 
+<br>
+
 **WCAG excerpts** with emphasis added, additions in [brackets], and links to more information in "Understanding WCAG":
-* [A 1.2.1 Audio-only and Video-only](https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded.html) (Prerecorded): For prerecorded audio-only and prerecorded video-only media, the following are true... Prerecorded Video-only — Either an alternative for time-based media [descriptive transcript] ***or*** an audio track [of description] is provided that presents equivalent information for prerecorded video-only content.
+* [A 1.2.1 Audio-only and Video-only](https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded.html) (Prerecorded): For... Prerecorded Video-only: Either an alternative for time-based media [descriptive transcript] ***or*** an audio track [of description] is provided that presents equivalent information for prerecorded video-only content.
 * [A 1.2.3 Audio Description or Media Alternative](https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded.html) (Prerecorded): An alternative for time-based media [transcript] ***or*** audio description of the prerecorded video content is provided for synchronized media...
 * [AAA 1.2.5 Audio Description](https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded.html) (Prerecorded): Audio description is provided for all prerecorded video content in synchronized media.
 * [AAA 1.2.7 Extended Audio Description](https://www.w3.org/WAI/WCAG21/Understanding/extended-audio-description-prerecorded.html) (Prerecorded): Where pauses in foreground audio are insufficient to allow audio descriptions to convey the sense of the video, extended audio description is provided for all prerecorded video content in synchronized media. 
