@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/transcript.svg
 nav_title: "Transcripts"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2020-112-12   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2020-12-12   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
