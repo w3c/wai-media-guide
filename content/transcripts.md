@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/transcript.svg
 nav_title: "Transcripts"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2020-10-09   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2020-112-12   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -27,7 +27,7 @@ description: Helps you understand and create transcripts for audio and video med
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 9 October 2020. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 12 December 2020. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -36,6 +36,8 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 {::nomarkdown}
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
+
+Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. Descriptive transcripts also include text description of the visual information needed to understand the content. Descriptive transcripts are required to provide video content to people who are both Deaf and blind.
 
 This page helps you understand and create transcripts.
 
@@ -135,6 +137,15 @@ Video with audio content:
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+
+<br>
+
+**WCAG excerpts** with emphasis added, additions in [brackets], and links to more information in "Understanding WCAG":
+* [A 1.2.1 Audio-only and Video-only](https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded.html) (Prerecorded): For prerecorded audio-only and prerecorded video-only media, the following are true...
+  * Prerecorded Audio-only: An alternative for time-based media [transcript] is provided that presents equivalent information for prerecorded audio-only content.
+  * Prerecorded Video-only: Either an alternative for time-based media [descriptive transcript] ***or*** an audio track [of description] is provided that presents equivalent information for prerecorded video-only content.
+* [AAA 1.2.8 Media Alternative](https://www.w3.org/WAI/WCAG21/Understanding/media-alternative-prerecorded.html) (Prerecorded):  An alternative for time-based media [transcript] is provided for all prerecorded synchronized media and for all prerecorded video-only media.
+* [AAA 1.2.9 Audio-only](https://www.w3.org/WAI/WCAG21/Understanding/audio-only-live.html) (Live):  An alternative for time-based media [live stream text or transcript] that presents equivalent information for live audio-only content is provided. 
 
 ### Provide a Descriptive Transcript for Your Videos
 {:.no_toc}
