@@ -32,15 +32,6 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
 ---
-{::nomarkdown}
-{% include box.html type="start" title="Summary" class="" %}
-{:/}
-
-This page introduces accessibility requirements in Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/media/av/planning/#wcag-standard)) and good practices beyond WCAG. Learn more from the multi-page [[Making Audio and Video Media Accessible]](/media/av/).
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
 
 * **[Plan](/media/av/planning/) for accessibility from the very start** of your project (before recording), to save time and money.
 * **Make [audio and video content](/media/av/av-content/) accessible**. Avoid accessibility barriers when scripting, storyboarding, and recording content.
@@ -50,3 +41,5 @@ This page introduces accessibility requirements in Web Content Accessibility Gui
 * **Provide a [text transcript](/media/av/transcripts/)** from the caption text and the description of visual information so that people who are Deaf-blind get the video content.
 * **Provide [sign language](/media/av/sign-languages/)** when possible, so that Deaf people whose native language is sign get the content in their language.
 {:.checkbox}
+
+**Learn more about [[Making Audio and Video Media Accessible]](/media/av/).**
