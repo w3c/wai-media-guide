@@ -39,7 +39,7 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 * **[Describe visual information](/media/av/player/)** -- such as charts and speakers’ names in text -- so that people who are blind and others who cannot see the video get the visual information needed to understand the content.
 * **Provide [captions](/media/av/captions/)** (called “**subtitles**” in some areas) so that people who are Deaf or hard-of-hearing get a synchronized text version of the speech and other audio information needed to understand the content.
 * **Provide a [text transcript](/media/av/transcripts/)** from the caption text and the description of visual information so that people who are Deaf-blind get the video content.
-* **Provide [sign language](/media/av/sign-languages/)** when possible, so that Deaf people whose native language is sign get the content in their language.
+* **Provide [sign language](/media/av/sign-languages/)** when possible, so that Deaf people whose native language is sign get the content in their native language.
 {:.checkbox}
 
 **Learn more about [[Making Audio and Video Media Accessible]](/media/av/).**
