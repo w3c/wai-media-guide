@@ -1,13 +1,14 @@
 ---
-title: "Rendre les contenus audios et vidéos accessibles"
+title: "Des contenus audios et vidéos accessibles"
 nav_title: "Contenus audios et vidéos"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
-last_updated: 2020-10-20   # Change to date of translation YYYY-MM-DD (month in middle)
-# translator: "..."
+last_updated: 2020-01-01   # Change to date of translation YYYY-MM-DD (month in middle)
 translators :
--name : Sofia Ahmed
-# contributors: "..."
+- name : "Sofia Ahmed"
+contributors:
+- name: "Sandra Velarde Gonzalez (ETNIC)"
+
 
 permalink: /media/av/fr   # Add lang to end /link/to/page/@@
 ref: /media/av/   # Do not change
@@ -28,9 +29,9 @@ description: comprend les sous-titres, la description audio d'information visuel
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date :</strong> Mise à jour 18 novembre 2019. CHANGELOG.</p>
-   <p><strong>Auteur :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. RERMERCIEMENTS liste les contributeurs et les crédits.</p>
-   <p>Développé par le Groupe de travail Education et formation (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Acess</a> financé par la fondation Ford.</p>
+   <p><strong>Date :</strong> Mise à jour : 18 novembre 2019. JOURNAL DES MODIFICATIONS.</p>
+   <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. RERMERCIEMENTS liste les contributeurs et les crédits.</p>
+   <p>Développé par le Groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Acess</a> financé par la fondation Ford.</p>
 
 ---
 
@@ -39,7 +40,7 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 {% include box.html type="start" title="Résumé" class="" %}
 {:/}
 
-Rendre accessible les contenus audios et vidéos est essentiel pour les personnes atteintes de handicaps, et avantageux pour les organisations. Selon le contenu de votre contenu multimédia, vous pourriez devoir recourir à des **sous-titres** (une version textuelle de l'audio qui apparaît de manière synchronisée sur le lecteur multimédia), une **transcription** (une version textuelle de l'audio, disponible à part), une **audiodescription de l'information visuelle** (généralement une ressource audio supplémentaire qui décrit le contenu visuel important), **ou d'autres** fonctionnalités d'accessibilité.  
+Rendre accessible les contenus audios et vidéos est essentiel pour les personnes porteuses de handicaps, et avantageux pour les organisations. Selon le contenu de votre contenu multimédia, vous pourriez devoir recourir à des **sous-titres** (une version textuelle de l'audio qui apparaît de manière synchronisée sur le lecteur multimédia), une **transcription** (une version textuelle de l'audio, disponible à part), une **audiodescription de l'information visuelle** (généralement une ressource audio supplémentaire qui décrit le contenu visuel important), **ou d'autres** fonctionnalités d'accessibilité.  
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -59,7 +60,7 @@ Rendre accessible les contenus audios et vidéos est essentiel pour les personne
 
 ## Avant toute chose, comprendre les besoins utilisateurs
 
-Avant de commencer d'entrer dans les détails et les descriptions, il est utile de comprendre les expériences utilisateurs des personnes atteintes de handicaps. Vous comprendrez alors le "pourquoi" des critères d'accessibilité pour les contenus dans cette ressource. Par exemple, une personne sourde ne peut pas entendre l'audio, vous devez donc fournir l'information audio importante sous une autre forme.
+Avant de commencer d'entrer dans les détails et les descriptions, il est utile de comprendre les expériences utilisateurs des personnes handicapées. Vous comprendrez alors le "pourquoi" des critères d'accessibilité pour les contenus dans cette ressource. Par exemple, une personne sourde ne peut pas entendre l'audio, vous devez donc fournir l'information audio importante sous une autre forme.
 
 * De nombreuses personnes **sourdes** sont capables de lire correctement. Elles obtiennent l'information à partir de **transcriptions** ou de **sous-titres**. Certaines personnes préfèrent le **langage des signes**.
 * Certaines personnes **malentendantes** préfèrent écouter l'audio pour écouter ce qu'ils peuvent, et lisent des **sous-titres** pour combler ce qu'ils n'ont pas pu entendre correctement.
@@ -112,7 +113,7 @@ Cette page fournit :
 ## Avantages pour les organisations et les particuliers {#benefits}
 
 Les organisations qui rendent leurs audios et leurs vidéos accessibles peuvent bénéficier d'avantages tels que :
-* Une augmentation des visites et de l'utilisation du site Web par des personnes atteintes ou non de handicaps, par exemple, dans les situations décrites ci-dessous [situations décrites ci-dessous](#situations).
+* Une augmentation des visites et de l'utilisation du site Web par des personnes porteuses ou non de handicaps, par exemple, dans les situations décrites ci-dessous [situations décrites ci-dessous](#situations).
 * Une meilleure expérience utilisateur pour tous, et une meilleure satisfaction des clients.
 * Meilleur référencement par les moteurs de recherche.
 
@@ -122,7 +123,7 @@ Les avantages pour les organisations sont illustrées dans ces autres ressources
 * Certains avantages que présentent les sous-titres sont illustrés par une [**Vidéo** d'une minute sur les sous-titres.<br>
 {% include image.html src="captions-video-still.jpg" alt="" class="normal video" %}](https://www.w3.org/WAI/perspective-videos/captions/)
 
-### Utilisé par des personnes atteintes ou non de handicaps {#situations}
+### Utilisé par des personnes porteuses ou non de handicaps {#situations}
 
 Un contenu audio et vidéo accessible est **essentiel pour les personnes handicapées**, et **utile à tous** dans diverses situations.
 
