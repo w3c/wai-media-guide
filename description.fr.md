@@ -5,11 +5,12 @@ title_image: /content-images/wai-media-guide/ad.svg
 nav_title: "Description"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
-last_updated: 2020-10-28   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2020-01-01   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
-Translators:
--name: Sofia Ahmed
-# contributors: "..."
+translators:
+- name: "Sofia Ahmed"
+contributors:
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 
 permalink: /media/av/description/fr   # Add lang to end /link/to/page/@@
 ref: /media/av/description/   # Do not change this
@@ -31,8 +32,8 @@ image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
    <p><strong>Date :</strong> Mise à jour 10 septembre 2019. JOURNAL DES MODIFICATIONS.</p>
-   <p><strong>Auteur :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. RERMERCIEMENTS : liste les contributeurs et les crédits.</p>
-   <p>Développé par le Groupe de travail Education et formation (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Acess</a> financé par la fondation Ford.</p>
+   <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. RERMERCIEMENTS : liste les contributeurs et les crédits.</p>
+   <p>Développé par le Groupe de travail Éducation et Formation (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Acess</a> financé par la fondation Ford.</p>
 
 ---
 
@@ -105,7 +106,7 @@ Video:
 **La vidéo contient-elle des informations visuelles** nécessaires à la compréhension du message communiqué par la vidéo ?
 
 *   Si ce n'est pas le cas (par exemple, il ne s'agit que d'une personne qui parle) :
-    *   La description n'est pas nécessaire. Allez sur [informer les utilisateurs](/media/av/planning/#none).
+    *   La description n'est pas nécessaire. Allez sur [Informer les utilisateurs](/media/av/planning/#none).
 *   Si c'est le cas :
     *   Pour les vidéos préenregistrées :
         *   La description est nécessaire pour fournir les informations visuelles importantes aux personnes aveugles et qui écoutent la vidéo.
