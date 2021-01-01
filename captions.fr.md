@@ -4,11 +4,11 @@ title_image: /content-images/wai-media-guide/cc.svg
 nav_title: "Légendes/Sous-titres"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
-last_updated: 2020-11-02   # Change to date of translation YYYY-MM-DD (month in middle)
-# translator: "..."
-Translators:
--name: Sofia Ahmed
-# contributors: "..."
+last_updated: 2020-01-01   # Change to date of translation YYYY-MM-DD (month in middle)
+translators:
+- name: "Sofia Ahmed"
+contributors:
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 
 permalink: /media/av/captions/fr  # Add lang to end /link/to/page/@@
 ref: /media/av/captions/   # Do not change this
@@ -29,8 +29,8 @@ description: Vous aide à comprendre et à créer des légendes (aussi appelées
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date :</strong> Mise à jour 12 septembre 2020. JOURNAL DES MODIFICATIONS.</p>
-   <p><strong>Auteur :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. REMERCIEMENTS : liste les contributeurs et les crédits.</p>
+   <p><strong>Date :</strong> Mise à jour : 12 septembre 2020. JOURNAL DES MODIFICATIONS.</p>
+   <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. REMERCIEMENTS : liste les contributeurs et les crédits.</p>
    <p>Développé par le Groupe de travail Éducation et formation (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Acess</a> financé par la fondation Ford.</p>
 
 ---
@@ -85,12 +85,12 @@ Les légendes en direct sont généralement produites par des professionnels du 
 
 Si vous avez des sous-titres en direct et que vous voulez poster un enregistrement, vous devrez probablement effectuer quelques retouches pour en assurer l'exactitude.
 
-Le reste de cette page concerne la création de légendes pour les contenus multimédia pré-enregistrés.
+Le reste de cette page concerne la création de légendes pour les contenus multimédias pré-enregistrés.
 
 ### Transcriptions interactives à partir des légendes
 {:.no_toc}
 
-Les fichiers de légendes sont utilisés par certains lecteurs multimédia pour fournir des _transcriptions interactives_. Celles-ci surlignent les phrases de texte lorsqu'elles sont prononcées. Les utilisateurs peuvent sélectionner du texte dans la transcription et aller au même endroit dans la vidéo. Certains lecteurs fournissent une fonctionnalité de transcription interactive.
+Les fichiers de légendes sont utilisés par certains lecteurs multimédias pour fournir des _transcriptions interactives_. Celles-ci surlignent les phrases de texte lorsqu'elles sont prononcées. Les utilisateurs peuvent sélectionner du texte dans la transcription et aller au même endroit dans la vidéo. Certains lecteurs fournissent une fonctionnalité de transcription interactive.
 
 <img src="{{ "/content-images/wai-media-guide/interactive-transcript.png" | relative_url }}" alt="">
 
@@ -253,4 +253,4 @@ Retrouvez plus d'aide sur comment taper sur une autre page de cette ressource : 
 
 Il existe des options pour aider les auteurs à déterminer la position et le style des légendes. Les supports dans les navigateurs et les autres lecteurs multimédia sont incohérents et parfois peu fiables. La plupart des vidéos Web utilisent simplement de style de présentation du lecteur par défaut, soit généralement des caractères blancs dans un bandeau noir.
 
-Certains lecteurs multimédia permettent aux utilisateurs de paramétrer leurs préférences pour déterminer comment et où les légendes vont apparaître, en ce compris le style et la taille du texte, ainsi que la position des légendes.
+Certains lecteurs multimédias permettent aux utilisateurs de paramétrer leurs préférences pour déterminer comment et où les légendes vont apparaître, en ce compris le style et la taille du texte, ainsi que la position des légendes.
