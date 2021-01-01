@@ -4,10 +4,10 @@ nav_title: "Transcrire un contenu audio en texte"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
 last_updated: 2020-10-05   # Change to date of translation YYYY-MM-DD (month in middle)
-# translator: "..."
-Translators:
--name: Sofia Ahmed
-# contributors: "..."
+translators:
+- name: "Sofia Ahmed"
+contributors: 
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 
 permalink: /media/av/transcribing/fr   # Add lang to end /link/to/page/@@
 ref: /media/av/transcribing/   # Do not change this
