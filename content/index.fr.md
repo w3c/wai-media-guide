@@ -3,10 +3,11 @@ title: "Des contenus audios et vidéos accessibles"
 nav_title: "Contenus audios et vidéos"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
-last_updated: 2020-10-20   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2020-12-31   # Change to date of translation YYYY-MM-DD (month in middle)
 translator:
--name : Sofia Ahmed
-# contributors: "..."
+- name: "Sofia Ahmed"
+contributors: 
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 
 permalink: /media/av/fr   # Add lang to end /link/to/page/@@
 ref: /media/av/   # Do not change
@@ -27,7 +28,7 @@ description: comprend les sous-titres, la description audio d'informations visue
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date :</strong> Mise à jour 18 novembre 2019. CHANGELOG.</p>
+   <p><strong>Date :</strong> Mise à jour : 18 novembre 2019. JOURNAL DES MODIFICATIONS.</p>
    <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. RERMERCIEMENTS liste les contributeurs et les crédits.</p>
    <p>Développé par le Groupe de travail Éducation et formation (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Acess</a> financé par la fondation Ford.</p>
 
