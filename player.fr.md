@@ -4,11 +4,12 @@ title_image: /content-images/wai-media-guide/player-nobackground.svg
 nav_title: "Lecteur multimédia"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
-last_updated: 2020-10-28   # Change to date of translation YYYY-MM-DD (month in middle)
-# translator: "..."
+last_updated: 2020-12-31   # Change to date of translation YYYY-MM-DD (month in middle)
+
 Translators:
--name: Sofia Ahmed
-# contributors: "..."
+- name: "Sofia Ahmed"
+Contributors:
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 
 permalink: /media/av/player/fr   # Add lang to end /link/to/page/@@
 ref: /media/av/player/   # Do not change this
@@ -29,8 +30,8 @@ description: Introduit les considérations à prendre en compte pour fournir un 
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date :</strong> Mise à jour 10 septembre 2019. JOURNAL DES MODIFICATIONS.</p>
-   <p><strong>Auteur :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. REMERCIEMENTS : liste les contributeurs et les crédits.</p>
+   <p><strong>Date :</strong> Mise à jour : 10 septembre 2019. JOURNAL DES MODIFICATIONS.</p>
+   <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. REMERCIEMENTS : liste les contributeurs et les crédits.</p>
    <p>Développé par le Groupe de travail Education et formation (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Acess</a> financé par la fondation Ford.</p>
 
 ---
@@ -39,7 +40,7 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 {% include box.html type="start" title="Résumé" class="" %}
 {:/}
 
-Certains lecteurs multimédia ne sont pas accessibles pour les personnes handicapées. Il existe des lecteurs développés spécifiquement pour l'accessibilité. Il est généralement préférable d'utiliser un de ces lecteurs existants, plutôt que d'en développer un nouveau.
+Certains lecteurs multimédias ne sont pas accessibles pour les personnes handicapées. Il existe des lecteurs développés spécifiquement pour l'accessibilité. Il est généralement préférable d'utiliser un de ces lecteurs existants, plutôt que d'en développer un nouveau.
 
 {::nomarkdown}
 {% include box.html type="end" %}
