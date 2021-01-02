@@ -4,11 +4,11 @@ title_image: /content-images/wai-media-guide/planning.svg
 nav_title: "Planning"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
-last_updated: 2020-10-26   # Change to date of translation YYYY-MM-DD (month in middle)
-# translator: "..."
-translator:
-name: Sofia Ahmed
-# contributors: "..."
+last_updated: 2020-01-02   # Change to date of translation YYYY-MM-DD (month in middle)
+translators:
+- name: "Sofia Ahmed"
+contributors: 
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 
 permalink: /media/av/planning/fr   # Add lang to end /link/to/page/@@
 ref: /media/av/planning/   # Do not change this
@@ -29,9 +29,9 @@ description: vous aide à planifier comment rendre vos contenus audios et vidéo
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date :</strong> Mise à jour 12 septembre 2020. CHANGELOG.</p>
-   <p><strong>Auteur :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. RERMERCIEMENTS liste les contributeurs et les crédits.</p>
-   <p>Développé par le Groupe de travail Education et formation (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Acess</a> financé par la fondation Ford.</p>
+   <p><strong>Date :</strong> Mise à jour : 12 septembre 2020. MODIFICATIONS DU JOURNAL.</p>
+   <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. RERMERCIEMENTS liste les contributeurs et les crédits.</p>
+   <p>Développé par le Groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access</a> financé par la fondation Ford.</p>
 
 ---
 
@@ -63,7 +63,7 @@ Cette page vous aide à :
 ## Introduction
 {:.no_toc}
 
-Pour du contexte, allez sur la page d'instruction de cette ressource  _[Rendre le contenu audio et vidéo accessible](/media/av/)_, pour :
+Pour du contexte, allez sur la page d'instruction de cette ressource  _[Des contenus audios et vidéos accessibles](/media/av/)_, pour :
 * de courtes explications sur les sous-titres, les transcriptions, la description, la langue des signes, et l'accessibilité des lecteurs multimédia
 * les expériences d'utilisateurs pour vous aider à comprendre le "pourquoi" des recommandations
 
