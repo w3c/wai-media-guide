@@ -18,7 +18,7 @@ github:
 resource:
   ref: /media/av/
 navigation:
-  previous: /media/av/
+  previous: /media/av/users-orgs/
   next:     /media/av/av-content/
 changelog: /media/av/changelog/
 acknowledgements: /media/av/acknowledgements/
