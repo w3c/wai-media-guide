@@ -18,7 +18,7 @@ resource:
   title: "Making Audio and Video Media Accessible"
   ref: /media/av/
 navigation:
-  next: /media/av/planning/
+  next: /media/av/users-orgs/
 changelog: /media/av/changelog/
 acknowledgements: /media/av/acknowledgements/
 
@@ -60,8 +60,6 @@ This resource explains how to make media accessible, whether you develop it your
 
 * {:.left} [{% include image.html src="player.svg" alt="" %} Media Players](/media/av/player/):<br>Use a media player that supports accessibility.
 {:.nolist.withicons.mini}
-
-<br>
 
 ## Example:
 
