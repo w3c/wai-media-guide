@@ -42,24 +42,30 @@ This resource explains how to make media accessible, whether you develop it your
 {% include box.html type="end" %}
 {:/}
 
-* {:.left} [{% include image.html src="player.svg" alt="" %} User Experiences and Benefits to Organizations](/media/av/users-orgs/) &mdash; Understand the needs of people with disabilities. Learn about benefits to organizations, and benefits to everyone in a variety of situations.
+## What to do:
 
-* {:.left} [{% include image.html src="planning.svg" alt="" %} Planning Audio and Video Media](/media/av/planning/) &mdash; Plan for accessibility from the very start of your project, to save time and money. For example, [integrated description](/media/av/av-content/#integrate-description) is easier and better for accessibility, and it needs to be included in the script before filming.
+* {:.left} [{% include image.html src="body.svg" alt="" %} User Experiences and Benefits to Organizations](/media/av/users-orgs/):<br>Understand the needs of people with disabilities. Learn about benefits to organizations, and benefits to everyone in a variety of situations.
 
-* {:.left} [{% include image.html src="av-content.svg" alt="" %} Audio Content and Video Content](/media/av/av-content/) &mdash; Make new audio and video content accessible. Avoid accessibility barriers **when scripting, storyboarding, and recording content**.
+* {:.left} [{% include image.html src="planning.svg" alt="" %} Planning Audio and Video Media](/media/av/planning/):<br>Plan for accessibility from the very start of your project, to save time and money. For example, [integrated description](/media/av/av-content/#integrate-description) is easier and better for accessibility, and it needs to be included in the script before filming.
 
-* {:.left} [{% include image.html src="ad.svg" alt="" %} Audio Description of Visual Information](/media/av/description/) &mdash; Provide description so that people who are blind and others who cannot see the video adequately get the visual information needed to understand the content. This includes things like charts, graphs, and text such as speaker names, titles, and e-mail addresses.
+* {:.left} [{% include image.html src="av-content.svg" alt="" %} Audio Content and Video Content](/media/av/av-content/):<br>Make new audio and video content accessible. Avoid accessibility barriers **when scripting, storyboarding, and recording content**.
 
-* {:.left} [{% include image.html src="cc.svg" alt="" %} Captions/Subtitles](/media/av/captions/) &mdash; Provide captions (also called “subtitles”) so that people who are Deaf and hard-of-hearing get a text version of the speech and non-speech audio information needed to understand the content.
+* {:.left} [{% include image.html src="ad.svg" alt="" %} Audio Description of Visual Information](/media/av/description/):<br>Provide description so that people who are blind and others who cannot see the video adequately get the visual information needed to understand the content. This includes things like charts, graphs, and text such as speaker names, titles, and e-mail addresses.
 
-* {:.left} [{% include image.html src="transcript.svg" alt="" %} Transcripts](/media/av/transcripts/) &mdash; Provide a transcript, that is, a text version of the speech and non-speech audio information. Ideally, make it a descriptive transcript that also includes text description of the visual information. Descriptive transcripts are required to provide video content to people who are both Deaf and blind. ([descriptive transcript excerpt example](/WAI/media/av/transcripts/#descriptive))
+* {:.left} [{% include image.html src="cc.svg" alt="" %} Captions/Subtitles](/media/av/captions/):<br>Provide captions (also called “subtitles”) so that people who are Deaf and hard-of-hearing get a text version of the speech and non-speech audio information needed to understand the content.
 
-* {:.left} [{% include image.html src="sign.svg" alt="" %} Sign Languages](/media/av/sign-languages/) &mdash; Provide sign language when your audience needs it, so that Deaf people whose native language is sign get the content in their native language.
+* {:.left} [{% include image.html src="transcript.svg" alt="" %} Transcripts](/media/av/transcripts/):<br>Provide a transcript, that is, a text version of the speech and non-speech audio information. Ideally, make it a descriptive transcript that also includes text description of the visual information. Descriptive transcripts are required to provide video content to people who are both Deaf and blind. ([descriptive transcript excerpt example](/WAI/media/av/transcripts/#descriptive))
 
-* {:.left} [{% include image.html src="player.svg" alt="" %} Media Players](/media/av/player/) &mdash; Use a media player that supports accessibility.
+* {:.left} [{% include image.html src="sign.svg" alt="" %} Sign Languages](/media/av/sign-languages/):<br>Provide sign language when your audience needs it, so that Deaf people whose native language is sign get the content in their native language.
+
+* {:.left} [{% include image.html src="player.svg" alt="" %} Media Players](/media/av/player/):<br>Use a media player that supports accessibility.
 {:.nolist.withicons.mini}
 
-**Example:** An example accessible video is on the [Colors with Good Contrast page.<br>
+<br>
+
+## Example:
+
+An example accessible video is on the [Colors with Good Contrast page.<br>
 {% include image.html src="contrast-still.png" alt="" class="normal video" %}](https://www.w3.org/WAI/perspective-videos/contrast/)
 
 That page provides:
