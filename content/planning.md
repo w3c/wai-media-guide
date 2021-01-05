@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/planning.svg
 nav_title: "Planning"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2020-09-12   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2021-01-21   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -27,7 +27,7 @@ description: Helps you plan how to make audio and video media accessible, whethe
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 12 September 2020. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated @@ January 2021. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -58,19 +58,14 @@ This page helps you:
 {% include toc.html type="end" %}
 {:/}
 
-## Introduction
-{:.no_toc}
-
-For background, see the introduction page of this resource _[Making Video and Audio Accessible](/media/av/)_, for:
-* brief explanations of captions, transcripts, description, sign language, and media player accessibility
-* user experiences to help you understand the "why" behind the requirements
+## Influences
 
 What accessibility features you provide with your media will likely be influenced by:
-* user needs
+* [user needs and business benefits](/users-orgs/)
 * governmental regulations and other policy requirements
 * budget and time constraints
 
-This resource endeavors to help you know the requirements and encourages you to meet all user needs.
+This multi-page resource endeavors to help you know the requirements and encourages you to meet all user needs.
 
 ## Checklists for Audio and Video {#checklist}
 
