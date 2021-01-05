@@ -77,7 +77,7 @@ To learn more, see these other resources:
 
 ## Benefits to Organizations {#benefits}
 
-{% include image.html src="market-reach.svg" alt="" class="mini right" %}
+{% include image.html src="market-reach.svg" alt="" class="normal right" %}
 
 Organizations that make their audio and video accessible can realize benefits such as:
 * Increased traffic and website use by people with and without disabilities, for example, in the [situations described below](#situations).
