@@ -77,7 +77,7 @@ To learn more, see these other resources:
 
 ## Benefits to Organizations and Individuals {#benefits}
 
-<img src="{{ "/content-images/wai-bcase/market-reach.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<img src="{{ "market-reach.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 Organizations that make their audio and video accessible can realize benefits such as:
 * Increased traffic and website use by people with and without disabilities, for example, in the [situations described below](#situations).
