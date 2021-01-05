@@ -48,7 +48,7 @@ This resource explains how to make media accessible, whether you develop it your
 
 * {:.left} [{% include image.html src="planning.svg" alt="" %} Planning Audio and Video Media](/media/av/planning/):<br>Plan for accessibility from the very start of your project, to save time and money. For example, [integrated description](/media/av/av-content/#integrate-description) is easier and better for accessibility, and it needs to be included in the script before filming.
 
-* {:.left} [{% include image.html src="av-content.svg" alt="" %} New Audio Content and Video Content](/media/av/av-content/):<br>Make new audio and video content accessible. Avoid accessibility barriers **when scripting, storyboarding, and recording content**.
+* {:.left} [{% include image.html src="av-content.svg" alt="" %} New Audio Content and Video Content](/media/av/av-content/):<br>Make the audio and video content accessible. Avoid accessibility barriers **when scripting, storyboarding, and recording content**.
 
 * {:.left} [{% include image.html src="ad.svg" alt="" %} Audio Description of Visual Information](/media/av/description/):<br>Provide description so that people who are blind and others who cannot see the video adequately get the visual information needed to understand the content. This includes things like charts, graphs, and text such as speaker names, titles, and e-mail addresses.
 
