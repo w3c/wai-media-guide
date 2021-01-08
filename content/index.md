@@ -34,6 +34,8 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 
 This resource explains how to make media accessible, whether you develop it yourself or outsource it. It helps you figure out which accessibility aspects your specific audio or video needs, provides project management guidance, and includes requirements from the Web Content Accessibility Guidelines (WCAG) standard.
 
+Address the following components:
+
 * {:.left} [{% include image.html src="body.svg" alt="" %} User Experiences and Benefits to Organizations](/media/av/users-orgs/):<br>Understand the needs of people with disabilities. Learn about benefits to organizations, and benefits to everyone in a variety of situations.
 
 * {:.left} [{% include image.html src="planning.svg" alt="" %} Planning Audio and Video Media](/media/av/planning/):<br>Plan for accessibility from the very start of your project, to save time and money. For example, [integrated description](/media/av/av-content/#integrate-description) is easier and better for accessibility, and it needs to be included in the script before filming.
