@@ -36,7 +36,7 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This resource explains how to make media accessible, whether you develop it yourself or outsoure it. It helps you figure out which accessibility aspects your specific audio or video needs, provides project management guidance, and includes requirements from the Web Content Accessibility Guidelines (WCAG) standard.
+This resource explains how to make media accessible, whether you develop it yourself or outsource it. It helps you figure out which accessibility aspects your specific audio or video needs, provides project management guidance, and includes requirements from the Web Content Accessibility Guidelines (WCAG) standard.
 
 {::nomarkdown}
 {% include box.html type="end" %}
