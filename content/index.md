@@ -36,7 +36,7 @@ This resource explains how to make media accessible, whether you develop it your
 
 Address the following components:
 
-* {:.left} [{% include image.html src="body.svg" alt="" class="tiny" %} User Experiences and Benefits to Organizations](/media/av/users-orgs/):<br>Understand the needs of people with disabilities. Learn about benefits to organizations, and benefits to everyone in a variety of situations.
+* {:.left} [{% include image.html src="body.svg" alt="" %} User Experiences and Benefits to Organizations](/media/av/users-orgs/):<br>Understand the needs of people with disabilities. Learn about benefits to organizations, and benefits to everyone in a variety of situations.
 
 * {:.left} [{% include image.html src="planning.svg" alt="" %} Planning Audio and Video Media](/media/av/planning/):<br>Plan for accessibility from the very start of your project, to save time and money. For example, [integrated description](/media/av/av-content/#integrate-description) is easier and better for accessibility, and it needs to be included in the script before filming.
 
@@ -50,7 +50,7 @@ Address the following components:
 
 * {:.left} [{% include image.html src="sign.svg" alt="" %} Sign Languages](/media/av/sign-languages/):<br>Provide sign language when your audience needs it, so that Deaf people whose native language is sign get the content in their native language.
 
-* {:.left} [{% include image.html src="player-nobackground.svg" alt="" %} Media Players](/media/av/player/):<br>Use a media player that supports accessibility.
+* {:.left} [{% include image.html src="player.svg" alt="" %} Media Players](/media/av/player/):<br>Use a media player that supports accessibility.
 {:.nolist.withicons.mini}
 
 <br>
