@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/body.svg
 nav_title: "User Needs"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-01-21   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2021-01-11   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -23,11 +23,11 @@ navigation:
 changelog: /media/av/changelog/
 acknowledgements: /media/av/acknowledgements/
 
-description: Helps you plan how to make audio and video media accessible, whether you are outsourcing it or creating it in-house.
+description: Introduces the user needs and user experiences of people with disabilities using audio and video on the web. Also, benefits of accessible media to people without disabilities and to organizations.
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated @@ January 2021. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 11 January 2021. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -37,7 +37,7 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page introduces user needs and user experiences. It provides the "why" behind the media accessibility requirements in this resource. It also explains the business benefits to organizations. And that accessibility features are also used by people _without_ disabilities in a variety of situations.
+This page introduces user needs and user experiences. It provides the "why" behind the media accessibility requirements in this resource. It also includes examples of people _without_ disabilities using accessibility features in a variety of situations. And, the business benefits of accessible media to organizations.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -75,24 +75,9 @@ To learn more, see these other resources:
 * [Media Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/)
 * [[Involving Users in Web Projects for Better, Easier Accessibility]](/planning/involving-users/)
 
-## Benefits to Organizations {#benefits}
-
-{% include image.html src="market-reach.svg" alt="" class="normal right" %}
-
-Organizations that make their audio and video accessible can realize benefits such as:
-* Increased traffic and website use by people with and without disabilities, for example, in the [situations described below](#situations).
-* Better user experience for all and improved customer satisfaction.
-* Better indexing by search engines.
-
-Benefits to organizations are illustrated in these other resources:
-* The business case includes **case study data** from adding transcripts, and more on how accessibility can [increase your market reach](https://www.w3.org/WAI/business-case/#increase-market-reach).
-* Benefits of transcripts and captions to a university are mentioned in a [**user story/persona** of an online student who is hard of hearing](https://www.w3.org/WAI/people-use-web/user-stories/#onlinestudent).
-* Some benefits of captions are illustrated in a 1-minute [**Video** on Captions.<br>
-{% include image.html src="captions-video-still.jpg" alt="" class="normal video" %}](https://www.w3.org/WAI/perspective-videos/captions/)
-
 ## Used by People With and _Without_ Disabilities {#situations}
 
-Accessible audio and video is **essential for people with disabilities**, and is **useful for everyone** in a variety of situations.
+Accessible media is **essential for people with disabilities**, and is **useful for everyone*. Accessibility features are also used by people _without_ disabilities in a variety of situations.
 
 For example, transcripts can be:
 * Skimmed or read rather than watched or listened to. This is significantly easier and quicker for many users. Sometimes people want to skim the transcript first before deciding whether or not to play the media.
@@ -106,4 +91,19 @@ And captions can be used:
 * By people learning to read, including people learning a new language.
 * To better understand content because users can hear the information in audio and see it in text at the same time. For example, a [Research Study of Closed Captions & Transcripts {% include_cached external.html %}](https://www.3playmedia.com/2019/02/21/8-benefits-of-transcribing-captioning-videos/) found that 71% of students _without_ hearing difficulties use captions, primarily to help them focus and retain information.
 
-This resource helps make your media usable in all those situations, by people with and without disabilities. The next page gets you started **[Planning Accessible Audio and Video Media](/media/av/planning/)**.
+## Benefits to Organizations {#benefits}
+
+{% include image.html src="market-reach.svg" alt="" class="normal right" %}
+
+Organizations that make their audio and video accessible can realize benefits such as:
+* Increased traffic and website use by people with and without disabilities, for example, in the [situations described above](#situations).
+* Better user experience for all and improved customer satisfaction.
+* Better indexing by search engines.
+
+Benefits to organizations are illustrated in these other resources:
+* The business case includes **case study data** from adding transcripts, and more on how accessibility can [increase your market reach](https://www.w3.org/WAI/business-case/#increase-market-reach).
+* Benefits of transcripts and captions to a university are mentioned in a [**user story/persona** of an online student who is hard of hearing](https://www.w3.org/WAI/people-use-web/user-stories/#onlinestudent).
+* Some benefits of captions are illustrated in a 1-minute [**Video** on Captions.<br>
+{% include image.html src="captions-video-still.jpg" alt="" class="normal video" %}](https://www.w3.org/WAI/perspective-videos/captions/)
+
+This resource helps make your media usable by people with and without disabilities, to also benefit your organization. The next page gets you started **[Planning Accessible Audio and Video Media](/media/av/planning/)**.
