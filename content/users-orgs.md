@@ -85,14 +85,14 @@ If you want to learn more, see these other resources:
 
 Accessible media is **essential for people with disabilities**, and is **useful for everyone**. Accessibility features are also used by people _without_ disabilities in a variety of situations.
 
-{% include image.html src="transcripts.svg" alt="" class="small right" %}
+{% include image.html src="transcript.svg" alt="" class="small right" %}
 
 For example, transcripts can be:
 * Skimmed or read rather than watched or listened to. This is significantly easier and quicker for many users. Sometimes people want to skim the transcript first before deciding whether or not to play the media.
 * Used without needing to download video files. For example, to save data on mobile.
 * Used offline, printed, or converted to braille.
 
-{% include image.html src="cc.svg" alt="" class="small right" %}
+{% include image.html src="cc.svg" alt="" class="mini right" %}
 
 And captions can be used:
 * In loud environments where users cannot hear the audio. For example, a bar, an airport, or a concert.
