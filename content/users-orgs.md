@@ -57,11 +57,13 @@ This page introduces user needs and user experiences. It provides the "why" behi
 
 ## Understand the User Needs and Experiences of People with Disabilities
 
-{% include image.html src="ear.svg" alt="" class="mini" %} 
-{% include image.html src="eye.svg" alt="" class="mini" %} 
-{% include image.html src="hand.svg" alt="" class="mini" %} 
-{% include image.html src="speech.svg" alt="" class="mini" %} 
-{% include image.html src="brain.svg" alt="" class="mini" %} 
+<div style="float:right">
+{% include image.html src="ear.svg" alt="" class="mini" %}<br><br> 
+{% include image.html src="eye.svg" alt="" class="mini" %}<br><br>
+{% include image.html src="brain.svg" alt="" class="mini" %}<br><br>
+{% include image.html src="hand.svg" alt="" class="mini" %}<br><br>
+{% include image.html src="speech.svg" alt="" class="mini" %}
+</div>
 
 It's useful to first understand the user experiences of people with disabilities. Then you'll know the "why" behind the media accessibility requirements in this resource. For example, a person who is Deaf can't hear the audio, so you need to provide important audio information in another form.
 
@@ -83,10 +85,14 @@ If you want to learn more, see these other resources:
 
 Accessible media is **essential for people with disabilities**, and is **useful for everyone**. Accessibility features are also used by people _without_ disabilities in a variety of situations.
 
+{% include image.html src="transcripts.svg" alt="" class="small right" %}
+
 For example, transcripts can be:
 * Skimmed or read rather than watched or listened to. This is significantly easier and quicker for many users. Sometimes people want to skim the transcript first before deciding whether or not to play the media.
 * Used without needing to download video files. For example, to save data on mobile.
 * Used offline, printed, or converted to braille.
+
+{% include image.html src="cc.svg" alt="" class="small right" %}
 
 And captions can be used:
 * In loud environments where users cannot hear the audio. For example, a bar, an airport, or a concert.
@@ -97,7 +103,7 @@ And captions can be used:
 
 ## Benefits to Organizations {#benefits}
 
-{% include image.html src="brand.svg" alt="inclusive, diverse, responsible" class="small right" %}
+{% include image.html src="brand.svg" alt="inclusive, diverse, responsible" class="normal right" %}
 
 Organizations that make their audio and video accessible can realize benefits such as:
 * Increased traffic and website use by people with and without disabilities, for example, in the [situations described above](#situations).
