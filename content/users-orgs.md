@@ -37,7 +37,7 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page introduces user needs and user experiences. It provides the "why" behind the media accessibility requirements in this resource. It also includes examples of people _without_ disabilities using accessibility features in a variety of situations. And, the business benefits of accessible media to organizations.
+This page introduces user needs and user experiences. It provides the "why" behind the media accessibility requirements in this resource. It also includes examples of the business benefits to organizations.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -55,9 +55,13 @@ This page introduces user needs and user experiences. It provides the "why" behi
 {% include toc.html type="end" %}
 {:/}
 
-## Understand User Needs and Experiences of People with Disabilities
+## Understand the User Needs and Experiences of People with Disabilities
 
-[ @@ 5 accessibility icon in a row ! ]
+{% include image.html src="ear.svg" alt="" class="mini" %} 
+{% include image.html src="eye.svg" alt="" class="mini" %} 
+{% include image.html src="hand.svg" alt="" class="mini" %} 
+{% include image.html src="speech.svg" alt="" class="mini" %} 
+{% include image.html src="brain.svg" alt="" class="mini" %} 
 
 It's useful to first understand the user experiences of people with disabilities. Then you'll know the "why" behind the media accessibility requirements in this resource. For example, a person who is Deaf can't hear the audio, so you need to provide important audio information in another form.
 
@@ -70,14 +74,14 @@ It's useful to first understand the user experiences of people with disabilities
 * Some people cannot use their hands and **use voice recognition software** to operate their computer, including the **media player**.  And people who are **blind** need the media player to work without a mouse.
 * Some people use multiple accessibility features simultaneously. For example, someone might want captions, description of visual information as text, and description in audio.
 
-To learn more, see these other resources:
+If you want to learn more, see these other resources:
 * [[How People with Disabilities Use the Web]](/people-use-web/)
 * [Media Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/)
 * [[Involving Users in Web Projects for Better, Easier Accessibility]](/planning/involving-users/)
 
 ## Used by People With and _Without_ Disabilities {#situations}
 
-Accessible media is **essential for people with disabilities**, and is **useful for everyone*. Accessibility features are also used by people _without_ disabilities in a variety of situations.
+Accessible media is **essential for people with disabilities**, and is **useful for everyone**. Accessibility features are also used by people _without_ disabilities in a variety of situations.
 
 For example, transcripts can be:
 * Skimmed or read rather than watched or listened to. This is significantly easier and quicker for many users. Sometimes people want to skim the transcript first before deciding whether or not to play the media.
@@ -93,12 +97,14 @@ And captions can be used:
 
 ## Benefits to Organizations {#benefits}
 
-{% include image.html src="market-reach.svg" alt="" class="normal right" %}
+{% include image.html src="brand.svg" alt="inclusive, diverse, responsible" class="small right" %}
 
 Organizations that make their audio and video accessible can realize benefits such as:
 * Increased traffic and website use by people with and without disabilities, for example, in the [situations described above](#situations).
 * Better user experience for all and improved customer satisfaction.
 * Better indexing by search engines.
+
+{% include image.html src="market-reach.svg" alt="" class="small right" %}
 
 Benefits to organizations are illustrated in these other resources:
 * The business case includes **case study data** from adding transcripts, and more on how accessibility can [increase your market reach](https://www.w3.org/WAI/business-case/#increase-market-reach).
@@ -106,4 +112,4 @@ Benefits to organizations are illustrated in these other resources:
 * Some benefits of captions are illustrated in a 1-minute [**Video** on Captions.<br>
 {% include image.html src="captions-video-still.jpg" alt="" class="normal video" %}](https://www.w3.org/WAI/perspective-videos/captions/)
 
-This resource helps make your media usable by people with and without disabilities, to also benefit your organization. The next page gets you started **[Planning Accessible Audio and Video Media](/media/av/planning/)**.
+This resource helps make your media usable by people with and without disabilities, and benefit your organization. The next page gets you started **[Planning Accessible Audio and Video Media](/media/av/planning/)**.
