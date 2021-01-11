@@ -3,7 +3,7 @@ title: "Making Audio and Video Media Accessible"
 nav_title: "Audio & Video Media"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-01-21  # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2021-01-11  # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -26,7 +26,7 @@ description: Covers captions/subtitles, audio description of visual information,
 image: /content-images/wai-media-guide/social.png
  
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated @@ January 2021. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 11 January 2021. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -40,7 +40,7 @@ Address the following components:
 
 * {:.left} [{% include image.html src="planning.svg" alt="" %} Planning Audio and Video Media](/media/av/planning/):<br>Plan for accessibility from the very start of your project, to save time and money. For example, [integrated description](/media/av/av-content/#integrate-description) is easier and better for accessibility, and it needs to be included in the script before filming.
 
-* {:.left} [{% include image.html src="av-content.svg" alt="" %} Audio Content and Video Content](/media/av/av-content/):<br>Make new the audio and video content accessible. Avoid accessibility barriers when scripting, storyboarding, and recording content.
+* {:.left} [{% include image.html src="av-content.svg" alt="" %} Audio Content and Video Content](/media/av/av-content/):<br>Make new audio and video content accessible. Avoid accessibility barriers when planning, scripting, storyboarding, and recording your media.
 
 * {:.left} [{% include image.html src="ad.svg" alt="" %} Audio Description of Visual Information](/media/av/description/):<br>Provide description so that people who are blind and others who cannot see the video adequately get the visual information needed to understand the content. This includes things like charts, graphs, and text such as speaker names, titles, and e-mail addresses.
 
