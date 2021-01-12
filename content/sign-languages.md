@@ -18,8 +18,8 @@ github:
 resource:
   ref: /media/av/
 navigation:
-  previous: /media/av/transcripts/
-  next:     /media/av/transcribing/
+  previous: /media/av/transcribing/
+  next:     /media/av/player/
 changelog: /media/av/changelog/
 acknowledgements: /media/av/acknowledgements/
 
