@@ -19,7 +19,7 @@ resource:
   ref: /media/av/
 navigation:
   previous: /media/av/captions/
-  next:     /media/av/sign-languages/
+  next:     /media/av/transcribing/
 changelog: /media/av/changelog/
 acknowledgements: /media/av/acknowledgements/
 
