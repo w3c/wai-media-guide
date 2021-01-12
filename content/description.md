@@ -5,7 +5,7 @@ title_image: /content-images/wai-media-guide/ad.svg
 nav_title: "Description"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2020-12-12   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2021-01-11   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -28,7 +28,7 @@ description: Helps you understand and create description of visual information (
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 12 December 2020. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 11 January 2021. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -112,7 +112,8 @@ Video:
 *   If yes:
     *   For pre-recorded:
         *   Description is needed to provide the important visual information to people who are blind and listen to the video.  
-            Description is **_required_** in WCAG at Level A or AA.
+            Description **_or_** a [descriptive transcript](//media/av/transcripts/) is **_required_** in WCAG at Level A.
+            Description is **_required_** in WCAG at Level AA.
         {:.alt}
     *   For live:
         *   Description is needed to provide the important visual information to people who are blind.  
