@@ -19,7 +19,7 @@ resource:
   ref: /media/av/
 navigation:
   previous: /media/av/planning/
-  next:     /media/av/player/
+  next:     /media/av/description/
 changelog: /media/av/changelog/
 acknowledgements: /media/av/acknowledgements/
   
