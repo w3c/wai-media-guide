@@ -57,7 +57,7 @@ This page introduces user needs and user experiences. It provides the "why" behi
 
 ## Understand the User Needs and Experiences of People with Disabilities
 
-<div style="float:right">
+<div style="float:right; margin-left:1em;">
 {% include image.html src="ear.svg" alt="" class="mini" %}<br><br> 
 {% include image.html src="eye.svg" alt="" class="mini" %}<br><br>
 {% include image.html src="brain.svg" alt="" class="mini" %}<br><br>
@@ -85,7 +85,7 @@ If you want to learn more, see these other resources:
 
 Accessible media is **essential for people with disabilities**, and is **useful for everyone**. Accessibility features are also used by people _without_ disabilities in a variety of situations.
 
-{% include image.html src="transcript.svg" alt="" class="small right" %}
+{% include image.html src="transcript.svg" alt="" class="mini right" %}
 
 For example, transcripts can be:
 * Skimmed or read rather than watched or listened to. This is significantly easier and quicker for many users. Sometimes people want to skim the transcript first before deciding whether or not to play the media.
