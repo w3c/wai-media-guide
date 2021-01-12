@@ -21,9 +21,9 @@ navigation:
 
 ## 11 January 2021
 
-* **WCAG requirements for description at Level A and AA** clarified/corrected:
-  * In [Planning Audio and Video Media, under Checklists, Video Checklists, Pre-Recorded Video](/media/av/planning/#checklist-vp)
-  * In (Audio Description of Visual Information, under Does My Media Need Description?, Video:](/media/av/description/#checklist-video)
+* **WCAG requirements for description at Level A and AA** more clearly specified:
+  * In [Planning Audio and Video Media, under Checklists, Video Checklists, Pre-Recorded Video](/media/av/planning/#checklist-vp), the first 2 bullets under "Does the video have visual information that is needed to understand the content?"
+  * In [Audio Description of Visual Information, under Does My Media Need Description?, Video:](/media/av/description/#checklist-video), the second 2 bullets under "For pre-recorded:"
   * See specific changes in the [Diff for A and AA on 11 Jan 2021](https://github.com/w3c/wai-media-guide/pull/156/files)
 * **Significantly edited the [first page](/media/av/).** Moved much of the content to a new second page, and simplified the first page content.<br>_For existing translation: Note that even similar content was edited._
 * **Added new page: [User Experiences and Benefits to Organizations](/media/av/users-orgs).** <br>_For existing translation:_ The content comes from the old first page. The differences are:
