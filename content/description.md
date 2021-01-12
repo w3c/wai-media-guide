@@ -112,12 +112,12 @@ Video:
 *   If yes:
     *   For pre-recorded:
         *   Description is needed to provide the important visual information to people who are blind and listen to the video.  
-            Description **_or_** a [descriptive transcript](//media/av/transcripts/) is **_required_** in WCAG at Level A.
-            Description is **_required_** in WCAG at Level AA.
+        *   Description **_or_** a [descriptive transcript](//media/av/transcripts/) is **_required_** in WCAG at Level A.
+        *   Description is **_required_** in WCAG at Level AA.
         {:.alt}
     *   For live:
         *   Description is needed to provide the important visual information to people who are blind.  
-            Description is not required to meet WCAG.
+        *   Description is not required to meet WCAG.
         {:.alt}
 
 {::nomarkdown}
