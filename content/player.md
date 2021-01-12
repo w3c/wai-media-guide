@@ -18,8 +18,8 @@ github:
 resource:
   ref: /media/av/
 navigation:
-  previous: /media/av/av-content/
-  next: /media/av/description/
+  previous: /media/av/sign-languages/
+  next: /media/av/acknowledgements/
 changelog: /media/av/changelog/
 acknowledgements: /media/av/acknowledgements/
 

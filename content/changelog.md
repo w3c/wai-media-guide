@@ -3,7 +3,7 @@ title: "Changelog"
 nav_title: "Changelog"
 
 lang: en
-last_updated: 2020-12-12
+last_updated: 2021-01-11
 
 permalink: /media/av/changelog/
 ref: /media/av/changelog/   # Do not change
@@ -18,6 +18,19 @@ resource:
 navigation:
 
 ---
+
+## 11 January 2021
+ 
+* **Significantly edited the [first page](/media/av/).** Moved much of the content to a new second page, and simplified the first page content.<br>_For existing translation: Note that even similar content was edited._
+* **Added new page: [User Experiences and Benefits to Organizations](/media/av/users-orgs).** <br>_For existing translation:_ The content comes from the old first page. The differences are:
+  * The heading “First, Understand User Needs” changed to “Understand the User Needs and Experiences of People with Disabilities”. And, the first sentence changed.
+  * “(More information is in separate pages:” changed to: “If you want to learn more, see these other resources:”. And, list formatting changed and an additional link is added.
+  * The next section of the new pages is “Used by People With and Without Disabilities”, which is at a different level and different order from the old first page. And, the first sentence changed.
+  * “Benefits to Organizations and Individuals” changed to “Benefits to Organizations”
+  * In: “Increased traffic and website use by people with and without disabilities, for example, in the situations described below.”, “below” changed to “above”.
+  * The last paragraph starting with “This resource helps make your media usable…” changed.
+  * Added several images throughout.
+* Changed order of sub-pages.<br>_(For existing translation: need to update the frontmatter navigation:, previous:, next: for several pages.)_
 
 ## 2020-December-12
 

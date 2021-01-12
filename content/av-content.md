@@ -19,7 +19,7 @@ resource:
   ref: /media/av/
 navigation:
   previous: /media/av/planning/
-  next:     /media/av/player/
+  next:     /media/av/description/
 changelog: /media/av/changelog/
 acknowledgements: /media/av/acknowledgements/
   
@@ -61,11 +61,14 @@ It covers **common accessibility barriers** including:
 {:/}
 
 ## Introduction
-{:.no_toc}
 
 This page addresses accessibility considerations when planning, scripting, storyboarding, recording, and producing audio and video.
 
 Some of the guidance below is related to requirements in Web Content Accessibility Guidelines (WCAG) and has links to a separate resource. _(The Planning page of this resource introduces the [WCAG Standard](/media/av/planning/#wcag-standard).)_ Other guidance is good practice.
+
+Additional guidance is in the resource [[How to Make Your Presentations Accessible to All]](/teach-advocate/accessible-presentations/):
+* [Preparing Slides and Projected Material](/teach-advocate/accessible-presentations/#reparing-slides-and-projected-material-speakers)
+* [During the Presentation](/teach-advocate/accessible-presentations/#during-the-presentation-speakers)
 
 ## Audio
 
