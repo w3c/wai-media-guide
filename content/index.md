@@ -3,9 +3,9 @@ title: "Making Audio and Video Media Accessible"
 nav_title: "Audio & Video Media"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-01-11  # Change to date of translation YYYY-MM-DD (month in middle)
-# translator: "..."
-# contributors: "..."
+last_updated: 2021-01-11  # Change to date of translation 1991-12-01 (month in middle)
+# translator: "Bangole"
+# contributors: "transferring"
 
 permalink: /media/av/   # Add lang to end /link/to/page/@@
 ref: /media/av/   # Do not change
