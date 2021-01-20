@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/av-content.svg
 nav_title: "Audio Content & Video Content"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2020-11-24   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2021-01-19   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -27,7 +27,7 @@ description: Describes accessibility considerations when planning, scripting, st
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 24 November 2020. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 19 January 2021. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -143,15 +143,13 @@ For other guidance including recording, see another page of this resource: [Sign
 
 _Description_ provides content to people who are blind and others who cannot see the video adequately. It describes the visual information needed to understand the content, **including text displayed in the video**.
 
-Guidance on what to include is in the "Creating Audio Description of Visual Information" page, [Tips for Writing Description section](/media/av/description/#writing).
-
 Plan to either:
-* Integrate description of the visual information that users need to understand into the main audio content,<br>_**or**_
-* Record extra time for scenes that need description of the visual information.
+* Integrate description into the main audio content,<br>_**or**_
+* Record the audio and video with timing to accommodate separate description.
 
 #### Integrate description
 
-For many videos, the best way to handle audio description is not to need it at all &mdash; that is, all the visual information that users need to understand the content is integrated in the main audio. When planned in advance, this is fairly simple for many types of videos on the web, such as presentations and instructional videos. For example:
+For some videos, such as presentations and instructional videos, the best way to handle audio description is not to need it at all &mdash; that is, all the visual information that users need to understand the content is integrated in the main audio. When planned in advance, this is fairly simple for many videos on the web. For example:
 
 <table>
   <tr>
@@ -172,13 +170,17 @@ For many videos, the best way to handle audio description is not to need it at a
   </tr>
 </table>
 
+Here is an example [training video with the description integrated in what the trainer is saying (YouTube)<br>{% include image.html src="eg-integrated-description.png" alt="" class="normal video" %}](https://www.youtube.com/watch?v=JUfmCvdzqbM)
+
+If you want guidance on what to include in description, see the "Creating Audio Description of Visual Information" page, [Tips for Writing Description section](/media/av/description/#writing).
+
 #### Time for description
 
-For some types of videos, the description of the visual information cannot be smoothly handled by the speakers in the main video, because it would make the default video much longer or more cumbersome. For those videos, the description will be separate.
+For some types of videos, such as dramas, the description of the visual information cannot be smoothly handled by the speakers in the main video. For those videos, the description will be separate.
 
 Where the description is fairly short, plan space in the audio to add the description.
 
-Where the description is longer that you want to leave space in the main audio, you can record extra time in the scene to accommodate the description without having to pause the scene. That is, the same scene is shorter in the main video. In the described version, that same scene is a little longer at the beginning or the end of it. For example:
+Where the description is longer than you want to leave space in the main audio, you can record extra time in the scene to accommodate the description without having to pause the scene. That is, the same scene is shorter in the main video. In the described version, that same scene is a little longer at the beginning or the end of it. For example:
 
 <table>
   <tr>
@@ -205,4 +207,4 @@ An example of this is the [Web Accessibility Perspectives: Video Captions](/pers
 
 #### More about description
 
-More information is in another page of this resource: [Audio Description of Visual Information](/media/av/description/).
+More information is in the next page of this resource: [Audio Description of Visual Information](/media/av/description/).

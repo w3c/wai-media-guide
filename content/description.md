@@ -5,7 +5,7 @@ title_image: /content-images/wai-media-guide/ad.svg
 nav_title: "Description"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-01-11   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2021-01-19   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -28,7 +28,7 @@ description: Helps you understand and create description of visual information (
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 11 January 2021. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 19 January 2021. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -63,11 +63,20 @@ This page helps you understand and create description of visual information for 
 
 ## Introduction
 
-_What:_ Audio description describes visual information needed to understand the content. (For example, "Pat opens a jewelry box, looks at a diamond engagement ring, and cries".) Description is usually narration added to the soundtrack.
+_What:_ Audio description describes visual information needed to understand the content. (For example, "Pat opens a small box, looks at a diamond engagement ring, and cries".) Depending on the type of video and media player, description can be:
+* integrated into the main script and recording (which works well for some training videos, yet not most stories)
+* narration added to the main audio track and provided in an alternative version of the video (for stories)
+* provided in a text file or as a separate audio track (if supported by the media player)
 
 _Who:_ Description provides content to people who are blind and others who cannot see the video adequately.
 
-_Example:_ [Video that includes audio description of the visual information (YouTube)<br>{% include image.html src="using-description.jpg" alt="" class="large video" %}](https://www.youtube.com/watch?v=F3A1VffiOH4&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-&index=3)
+_Examples:_
+
+* [Training video with the description integrated in what the trainer is saying (YouTube)<br>{% include image.html src="eg-integrated-description.png" alt="" class="normal video" %}](https://www.youtube.com/watch?v=JUfmCvdzqbM)
+
+* [Alternative story video with audio description in a different voice (YouTube)<br>{% include image.html src="using-description.jpg" alt="" class="normal video" %}](https://www.youtube.com/watch?v=F3A1VffiOH4)
+
+<p style="color:#686868; line-height:100%; font-size:0.875rem;">These videos are also available from the W3C website: <a href="https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk" style="color:#686868">training video (web page)</a>, <a href="http://media.w3.org/wai/perspective-videos/text-to-speech-ad.mp4" style="color:#686868">story video (MP4 file size 28MB)</a>.</p>
 
 ### Terminology
 {:.no_toc}
