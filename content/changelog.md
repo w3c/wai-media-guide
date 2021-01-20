@@ -22,18 +22,17 @@ navigation:
 ## 19 January 2021
 
 * Expanded guidance for integrated description:
-** In [Audio Content and Video Content, under Plan for audio description of visual information](/media/av/av-content/#plan-description)
-** In (Audio Description of Visual Information, under Introduction](/media/av/description/#introduction)
-** See specific changes in the [Diff for 19 Jan 2021](https://github.com/w3c/wai-media-guide/pull/157/files)
-
+  * In [Audio Content and Video Content, under Plan for audio description of visual information](/media/av/av-content/#plan-description)
+  * In (Audio Description of Visual Information, under Introduction](/media/av/description/#introduction)
+  * See specific changes in the [Diff for 19 Jan 2021](https://github.com/w3c/wai-media-guide/pull/157/files)
 
 
 ## 11 January 2021
 
 * **WCAG requirements for description at Level A and AA** clarified/corrected:
-** In [Planning Audio and Video Media, under Checklists, Video Checklists, Pre-Recorded Video](/media/av/planning/#checklist-vp)
-** In (Audio Description of Visual Information, under Does My Media Need Description?, Video:](/media/av/description/#checklist-video)
-** See specific changes in the [Diff for A and AA on 11 Jan 2021](https://github.com/w3c/wai-media-guide/pull/156/files)
+  * In [Planning Audio and Video Media, under Checklists, Video Checklists, Pre-Recorded Video](/media/av/planning/#checklist-vp)
+  * In (Audio Description of Visual Information, under Does My Media Need Description?, Video:](/media/av/description/#checklist-video)
+  * See specific changes in the [Diff for A and AA on 11 Jan 2021](https://github.com/w3c/wai-media-guide/pull/156/files)
 * **Significantly edited the [first page](/media/av/).** Moved much of the content to a new second page, and simplified the first page content.<br>_For existing translation: Note that even similar content was edited._
 * **Added new page: [User Experiences and Benefits to Organizations](/media/av/users-orgs).** <br>_For existing translation:_ The content comes from the old first page. The differences are:
   * The heading “First, Understand User Needs” changed to “Understand the User Needs and Experiences of People with Disabilities”. And, the first sentence changed.
