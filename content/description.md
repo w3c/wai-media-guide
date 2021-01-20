@@ -76,7 +76,7 @@ _Examples:_
 
 * [Alternative story video with audio description in a different voice (YouTube)<br>{% include image.html src="using-description.jpg" alt="" class="normal video" %}](https://www.youtube.com/watch?v=F3A1VffiOH4)
 
-_(These videos are also available on the W3C website: [training video (web page)](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk), [story video (MP4 file size 28MB)].(http://media.w3.org/wai/perspective-videos/text-to-speech-ad.mp4))_
+<p style="color:#686868">(These videos are also available from the W3C website: [training video (web page)](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk), [story video (MP4 file size 28MB)](http://media.w3.org/wai/perspective-videos/text-to-speech-ad.mp4).)</p>
 
 ### Terminology
 {:.no_toc}
