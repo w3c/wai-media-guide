@@ -74,9 +74,9 @@ _Examples:_
 
 * [Training video with the description integrated in what the trainer is saying (YouTube)<br>{% include image.html src="eg-integrated-description.png" alt="" class="normal video" %}](https://www.youtube.com/watch?v=JUfmCvdzqbM)
 
-* [Alternative story video with audio description in a different voice (YouTube)<br>{% include image.html src="using-description.jpg" alt="" class="normal video" %}](https://www.youtube.com/watch?v=F3A1VffiOH4&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-&index=3)
+* [Alternative story video with audio description in a different voice (YouTube)<br>{% include image.html src="using-description.jpg" alt="" class="normal video" %}](https://www.youtube.com/watch?v=F3A1VffiOH4)
 
-_(These videos are also available from @@non-YouTube links.)_
+_(These videos are also available on the W3C website: [training video (web page)](https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk), [story video (MP4 file size 28MB)].(http://media.w3.org/wai/perspective-videos/text-to-speech-ad.mp4))_
 
 ### Terminology
 {:.no_toc}
