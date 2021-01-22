@@ -34,7 +34,7 @@ navigation:
   * In [Audio Description of Visual Information, under Does My Media Need Description?, Video:](/media/av/description/#checklist-video), the second 2 bullets under "For pre-recorded:"
   * See specific changes in the [Diff for A and AA on 11 Jan 2021](https://github.com/w3c/wai-media-guide/pull/156/files)
 * **Significantly edited the [first page](/media/av/).** Moved much of the content to a new second page, and simplified the first page content.<br>_For existing translation: Note that even similar content was edited._
-* **Added new page: [User Experiences and Benefits to Organizations](/media/av/users-orgs).** <br>_For existing translation:_ The content comes from the old first page. The differences are:
+* **Added new page: [User Experiences and Benefits to Organizations](/media/av/users-orgs/).** <br>_For existing translation:_ The content comes from the old first page. The differences are:
   * The heading “First, Understand User Needs” changed to “Understand the User Needs and Experiences of People with Disabilities”. And, the first sentence changed.
   * “(More information is in separate pages:” changed to: “If you want to learn more, see these other resources:”. And, list formatting changed and an additional link is added.
   * The next section of the new pages is “Used by People With and Without Disabilities”, which is at a different level and different order from the old first page. And, the first sentence changed.
