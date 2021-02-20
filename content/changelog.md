@@ -26,6 +26,7 @@ navigation:
   * In [Audio Description of Visual Information, under Introduction](/media/av/description/#introduction)
   * See specific changes in the [Diff for 19 Jan 2021](https://github.com/w3c/wai-media-guide/pull/157/files)
 
+* Added to all footers: "First published September 2019."
 
 ## 11 January 2021
 
