@@ -3,7 +3,7 @@ title: "Changelog"
 nav_title: "Changelog"
 
 lang: en
-last_updated: 2021-01-19
+last_updated: 2021-02-22
 
 permalink: /media/av/changelog/
 ref: /media/av/changelog/   # Do not change
@@ -19,14 +19,17 @@ navigation:
 
 ---
 
+## 22 February 2021
+* In [Audio Content and Video Content](/media/av/av-content/), corrected link:
+  * ```[Preparing Slides and Projected Material](/teach-advocate/accessible-presentations/#preparing-slides-and-projected-material-speakers)```
+* Added to all footers: "First published September 2019."
+
 ## 19 January 2021
 
 * **Expanded guidance for integrated description:**
   * In [Audio Content and Video Content, under Plan for audio description of visual information](/media/av/av-content/#plan-description)
   * In [Audio Description of Visual Information, under Introduction](/media/av/description/#introduction)
   * See specific changes in the [Diff for 19 Jan 2021](https://github.com/w3c/wai-media-guide/pull/157/files)
-
-* Added to all footers: "First published September 2019."
 
 ## 11 January 2021
 
