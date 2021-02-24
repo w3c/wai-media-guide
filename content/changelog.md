@@ -3,7 +3,7 @@ title: "Changelog"
 nav_title: "Changelog"
 
 lang: en
-last_updated: 2021-02-22
+last_updated: 2021-02-24
 
 permalink: /media/av/changelog/
 ref: /media/av/changelog/   # Do not change
@@ -18,6 +18,9 @@ resource:
 navigation:
 
 ---
+
+## 24 February 2021
+* In [Captions/Subtitles](/media/av/captions/), changed "Spoken text" to "Spoken audio" in:<blockquote>Example of bad automatic captions (that cause a fire)<br>Spoken audio:</blockquote>
 
 ## 22 February 2021
 * In [Audio Content and Video Content](/media/av/av-content/), corrected link:
