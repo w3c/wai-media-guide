@@ -197,7 +197,7 @@ There are tools that use speech recognition technology to turn a soundtrack into
 {:/}
 
 {% include image.html src="food-fire.jpg" alt="food on fire under broiler" class="normal right" %}
-  _Spoken text:_<br>&quot;Broil on high for <strong>4 to 5 minutes</strong>. You should <strong>not</strong> preheat the oven.&quot;<br>
+  _Spoken audio:_<br>&quot;Broil on high for <strong>4 to 5 minutes</strong>. You should <strong>not</strong> preheat the oven.&quot;<br>
   _Automatic caption:_<br>&quot;Broil on high for <strong>45 minutes</strong>. You should <strong>know to</strong> preheat the oven.&quot;
 
 {::nomarkdown}
