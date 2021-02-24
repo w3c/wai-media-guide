@@ -20,7 +20,7 @@ navigation:
 ---
 
 ## 24 February 2021
-* In [Captions/Subtitles](/media/av/captions/), changed "Spoken text" to "Spoken audio" in:<blockquote>Example of bad automatic captions (that cause a fire)<br>Spoken audio:</blockquote>
+* In [Captions/Subtitles](/media/av/captions/), changed "Spoken text" to "Spoken audio" in:<br>"Example of bad automatic captions (that cause a fire)<br>Spoken audio:"
 
 ## 22 February 2021
 * In [Audio Content and Video Content](/media/av/av-content/), corrected link:
