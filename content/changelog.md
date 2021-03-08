@@ -19,6 +19,10 @@ navigation:
 
 ---
 
+## 8 March 2021
+
+* In [Sign Languages](/media/av/sign-languages/), updated example language list to:<br>"Sign languages are different across regions and countries. For example, American Sign Language (ASL), Black American Sign Language (BASL), British Sign Language (BSL), and Auslan (Australian Sign Language) are different."
+
 ## 24 February 2021
 * In [Captions/Subtitles](/media/av/captions/), changed "Spoken text" to "Spoken audio" in:<br>"Example of bad automatic captions (that cause a fire)<br>Spoken audio:"
 
