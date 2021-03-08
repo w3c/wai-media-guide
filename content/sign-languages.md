@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/sign.svg
 nav_title: "Sign Languages"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2020-12-12  # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2021-03-08  # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -27,7 +27,7 @@ description: Helps you understand and create sign language interpretation for au
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 12 December 2020. First published September 2019. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 8 March 2021. First published September 2019. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -69,7 +69,7 @@ Some people will want to have sign language and captions at the same time.
 
 Not everyone who is Deaf knows sign language, especially if they became Deaf or hard-of-hearing later in life. Some people use "lip reading" to help understand speech, though that cannot be replied upon for accessibility.
 
-Sign languages are different across regions and countries. For example, American Sign Language (ASL), British Sign Language (BSL), and Auslan (Australian Sign Language) are all different.
+Sign languages are different across regions and countries. For example, American Sign Language (ASL), Black American Sign Language (BASL), British Sign Language (BSL), and Auslan (Australian Sign Language) are different.
 
 There are some efforts to provide automatic sign language from text; however, avatars that simulate sign language interpretation are not robust enough to be adequate.
 
