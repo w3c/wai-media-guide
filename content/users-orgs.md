@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/body.svg
 nav_title: "User Needs"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-01-11   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2021-04-12   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -27,7 +27,7 @@ description: Introduces the user needs and user experiences of people with disab
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 11 January 2021. First published September 2019 (on a different page). CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 12 April 2021. First published September 2019 (on a different page). CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
