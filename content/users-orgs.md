@@ -73,7 +73,7 @@ It's useful to first understand the user experiences of people with disabilities
 * Some people who are **blind** or have low vision can't see videos well or at all. They use **audio description of visual information** to understand what's going on visually.
 * Some people who are **Deaf-blind** use a screen reader and braille to read **descriptive transcripts** that include the audio and visual information as text.
 * Some people **cannot focus and comprehend auditory or visual information** when there are changing visuals. For most videos, they also need **descriptive transcripts**.
-* Some people cannot use their hands and **use voice recognition software** to operate their computer, including the **media player**.  And people who are **blind** need the media player to work without a mouse.
+* Some people cannot use their hands and **use speech recognition software** to operate their computer, including the **media player**.  And people who are **blind** need the media player to work without a mouse.
 * Some people use multiple accessibility features simultaneously. For example, someone might want captions, description of visual information as text, and description in audio.
 
 If you want to learn more, see these other resources:
