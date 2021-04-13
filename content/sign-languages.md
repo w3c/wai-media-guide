@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/sign.svg
 nav_title: "Sign Languages"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-03-08  # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2021-04-12  # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -27,7 +27,7 @@ description: Helps you understand and create sign language interpretation for au
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 8 March 2021. First published September 2019. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 12 April 2021. First published September 2019. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -110,7 +110,7 @@ Avoid obscuring important content - _post-production_
 
 Make sign language video(s) easy to discover and use
 : Make it easy to get to the video with sign language and to the video without sign language.
-: For example, directly underneath the media player, include a large visible toggle button and/or labelled image for the sign language videos(s).<br><img src="{{ "/content-images/wai-media-guide/sign-button.png" | relative_url }}" alt="" style="max-width: 162px">
+: For example, directly underneath the media player, include a large visible toggle button and/or labelled image for the sign language videos(s).<br><img src="{{ "/content-images/wai-media-guide/sign-button.png" | relative_url }}" alt="Auslan (Australian Sign Language)" style="max-width: 162px">
 {:.paragraph-like}
 
 There are resources on the web that provide additional guidance on creating sign language alternatives. For example:
