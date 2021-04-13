@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/transcript.svg
 nav_title: "Transcripts"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2020-12-12   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2021-04-12   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -27,7 +27,7 @@ description: Helps you understand and create transcripts for audio and video med
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 12 December 2020. First published September 2019. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 12 April 2021. First published September 2019. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -69,7 +69,7 @@ _Who:_ Basic transcripts are used by people who are Deaf, are hard of hearing, h
 
 _Who:_ Descriptive transcripts are needed to provide audio and video content to people who are both Deaf and blind. They are also used by people who process text information better than audio and visual/pictorial information.
 
-If you provide a descriptive transcript, you do not need a separate basic transcript.
+Ideally you provide a descriptive transcript, and then you do not need a separate basic transcript.
 
 _Interactive transcripts_ highlight text phrases as they are spoken. Users can select text in the transcript and go to that point in the video. This is a feature of the media player. It uses the captions file.
 
@@ -77,7 +77,7 @@ _Interactive transcripts_ highlight text phrases as they are spoken. Users can s
 
 ## Does My Media Need a Transcript? {#checklist}
 
-**Short answer: Yes, transcripts are needed to meet the wide range of user needs**.
+**Short answer: Yes, descriptive transcripts are needed to meet the wide range of user needs**.
 
 In some cases, transcripts are not required to meet WCAG standards. _(The Planning page of this resource introduces the [WCAG Standard](/media/av/planning/#wcag-standard).)_
 
@@ -177,7 +177,7 @@ If you already have captions, you can use that file to create the transcript. Mo
 
 If you don't have captions, you'll need transcription of the audio information. That's addressed in another page of this resource: [Transcribing Audio to Text](/media/av/transcribing/).
 
-Often you'll need to add visual information to the transcript, such as text that is in the video. 
+Captions are generally written to be viewed along with the visual video. Transcripts should include important visual infomation for those not seeing the video. When you use captions to create transcripts, **usually you will need to add visual information to the transcript**, such as text that is in the video and speaker identification.
 
 ### Transcript File Format
 
