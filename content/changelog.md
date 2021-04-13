@@ -3,7 +3,7 @@ title: "Changelog"
 nav_title: "Changelog"
 
 lang: en
-last_updated: 2021-02-24
+last_updated: 2021-04-12
 
 permalink: /media/av/changelog/
 ref: /media/av/changelog/   # Do not change
@@ -18,6 +18,15 @@ resource:
 navigation:
 
 ---
+
+## 12 April 2021
+
+* In [Transcripts](/media/av/transcripts/), changed:
+   * "If you provide a descriptive transcript, you do not need a separate basic transcript." to:<br>"Ideally you provide a descriptive transcript, and then you do not need a separate basic transcript."
+   * "Short answer: Yes, transcripts are needed to meet the wide range of user needs" to:<br>"Short answer: Yes, descriptive transcripts are needed to meet the wide range of user needs"
+   * "Often you'll need to add visual information to the transcript, such as text that is in the video." to:<br>"Captions are generally written to be viewed along with the visual video. Transcripts should include important visual infomation for those not seeing the video. When you use captions to create transcripts, **usually you will need to add visual information to the transcript**, such as text that is in the video and speaker identification."
+* In [Sign Languages](/media/av/sign-languages/), added ```alt="Auslan (Australian Sign Language)"```
+* In [User Experiences and Benefits to Organizations](/media/av/user-orgs/), changed "voice recognition" to speech recognition"
 
 ## 8 March 2021
 
