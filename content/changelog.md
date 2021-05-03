@@ -19,6 +19,20 @@ navigation:
 
 ---
 
+
+{::nomarkdown}
+{% include toc.html type="start" title="Page Contents" %}
+{:/}
+
+- This will be replaced by an automatically generated TOC when using Markdown formatting.
+{::options toc_levels="2,3" /}
+{:toc}
+
+{::nomarkdown}
+{% include toc.html type="end" %}
+{:/}
+
+
 ## 12 April 2021
 
 * In [Transcripts](/media/av/transcripts/), changed:
