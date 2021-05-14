@@ -4,9 +4,10 @@ title_image: /content-images/wai-media-guide/planning.svg
 nav_title: "Production"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
-last_updated: 2020-10-26   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2021-05-15   # Change to date of translation YYYY-MM-DD (month in middle)
 translator:
-- name: Sofia Ahmed
+- name: "Sofia Ahmed"
+- name: "Rémi Bétin"
 
 permalink: /media/av/planning/fr   # Add lang to end /link/to/page/@@
 ref: /media/av/planning/   # Do not change this
@@ -18,18 +19,19 @@ github:
 resource:
   ref: /media/av/
 navigation:
-  previous: /media/av/
+  previous: /media/av/users-orgs/
   next:     /media/av/av-content/
 changelog: /media/av/changelog/
 acknowledgements: /media/av/acknowledgements/
 
-description: vous aide à prévoir comment rendre vos contenus audios et vidéos accessibles, que vous les sous-traitiez ou que vous les créiez en interne.  
+description: Vous aide à organiser la mise en accessibilité de vos audios et vidéos, que vous les sous-traitiez ou que vous les créiez en interne.
+
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
    <p><strong>Date :</strong> Mise à jour 12 septembre 2020. CHANGELOG.</p>
-   <p><strong>Auteur :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. RERMERCIEMENTS : liste les contributeurs et les crédits.</p>
-   <p>Développé par le groupe de travail Education et formation (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Acess</a> financé par la fondation Ford.</p>
+   <p><strong>Rédacteur :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGMENTS : liste les contributeurs et les crédits.</p>
+   <p>Développé par le groupe de travail Éducation et promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Acess</a> financé par la fondation Ford.</p>
 
 ---
 
@@ -38,7 +40,7 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 {:/}
 
 Cette page vous aide à :
-* **comprendre quels aspects d'accessibilité sont nécessaires à vos contenus audios et vidéos spécifiques** (des sous-titres, une description, une transcription, etc.)
+* **comprendre quels aspects de l'accessibilité sont nécessaires à vos contenus audios et vidéos spécifiques** (des sous-titres, une description, une transcription, etc.)
 * gérer des projets et prévoir ce qu'il faut créer en interne et ce qu'il faut sous-traiter
 * comprendre les **standards** pour les contenus audios et vidéos dans les Règles pour l'accessibilité des contenus Web (WCAG)
 
@@ -61,50 +63,46 @@ Cette page vous aide à :
 ## Introduction
 {:.no_toc}
 
-Pour du contexte, allez sur la page d'instruction de cette ressource  _[Rendre du contenu audio et vidéo accessible](/media/av/)_, pour :
-* de courtes explications sur les sous-titres, les transcriptions, la description, la langue des signes, et l'accessibilité des lecteurs multimédia
-* des expériences d'utilisateurs pour vous aider à comprendre le "pourquoi" les recommandations
-
-Les caractéristiques d'accessibilité que vous fournissez avec votre contenu multimédia seront probablement influencés par :
-* les besoins des utilisateurs
-* les réglementations gouvernementales et autres exigences de réglementation
+Les fonctionnalités d'accessibilité à fournir avec votre contenu multimédia seront probablement influencés par :
+* [les besoins des utilisateurs et les bénéfices business](/users-orgs/)
+* les réglementations gouvernementales et les autres exigences de politiques
 * le budget et les contraintes de temps
 
-L'objectif de cette ressource est de vous aider à connaître les réglementations et de vous encourager à répondre à tous les besoins des utilisateurs.
+L'objectif de cette ressource de plusieurs pages est de vous aider à connaître les exigences et vous encourager à répondre à tous les besoins des utilisateurs.
 
-## Check-lists pour les contenus audios et vidéos {#checklist}
+## Listes de tâches pour les contenus audios et vidéos {#checklist}
 
-Les check-lists reprises ci-dessous concernent les contenus uniquement audios, les contenus vidéos, et les contenus préenregistrés et en direct. Ils comprennent :
-* Ce qui est requis par le standard des Règles pour l'accessibilité des contenus Web (WCAG) aux niveaux A, AA, et AAA.  _(Les [WCAG](#wcag-standard) sont expliquées ci-dessous.)_
-* Ce qui est nécessaire pour répondre aux besoins des utilisateurs, au-delà des WCAG. (Si aucun A n'est attribué, c'est que le contenu n'est pas requis dans les WCAG.)
+Les listes de tâches reprises ci-dessous concernent les contenus seulement audio, les contenus vidéo, et les contenus pré-enregistrés et en direct. Ils comprennent :
+* Ce qui est requis par le standard des Règles pour l'accessibilité des contenus Web (WCAG) aux niveaux A, AA, et AAA. _(Les [WCAG](#wcag-standard) sont expliquées ci-dessous.)_
+* Ce qui est nécessaire pour répondre aux besoins des utilisateurs, au-delà des WCAG. (S'il n'y a aucun "A", alors ce n'est pas requis dans les WCAG.)
 
-Les liens ci-dessous mènent à des pages Web liées à cette ressource qui contiennent des détails sur la compréhension et l'application de chaque recommandation.
+Les liens ci-dessous mènent à une page Web de cette ressource qui contient des détails sur la compréhension et l'application de chaque élément.
 
 {::nomarkdown}
-{% include box.html type="start" title="Tous les contenus audios et vidéos" class="highlighted" id="checklist-all" %}
+{% include box.html type="start" title="Tous les contenus audio et vidéo" class="highlighted" id="checklist-all" %}
 {:/}
 
-- **[Contenu audio](/media/av/av-content/#audio) (A)** : est accessible (par exemple, au regard de ce qui est dit et de l'enregistrement)
-- **[Contenu vidéo](/media/av/av-content/#video) (A)** : est accessible (par exemple, il ne provoque pas de crises)
-- **[Lecteur multimédia](/media/av/player/) (A)** : est compatible avec l'accessibilité
+- **[Le contenu audio](/media/av/av-content/#audio) (A)** est accessible (par exemple, au regard de ce qui est dit et de l'enregistrement)
+- **[Le contenu vidéo](/media/av/av-content/#video) (A)** est accessible (par exemple, il ne provoque pas de crises)
+- **[Le lecteur multimédia](/media/av/player/) (A)** est compatible avec l'accessibilité
 {:.alt}
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-### <img src="{{ "/content-images/wai-media-guide/audio.svg" | relative_url }}" alt="" style="height:1.3em"> Check-lists des contenus uniquement audios
+### <img src="{{ "/content-images/wai-media-guide/audio.svg" | relative_url }}" alt="" style="height:1.3em"> Listes de tâches des contenus seulement audio
 
-Cette section concerne les contenus uniquement audios, comme les podcasts qui ne contiennent pas de vidéo.
+Cette section concerne les contenus seulement audio, comme les podcasts qui ne contiennent pas de vidéo.
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/recorded.svg" | relative_url }}" alt="" style="height:1em"> Contenus uniquement audios préenregistrés
+<img src="{{ "/content-images/wai-media-guide/recorded.svg" | relative_url }}" alt="" style="height:1em"> Contenus pré-enregistrés seulement audio 
 {% endcapture %}
 
 {::nomarkdown}
 {% include box.html type="start" title=boxhead class="highlighted" id="checklist-ap" %}
 {:/}
 
--   **[Transcription](/media/av/transcripts/) (A)** à part de l'audio
+-   **[Transcription](/media/av/transcripts/) (A)** distincte de l'audio
 -   **[Sous-titres](/media/av/captions/)** synchronisés avec l'audio
 -   **[Langue(s) des signes](/media/av/sign-languages/)**
 {:.alt}
@@ -114,7 +112,7 @@ Cette section concerne les contenus uniquement audios, comme les podcasts qui ne
 {:/}
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/live.svg" | relative_url }}" alt="" style="height:1em"> Contenus uniquement en direct
+<img src="{{ "/content-images/wai-media-guide/live.svg" | relative_url }}" alt="" style="height:1em"> Contenus en direct seulement audio
 {% endcapture %}
 
 {::nomarkdown}
@@ -130,10 +128,10 @@ Cette section concerne les contenus uniquement audios, comme les podcasts qui ne
 {% include box.html type="end" %}
 {:/}
 
-### <img src="{{ "/content-images/wai-media-guide/video.svg" | relative_url }}" alt="" style="height:1.3em"> Check-lists des contenus vidéos
+### <img src="{{ "/content-images/wai-media-guide/video.svg" | relative_url }}" alt="" style="height:1.3em"> Listes de tâches des contenus vidéo
 
 {% capture boxhead %}
-<img src="{{ "/content-images/wai-media-guide/recorded.svg" | relative_url }}" alt="" style="height:1em"> Vidéos préenregistrées
+<img src="{{ "/content-images/wai-media-guide/recorded.svg" | relative_url }}" alt="" style="height:1em"> Vidéos pré-enregistrées
 {% endcapture %}
 
 {::nomarkdown}
@@ -144,7 +142,7 @@ Cette section concerne les contenus uniquement audios, comme les podcasts qui ne
 
 -   Si oui,
     -   **[Sous-titres](/media/av/captions/)** **(A)**
-    -   **[Transcription des informations audios](/media/av/transcripts/) (AAA)**
+    -   **[Transcription des informations audio](/media/av/transcripts/) (AAA)**
     -   **[Langue(s) des signes](/media/av/sign-languages/) (AAA)**
     {:.alt}
 -   Si non, [informer les utilisateurs](#none).
@@ -152,8 +150,9 @@ Cette section concerne les contenus uniquement audios, comme les podcasts qui ne
 **La vidéo contient-elle des informations visuelles** nécessaires à la compréhension du contenu ?
 
 -   Si oui,
-    -   **[Audiodescription des informations visuelles](/media/av/description/) (A/AA)**
-    -   **[Transcription descriptive](//media/av/transcripts/) (AAA)** *(Si vous disposez d'une transcription descriptive, vous n'avez pas besoin d'une transcription supplémentaire de l'information uniquement audio des questions précédentes.)*
+    -   **[Audio-description des informations visuelles](/media/av/description/) (A/AA) _ou_  [transcription descriptive](//media/av/transcripts/) (A)**
+    -   **[Audio-description des informations visuelles](/media/av/description/) (AA)**
+    -   **[Transcription descriptive](//media/av/transcripts/) (AAA)** *(Si vous disposez d'une transcription descriptive, vous n'avez pas besoin d'une transcription supplémentaire des informations seulement audio évoquée dans la question précédente.)*
     {:.alt}
 -   Si non, [informer les utilisateurs](#none).
 
@@ -174,13 +173,13 @@ Cette section concerne les contenus uniquement audios, comme les podcasts qui ne
 -   Si oui,
     -   **[Sous-titres](/media/av/captions/) (AA)**
     -   **[Langue(s) des signes](/media/av/sign-languages/)**
-    -   Texte disponible pour les lecteurs d'écran (et les équipements braille)
+    -   Flux de texte disponible pour les lecteurs d'écran (et les équipements braille)
     {:.alt}
 -   Si non, [informer les utilisateurs](#none).
 
 **La vidéo contient-elle des informations visuelles** nécessaires à la compréhension du contenu ?
 -   Si oui,
-    -   Description des informations visuelles importantes dans un texte disponible pour les lecteurs d'écran (et les équipements braille)
+    -   Description des informations visuelles importantes dans un flux de texte disponible pour les lecteurs d'écran (et les équipements braille)
     {:.alt}
 -   Si non, [informer les utilisateurs](#none).
 
@@ -188,11 +187,11 @@ Cette section concerne les contenus uniquement audios, comme les podcasts qui ne
 {% include box.html type="end" %}
 {:/}
 
-### Informer les utilisateurs lorsque le texte supplémentaire n'est pas nécessaire {#none}
+### Informer les utilisateurs lorsque ce n'est pas nécessaire {#none}
 
 Si votre vidéo ne nécessite pas de sous-titres (parce qu'elle ne contient pas de contenu audio substantiel) ou de description (parce qu'elle ne contient pas de contenu visuel substantiel), il est préférable de prévenir les utilisateurs. Autrement, ils pourraient croire que vous avez involontairement oublié de les fournir.
 
-Les utilisateurs qui ont besoin de sous-titres vont les consulter, vous pouvez donc fournir un fichier de sous-titres qui contient uniquement les indications pertinentes, telles que "[musique de fond]". Sinon, vous pouvez également fournir un texte informatif avec la vidéo, tel que :  
+Les utilisateurs qui ont besoin de sous-titres vont chercher à les consulter, vous pouvez donc fournir un fichier de sous-titres qui contient uniquement les indications pertinentes, telles que "[musique de fond]". Sinon, vous pouvez également fournir un texte informatif avec la vidéo, tel que :  
 
 {::nomarkdown}
 {% include box.html type="start" class="" %}
@@ -208,7 +207,7 @@ Les sous-titres ne sont pas nécessaires : le seul son dans cette vidéo est une
 {% include box.html type="start" class="" %}
 {:/}
 
-La description n'est pas nécessaire : les seules images dans cette vidéos ne font qu'appuyer ce qui est dit ; les images ne fournissent pas d'informations supplémentaires.
+La description n'est pas nécessaire : les images de cette vidéo ne font qu'appuyer ce qui est dit ; les images ne fournissent pas d'informations supplémentaires.
 
 {::nomarkdown}
 {% include box.html type="end" %}
