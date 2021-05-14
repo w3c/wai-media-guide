@@ -5,10 +5,8 @@ nav_title: "Production"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
 last_updated: 2020-10-26   # Change to date of translation YYYY-MM-DD (month in middle)
-# translator: "..."
 translator:
-name: Sofia Ahmed
-# contributors: "..."
+- name: Sofia Ahmed
 
 permalink: /media/av/planning/fr   # Add lang to end /link/to/page/@@
 ref: /media/av/planning/   # Do not change this
@@ -29,9 +27,9 @@ description: vous aide à prévoir comment rendre vos contenus audios et vidéos
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date :</strong> Mise à jour 12 septembre 2020. JOURNAL DES MODIFICATIONS.</p>
+   <p><strong>Date :</strong> Mise à jour 12 septembre 2020. CHANGELOG.</p>
    <p><strong>Auteur :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. RERMERCIEMENTS : liste les contributeurs et les crédits.</p>
-   <p>Développé par le Groupe de travail Education et formation (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Acess</a> financé par la fondation Ford.</p>
+   <p>Développé par le groupe de travail Education et formation (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Acess</a> financé par la fondation Ford.</p>
 
 ---
 
