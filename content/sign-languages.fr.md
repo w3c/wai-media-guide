@@ -7,6 +7,7 @@ lang: fr   # change "en" to lang code, here and 2 @@s below
 last_updated: 2020-01-02   # Change to date of translation YYYY-MM-DD (month in middle)
 translators:
 - name: "Sofia Ahmed"
+- name: "Rémi Bétin"
 contributors:
 - name : "Sandra Velarde Gonzalez (ETNIC)"
 

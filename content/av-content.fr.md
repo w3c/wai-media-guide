@@ -148,7 +148,7 @@ Prévoyez soit :
 * d'intégrer une description dans le contenu audio principal,<br>_**ou**_
 * d'enregistrer le contenu audio ou vidéo avec une synchronisation permettant une description séparée.
 
-#### Intégrez une description
+#### Intégrer une description
 
 Pour de nombreuses vidéos, telles que les présentations ou les vidéos didactiques, le meilleur moyen de gérer l'audio-description est de ne pas en avoir besoin du tout &mdash; c'est-à-dire, que toutes les informations visuelles dont les utilisateurs ont besoin pour comprendre le contenu soient intégrés à l'audio principal. Lorsque prévu à l'avance, cela est relativement facile pour de nombreux types de vidéos sur le Web. Par exemple :
 
@@ -175,7 +175,7 @@ Voici un exemple de [vidéo de formation avec la description intégrée dans le 
 
 Si vous souhaitez des conseils sur ce qu'il faut inclure dans la description, consultez la page "Créer une audiodescription pour les informations visuelles", dans la section [Conseils pour rédiger une description](/media/av/description/#writing).
 
-#### De la durée pour la description
+#### Prévoir du temps pour la description
 
 Pour certains types de vidéos, comme les pièces de théâtre, la description des informations visuelles ne peut pas être effectuée subtilement par les locuteurs de la vidéo principale. Pour ces vidéos, la description sera disponible à part.
 
