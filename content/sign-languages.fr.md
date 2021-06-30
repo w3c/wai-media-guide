@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/sign.svg
 nav_title: "Langues des signes"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
-last_updated: 2020-01-02   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2021-07-01   # Change to date of translation YYYY-MM-DD (month in middle)
 translators:
 - name: "Sofia Ahmed"
 - name: "Rémi Bétin"
@@ -21,8 +21,8 @@ github:
 resource:
   ref: /media/av/
 navigation:
-  previous: /media/av/transcripts/
-  next:     /media/av/transcribing/
+  previous: /media/av/transcribing/
+  next:     /media/av/player/
 changelog: /media/av/changelog/
 acknowledgements: /media/av/acknowledgements/
 
@@ -30,9 +30,9 @@ description: Vous aide à comprendre et à créer une interprétation en langue 
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date :</strong> Mise à jour : 10 septembre 2019. CHANGELOG.</p>
-   <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS : liste les contributeurs et les crédits.</p>
-   <p>Développé par le groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access</a> financé par la fondation Ford.</p>
+   <p><strong>Date :</strong> Mise à jour : 12 avril 2021. Première publication en septembre 2019. CHANGELOG.</p>
+   <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS liste les contributeurs et les crédits.</p>
+   <p>Développé par le groupe de travail Éducation et promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access</a> financé par la fondation Ford.</p>
 
 ---
 
@@ -40,7 +40,10 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 {% include box.html type="start" title="Résumé" class="" %}
 {:/}
 
-Cette page vous aide à comprendre et à créer une interprétation en langue des signes pour du contenu audio et vidéo.
+Les langues des signes utilisent les mouvements des mains et des bras, les expressions faciales, et les positions du corps pour transmettre un sens. Pour beaucoup de personnes sourdes, la langue des signes est leur langue maternelle, et certaines ne comprennent pas bien le langage écrit.
+
+Cette page vous aide à comprendre et à créer une interprétation en langue des signes pour du contenu audio et vidéo. (La langue des signes n'est pas exigée par la plupart des politiques d'accessibilité.)
+
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -64,54 +67,56 @@ Cette page vous aide à comprendre et à créer une interprétation en langue de
 
 Les langues des signes utilisent les mouvements des mains et des bras, les expressions faciales, et les positions du corps pour transmettre un sens.
 
-La langue des signes est la langue maternelle de nombreuses personnes sourdes. Certaines d'entre elles ne savent pas lire ou comprendre le langage écrit correctement &mdash; notamment à la vitesse de la plupart des sous-titres.
+La langue des signes est la langue maternelle de nombreuses personnes sourdes. Certaines d'entre elles ne lisent ou ne comprennent pas bien le langage écrit &mdash; en particulier à la vitesse de la plupart des sous-titres.
 
-Certaines personnes voudront voir la langue des signes et les sous-titres en même temps.
+Certaines personnes voudront bénéficier de la langue des signes et des sous-titres en même temps.
 
-Toutes les personnes sourdes ne connaissent pas la langue des signes, en particulier si elles deviennent sourdes ou malentendantes sur le tard. Certaines personnes lisent sur les lèvres pour comprendre la parole, ceci dit, cela n'entre pas dans les critères d'accessibilité.
+Toutes les personnes sourdes ne connaissent pas la langue des signes, en particulier si elles deviennent sourdes ou malentendantes tardivement. Certaines personnes lisent sur les lèvres pour comprendre la parole, bien que cela n'entre pas dans les critères d'accessibilité.
 
-Les langues des signes diffèrent selon les régions et les pays. Par exemple, la langue des signes américaine (ASL), la langue des signes britannique (BSL), et la langue des signes australienne (l'Auslan) sont toutes différentes.
+Les langues des signes sont différentes selon les régions et les pays. Par exemple, la langue des signes américaine (ASL), la langue des signes noire américaine (BASL), la langue des signes britannique (BSL) et la langue des signes australienne (l'Auslan) sont différentes.
 
-Certains efforts sont fait pour fournir une langue des signes automatique à partir du texte ; cependant, les avatars qui simulent l'interprétation de la langue des signes ne sont pas suffisamment robustes.
+Certains efforts sont faits pour fournir une interpération en langue des signes automatique à partir de texte ; cependant, les avatars qui simulent l'interprétation de la langue des signes ne sont pas suffisamment robustes pour produire un résultat satisfaisant.
 
-## Réglementations standards
+## Exigences des standards
 
-La langue des signes n'est pas requise dans la plupart des réglementations pour l'accessibilité Web.
-Le standard des WCAG situent la langue des signes au niveau AAA. _(La page "Production" de cette ressouce introduit le [standard des WCAG](/media/av/planning/#wcag-standard).)_
+La langue des signes n'est pas requise par la plupart des politiques d'accessibilité Web.
+
+Le standard des WCAG situe la langue des signes au niveau AAA : [Comprendre 1.2.6 Langue des signes](https://www.w3.org/WAI/WCAG21/Understanding/sign-language-prerecorded.html). _(La page Planifier de cette ressource présente le [standard WCAG](/media/av/planning/#wcag-standard).)_
 
 ## Compétences et outils
 
-Pour inclure des alternatives à la langue des signes, vous aurez besoin de personnes, de compétences, et d'outils pour :
-* faire l'interprétation de la langue des signes
+Pour inclure des alternatives en langue des signes, vous aurez besoin de personnes, de compétences et d'outils pour :
+* faire l'interprétation en langue des signes
 * l'enregistrer
 * la monter avec le fichier audio ou vidéo
 
 ## Exemple
 
-Exemple de langue des signes dans une vidéo :[Publicité du NHS 111 en langue des signes britannique (BSL) (Youtube)<br>{% include image.html src="sign-example.jpg" alt="" class="large video" %}](https://www.youtube.com/watch?v=TCq3ru9HQSc)
+Exemple d'interprétation en langue des signes dans une vidéo : [Publicité NHS 111 en langue des signes britannique (BSL) (Youtube)<br>{% include image.html src="sign-example.jpg" alt="" class="large video" %}](https://www.youtube.com/watch?v=TCq3ru9HQSc)
 
-## Création d'alternatives à la langue des signes
+## Créer des alternatives en langue des signes
 
-Utilisez des couleurs faciles à distinguer - _production, enregistrement_
-: il est généralement préférable que les couleurs du fond et de l'habit de l'interprète en langue des signes soient prononcées et contrastent avec sa couleur de peau.
+Utilisez des couleurs faciles à distinguer - _planification, enregistrement_
+: Il est généralement préférable que les couleurs de l'arrière-plan et des vêtements de l'interprète en langue des signes soient prononcées et contrastent avec leur couleur de peau. De cette manière, leurs mains et leur visage sont faciles à voir.
 
-Utilisez une bonne luminosité - _production, enregistrement_
-: Prévoyez une bonne luminosité pour rendre l'interprète correctement visible.
+Utilisez une bonne luminosité - _planification, enregistrement_
+: Assurez-vous d'avoir une bonne luminosité pour rendre l'interprète clairement visible.
 
 Filmez l'espace consacré à la langue des signes dans son intégralité  - _enregistrement_
 : Pour la plupart des langues des signes, l'espace consacré à la langue des signes s'étend de bien plus bas que la taille jusqu'au dessus de la tête et au moins à une largeur de coude de chaque côté.
 
-Assurez-vous que l'interprète de la langue des signes soit suffisamment grand - _post-production_
-: les téléspectateurs doivent être capables de voir correctement tous les mouvements et les expressions faciales.
+Assurez-vous que l'image de l'interprète en langue des signes soit suffisamment grande - _post-production_
+: Les visionneurs doivent être capables de voir correctement tous les mouvements et les expressions faciales.
 
 Évitez de dissimuler du contenu important - _post-production_
-: positionnez l'interprète de la langue des signes de manière à éviter de dissimuler des informations importantes dans la vidéo. Il se trouve habituellement en bas à droite. Si votre vidéo contient des informations telles qu'un bandeau déroulant d'actualité, positionnez l'interprète de la langue des signes par-dessus : Idéalement, lorsque la vidéo a été réalisée, la position de l'interprète était prévue, comme indiqué sur une autre page de cette ressource : [Production pour la langue des signes - storyboarding, enregistrement](/media/av/av-content/#plan-for-sign-language--storyboarding-recording).
+: Positionnez l'interprète en langue des signes de manière à éviter de dissimuler des informations importantes dans la vidéo. L'interprète est généralement placé en bas à droite. Si votre vidéo contient des informations telles qu'un bandeau déroulant d'actualité, positionnez l'interprète en langue des signes par-dessus 
+: Idéalement, lorsque la vidéo a été réalisée, la position de l'interprète a été prévue, comme indiqué dans une autre page de cette ressource : [Prévoyez l’interprétation en langue des signes – storyboarding, enregistrement](/media/av/av-content/#plan-for-sign-language--storyboarding-recording).
 
-Rendez la (les) vidéo(s) facile à découvrir et à utiliser
+Rendez la (les) vidéo(s) en langue des signes facile(s) à découvrir et à utiliser
 : Facilitez l'accès à la vidéo avec la langue des signes et à la vidéo sans langue des signes.
-: Par exemple, juste sous le lecteur multimédia, incluez un grand bouton d'activation et/ou une image libellées pour la (les) vidéo(s) avec la langue des signes.<br><img src="{{ "/content-images/wai-media-guide/sign-button.png" | relative_url }}" alt="" style="max-width: 162px">
+: Par exemple, directement sous le lecteur multimédia, incluez un grand bouton d'activation et/ou une image étiquetée pour la (les) vidéo(s) en langue des signes.<br><img src="{{ "/content-images/wai-media-guide/sign-button.png" | relative_url }}" alt="Auslan (langue des signes australienne)" style="max-width: 162px">
 {:.paragraph-like}
 
-Il existe des ressources sur le Web qui fournissent des informations supplémentaires sur la création d'alternatives à la langue des signes. Par exemple :
-* [Interprétation en langue des signes sur le HBBTV (PDF){% include_cached external.html %}](http://pagines.uab.cat/hbb4all/sites/pagines.uab.cat.hbb4all/files/sign_language_interpreting_in_hbbtv.pdf) comprend des informations spécifiques sur des aspects tels que collaborer avec des interprètes en langue des signes et les types de présentation à l'écran
-* Des conseils pour la production de livres sur la langue des signes comprend [Une présentation de la langue des signes {% include_cached external.html %}](http://www.sign-lang.uni-hamburg.de/signingbooks/deliver/d31/deliv_31_part3-2.html#3.2.2.6) et [Édition {% include_cached external.html %}](http://www.sign-lang.uni-hamburg.de/signingbooks/sbrc/grid/d71/guide13.htm)
+Il existe des ressources sur le Web qui fournissent des informations supplémentaires sur la création d'alternatives en langue des signes. Par exemple :
+* [Interprétation en langue des signes sur la HBBTV (PDF){% include_cached external.html %}](http://pagines.uab.cat/hbb4all/sites/pagines.uab.cat.hbb4all/files/sign_language_interpreting_in_hbbtv.pdf) comprend des conseils spécifiques sur des aspects tels que la collaboration avec des interprètes en langue des signes et les types de présentation à l'écran
+* <em>Recommandations pour la production de livres interprétés en langue des signes</em> comprend [une présentation de la langue des signes {% include_cached external.html %}](http://www.sign-lang.uni-hamburg.de/signingbooks/deliver/d31/deliv_31_part3-2.html#3.2.2.6) et [une partie sur le montage {% include_cached external.html %}](http://www.sign-lang.uni-hamburg.de/signingbooks/sbrc/grid/d71/guide13.htm)
