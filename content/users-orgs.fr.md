@@ -1,19 +1,19 @@
 ---
-title: "User Experiences and Benefits to Organizations"
+title: "Expériences utilisateurs et bénéfices pour les organisations"
 title_image: /content-images/wai-media-guide/body.svg
-nav_title: "User Needs"
+nav_title: "Besoins utilisateurs"
 
-lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-04-12   # Change to date of translation YYYY-MM-DD (month in middle)
-# translator: "..."
-# contributors: "..."
+lang: fr   # change "en" to lang code, here and 2 @@s below
+last_updated: 2021-06-30   # Change to date of translation YYYY-MM-DD (month in middle)
+translators:
+- name: "Rémi Bétin"
 
-permalink: /media/av/users-orgs/   # Add lang to end /link/to/page/@@
+permalink: /media/av/users-orgs/fr   # Add lang to end /link/to/page/@@
 ref: /media/av/users-orgs/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-media-guide
-   path: 'content/users-orgs.md'   # Add lang to the middle of the filename, e.g., index.@@.md
+   path: 'content/users-orgs.fr.md'   # Add lang to the middle of the filename, e.g., index.@@.md
 
 resource:
   ref: /media/av/
@@ -23,28 +23,28 @@ navigation:
 changelog: /media/av/changelog/
 acknowledgements: /media/av/acknowledgements/
 
-description: Introduces the user needs and user experiences of people with disabilities using audio and video on the web. Also, benefits of accessible media to people without disabilities and to organizations.
+description: Introduit les besoins et les expériences utilisateur de personnes en situation de handicap qui utilisent des contenus audio et vidéo sur le Web. Présente aussi les bénéfices de médias accessibles pour les personnes "sans handicap" et pour les organisations.
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 12 April 2021. First published September 2019 (on a different page). CHANGELOG.</p>
-   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
-   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
+   <p><strong>Date :</strong> Mis à jour le 12 avril 2021. Première publication : septembre 2019 (sur une page différente). CHANGELOG.</p>
+   <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS : liste les contributeurs et les crédits.</p>
+   <p>Développé par le groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access</a> financé par la fondation Ford.</p>
 
 ---
 
 {::nomarkdown}
-{% include box.html type="start" title="Summary" class="" %}
+{% include box.html type="start" title="Résumé" class="" %}
 {:/}
 
-This page introduces user needs and user experiences. It provides the "why" behind the media accessibility requirements in this resource. It also includes examples of the business benefits to organizations.
+Cette page présente des besoins et des expériences d'utilisateurs. Elle explique le "pourquoi" derrière les exigences d'accessibilité des médias présentées dans cette ressource. Elle inclut également des exemples de bénéfices business pour les organisations.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
 {::nomarkdown}
-{% include toc.html type="start" title="Page Contents" %}
+{% include toc.html type="start" title="Table des matières" %}
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
@@ -55,7 +55,7 @@ This page introduces user needs and user experiences. It provides the "why" behi
 {% include toc.html type="end" %}
 {:/}
 
-## Understand the User Needs and Experiences of People with Disabilities
+## Comprendre les besoins des utilisateurs et les expériences des personnes en situation de handicap
 
 <div style="float:right; margin-left:1em;">
 {% include image.html src="ear.svg" alt="" class="mini" %}<br><br> 
@@ -65,57 +65,57 @@ This page introduces user needs and user experiences. It provides the "why" behi
 {% include image.html src="speech.svg" alt="" class="mini" %}
 </div>
 
-It's useful to first understand the user experiences of people with disabilities. Then you'll know the "why" behind the media accessibility requirements in this resource. For example, a person who is Deaf can't hear the audio, so you need to provide important audio information in another form.
+Il est tout d'abord utile de comprendre les expériences utilisateurs des personnes en situation de handicap. Ensuite, vous saurez le "pourquoi" derrière les exigences d'accessibilité des médias présentées dans cette ressource. Par exemple, une personne qui est sourde ne peut pas entendre l'audio, vous devez donc fournir les informations audio importantes sous une autre forme.
 
-* Many people who are **Deaf** can read text well. They get the audio information from **transcripts** or **captions**. Some people prefer **sign language**.
-* Some people who are **hard of hearing** like to listen to the audio to hear what they can, and have **captions** to fill in what they can't hear adequately.
-* Some people who have **difficulty processing auditory information** also use **captions**. Many use **transcripts** so they can read at their own pace.
-* Some people who are **blind** or have low vision can't see videos well or at all. They use **audio description of visual information** to understand what's going on visually.
-* Some people who are **Deaf-blind** use a screen reader and braille to read **descriptive transcripts** that include the audio and visual information as text.
-* Some people **cannot focus and comprehend auditory or visual information** when there are changing visuals. For most videos, they also need **descriptive transcripts**.
-* Some people cannot use their hands and **use speech recognition software** to operate their computer, including the **media player**.  And people who are **blind** need the media player to work without a mouse.
-* Some people use multiple accessibility features simultaneously. For example, someone might want captions, description of visual information as text, and description in audio.
+* Beaucoup de personnes **sourdes** peuvent lire correctement un texte. Elles obtiennent les informations audio à partir de **transcriptions** ou de **sous-titres**. Certaines personnes préfèrent la **langue des signes**.
+* Certaines personnes **malentendantes** aiment écouter l'audio pour entendre ce qu'elles peuvent, et bénéficient des **sous-titres** pour combler ce qu'elles ne peuvent pas entendre convenablement.
+* Certaines personnes ayant des **difficultés à traiter les informations auditives** utilisent aussi les **sous-titres**. Beaucoup utilisent les **transcriptions** pour pouvoir lire à leur rythme.
+* Certaines personnes **aveugles** ou malvoyantes ne peuvent pas bien voir les vidéos voire pas du tout. Elles utilisent **l'audiodescription des informations visuelles** pour comprendre ce qu'il se passe visuellement.
+* Certaines personnes **sourdes et aveugles** utilisent un lecteur d'écran et le braille pour lire les **transcriptions descriptives** qui incluent les informations audios et visuelles sous forme de texte.
+* Certaines personnes **ne peuvent pas se concentrer et comprendre les informations auditives et visuelles** quand les images bougent. Pour la plupart des vidéos, elles ont également besoin de **transcriptions descriptives**.
+* Certaines personnes ne peuvent pas utiliser leurs mains et **utilisent un logiciel de reconnaissance vocale** pour commander leur ordinateur, y compris le **lecteur multimédia**.  Et les personnes **aveugles** ont besoin que le lecteur multimédia fonctionne sans souris.
+* Certaines personnes utilisent plusieurs fonctionnalités d'accessibilité en même temps. Par exemple, quelqu'un peut vouloir des sous-titres, une description textuelle des informations visuelles, et une description audio.
 
-If you want to learn more, see these other resources:
-* [[How People with Disabilities Use the Web]](/people-use-web/)
-* [Media Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/)
-* [[Involving Users in Web Projects for Better, Easier Accessibility]](/planning/involving-users/)
+Si vous souhaitez en savoir plus, consultez ces autres ressources :
+* [[Comment les personnes en situation de handicap utilisent le web]](/people-use-web/)
+* [Exigences des utilisateurs en matière d’accessibilité des contenus multimédia](https://www.w3.org/TR/media-accessibility-reqs/)
+* [[Impliquer les utilisateurs dans les projets Web pour améliorer et faciliter l'accessibilité]](/planning/involving-users/)
 
-## Used by People With and _Without_ Disabilities {#situations}
+## Utilisée par des personnes avec ou _sans_ handicaps {#situations}
 
-Accessible media is **essential for people with disabilities**, and is **useful for everyone**. Accessibility features are also used by people _without_ disabilities in a variety of situations.
+Un média accessible est **essentiel pour les personnes en situation de handicap**, et est **utile pour tous**. Les fonctionnalités d'accessibilité sont également utilisées par des personnes _sans_ handicaps dans une multitude de situations.
 
 {% include image.html src="transcript.svg" alt="" class="mini right" %}
 
-For example, transcripts can be:
-* Skimmed or read rather than watched or listened to. This is significantly easier and quicker for many users. Sometimes people want to skim the transcript first before deciding whether or not to play the media.
-* Used without needing to download video files. For example, to save data on mobile.
-* Used offline, printed, or converted to braille.
+Par exemple, les transcriptions peuvent être :
+* Parcourues ou lues à la place d'un visionnage ou d'une écoute. Cela est significativement plus simple et plus rapide pour beaucoup d'utilisateurs. Parfois, des personnes veulent d'abord parcourir la transcription avant de décider ou non de lire le média.
+* Utilisées sans avoir besoin de télécharger les fichiers vidéos. Par exemple, pour économiser des données sur mobile.
+* Utilisées hors connexion, imprimées, ou converties en braille.
 
 {% include image.html src="cc.svg" alt="" class="mini right" %}
 
-And captions can be used:
-* In loud environments where users cannot hear the audio. For example, a bar, an airport, or a concert.
-* In quiet environments where users cannot turn on sound. For example, in a library, on public transportation, or when others are sleeping.
-* By people who cannot understand the spoken language well and can understand the written language better. For example, people who are not native speakers of the language.
-* By people learning to read, including people learning a new language.
-* To better understand content because users can hear the information in audio and see it in text at the same time. For example, a [Research Study of Closed Captions & Transcripts {% include_cached external.html %}](https://www.3playmedia.com/2019/02/21/8-benefits-of-transcribing-captioning-videos/) found that 71% of students _without_ hearing difficulties use captions, primarily to help them focus and retain information.
+Et les sous-titres peuvent être utilisés :
+* Dans des environnements bruyants où les utilisateurs ne peuvent pas entendre l'audio. Par exemple, dans un bar, un aéroport ou un concert.
+* Dans des environnements calmes où les utilisateurs ne peuvent pas mettre en marche le son. Par exemple, dans une bibliothèque, un transport public ou lorsque d'autres personnes dorment.
+* Par des personnes qui ne comprennent pas bien la langue parlée et peuvent mieux comprendre la langue une fois écrite. Par exemple, les personnes dont ce n'est pas la langue maternelle.
+* Par des personnes apprenant à lire, y compris des personnes apprenant une nouvelle langue.
+* Pour mieux comprendre le contenu car les utilisateurs peuvent écouter l'information en audio et la voir en même temps sous forme de texte. Par exemple, une [étude de recherche sur les sous-titres et les transcriptions {% include_cached external.html %}](https://www.3playmedia.com/2019/02/21/8-benefits-of-transcribing-captioning-videos/) a révélé que 71 % des étudiants _sans_ difficultés auditives utilisent les sous-titres, principalement pour les aider à se concentrer et à mémoriser les informations.
 
-## Benefits to Organizations {#benefits}
+## Bénéfices pour les organisations {#benefits}
 
-{% include image.html src="brand.svg" alt="inclusive, diverse, responsible" class="normal right" %}
+{% include image.html src="brand.svg" alt="inclusif, divers, responsable" class="normal right" %}
 
-Organizations that make their audio and video accessible can realize benefits such as:
-* Increased traffic and website use by people with and without disabilities, for example, in the [situations described above](#situations).
-* Better user experience for all and improved customer satisfaction.
-* Better indexing by search engines.
+Les organisations qui rendent leurs contenus audio et vidéo accessibles peuvent récolter des bénéfices tels que :
+* Une augmentation du trafic et un site Web utilisé par des personnes avec ou sans handicaps, par exemple, dans les [situations décrites ci-dessus](#situations).
+* Une meilleure expérience utilisateur pour tous et une amélioration de la satisfaction client.
+* Une meilleure indexation par les moteurs de recherche.
 
 {% include image.html src="market-reach.svg" alt="" class="small right" %}
 
-Benefits to organizations are illustrated in these other resources:
-* The business case includes **case study data** from adding transcripts, and more on how accessibility can [increase your market reach](https://www.w3.org/WAI/business-case/#increase-market-reach).
-* Benefits of transcripts and captions to a university are mentioned in a [**user story/persona** of an online student who is hard of hearing](https://www.w3.org/WAI/people-use-web/user-stories/#onlinestudent).
-* Some benefits of captions are illustrated in a 1-minute [**Video** on Captions.<br>
+Les bénéfices pour les organisations sont illustrés dans d'autres ressources :
+* <em>Les bénéfices business de l'accessibilité numérique</em> incluent **des données d'une étude de cas** sur l'ajout de transcriptions, et plus d'informations sur la manière dont l'accessibilité peut [étendre votre marché](https://www.w3.org/WAI/business-case/#increase-market-reach).
+* Les bénéfices des transcriptions et des sous-titres pour une université sont mentionnés dans un [**scénario utilisateur/persona** d'une étudiante en ligne malentendante](https://www.w3.org/WAI/people-use-web/user-stories/#onlinestudent).
+* Certaines bénéfices des sous-titres sont illustrés dans une [**Vidéo** d'une minute sur les sous-titres<br>
 {% include image.html src="captions-video-still.jpg" alt="" class="normal video" %}](https://www.w3.org/WAI/perspective-videos/captions/)
 
-This resource helps make your media usable by people with and without disabilities, and benefit your organization. The next page gets you started **[Planning Accessible Audio and Video Media](/media/av/planning/)**.
+Cette ressource vous aide à rendre vos médias utilisables par des personnes avec et sans handicaps, et à bénéficier à votre organisation. La page suivante vous permet de commencer à **[planifier la réalisation de médias audio et vidéo accessibles](/media/av/planning/)**.
