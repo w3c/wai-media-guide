@@ -134,7 +134,7 @@ Pour tout texte, prenez en considération la famille de police, la taille, et le
 
 ### Prévoyez l'interprétation en langue des signes – _story-board, enregistrement_ (WCAG AAA)
 
-Souvent, une interprétation en langue des signes est fournie en superposition dans le coin en bas à droite des vidéos. Par exemple : [Publicité NHS 111 langue des signes britannique (BSL) (YouTube)<br>{% include image.html src="sign-example.jpg" alt="" class="normal video" %}](https://www.youtube.com/watch?v=TCq3ru9HQSc)
+Souvent, une interprétation en langue des signes est fournie en superposition dans le coin en bas à droite des vidéos. Par exemple : [Publicité NHS 111 en langue des signes britannique (BSL) (YouTube)<br>{% include image.html src="sign-example.jpg" alt="" class="normal video" %}](https://www.youtube.com/watch?v=TCq3ru9HQSc)
 
 Prévoyez que la vidéo ne comprenne pas d'information importante qui pourrait être masquée par la superposition de l'interpération en langue des signes.
 
