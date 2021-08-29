@@ -209,7 +209,7 @@ Where the description is longer than you want to leave space in the main audio, 
   </tr>
 </table>
 
-<h3>Description examples</h3>
+#### Description examples
 For example, [Web Accessibility Perspectives: Clear Layout and Design](/perspective-videos/layout/):
 * The main video is **1 minute long: [main video on YouTube](https://www.youtube.com/watch?v=tfkzj5VC9P8)**, [main video on W3C server](https://media.w3.org/wai/perspective-videos/clear-layout-design.mp4).
 * The described version is **1 minute and 53 seconds long, and there are no pauses** in the visual aspect of the video: **[described video on YouTube](https://www.youtube.com/watch?v=w-2nFEUBELo)**, [described video on W3C server.](https://media.w3.org/wai/perspective-videos/clear-layout-design-ad.mp4)
