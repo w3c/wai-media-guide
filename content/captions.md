@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/cc.svg
 nav_title: "Captions/Subtitles"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-02-24  # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2021-09-28  # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -236,7 +236,7 @@ WEBVTT
 {% include box.html type="end" %}
 {:/}
 	
-Other caption formats are: Timed Text Markup Language ([TTML](https://www.w3.org/TR/ttml2/)) and [SRT](https://matroska.org/technical/specs/subtitles/srt.html).
+Other caption formats are: SRT and Timed Text Markup Language ([TTML](https://www.w3.org/TR/ttml2/)).
 
 ### Caption Tools
 
