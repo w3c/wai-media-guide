@@ -3,7 +3,7 @@ title: "Changelog"
 nav_title: "Changelog"
 
 lang: en
-last_updated: 2021-04-12
+last_updated: 2021-09-28
 
 permalink: /media/av/changelog/
 ref: /media/av/changelog/   # Do not change
@@ -32,6 +32,10 @@ navigation:
 {% include toc.html type="end" %}
 {:/}
 
+
+## 28 September 2021
+
+* In [Captions/Subtitles](/media/av/captions/), changed from "Other caption formats are: Timed Text Markup Language (TTML) and SRT." to: <br>```Other caption formats are: SRT and Timed Text Markup Language ([TTML](https://www.w3.org/TR/ttml2/)).```
 
 ## 12 April 2021
 
