@@ -3,7 +3,7 @@ title: "Making Audio and Video Media Accessible"
 nav_title: "Audio & Video Media"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-01-11  # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2021-11-29  # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -22,11 +22,11 @@ navigation:
 changelog: /media/av/changelog/
 acknowledgements: /media/av/acknowledgements/
 
-description: Covers captions/subtitles, audio description of visual information, media players, and other accessibility requirements.
+description: Covers captions/subtitles, description of visual information (audio description, video description, described video), media players, and other accessibility requirements.
 image: /content-images/wai-media-guide/social.png
  
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 11 January 2021. First published September 2019. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 29 November 2021. First published September 2019. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -42,7 +42,7 @@ Address the following components:
 
 * {:.left} [{% include image.html src="av-content.svg" alt="" %} Audio Content and Video Content](/media/av/av-content/):<br>Make new audio and video content accessible. Avoid accessibility barriers when planning, scripting, storyboarding, and recording your media.
 
-* {:.left} [{% include image.html src="ad.svg" alt="" %} Audio Description of Visual Information](/media/av/description/):<br>Provide description so that people who are blind and others who cannot see the video adequately get the visual information needed to understand the content. This includes things like charts, graphs, and text such as speaker names, titles, and e-mail addresses.
+* {:.left} [{% include image.html src="ad.svg" alt="" %} Description of Visual Information](/media/av/description/):<br>Provide description so that people who are blind and others who cannot see the video adequately get the visual information needed to understand the content. This includes things like charts, graphs, and text such as speaker names, titles, and e-mail addresses.
 
 * {:.left} [{% include image.html src="cc.svg" alt="" %} Captions/Subtitles](/media/av/captions/):<br>Provide captions (also called “subtitles”) so that people who are Deaf and hard-of-hearing get a text version of the speech and non-speech audio information needed to understand the content.
 
