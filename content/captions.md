@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/cc.svg
 nav_title: "Captions/Subtitles"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-09-28  # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2021-11-29  # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -27,7 +27,7 @@ description: Helps you understand and create captions (also called â€œsubtitlesâ
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 28 September 2021. First published September 2019. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 29 November 2021. First published September 2019. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -97,7 +97,7 @@ Caption files are used by some media players to provide _interactive transcripts
 ### Notes
 {:.no_toc}
 
-For optimum accessibility, provide a separate caption file of the audio description.
+For optimum accessibility, provide a separate caption file of the description of visual information (called audio description, video description, or described video).
 
 **Captions and transcripts include the same text, so one can be used to develop the other.**
 
