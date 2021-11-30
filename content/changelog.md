@@ -3,7 +3,7 @@ title: "Changelog"
 nav_title: "Changelog"
 
 lang: en
-last_updated: 2021-09-28
+last_updated: 2021-11-29
 
 permalink: /media/av/changelog/
 ref: /media/av/changelog/   # Do not change
@@ -32,6 +32,10 @@ navigation:
 {% include toc.html type="end" %}
 {:/}
 
+
+## 29 November 2021
+
+* Minor changes to description language in 6 pages. [GitHub Pull Request with changes](https://github.com/w3c/wai-media-guide/pull/186/files).
 
 ## 28 September 2021
 
@@ -113,7 +117,7 @@ navigation:
   * In [Captions/Subtitles](https://www.w3.org/WAI/media/av/captions/) and [Transcribing Audio to Text](https://www.w3.org/WAI/media/av/transcribing/) added alt "food on fire under broiler" to:
     ```
     {% include image.html src="food-fire.jpg" alt="food on fire under broiler" class="normal right" %}
-      ```
+    ```
 
 ## 2020-October-09
 
