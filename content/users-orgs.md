@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/body.svg
 nav_title: "User Needs"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-04-12   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2021-11-29   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -27,7 +27,7 @@ description: Introduces the user needs and user experiences of people with disab
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 12 April 2021. First published September 2019 (on a different page). CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 29 November 2021. First published September 2019 (on a different page). CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -70,7 +70,7 @@ It's useful to first understand the user experiences of people with disabilities
 * Many people who are **Deaf** can read text well. They get the audio information from **transcripts** or **captions**. Some people prefer **sign language**.
 * Some people who are **hard of hearing** like to listen to the audio to hear what they can, and have **captions** to fill in what they can't hear adequately.
 * Some people who have **difficulty processing auditory information** also use **captions**. Many use **transcripts** so they can read at their own pace.
-* Some people who are **blind** or have low vision can't see videos well or at all. They use **audio description of visual information** to understand what's going on visually.
+* Some people who are **blind** or have low vision can't see videos well or at all. They use **description of visual information** to understand what's going on visually. *(Description is called audio description, video description, or described video.)*
 * Some people who are **Deaf-blind** use a screen reader and braille to read **descriptive transcripts** that include the audio and visual information as text.
 * Some people **cannot focus and comprehend auditory or visual information** when there are changing visuals. For most videos, they also need **descriptive transcripts**.
 * Some people cannot use their hands and **use speech recognition software** to operate their computer, including the **media player**.  And people who are **blind** need the media player to work without a mouse.
