@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/player-nobackground.svg
 nav_title: "Media Player"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2019-09-10   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2021-11-29   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -27,7 +27,7 @@ description: Introduces considerations for providing a media player that support
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 10 September 2019. First published September 2019. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 29 November 2021. First published September 2019. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -96,7 +96,7 @@ Each media player provides documentation of the steps to set it up in a web page
 
 ### Support for Description Methods
 
-Media player functionality is required for some methods of providing audio description of visual information, as described in the [Description page](/media/av/description/). To the best of our knowledge, the following media players provide such functionality:
+Media player functionality is required for some methods of providing description of visual information *(called audio description, video description, or described video)*, as explained in the [Description page](/media/av/description/). To the best of our knowledge, the following media players provide such functionality:
 * Supports description in text file (VTT format):
    * AblePlayer &mdash; supports description when there is space in the audio, and when the video needs to pause ("extended description")
    * video.js &mdash; supports description when there is space in the audio; does **not** support description when the video needs to pause ("extended description")
@@ -106,4 +106,3 @@ Media player functionality is required for some methods of providing audio descr
    * video.js &mdash; with plug-in
 
 _(If you know of other players that provide that functionality, please let us know via GitHub or e-mail with the links in [Help improve this page below](#helpimprove). Thanks!)_
-

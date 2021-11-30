@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/av-content.svg
 nav_title: "Audio Content & Video Content"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-02-22   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2021-11-29   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -22,12 +22,12 @@ navigation:
   next:     /media/av/description/
 changelog: /media/av/changelog/
 acknowledgements: /media/av/acknowledgements/
-  
+
 description: Describes accessibility considerations when planning, scripting, storyboarding, recording, and producing audio and video media.
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 22 February 2021. First published September 2019. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 29 November 2021. First published September 2019. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -139,7 +139,7 @@ Plan for the video not to include important information that would be obstructed
 
 For other guidance including recording, see another page of this resource: [Sign Languages](/media/av/sign-languages/)
 
-### Plan for audio description of visual information – _storyboarding, recording_  (WCAG A, AA) {#plan-description}
+### Plan for description of visual information – _storyboarding, recording_  (WCAG A, AA) {#plan-description}
 
 _Description_ provides content to people who are blind and others who cannot see the video adequately. It describes the visual information needed to understand the content, **including text displayed in the video**.
 
@@ -149,7 +149,7 @@ Plan to either:
 
 #### Integrate description
 
-For some videos, such as presentations and instructional videos, the best way to handle audio description is not to need it at all &mdash; that is, all the visual information that users need to understand the content is integrated in the main audio. When planned in advance, this is fairly simple for many videos on the web. For example:
+For some videos, such as presentations and instructional videos, the best way to handle description is not to need it at all &mdash; that is, all the visual information that users need to understand the content is integrated in the main audio. This is called "integrated description". When planned in advance, this is fairly simple for many videos on the web. For example:
 
 <table>
   <tr>
@@ -172,7 +172,7 @@ For some videos, such as presentations and instructional videos, the best way to
 
 Here is an example [training video with the description integrated in what the trainer is saying (YouTube)<br>{% include image.html src="eg-integrated-description.png" alt="" class="normal video" %}](https://www.youtube.com/watch?v=JUfmCvdzqbM)
 
-If you want guidance on what to include in description, see the "Creating Audio Description of Visual Information" page, [Tips for Writing Description section](/media/av/description/#writing).
+If you want guidance on what to include in description, see the "Description of Visual Information" page, [Tips for Writing Description section](/media/av/description/#writing).
 
 #### Time for description
 
@@ -207,4 +207,4 @@ An example of this is the [Web Accessibility Perspectives: Video Captions](/pers
 
 #### More about description
 
-More information is in the next page of this resource: [Audio Description of Visual Information](/media/av/description/).
+More information is in the next page of this resource: [Description of Visual Information](/media/av/description/).
