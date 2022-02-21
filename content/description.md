@@ -59,8 +59,6 @@ This page helps you understand and create description of visual information for 
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
-  {::options toc_levels="2,3" /}
-
 {:toc}
 
 {::nomarkdown}
