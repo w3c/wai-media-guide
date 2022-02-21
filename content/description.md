@@ -54,12 +54,12 @@ This page helps you understand and create description of visual information for 
 {% include box.html type="end" %}
 {:/}
 
+{::options toc_levels="2,3" /}
 {::nomarkdown}
 {% include toc.html type="start" title="Page Contents" %}
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
-  {::options toc_levels="2,3" /}
 
 {:toc}
 
