@@ -3,7 +3,7 @@ title: "Changelog"
 nav_title: "Changelog"
 
 lang: en
-last_updated: 2021-11-29
+last_updated: 2022-05-17
 
 permalink: /media/av/changelog/
 ref: /media/av/changelog/   # Do not change
@@ -32,6 +32,9 @@ navigation:
 {% include toc.html type="end" %}
 {:/}
 
+## 17 May 2022
+
+* In [Description page](https://www.w3.org/WAI/media/av/description/), changed colosing parenthesis to period &mdash; [GitHub showing change](https://github.com/w3c/wai-media-guide/commit/aee97f249decacd960aa02972171190634242186).
 
 ## 29 November 2021
 
