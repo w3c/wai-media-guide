@@ -67,9 +67,10 @@ This page helps you understand and create description of visual information for 
 
 _What:_ Description explains visual information needed to understand the content. (For example, "Pat opens a small box, looks at a diamond engagement ring, and cries".) Depending on the type of video and media player, description can be:
 
-* **integrated** into the main script and recording (which works well for some training videos, yet not most stories)
-* **narration added to the main audio track** and provided in an alternative version of the video (for stories)
-* **provided in a text file or as a separate audio track** (if supported by the media player)
+*   **integrated** &mdash; the main speaker(s) provide description integrated in their speaking (which is usually best for most training videos, yet not most stories)
+*   **separate**
+    *   **separate video** &mdash; description is included in the main audio track and provided in an alternative version of the video (description is usually by a different speaker so it is easily distinguishable from the main audio)
+    *   **separate file** &mdash; the description is provided in a separate audio track or a text file (must be supported by the media player)
 
 _Who:_ Description provides content to people who are blind and others who cannot see the video adequately.
 
