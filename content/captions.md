@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/cc.svg
 nav_title: "Captions/Subtitles"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-11-29  # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2022-07-14  # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -27,7 +27,7 @@ description: Helps you understand and create captions (also called â€œsubtitlesâ
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 29 November 2021. First published September 2019. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 14 July 2022. First published September 2019. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -81,7 +81,7 @@ Captions are needed for accessibility, whereas subtitles in other languages are 
 
 ### Live Captions
 
-Live captions are usually done by professional real-time captioners (also called Communication Access Realtime Translation (CART) providers). Live captions can be done in-person or remotely. That is, the person doing the captioning/CART does not have to be at the same location as the live action; they can be doing the live captions by listening to the audio over a phone or Internet connection.
+Live captions are usually done by professional real-time captioners or Communication Access Realtime Translation (CART) providers. Live captions can be done in-person or remotely. That is, the person doing the captioning/CART does not have to be at the same location as the live action; they can be doing the live captions by listening to the audio over a phone or Internet connection.
 
 If you have live captions and you post a recording, you will probably need to do minor editing for accuracy.
 
