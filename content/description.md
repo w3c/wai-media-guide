@@ -68,8 +68,8 @@ This page helps you understand and create description of visual information for 
 _Who:_ Description provides content to people who are blind and others who cannot see the video adequately.
 
 _What:_ Description explains visual information needed to understand the content. (For example, "Pat opens a small box, looks at a diamond engagement ring, and cries".) Depending on the type of video, description can be:
-- **integrated description** — description is included in the main speakers scripts (which works well for some training videos, yet not most stories)
-- **alternative video** — description is included in a separate video, and is usually done by a different speaker
+- **integrated description** — description is included in the main speakers scripts
+- **alternative video** — description is included in a separate video
 - **separate file** — description is in a timed text file or synched audio file; must be supported by the media player
 
 {% include excol.html type="start" id="" %}
