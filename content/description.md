@@ -65,19 +65,36 @@ This page helps you understand and create description of visual information for 
 
 ## Introduction
 
-_What:_ Description explains visual information needed to understand the content. (For example, "Pat opens a small box, looks at a diamond engagement ring, and cries".) Depending on the type of video and media player, description can be:
-
-* **integrated** into the main script and recording (which works well for some training videos, yet not most stories)
-* **narration added to the main audio track** and provided in an alternative version of the video (for stories)
-* **provided in a text file or as a separate audio track** (if supported by the media player)
-
 _Who:_ Description provides content to people who are blind and others who cannot see the video adequately.
+
+_What:_ Description explains visual information needed to understand the content. (For example, "Pat opens a small box, looks at a diamond engagement ring, and cries".) Depending on the type of video, description can be:
+- **integrated description** — description is included in the main speakers scripts (which works well for some training videos, yet not most stories)
+- **alternative video** — description is included in a separate video, and is usually done by a different speaker
+- **separate file** — description is in a timed text file or synched audio file; must be supported by the media player
+
+{% include excol.html type="start" id="" %}
+More about types of description:
+{% include excol.html type="middle" %}
+- **integrated description**  _(example below)_
+  - one video with one audio track
+  - description is naturally woven into the script for the main speaker(s)
+  - usually best for most training videos, yet not most stories
+- **alternative video**  _(example below)_
+  - two videos: one without description, one with description
+  - description is included in one audio track
+  - description is usually by a different speaker so it is easily distinguishable from the main audio content
+- **separate file**
+  - one video with main audio track, **_and_**
+  - description is provided in a separate audio track **_or_** a timed text file
+  - must be supported by the media player
+{% include excol.html type="end" %}
 
 _Examples:_
 
-* [Training video with the description integrated in what the trainer is saying (YouTube)<br>{% include image.html src="eg-integrated-description.png" alt="" class="normal video" %}](https://www.youtube.com/watch?v=JUfmCvdzqbM)
+* Integrated: [Training video with the description integrated in what the trainer is saying (YouTube)<br>{% include image.html src="eg-integrated-description.png" alt="" class="normal video" %}](https://www.youtube.com/watch?v=JUfmCvdzqbM)
 
-* [Alternative story video with audio description in a different voice (YouTube)<br>{% include image.html src="using-description.jpg" alt="" class="normal video" %}](https://www.youtube.com/watch?v=F3A1VffiOH4)
+* Alterntive video: [Alternative story video with audio description in a different voice (YouTube)<br>{% include image.html src="using-description.jpg" alt="" class="normal video" %}](https://www.youtube.com/watch?v=F3A1VffiOH4)
+
 
 <p style="color:#686868; line-height:100%; font-size:0.875rem;">These videos are also available from the W3C website: <a href="https://www.w3.org/2020/10/TPAC/w3cx-challenging-assumptions.html#talk" style="color:#686868">training video (web page)</a>, <a href="http://media.w3.org/wai/perspective-videos/text-to-speech-ad.mp4" style="color:#686868">story video (MP4 file size 28MB)</a>.</p>
 
