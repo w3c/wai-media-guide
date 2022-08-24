@@ -3,7 +3,6 @@ title: "Changelog"
 nav_title: "Changelog"
 
 lang: en
-last_updated: 2022-05-17
 
 permalink: /media/av/changelog/
 ref: /media/av/changelog/   # Do not change
@@ -32,13 +31,21 @@ navigation:
 {% include toc.html type="end" %}
 {:/}
 
+## 24 August 2022
+
+* In [Description page, Introduction section](https://www.w3.org/WAI/media/av/description/#introduction), edited explanation of description types. [GitHub showing changes 24 Aug](https://github.com/w3c/wai-media-guide/pull/194/files)
+ 
+## 14 July 2022
+
+* In [Captions page, Live Captions section](https://www.w3.org/WAI/media/av/captions/#live-captions), changed: "Live captions are usually done by professional real-time captioners (also called Communication Access Realtime Translation (CART) providers)." to: "Live captions are usually done by professional real-time captioners or Communication Access Realtime Translation (CART) providers."
+
 ## 17 May 2022
 
-* In [Description page](https://www.w3.org/WAI/media/av/description/), changed colosing parenthesis to period &mdash; [GitHub showing change](https://github.com/w3c/wai-media-guide/commit/aee97f249decacd960aa02972171190634242186).
+* In [Description page](https://www.w3.org/WAI/media/av/description/), changed closing parenthesis to period. [GitHub showing changes 17 May](https://github.com/w3c/wai-media-guide/commit/aee97f249decacd960aa02972171190634242186)
 
 ## 29 November 2021
 
-* Minor changes to description language in 6 pages. [GitHub Pull Request with changes](https://github.com/w3c/wai-media-guide/pull/186/files).
+* Minor changes to description language in 6 pages. [GitHub showing changes 29 Nov](https://github.com/w3c/wai-media-guide/pull/186/files)
 
 ## 28 September 2021
 
