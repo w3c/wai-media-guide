@@ -41,7 +41,7 @@ navigation:
 
 ## 17 May 2022
 
-* In [Description page](https://www.w3.org/WAI/media/av/description/), changed colosing parenthesis to period. [GitHub showing changes 17 May](https://github.com/w3c/wai-media-guide/commit/aee97f249decacd960aa02972171190634242186)
+* In [Description page](https://www.w3.org/WAI/media/av/description/), changed closing parenthesis to period. [GitHub showing changes 17 May](https://github.com/w3c/wai-media-guide/commit/aee97f249decacd960aa02972171190634242186)
 
 ## 29 November 2021
 
