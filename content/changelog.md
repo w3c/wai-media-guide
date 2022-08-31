@@ -31,6 +31,10 @@ navigation:
 {% include toc.html type="end" %}
 {:/}
 
+## 31 August 2022
+
+* In [Audio Content and Video Content page](https://www.w3.org/WAI/media/av/av-content/), updated title of linked resource: [Making Events Accessible - Checklist for meetings, conferences, training, and presentations that are remote/virtual, in-person, or hybrid](https://www.w3.org/WAI/teach-advocate/accessible-presentations/)
+
 ## 24 August 2022
 
 * In [Description page, Introduction section](https://www.w3.org/WAI/media/av/description/#introduction), edited explanation of description types. [GitHub showing changes 24 Aug](https://github.com/w3c/wai-media-guide/pull/194/files)
