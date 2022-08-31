@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/av-content.svg
 nav_title: "Audio Content & Video Content"
 
 lang: en   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-11-29   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2022-08-31   # Change to date of translation YYYY-MM-DD (month in middle)
 # translator: "..."
 # contributors: "..."
 
@@ -27,7 +27,7 @@ description: Describes accessibility considerations when planning, scripting, st
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 29 November 2021. First published September 2019. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 31 Augudt 2022. First published September 2019. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -66,7 +66,7 @@ This page addresses accessibility considerations when planning, scripting, story
 
 Some of the guidance below is related to requirements in Web Content Accessibility Guidelines (WCAG) and has links to a separate resource. _(The Planning page of this resource introduces the [WCAG Standard](/media/av/planning/#wcag-standard).)_ Other guidance is good practice.
 
-Additional guidance is in the resource [[How to Make Your Presentations Accessible to All]](/teach-advocate/accessible-presentations/):
+Additional guidance is in the resource [[Making Events Accessible - Checklist for meetings, conferences, training, and presentations that are remote/virtual, in-person, or hybrid]](/teach-advocate/accessible-presentations/):
 * [Preparing Slides and Projected Material](/teach-advocate/accessible-presentations/#preparing-slides-and-projected-material-speakers)
 * [During the Presentation](/teach-advocate/accessible-presentations/#during-the-presentation-speakers)
 
