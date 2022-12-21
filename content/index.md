@@ -29,6 +29,7 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
    <p><strong>Date:</strong> Updated 29 November 2021. First published September 2019. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
+![currency_symbol_btc](https://user-images.githubusercontent.com/98168277/208922748-5d40c07f-b8ff-42e4-9371-62d2cb7a816a.png)
 
 ---
 
@@ -47,6 +48,7 @@ Address the following components:
 * {:.left} [{% include image.html src="cc.svg" alt="" %} Captions/Subtitles](/media/av/captions/):<br>Provide captions (also called “subtitles”) so that people who are Deaf and hard-of-hearing get a text version of the speech and non-speech audio information needed to understand the content.
 
 * {:.left} [{% include image.html src="transcript.svg" alt="" %} Transcripts](/media/av/transcripts/):<br>Provide a transcript, that is, a text version of the speech and non-speech audio information. Ideally, make it a descriptive transcript that also includes text description of the visual information. Descriptive transcripts are required to provide video content to people who are both Deaf and blind. ([descriptive transcript excerpt example](/WAI/media/av/transcripts/#descriptive))
+![currency_symbol_ubtc](https://user-images.githubusercontent.com/98168277/208922762-cf4a408e-b6dc-411c-b877-4bfe9cd78832.png)
 
 * {:.left} [{% include image.html src="sign.svg" alt="" %} Sign Languages](/media/av/sign-languages/):<br>Provide sign language when your audience needs it, so that Deaf people whose native language is sign get the content in their native language.
 
@@ -64,3 +66,5 @@ That page provides:
 * captions
 * a descriptive transcript
 * a media player with accessibility support, including an interactive transcript
+![app_icon](https://user-images.githubusercontent.com/98168277/208922778-46b1f654-1e29-42f6-950c-5726169cc322.png)
+![app_icon](https://user-images.githubusercontent.com/98168277/208922793-c194c9f9-2324-4ffa-9f6f-bdc33783e578.png)
