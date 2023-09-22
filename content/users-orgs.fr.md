@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/body.svg
 nav_title: "Besoins utilisateurs"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-06-30   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2022-09-23   # Change to date of translation YYYY-MM-DD (month in middle)
 translators:
 - name: "Rémi Bétin"
 
@@ -27,7 +27,7 @@ description: Introduit les besoins et les expériences utilisateur de personnes 
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date :</strong> Mis à jour le 12 avril 2021. Première publication : septembre 2019 (sur une page différente). CHANGELOG.</p>
+   <p><strong>Date :</strong> Mis à jour le 29 novembre 2021. Première publication : septembre 2019 (sur une page différente). CHANGELOG.</p>
    <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS : liste les contributeurs et les crédits.</p>
    <p>Développé par le groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access</a> financé par la fondation Ford.</p>
 
@@ -67,11 +67,11 @@ Cette page présente des besoins et des expériences d'utilisateurs. Elle expliq
 
 Il est tout d'abord utile de comprendre les expériences utilisateurs des personnes en situation de handicap. Ensuite, vous saurez le "pourquoi" derrière les exigences d'accessibilité des médias présentées dans cette ressource. Par exemple, une personne qui est sourde ne peut pas entendre l'audio, vous devez donc fournir les informations audio importantes sous une autre forme.
 
-* Beaucoup de personnes **sourdes** peuvent lire correctement un texte. Elles obtiennent les informations audio à partir de **transcriptions** ou de **sous-titres**. Certaines personnes préfèrent la **langue des signes**.
+* Beaucoup de personnes **sourdes** peuvent bien lire un texte. Elles obtiennent les informations audio à partir de **transcriptions** ou de **sous-titres**. Certaines personnes préfèrent la **langue des signes**.
 * Certaines personnes **malentendantes** aiment écouter l'audio pour entendre ce qu'elles peuvent, et bénéficient des **sous-titres** pour combler ce qu'elles ne peuvent pas entendre convenablement.
 * Certaines personnes ayant des **difficultés à traiter les informations auditives** utilisent aussi les **sous-titres**. Beaucoup utilisent les **transcriptions** pour pouvoir lire à leur rythme.
-* Certaines personnes **aveugles** ou malvoyantes ne peuvent pas bien voir les vidéos voire pas du tout. Elles utilisent **l'audiodescription des informations visuelles** pour comprendre ce qu'il se passe visuellement.
-* Certaines personnes **sourdes et aveugles** utilisent un lecteur d'écran et le braille pour lire les **transcriptions descriptives** qui incluent les informations audios et visuelles sous forme de texte.
+* Certaines personnes **aveugles** ou malvoyantes ne peuvent pas bien voir les vidéos voire pas du tout. Elles utilisent **une description des informations visuelles** pour comprendre ce qu'il se passe visuellement. *(La description est appelée audio-description, vidéo-description ou vidéo décrite.)*
+* Certaines personnes **sourdes-aveugles** utilisent un lecteur d'écran et le braille pour lire les **transcriptions descriptives** qui incluent les informations audio et visuelles sous forme de texte.
 * Certaines personnes **ne peuvent pas se concentrer et comprendre les informations auditives et visuelles** quand les images bougent. Pour la plupart des vidéos, elles ont également besoin de **transcriptions descriptives**.
 * Certaines personnes ne peuvent pas utiliser leurs mains et **utilisent un logiciel de reconnaissance vocale** pour commander leur ordinateur, y compris le **lecteur multimédia**.  Et les personnes **aveugles** ont besoin que le lecteur multimédia fonctionne sans souris.
 * Certaines personnes utilisent plusieurs fonctionnalités d'accessibilité en même temps. Par exemple, quelqu'un peut vouloir des sous-titres, une description textuelle des informations visuelles, et une description audio.
@@ -81,7 +81,7 @@ Si vous souhaitez en savoir plus, consultez ces autres ressources :
 * [Exigences des utilisateurs en matière d’accessibilité des contenus multimédia](https://www.w3.org/TR/media-accessibility-reqs/)
 * [[Impliquer les utilisateurs dans les projets Web pour améliorer et faciliter l'accessibilité]](/planning/involving-users/)
 
-## Utilisée par des personnes avec ou _sans_ handicaps {#situations}
+## Utilisées par des personnes avec ou _sans_ handicaps {#situations}
 
 Un média accessible est **essentiel pour les personnes en situation de handicap**, et est **utile pour tous**. Les fonctionnalités d'accessibilité sont également utilisées par des personnes _sans_ handicaps dans une multitude de situations.
 

@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/cc.svg
 nav_title: "Sous-titres"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-06-30   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2023-09-23   # Change to date of translation YYYY-MM-DD (month in middle)
 translators:
 - name: "Sofia Ahmed"
 - name: "Rémi Bétin"
@@ -30,7 +30,7 @@ description: Vous aide à comprendre et à créer des sous-titres pour l'accessi
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date :</strong> Mise à jour : 24 février 2021. Première publication en septembre 2019 CHANGELOG.</p>
+   <p><strong>Date :</strong> Mise à jour : 14 juillet 2022. Première publication en septembre 2019 CHANGELOG.</p>
    <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS liste les contributeurs et les crédits.</p>
    <p>Développé par le groupe de travail Éducation et promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access</a> financé par la fondation Ford.</p>
 
@@ -84,7 +84,7 @@ Les sous-titres intralinguistiques sont nécessaires pour l'accessibilité, alor
 
 ### Les sous-titres en direct
 
-Les sous-titres en direct sont généralement produits par des professionnels du sous-titrage en temps réel (également appelés professionnels de la traduction en temps réel des communications (CART)). Les sous-titres en direct peuvent être effectués sur place ou à distance. Cela signifie que la personne qui fait le sous-titrage/CART ne se trouve pas nécessairement là où a lieu l'action en direct ; elles peuvent créer les sous-titres en écoutant l'audio depuis un téléphone portable ou une connexion Internet.
+Les sous-titres en direct sont généralement produits par des professionnels du sous-titrage en temps réel ou des fournisseurs de traduction en temps réel des communications (CART). Les sous-titres en direct peuvent être effectués sur place ou à distance. Cela signifie que la personne qui fait le sous-titrage/CART ne se trouve pas nécessairement là où a lieu l'action en direct ; elles peuvent créer les sous-titres en écoutant l'audio depuis un téléphone portable ou une connexion Internet.
 
 Si vous avez des sous-titres en direct et que vous postez un enregistrement, vous devrez probablement effectuer quelques retouches pour en assurer l'exactitude.
 
@@ -100,7 +100,7 @@ Les fichiers de sous-titres sont utilisés par certains lecteurs multimédias po
 ### À noter
 {:.no_toc}
 
-Pour une accessibilité optimale, fournissez un fichier de sous-titres séparé pour la description audio.
+Pour une accessibilité optimale, fournissez un fichier de sous-titres séparé pour la description des informations visuelles (appelée audio-description, vidéo-description ou vidéo décrite).
 
 **Les sous-titres et les transcriptions contiennent le même texte, les unes pouvant donc être utilisées pour créer les autres.**
 
@@ -200,7 +200,7 @@ Il existe des outils qui utilisent une technologie de reconnaissance vocale pour
 {:/}
 
 {% include image.html src="food-fire.jpg" alt="" class="normal right" %}
-  _Texte énoncé :_<br>&quot;Grillez à feu vif pendant <strong>4 à 5 minutes</strong>. Ne préchauffez <strong>pas</strong> le four.&quot;<br>
+  _Audio prononcé :_<br>&quot;Grillez à feu vif pendant <strong>4 à 5 minutes</strong>. Ne préchauffez <strong>pas</strong> le four.&quot;<br>
   _Sous-titre automatique :_<br>&quot;Grillez à feu vif pendant <strong>45 minutes</strong>. <strong>Préchauffez</strong> le four.&quot;
 
 {::nomarkdown}
@@ -239,7 +239,7 @@ WEBVTT
 {% include box.html type="end" %}
 {:/}
 
-D'autres formats de sous-titres existent : le <i lang="en">Timed Text Markup Language</i> ([TTML](https://www.w3.org/TR/ttml2/)) et le [SRT](https://matroska.org/technical/specs/subtitles/srt.html).
+D'autres formats de sous-titres existent : le SRT et le <i lang="en">Timed Text Markup Language</i> ([TTML](https://www.w3.org/TR/ttml2/)).
 
 ### Outils de sous-titrage
 

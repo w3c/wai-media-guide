@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/planning.svg
 nav_title: "Planifier"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-06-29   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2023-09-24   # Change to date of translation YYYY-MM-DD (month in middle)
 translators:
 - name: "Sofia Ahmed"
 - name: "Rémi Bétin"
@@ -29,7 +29,7 @@ description: Vous aide à organiser la mise en accessibilité de vos audios et v
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date :</strong> Mise à jour 12 septembre 2020. CHANGELOG.</p>
+   <p><strong>Date :</strong> Mise à jour 11 janvier 2021. Première publication en septembre 2019. CHANGELOG.</p>
    <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS liste les contributeurs et les crédits.</p>
    <p>Développé par le groupe de travail Éducation et promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access</a> financé par la fondation Ford.</p>
 
@@ -60,10 +60,10 @@ Cette page vous aide à :
 {% include toc.html type="end" %}
 {:/}
 
-## Introduction
+## Influences
 {:.no_toc}
 
-Les fonctionnalités d'accessibilité à fournir avec votre contenu multimédia seront probablement influencés par :
+Les fonctionnalités d'accessibilité à fournir avec votre contenu multimédia seront probablement influencées par :
 * [les besoins des utilisateurs et les bénéfices business](/users-orgs/)
 * les réglementations gouvernementales et les autres exigences de politiques
 * le budget et les contraintes de temps
@@ -150,7 +150,7 @@ Cette section concerne les contenus seulement audio, comme les podcasts qui ne c
 **La vidéo contient-elle des informations visuelles** nécessaires à la compréhension du contenu ?
 
 -   Si oui,
-    -   **[Audio-description des informations visuelles](/media/av/description/) (A/AA) _ou_  [transcription descriptive](//media/av/transcripts/) (A)**
+    -   **[Audio-description des informations visuelles](/media/av/description/) _ou_  [transcription descriptive](//media/av/transcripts/) (A)**
     -   **[Audio-description des informations visuelles](/media/av/description/) (AA)**
     -   **[Transcription descriptive](//media/av/transcripts/) (AAA)** *(Si vous disposez d'une transcription descriptive, vous n'avez pas besoin d'une transcription supplémentaire des informations seulement audio évoquée dans la question précédente.)*
     {:.alt}

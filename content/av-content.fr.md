@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/av-content.svg
 nav_title: "Contenu audio et contenu vidéo"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-06-29   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2023-09-23 # Change to date of translation YYYY-MM-DD (month in middle)
 translators:
 - name: Sofia Ahmed
 - name: "Rémi Bétin"
@@ -28,7 +28,7 @@ description: Décrit les considérations pour l'accessibilité à prendre en com
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date :</strong>  Mis à jour le 22 février 2021. Première publication septembre 2019. CHANGELOG.</p>
+   <p><strong>Date :</strong>  Mis à jour le 31 août 2022. Première publication septembre 2019. CHANGELOG.</p>
    <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS liste les contributeurs et les crédits.</p>
    <p>Développé par le groupe de travail Éducation et promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Acess</a> financé par la fondation Ford.</p>
 
@@ -67,7 +67,7 @@ Cette page décrit les considérations pour l'accessibilité lors de la planific
 
 Certaines des recommandations ci-dessous sont liées aux exigences des Règles pour l'accessibilité des contenus Web (WCAG) et contiennent des liens vers une ressource distincte. _(La page de cette ressource sur la planification introduit le [standard WCAG](/media/av/planning/#wcag-standard).)_ Des recommandations supplémentaires sont profitables.
 
-Des conseils supplémentaires sont présentés dans la ressource [[Comment rendre vos présentations accessibles à tous]](/teach-advocate/accessible-presentations/):
+Des conseils supplémentaires sont présentés dans la ressource [[Rendre les événements accessibles - Liste pour les réunions, conférences, formations et présentations à distance/virtuelles, en personne, ou hybrides]](/teach-advocate/accessible-presentations/):
 * [Préparer les diapositives et le contenu projeté](/teach-advocate/accessible-presentations/#preparing-slides-and-projected-material-speakers)
 * [Pendant la présentation](/teach-advocate/accessible-presentations/#during-the-presentation-speakers)
 
@@ -140,7 +140,7 @@ Prévoyez que la vidéo ne comprenne pas d'information importante qui pourrait �
 
 Pour d'autres recommandations concernant l'étape d'enregistrement, consultez une autre page de cette ressource : [Langues des signes](/media/av/sign-languages/)
 
-### Prévoyez l'audiodescription des informations visuelles – _story-board, enregistrement_  (WCAG A, AA) {#plan-description}
+### Prévoyez la description des informations visuelles – _story-board, enregistrement_  (WCAG A, AA) {#plan-description}
 
 La _description_ fournit du contenu pour les personnes aveugles et d'autres personnes qui ne peuvent pas voir la vidéo correctement. Elle décrit l'information visuelle nécessaire à la compréhension du contenu, **incluant le texte affiché dans la vidéo**.
 
@@ -150,7 +150,7 @@ Prévoyez soit :
 
 #### Intégrer une description
 
-Pour de nombreuses vidéos, telles que les présentations ou les vidéos didactiques, le meilleur moyen de gérer l'audio-description est de ne pas en avoir besoin du tout &mdash; c'est-à-dire, que toutes les informations visuelles dont les utilisateurs ont besoin pour comprendre le contenu soient intégrés à l'audio principal. Lorsque prévu à l'avance, cela est relativement facile pour de nombreux types de vidéos sur le Web. Par exemple :
+Pour de nombreuses vidéos, telles que les présentations ou les vidéos didactiques, le meilleur moyen de gérer la description est de ne pas en avoir besoin du tout &mdash; c'est-à-dire, que toutes les informations visuelles dont les utilisateurs ont besoin pour comprendre le contenu soient intégrés à l'audio principal. On appelle cela une "description intégrée". Lorsque prévu à l'avance, cela est relativement facile pour de nombreux types de vidéos sur le Web. Par exemple :
 
 <table>
   <tr>
@@ -173,7 +173,7 @@ Pour de nombreuses vidéos, telles que les présentations ou les vidéos didacti
 
 Voici un exemple de [vidéo de formation avec la description intégrée dans le discours du formateur  (YouTube)<br>{% include image.html src="eg-integrated-description.png" alt="" class="normal video" %}](https://www.youtube.com/watch?v=JUfmCvdzqbM)
 
-Si vous souhaitez des conseils sur ce qu'il faut inclure dans la description, consultez la page "Créer une audiodescription pour les informations visuelles", dans la section [Conseils pour rédiger une description](/media/av/description/#writing).
+Si vous souhaitez des conseils sur ce qu'il faut inclure dans la description, consultez la page "Description des informations visuelles", dans la section [Conseils pour rédiger une description](/media/av/description/#writing).
 
 #### Prévoir du temps pour la description
 
@@ -208,4 +208,4 @@ Retrouvez un exemple cette méthode avec la vidéo : [L'accessibilité Web illus
 
 #### En savoir plus sur la description
 
-Vous trouverez plus d'informations dans la page suivante de cette ressource : [Audiodescription des informations visuelles](/media/av/description/).
+Vous trouverez plus d'informations dans la page suivante de cette ressource : [Description des informations visuelles](/media/av/description/).

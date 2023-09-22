@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/player-nobackground.svg
 nav_title: "Lecteur multimédia"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-06-29   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2022-09-23   # Change to date of translation YYYY-MM-DD (month in middle)
 translators:
 - name: "Sofia Ahmed"
 - name: "Rémi Bétin"
@@ -28,7 +28,7 @@ description: Introduit les considérations à prendre en compte pour fournir un 
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date :</strong> Mise à jour le 10 septembre 2019. Première publication septembre 2019. CHANGELOG.</p>
+   <p><strong>Date :</strong> Mise à jour le 29 novembre 2021. Première publication septembre 2019. CHANGELOG.</p>
    <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS liste les contributeurs et les crédits.</p>
    <p>Développé par le groupe de travail Éducation et promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Rédigé initialement dans le cadre du projet <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA</a> financé par le <abbr title="United States">U.S.</abbr> Access Board. Révisé dans le cadre du projet <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access</a> financé par la fondation Ford.</p>
 
@@ -97,7 +97,7 @@ Chaque lecteur multimédia dispose d'une documentation sur les étapes à suivre
 
 ### Support des méthodes de description
 
-Une fonctionnalité du lecteur multimédia est nécessaire pour certaines méthodes d'audiodescription des informations visuelles, comme décrit dans la page [Description](/media/av/description/). À notre connaissance, les lecteurs multimédia suivants fournissent de telles fonctionnalités :
+Une fonctionnalité du lecteur multimédia est nécessaire pour certaines méthodes de description des informations visuelles *(appelée audio-description, vidéo-description, ou vidéo décrite)*, as explained, comme expliqué dans la page [Description](/media/av/description/). À notre connaissance, les lecteurs multimédia suivants fournissent de telles fonctionnalités :
 * Supporte une description dans un fichier texte (format VTT) :
    * AblePlayer : supporte la description lorsqu'il y a de l'espace dans l'audio, et lorsque la vidéo doit être mise en pause ("description étendue")
    * video.js : supporte la description lorsqu'il y a de l'espace dans l'audio ; ne supporte **pas** la description lorsque la vidéo doit être mise en pause ("description étendue")
