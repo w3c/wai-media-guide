@@ -155,7 +155,7 @@ Vidéo avec du contenu audio :
 
 Les transcriptions descriptives sont nécessaires pour les personnes sourdes et aveugles et d'autres. (Retrouvez davantage de contexte dans la page Planifier : [Transcriptions descriptives](/media/av/planning/#descriptive-transcripts).) De plus, **les transcriptions descriptives sont faciles et peu coûteuses à produire** en utilisant les sous-titres et l'audio-description qui doivent déjà répondre aux critères du niveau AA, comme expliqué sur cette page.
 
-## Processus – Compétences et outils
+## Processus – Compétences et outils {#process-skills-and-tools}
 
 Le processus pour fournir des transcriptions consiste généralement à :
 1.	Obtenir une version textuelle de l'audio, appelée "transcription".

@@ -177,7 +177,7 @@ La vidéo contient-elle des informations audios nécessaires à la compréhensio
 * [A 1.2.2 Sous-titres](https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded.html) (pré-enregistrés) : fournir des sous-titres pour tout contenu audio pré-enregistré dans un média synchronisé...
 * [AA 1.2.4 Sous-titres](https://www.w3.org/WAI/WCAG21/Understanding/captions-live.html) (en direct) : fournir une audio-description pour tout contenu vidéo pré-enregistré, sous forme de média synchronisé.
 
-## Compétences et outils
+## Compétences et outils {#skills-and-tools}
 
 La création de sous-titres nécessite de taper à l'ordinateur l'audio ("transcription") et de le formater dans un fichier avec des horodatages. La transcription d'un fichier audio est relativement difficile et prend un certain temps pour les personnes qui n'ont pas le logiciel et les compétences requises pour un tel exercice. Le format de fichier pour les sous-titres est simple, mais ajouter les horodatages est fastidieux, particulièrement sans un logiciel ou un service de création de fichiers de sous-titres.
 
@@ -189,7 +189,7 @@ En revanche, les personnes qui ont le logiciel, les compétences et de l'expéri
 
 Pour ces raisons, de nombreuses organisations choisissent de sous-traiter la création de leurs sous-titres.
 
-## Les sous-titres automatiques ne suffisent pas
+## Les sous-titres automatiques ne suffisent pas {#automatic-captions-are-not-sufficient}
 
 Les sous-titres générés automatiquement ne répondent pas aux besoins des utilisateurs ou aux exigences d'accessibilité, sauf s'il a été vérifié qu'ils sont tout à fait fidèles à l'audio. Généralement, ils nécessitent d'importantes révisions.
 

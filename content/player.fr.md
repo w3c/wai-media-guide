@@ -69,7 +69,7 @@ L'utilisation d'un lecteur multimédia déjà existant requiert des compétences
 
 Le développement de votre propre lecteur multimédia accessible requiert des compétences avancées en HTML et en JavaScript.
 
-## Les fonctionnalités d'un lecteur accessible
+## Les fonctionnalités d'un lecteur accessible {#player-accessibility-functionality}
 
 Les lecteurs multimédia accessibles fournissent une interface utilisateur qui fonctionne sans souris, au moyen d'une interface vocale, lorsque la page est agrandie, et avec des lecteurs d'écran. Par exemple, les lecteurs multimédia doivent :
 * Fournir une assistance au clavier (voir [Comprendre les WCAG : Accessible au clavier](https://www.w3.org/WAI/WCAG21/Understanding/keyboard-accessible))

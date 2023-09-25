@@ -163,7 +163,7 @@ Vidéo :
 * [AA 1.2.5 Audio-description](https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded.html) (pré-enregistrée) : fournir une audio-description pour tout contenu vidéo pré-enregistré, sous forme de média synchronisé.
 * [AAA 1.2.7 Audio-description étendue](https://www.w3.org/WAI/WCAG21/Understanding/extended-audio-description-prerecorded.html) (pré-enregistrée) : lorsque les blancs présents dans le fond sonore ne sont pas suffisants pour permettre à l'audio-description de transmettre le sens de la vidéo, fournir une audio-description étendue pour tout contenu vidéo pré-enregistré sous la forme de média synchronisé.
 
-## Considérations à prendre en compte pour la description, compétences, et outils
+## Considérations à prendre en compte pour la description, compétences, et outils {#description-considerations-skills-and-tools}
 
 Lorsque l'accessibilité est prise en compte _avant_ de commencer la production des vidéos, les coûts et les efforts sont significativement moindres pour créer une description. Pour certains types de vidéos (telles que les vidéos de formation), la description des informations visuelles peut être intégrée facilement par les locuteurs au moment de la planification et de la création de la vidéo ; vous n'aurez donc pas besoin d'une description à part, ce qui vous fera économiser des coûts supplémentaires.
 

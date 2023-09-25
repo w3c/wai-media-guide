@@ -83,7 +83,7 @@ La langue des signes n'est pas requise par la plupart des politiques d'accessibi
 
 Le standard des WCAG situe la langue des signes au niveau AAA : [Comprendre 1.2.6 Langue des signes](https://www.w3.org/WAI/WCAG21/Understanding/sign-language-prerecorded.html). _(La page Planifier de cette ressource présente le [standard WCAG](/media/av/planning/#wcag-standard).)_
 
-## Compétences et outils
+## Compétences et outils {#skills-and-tools}
 
 Pour inclure des alternatives en langue des signes, vous aurez besoin de personnes, de compétences et d'outils pour :
 * faire l'interprétation en langue des signes
