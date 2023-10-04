@@ -62,17 +62,17 @@ Cette page vous aide à comprendre et à créer des sous-titres.
 
 ## Introduction
 
-_Qui :_ Les sous-titres (aussi appelés "sous-titres intralinguistiques") fournissent du contenu pour les personnes sourdes et celles qui ne peuvent pas entendre l'audio. Elles sont aussi utilisées par les personnes qui comprennent plus facilement l'information écrite plutôt que l'audio.
+_Qui :_ Les sous-titres (aussi appelés "sous-titres intralinguistiques") fournissent du contenu pour les personnes sourdes et celles qui ne peuvent pas entendre l'audio. Ils sont aussi utilisés par les personnes qui comprennent plus facilement l'information écrite que l'audio.
 
 {% include image.html src="captions.png" alt="" class="normal right" %}
 
-_Quoi :_ Les sous-titres sont une version texte de l'information audio parlée ou non, nécessaire à la compréhension du contenu. Ils apparaissent dans le lecteur multimédia et sont synchronisées avec l'audio.
+_Quoi :_ Les sous-titres sont une version texte des informations audio, parlées ou non, nécessaires à la compréhension du contenu. Ils apparaissent dans le lecteur multimédia et sont synchronisés avec l'audio.
 
-La plupart sont des "sous-titres codés" qui peuvent être masquées ou activées par les personnes qui regardent la vidéo. Ils peuvent également être des "sous-titres décodés" qui apparaissent en continu sans possibilité de les désactiver.
+La plupart sont des "sous-titres codés" qui peuvent être masqués ou activés par les personnes qui regardent la vidéo. Ils peuvent également être des "sous-titres non codés" qui apparaissent systématiquement sans possibilité de les désactiver.
 
-### Sous-titres
+### <em lang="en">Captions</em> et <em lang="en">Subtitles</em>
 
-Les termes anglais <em lang="en">captions</em> et <em lang="en">subtitles</em> sont utilisés pour désigner la même chose dans différentes régions dans le monde. Dans sa version originale en anglais, cette ressource utilise les termes :
+Les termes anglais <em lang="en">captions</em> et <em lang="en">subtitles</em> sont utilisés pour désigner la même chose dans différentes régions du monde. Dans sa version originale en anglais, cette ressource utilise les termes :
 * _<em lang="en">Captions</em>_ pour la même langue que l'audio parlé.
 * _<em lang="en">Subtitles</em>_ pour l'audio parlé traduit dans une autre langue.
 
@@ -84,7 +84,7 @@ Les sous-titres intralinguistiques sont nécessaires pour l'accessibilité, alor
 
 ### Les sous-titres en direct
 
-Les sous-titres en direct sont généralement produits par des professionnels du sous-titrage en temps réel ou des fournisseurs de traduction en temps réel des communications (CART). Les sous-titres en direct peuvent être effectués sur place ou à distance. Cela signifie que la personne qui fait le sous-titrage/CART ne se trouve pas nécessairement là où a lieu l'action en direct ; elles peuvent créer les sous-titres en écoutant l'audio depuis un téléphone portable ou une connexion Internet.
+Les sous-titres en direct sont généralement produits par des professionnels du sous-titrage en temps réel ou des fournisseurs de traduction en temps réel des communications (CART). Les sous-titres en direct peuvent être effectués sur place ou à distance. Cela signifie que les personnes qui font le sous-titrage/CART ne se trouvent pas nécessairement là où a lieu l'action en direct ; elles peuvent créer les sous-titres en écoutant l'audio depuis un téléphone portable ou une connexion Internet.
 
 Si vous avez des sous-titres en direct et que vous postez un enregistrement, vous devrez probablement effectuer quelques retouches pour en assurer l'exactitude.
 
@@ -93,7 +93,7 @@ Le reste de cette page concerne la création de sous-titres pour les contenus mu
 ### Transcriptions interactives à partir des sous-titres
 {:.no_toc}
 
-Les fichiers de sous-titres sont utilisés par certains lecteurs multimédias pour fournir des _transcriptions interactives_. Celles-ci surlignent les phrases de texte lorsqu'elles sont prononcées. Les utilisateurs peuvent sélectionner du texte dans la transcription et atteindre cet instant dans la vidéo. Certains lecteurs fournissent une fonctionnalité de transcription interactive.
+Les fichiers de sous-titres sont utilisés par certains lecteurs multimédias pour fournir des _transcriptions interactives_. Celles-ci surlignent les parties de texte lorsqu'elles sont prononcées. Les utilisateurs peuvent sélectionner du texte dans la transcription et atteindre cet instant dans la vidéo. Certains lecteurs fournissent une fonctionnalité de transcription interactive.
 
 <img src="{{ "/content-images/wai-media-guide/interactive-transcript.png" | relative_url }}" alt="">
 
@@ -122,7 +122,7 @@ Contenu seulement audio (par exemple, les podcasts) :
     *   Les sous-titres sont utiles pour les personnes malentendantes pour comprendre les subtilités de l'audio et combler ce qu'elles n'ont pas bien entendu en lisant les sous-titres.<br>Les sous-titres ne sont pas requis pour répondre aux WCAG. (Les transcriptions sont de niveau A.)
     {:.alt}
 *   Pour un contenu diffusé en direct :
-    *   Les sous-titres sont utiles pour les personnes malentendantes pour comprendre les subtilités de l'audio et combler ce qu'elles n'entendent pas bien en lisant les sous-titres.<br>La mise à disposition d'un flux textuel en direct ou d'un scénario fidèle à l'audio est demandée par les WCAG au niveau AAA.
+    *   Les sous-titres sont utiles pour les personnes malentendantes pour comprendre les subtilités de l'audio et combler ce qu'elles n'entendent pas bien en lisant les sous-titres.<br>Un flux textuel en direct, ou la mise à disposition en direct d'un script fidèle à l'audio est demandée par les WCAG au niveau AAA.
     {:.alt}
 
 {::nomarkdown}
@@ -153,7 +153,7 @@ Vidéo avec du contenu audio :
 {% include box.html type="start" title=boxhead class="highlighted" id="checklist-va" %}
 {:/}
 
-La vidéo contient-elle des informations audios nécessaires à la compréhension du message véhiculé par la vidéo ?
+La vidéo contient-elle des informations audios nécessaires pour comprendre le message véhiculé par la vidéo ?
 
 *   Si non (par exemple, il s'agit juste d'une musique de fond) :
     *   Les sous-titres ne sont pas nécessaires car il n'y a pas de contenu audio important. Pensez à [informer les utilisateurs](/media/av/planning/#none).
@@ -179,9 +179,9 @@ La vidéo contient-elle des informations audios nécessaires à la compréhensio
 
 ## Compétences et outils {#skills-and-tools}
 
-La création de sous-titres nécessite de taper à l'ordinateur l'audio ("transcription") et de le formater dans un fichier avec des horodatages. La transcription d'un fichier audio est relativement difficile et prend un certain temps pour les personnes qui n'ont pas le logiciel et les compétences requises pour un tel exercice. Le format de fichier pour les sous-titres est simple, mais ajouter les horodatages est fastidieux, particulièrement sans un logiciel ou un service de création de fichiers de sous-titres.
+La création de sous-titres nécessite de taper à l'ordinateur l'audio ("transcrire") et de le formater dans un fichier avec des horodatages. Transcrire un fichier audio est relativement difficile et prend un certain temps pour les personnes qui n'ont pas le logiciel et les compétences requises. Le format de fichier pour les sous-titres est simple, mais ajouter les horodatages est fastidieux, particulièrement sans un logiciel ou un service de création de fichiers de sous-titres.
 
-La création de sous-titres de haute qualité nécessite de savoir quelles informations audios non vocales doivent être incluses dans les sous-titres. Cela relève plus de l'art que de la science &mdash; par exemple, il n'est pas toujours évident d'identifier les informations audios non vocales à inclure et de savoir comment les communiquer sous forme de texte.
+La création de sous-titres de haute qualité nécessite de savoir quelles informations audio non-parlées doivent être incluses dans les sous-titres. C'est plus de l'art que de la science &mdash; par exemple, il n'est pas toujours facile de savoir quelles informations audios non parlées inclure&nbsp;; et comment en rendre compte dans le texte.
 
 Même la correction d'un fichier de sous-titres peut prendre un certain temps pour des personnes qui ne le font pas régulièrement.
 
@@ -193,7 +193,7 @@ Pour ces raisons, de nombreuses organisations choisissent de sous-traiter la cr�
 
 Les sous-titres générés automatiquement ne répondent pas aux besoins des utilisateurs ou aux exigences d'accessibilité, sauf s'il a été vérifié qu'ils sont tout à fait fidèles à l'audio. Généralement, ils nécessitent d'importantes révisions.
 
-Il existe des outils qui utilisent une technologie de reconnaissance vocale pour transformer une bande sonore en un fichier de sous-titres synchronisées. Par exemple, certaines sites Web de vidéos connus fournissent des sous-titres automatiques synchronisées. Cependant, le texte des sous-titres contient souvent des erreurs et ne correspond pas à l'audio ; parfois d'une façon qui en change le sens (ou est embarrassante). Par exemple, oublier un seul mot tel que "pas" peut créer une contradiction entre les sous-titres et le contenu réel de l'audio.
+Il existe des outils qui utilisent une technologie de reconnaissance vocale pour transformer une bande sonore en un fichier de sous-titres synchronisées. Par exemple, certaines sites Web de vidéos connus fournissent des sous-titres automatiques synchronisées. Cependant, le texte des sous-titres contient souvent des erreurs et ne correspond pas à l'audio ; parfois d'une façon qui en change le sens (ou est gênante). Par exemple, oublier un seul mot tel que "pas" peut créer une contradiction entre les sous-titres et le contenu réel de l'audio.
 
 {::nomarkdown}
 {% include box.html type="start" title="Exemple de sous-titres automatiques mal transcrits (pouvant provoquer un incendie)" class="simple aside"  %}
@@ -213,7 +213,7 @@ Les sous-titres automatiques peuvent être utilisés comme un point de départ p
 
 ### Format d'un fichier de sous-titres
 
-Le format le plus connu pour les sous-titres sur le Web est le [WebVTT](https://www.w3.org/TR/webvtt/) : le <i lang="en">Web Video Text Tracks Format</i> (format des pistes de texte vidéo sur le Web).
+Le format le plus connu pour les sous-titres sur le Web est le [WebVTT](https://www.w3.org/TR/webvtt/) : le <em lang="en">Web Video Text Tracks Format</em>.
 
 {::nomarkdown}
 {% include box.html type="start" title="Exemple de fichier VTT dont les locuteurs sont identifiés" class="" %}
@@ -229,17 +229,17 @@ WEBVTT
 <v Shawn Henry>Merci pour cette opportunité de partager des informations sur l'accessibilité.
 
 00:17.000 --> 00:20.000
-<v Rajwinder>Commencez peut-être par nous en dire un peu plus sur votre rôle au sein de W3C ?
+<v Rajwinder>Pourriez-vous commencer par nous expliquer un peu votre rôle au sein de W3C ?
 
 00:20.000 --> 00:24.000
-<v Shawn>Je travaille au sein de l'initiative pour l'accessibilité du Web, W-A-I, que l'on prononce "wey".
+<v Shawn>Je travaille au sein de l'Initiative pour l'accessibilité du Web, W-A-I, que l'on prononce "wey".
 ```
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-D'autres formats de sous-titres existent : le SRT et le <i lang="en">Timed Text Markup Language</i> ([TTML](https://www.w3.org/TR/ttml2/)).
+D'autres formats de sous-titres existent : le SRT et le <em lang="en">Timed Text Markup Language</em> ([TTML](https://www.w3.org/TR/ttml2/)).
 
 ### Outils de sous-titrage
 
@@ -255,10 +255,10 @@ La plupart des outils d'édition de sous-titres permettent d'exporter une transc
 
 ### Transcrire du contenu audio en texte
 
-Retrouvez des conseils spécifiques sur ce qu'il faut taper dans une autre page de cette ressource : [Transcrire un contenu audio en texte](/WAI/media/av/transcribing/).
+Retrouvez des conseils spécifiques sur ce qu'il faut taper dans une autre page de cette ressource : [[Transcrire un contenu audio en texte]](/media/av/transcribing/).
 
 ## Positionner et styliser les sous-titres
 
-Des options existent pour aider les auteurs à déterminer la position et le style des sous-titres. Le support par les navigateurs et les autres lecteurs multimédia est variable et parfois peu fiable. La plupart des vidéos sur le Web utilisent simplement le style de présentation par défaut du lecteur, c'est-à-dire généralement des caractères blancs dans un bandeau noir.
+Des options existent pour permettre aux auteurs de déterminer la position et le style des sous-titres. Le support par les navigateurs et les autres lecteurs multimédia est variable et parfois peu fiable. La plupart des vidéos sur le Web utilisent simplement le style de présentation par défaut du lecteur, généralement des caractères blancs dans un bandeau noir.
 
-Certains lecteurs multimédia permettent aux utilisateurs de paramétrer où et comment les sous-titres vont apparaître, notamment le style du texte, la taille des caractères, les couleurs, et la position des sous-titres.
+Certains lecteurs multimédia permettent aux utilisateurs de paramétrer où et comment les sous-titres apparaissent, notamment le style du texte, la taille des caractères, les couleurs, et la position des sous-titres.
