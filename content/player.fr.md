@@ -73,9 +73,9 @@ Le développement de votre propre lecteur multimédia accessible requiert des co
 
 Les lecteurs multimédia accessibles fournissent une interface utilisateur qui fonctionne sans souris, au moyen d'une interface vocale, lorsque la page est agrandie, et avec des lecteurs d'écran. Par exemple, les lecteurs multimédia doivent :
 * Fournir une assistance au clavier (voir [Comprendre les WCAG : Accessible au clavier](https://www.w3.org/WAI/WCAG21/Understanding/keyboard-accessible))
-* Rendre l'indicateur du focus clavier visible (voir [Comprendre les WCAG : Visibilité du focus](https://www.w3.org/WAI/WCAG21/Understanding/focus-visible))
+* Rendre l'indicateur de focus du clavier visible (voir [Comprendre les WCAG : Visibilité du focus](https://www.w3.org/WAI/WCAG21/Understanding/focus-visible))
 * Fournir des étiquettes claires (voir [Comprendre les WCAG : Étiquettes ou instructions](https://www.w3.org/WAI/WCAG21/Understanding/labels-or-instructions), [Information et relations](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships))
-* Avoir un contraste suffisant entre les couleurs du texte, des commandes, et des arrières-plans (voir [Comprendre les WCAG : Contraste (minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum), [Contraste (amélioré)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced), [Contraste non textuel](https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html))
+* Avoir un contraste suffisant entre les couleurs du texte, des commandes, et des arrières-plans (voir [Comprendre les WCAG : Contraste (minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum), [Contraste (amélioré)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced), [Contraste du contenu non textuel](https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html))
 
 Certains lecteurs multimédia fournissent aux utilisateurs des fonctionnalités d'accessibilité supplémentaires telles que :
 * Modifier la vitesse de la vidéo
@@ -83,7 +83,7 @@ Certains lecteurs multimédia fournissent aux utilisateurs des fonctionnalités 
 * Lire les sous-titres à l'aide d'un lecteur d'écran et d'un outil baille
 * Des transcriptions interactives
 
-Les transcriptions interactives utilisent le fichier des sous-titres. Les transcriptions interactives mettent en surbrillance les phrases de texte au moment où elles sont dites. Les utilisateurs peuvent sélectionner du texte dans la transcription et aller à l'instant associé dans la vidéo.
+Les transcriptions interactives utilisent le fichier des sous-titres. Les transcriptions interactives mettent en surbrillance les parties de texte au moment où elles sont dites. Les utilisateurs peuvent sélectionner du texte dans la transcription et aller à l'instant associé dans la vidéo.
 
 <img src="{{ "/content-images/wai-media-guide/interactive-transcript.png" | relative_url }}" alt="">
 
@@ -97,13 +97,13 @@ Chaque lecteur multimédia dispose d'une documentation sur les étapes à suivre
 
 ### Support des méthodes de description
 
-Une fonctionnalité du lecteur multimédia est nécessaire pour certaines méthodes de description des informations visuelles *(appelée audio-description, vidéo-description, ou vidéo décrite)*, as explained, comme expliqué dans la page [Description](/media/av/description/). À notre connaissance, les lecteurs multimédia suivants fournissent de telles fonctionnalités :
+Une fonctionnalité du lecteur multimédia est nécessaire pour certaines méthodes de description des informations visuelles *(appelée audio-description, vidéo-description, ou vidéo décrite)*, comme expliqué dans la page [Description](/media/av/description/). À notre connaissance, les lecteurs multimédia suivants fournissent de telles fonctionnalités :
 * Supporte une description dans un fichier texte (format VTT) :
-   * AblePlayer : supporte la description lorsqu'il y a de l'espace dans l'audio, et lorsque la vidéo doit être mise en pause ("description étendue")
-   * video.js : supporte la description lorsqu'il y a de l'espace dans l'audio ; ne supporte **pas** la description lorsque la vidéo doit être mise en pause ("description étendue")
+   * AblePlayer — supporte la description lorsqu'il y a de l'espace dans l'audio, et lorsque la vidéo doit être mise en pause ("description étendue")
+   * video.js — supporte la description lorsqu'il y a de l'espace dans l'audio ; ne supporte **pas** la description lorsque la vidéo doit être mise en pause ("description étendue")
 * Supporte un fichier audio séparé avec description :
    * AblePlayer
    * OzPlayer
-   * video.js : avec plug-in
+   * video.js — avec plug-in
 
 _(Si vous connaissez d'autres lecteurs qui fournissent ces fonctionnalités, faites-le nous savoir via GitHub ou par courriel grâce aux liens de la section [Aider à améliorer cette page](#helpimprove). Merci !)_
