@@ -56,7 +56,7 @@ Address the following components:
 <br>
 
 An example accessible video is on the [Colors with Good Contrast page.<br>
-{% include image.html src="contrast-still.png" alt="" class="normal video" %}](https://www.w3.org/WAI/perspective-videos/contrast/)
+{% include image.html src="contrast-still.png" alt="" class="normal video" %}](/perspective-videos/contrast/)
 
 That page provides:
 * audio and video content with accessibility considerations, such as low background audio

@@ -56,7 +56,7 @@ Elle traite des sujets suivants :
 <br>
 
 Un exemple de vidéo accessible est présent dans la page [Couleurs avec un bon contraste.<br>
-{% include image.html src="contrast-still.png" alt="" class="normal video" %}](https://www.w3.org/WAI/perspective-videos/contrast/)
+{% include image.html src="contrast-still.png" alt="" class="normal video" %}](/perspective-videos/contrast/)
 
 Cette page fournit :
 * du contenu audio et vidéo prenant en compte l'accessibilité, comme un arrière-plan sonore avec un faible volume
