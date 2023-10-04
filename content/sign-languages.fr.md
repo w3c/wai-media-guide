@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/sign.svg
 nav_title: "Langues des signes"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-07-01   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2023-10-04   # Change to date of translation YYYY-MM-DD (month in middle)
 translators:
 - name: "Sofia Ahmed"
 - name: "Rémi Bétin"
@@ -71,11 +71,11 @@ La langue des signes est la langue maternelle de nombreuses personnes sourdes. C
 
 Certaines personnes voudront bénéficier de la langue des signes et des sous-titres en même temps.
 
-Toutes les personnes sourdes ne connaissent pas la langue des signes, en particulier si elles deviennent sourdes ou malentendantes tardivement. Certaines personnes lisent sur les lèvres pour comprendre la parole, bien que cela n'entre pas dans les critères d'accessibilité.
+Toutes les personnes sourdes ne connaissent pas la langue des signes, en particulier si elles deviennent sourdes ou malentendantes plus tard dans la vie. Certaines personnes lisent sur les lèvres pour comprendre la parole, bien que cela n'entre pas dans les critères d'accessibilité.
 
 Les langues des signes sont différentes selon les régions et les pays. Par exemple, la langue des signes américaine (ASL), la langue des signes noire américaine (BASL), la langue des signes britannique (BSL) et la langue des signes australienne (l'Auslan) sont différentes.
 
-Certains efforts sont faits pour fournir une interpération en langue des signes automatique à partir de texte ; cependant, les avatars qui simulent l'interprétation de la langue des signes ne sont pas suffisamment robustes pour produire un résultat satisfaisant.
+Certains efforts sont faits pour fournir automatiquement une interpération en langue des signes à partir de texte ; cependant, les avatars qui simulent l'interprétation de la langue des signes ne sont pas suffisamment robustes pour produire un résultat satisfaisant.
 
 ## Exigences des standards
 
@@ -97,7 +97,7 @@ Exemple d'interprétation en langue des signes dans une vidéo : [Publicité NHS
 ## Créer des alternatives en langue des signes
 
 Utilisez des couleurs faciles à distinguer - _planification, enregistrement_
-: Il est généralement préférable que les couleurs de l'arrière-plan et des vêtements de l'interprète en langue des signes soient prononcées et contrastent avec leur couleur de peau. De cette manière, leurs mains et leur visage sont faciles à voir.
+: Il est généralement préférable que les couleurs de l'arrière-plan et des vêtements de l'interprète en langue des signes soient des couleurs unies qui contrastent avec leur couleur de peau. De cette manière, leurs mains et leur visage sont faciles à voir.
 
 Utilisez une bonne luminosité - _planification, enregistrement_
 : Assurez-vous d'avoir une bonne luminosité pour rendre l'interprète clairement visible.
@@ -109,7 +109,7 @@ Assurez-vous que l'image de l'interprète en langue des signes soit suffisamment
 : Les visionneurs doivent être capables de voir correctement tous les mouvements et les expressions faciales.
 
 Évitez de dissimuler du contenu important - _post-production_
-: Positionnez l'interprète en langue des signes de manière à éviter de dissimuler des informations importantes dans la vidéo. L'interprète est généralement placé en bas à droite. Si votre vidéo contient des informations telles qu'un bandeau déroulant d'actualité, positionnez l'interprète en langue des signes par-dessus 
+: Positionnez l'interprète en langue des signes de manière à éviter de dissimuler des informations importantes dans la vidéo. L'interprète est généralement placé en bas à droite. Si votre vidéo contient des informations telles qu'un bandeau déroulant d'actualité, positionnez l'interprète en langue des signes au-dessus.
 : Idéalement, lorsque la vidéo a été réalisée, la position de l'interprète a été prévue, comme indiqué dans une autre page de cette ressource : [Prévoyez l’interprétation en langue des signes – storyboarding, enregistrement](/media/av/av-content/#plan-for-sign-language--storyboarding-recording).
 
 Rendez la (les) vidéo(s) en langue des signes facile(s) à découvrir et à utiliser
@@ -117,6 +117,6 @@ Rendez la (les) vidéo(s) en langue des signes facile(s) à découvrir et à uti
 : Par exemple, directement sous le lecteur multimédia, incluez un grand bouton d'activation et/ou une image étiquetée pour la (les) vidéo(s) en langue des signes.<br><img src="{{ "/content-images/wai-media-guide/sign-button.png" | relative_url }}" alt="Auslan (langue des signes australienne)" style="max-width: 162px">
 {:.paragraph-like}
 
-Il existe des ressources sur le Web qui fournissent des informations supplémentaires sur la création d'alternatives en langue des signes. Par exemple :
+Il existe des ressources sur le Web qui fournissent des conseils supplémentaires sur la création d'alternatives en langue des signes. Par exemple :
 * [Interprétation en langue des signes sur la HBBTV (PDF){% include_cached external.html %}](http://pagines.uab.cat/hbb4all/sites/pagines.uab.cat.hbb4all/files/sign_language_interpreting_in_hbbtv.pdf) comprend des conseils spécifiques sur des aspects tels que la collaboration avec des interprètes en langue des signes et les types de présentation à l'écran
 * <em>Recommandations pour la production de livres interprétés en langue des signes</em> comprend [une présentation de la langue des signes {% include_cached external.html %}](http://www.sign-lang.uni-hamburg.de/signingbooks/deliver/d31/deliv_31_part3-2.html#3.2.2.6) et [une partie sur le montage {% include_cached external.html %}](http://www.sign-lang.uni-hamburg.de/signingbooks/sbrc/grid/d71/guide13.htm)
