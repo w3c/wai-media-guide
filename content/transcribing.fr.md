@@ -3,7 +3,7 @@ title: "Transcrire un contenu audio en texte"
 nav_title: "Transcrire un contenu audio en texte"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
-last_updated: 2021-07-01   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2023-10-04   # Change to date of translation YYYY-MM-DD (month in middle)
 translators:
 - name: "Sofia Ahmed"
 - name: "Rémi Bétin"
@@ -60,18 +60,18 @@ Cette page donne des conseils pour transcrire un contenu audio en texte pour les
 ## Introduction
 {:.no_toc}
 
-Une bonne transcription nécessite de savoir quelles informations audios non vocales doivent être incluses dans la transcription. Cela relève plus de l'art que de la science &mdash; par exemple, il n'est pas toujours facile de savoir quelles informations audios non vocales inclure et comment en rendre compte dans le texte.
+Une bonne transcription nécessite de savoir quelles informations audio non parlées doivent être incluses dans la transcription. C'est plus de l'art que de la science &mdash; par exemple, il n'est pas toujours facile de savoir quelles informations audios non parlées inclure&nbsp;; et comment en rendre compte dans le texte.
 
-Idéalement, si vous disposez des ressources nécessaires, engagez des professionnels pour réaliser votre transcription. Si vous n'en disposez pas, ne soyez pas découragé de fournir des transcriptions ou des sous-titres. Cette page vous aide à le faire vous-même.
+Si vous disposez des ressources nécessaires, l'idéal est d'engager des professionnels pour réaliser votre transcription. Si vous n'en disposez pas, ne soyez pas découragé de fournir des transcriptions ou des sous-titres. Cette page vous aide à le faire vous-même.
 
-Dans certains cas, le texte est déjà disponible dans un scénario. Vous devrez probablement apporter quelques retouches pour qu'il corresponde exactement au contenu audio final.
+Dans certains cas, le texte est déjà disponible dans un scénario. Vous devrez probablement apporter quelques retouches mineures pour qu'il corresponde précisément au contenu audio final.
 
 ## Comment transcrire
 
-Vous pouvez simplement écouter l'audio et taper ce que vous entendez. Cette méthode est généralement fastidieuse car vous devez arrêter et relancer l'audio de nombreuses fois. Des logiciels peuvent aider en ralentissant l'audio et en vous fournissant des boutons de pause faciles à utiliser.
+Vous pouvez simplement écouter l'audio et taper ce que vous entendez. Cette méthode est généralement fastidieuse car vous devez arrêter et relancer l'audio de nombreuses fois. Des logiciels peuvent aider en ralentissant l'audio et en fournissant des boutons de pause faciles à utiliser.
 <!-- There are some free services online. They tend to have lower accuracy. You can purchase speech recognition software and train it to be more accurate with your voice. This may be a viable option for things like regular podcasts that usually have a single speaker. -->
 
-Vous pouvez commencer avec un fichier de texte généré automatiquement. Il existe de nombreux logiciels et services de reconnaissance vocale. Leurs niveaux de précision divergent. Souvent,  le texte ne correspond pas à l'audio parlé &mdash; et d'une manière qui en modifie le sens (ou est embarrassante). Par exemple, oublier un seul mot tel que "pas" peut créer une contradiction entre les sous-titres et le contenu réel de l'audio.
+Vous pouvez commencer avec un fichier de texte généré automatiquement. Il existe de nombreux logiciels et services de reconnaissance vocale. Leurs niveaux de précision divergent. Souvent,  le texte ne correspond pas à l'audio parlé &mdash; et d'une manière qui en modifie le sens (ou est gênante). Par exemple, oublier un seul mot tel que "pas" peut créer une contradiction entre les sous-titres et le contenu réel de l'audio.
 
 {::nomarkdown}
 {% include box.html type="start" title="Exemple de sous-titres automatiques mal transcrits (pouvant provoquer un incendie)" class="simple aside"  %}
@@ -93,7 +93,7 @@ Retrouvez quelques informations à propos des outils de sous-titrage sur la page
 
 ## Que transcrire
 
-Généralement, vous transcrivez tout le contenu parlé et l'audio non-vocal pertinent (tels que : des pleurs de bébé, des feux d'artifice qui explosent, les bruits de sabots d'un cheval qui approche). Gardez en tête que l'objectif principal est de **fournir les informations que vous entendez aux personnes qui ne peuvent pas entendre l'audio**. Cela vous aidera à savoir quels sons transcrire, et lesquels ne sont pas nécessaires. Les conseils suivants sont des pratiques courantes et non des obligations.
+Généralement, vous transcrivez tout le contenu parlé et l'audio non-parlé pertinent (tels que : des pleurs de bébé, des feux d'artifice qui explosent, les bruits de sabots d'un cheval qui approche). Gardez en tête que l'objectif principal est de **fournir les informations que vous entendez aux personnes qui ne peuvent pas entendre l'audio**. Cela vous aidera à savoir quels sons transcrire, et lesquels ne sont pas nécessaires. Les conseils suivants sont des pratiques courantes et non des exigences.
 
 ### Pratiques de base
 
@@ -112,7 +112,7 @@ Généralement, vous transcrivez tout le contenu parlé et l'audio non-vocal per
 	<em>José : Eh bien, j'arrive pour le découvrir.</em>
 
 * **N'incluez la musique de fond que si** elle est importante pour comprendre le contenu de la vidéo. Utilisez des descriptions objectives qui indiquent l'humeur ; évitez les mots subjectifs, tels que "beau". Si les paroles d'une musique sont importantes, ajoutez une note de musique au début et à la fin de chaque sous-titre. Mettez les informations relatives à la musique en italique. Par exemple :<br>
-	<em>♪ musique effrayante, sur le thème des Dents de la mer ♪</em>
+	<em>♪ musique effrayante, thème des Dents de la mer ♪</em>
 
 * Ne mettez pas l'accent sur un mot en utilisant des **lettres capitales**, sauf pour indiquer qu'ils s'agit de cris. Par exemple&nbsp;: <br>
 	José : TU AS BOUSILLÉ MON NOUVEL ORDINATEUR PORTABLE !
@@ -120,7 +120,7 @@ Généralement, vous transcrivez tout le contenu parlé et l'audio non-vocal per
 ### Transcrivez avec précision et fidélité
 
 * **N'apportez pas de modifications ou d'adaptations au texte**. Transcrivez exactement ce qui est dit.
-   * Par exemple, il n'est pas approprié de corriger les fautes de grammaire ou autres.
+   * Par exemple, il n'est généralement pas approprié de corriger les fautes de grammaire ou autres.
    * Ne censurez pas. Par exemple, si des mots répréhensibles sont prononcés, incluez-les dans les sous-titres. Si l'audio est modifié de manière à taire une phrase (par exemple, l'audio "bipé"), reflétez-le aussi dans les sous-titres, par exemple, <em> --bip-- </em>
    * Ne fournissez pas d'explications additionnelles dans les sous-titres. (Vous pouvez en fournir quelques-unes dans la transcription, le cas échéant.)
 
@@ -143,7 +143,7 @@ Pour les sous-titres :
 * Placez une nouvelle phrase sur une nouvelle ligne.
 * Si vous devez diviser une phrase en plusieurs segments, divisez-la après une expression logique.
 
-Les sous-titres incluent également le moment auquel chaque phrase va être prononcée. La plupart des personnes utilisent des outils pour créer et affiner les sous-titres.
+Les sous-titres incluent également le moment auquel chaque phrase va être affichée. La plupart des personnes utilisent des outils pour créer et affiner les sous-titres.
 
 Apprenez-en plus sur les sous-titres dans une autre page de cette ressource : [Sous-titres](/media/av/captions/).
 
