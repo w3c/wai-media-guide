@@ -41,9 +41,9 @@ footer: >   # Translate words below, including "Date:" and "Editor:". (Do not up
 Cette page décrit les considérations pour l'accessibilité à prendre en compte lors de la planification, de la création du scénario et du story-board, de l'enregistrement, et de la production de contenus audios et vidéos.
 
 Elle traite de **freins habituels à l'accessibilité**, notamment :
-* [une description de l'information visuelle manquante](#plan-description) (telle que le texte dans la vidéo) pour les personnes qui ne peuvent pas voir la vidéo
-* [la vue nécessaire pour comprendre le contenu](#sensory) de la vidéo
-* [un texte dans la vidéo rendu difficile à voir pour certaines personnes](#readable) car il n'y a pas de contraste suffisant entre les couleurs du texte et de l'arrière-plan.
+* [l'absence de description des informations visuelles](#plan-description) (telle que du texte dans la vidéo) pour les personnes qui ne peuvent pas voir la vidéo
+* [la nécessité de voir pour comprendre le contenu](#sensory) de la vidéo
+* [un texte dans la vidéo difficile à voir pour certaines personnes](#readable) car il n'y a pas de contraste suffisant entre les couleurs du texte et de l'arrière-plan.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -65,7 +65,7 @@ Elle traite de **freins habituels à l'accessibilité**, notamment :
 
 Cette page décrit les considérations pour l'accessibilité lors de la planification, de la création du scénario et du story-board, de l'enregistrement, et de la production de contenus audios et vidéos.
 
-Certaines des recommandations ci-dessous sont liées aux exigences des Règles pour l'accessibilité des contenus Web (WCAG) et contiennent des liens vers une ressource distincte. _(La page de cette ressource sur la planification introduit le [standard WCAG](/media/av/planning/#wcag-standard).)_ Des recommandations supplémentaires sont profitables.
+Certains des conseils ci-dessous sont liés aux exigences des Règles pour l'accessibilité des contenus Web (WCAG) et contiennent des liens vers une ressource distincte. _(La page de cette ressource sur la planification introduit le [standard WCAG](/media/av/planning/#wcag-standard).)_ Les autres conseils sont des bonnes pratiques.
 
 Des conseils supplémentaires sont présentés dans la ressource [[Rendre les événements accessibles - Liste pour les réunions, conférences, formations et présentations à distance/virtuelles, en personne, ou hybrides]](/teach-advocate/accessible-presentations/):
 * [Préparer les diapositives et le contenu projeté](/teach-advocate/accessible-presentations/#preparing-slides-and-projected-material-speakers)
@@ -75,13 +75,13 @@ Des conseils supplémentaires sont présentés dans la ressource [[Rendre les é
 
 ### Créez un contenu audio de haute qualité – _configuration de l'enregistrement_
 
-* Utilisez des micros de haute qualité et un logiciel d'enregistrement.
+* Utilisez un/des micro(s) et un logiciel d'enregistrement de haute qualité.
 * Lorsque c'est possible, enregistrez dans un pièce isolée de tous les bruits extérieurs.
 * Évitez les pièces avec des revêtements durs, tels que du parquet ou du carrelage.
 
 ### Utilisez un arrière-plan sonore de faible volume  – _enregistrement, postproduction_ (WCAG AAA)
 
-Lorsque le son principal est une personne qui parle et qu'il y a une musique de fond, réglez les niveaux de manière à ce que les personnes atteintes de troubles auditifs ou cognitifs puissent facilement distinguer le contenu parlé de l'arrière-plan sonore.
+Lorsque le son principal est une personne qui parle et qu'il y a une musique de fond, réglez les niveaux de manière à ce que les personnes atteintes de troubles auditifs ou cognitifs puissent facilement distinguer le contenu parlé de l'arrière-plan.
 
 Précisément, faites en sorte que l'arrière-plan sonore soit 20 décibels en dessous du contenu parlé d'avant-plan (avec une exception pour les sons occasionels qui ne durent qu'une ou deux secondes).  
 
@@ -93,7 +93,7 @@ Précisément, faites en sorte que l'arrière-plan sonore soit 20 décibels en d
 
 Parlez clairement. C'est important pour les personnes qui souhaitent comprendre le contenu, et pour les "sous-titreurs".
 
-Parlez aussi lentement que possible. Cela permettra aux auditeurs de mieux comprendre, et d'améliorer la synchronisation avec les sous-titres et la langue des signes.
+Parlez aussi lentement que possible. Cela permettra aux auditeurs de mieux comprendre, et d'améliorer le minutage pour les sous-titres et la langue des signes.
 
 ### Donnez aux auditeurs le temps de comprendre l'information – _locuteurs, postproduction_
 
@@ -118,7 +118,7 @@ Dites :
 
 ### Évitez de déclencher des crises – _story-board, postproduction_ (WCAG A)
 
-Évitez tout élément qui clignote plus de trois fois par seconde.
+Évitez tout élément qui clignote plus de trois fois dans n’importe quel intervalle d’une seconde.
 
 <span style="color:#585858; font-style:italic;">Retrouvez plus d'informations sur [Comprendre le critère de succès 2.3.2 : Trois flashs (AAA)](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes.html) et [Comprendre le critère de succès 2.3.1: Pas plus de trois flashs ou sous le seuil critique (A)](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold.html)</span>
 
@@ -128,7 +128,7 @@ Certaines personnes utilisent les mouvements de la bouche pour comprendre le lan
 
 ### Rendez le texte superposé lisible – _story-board, postproduction_ (WCAG AA, AAA) {#readable}
 
-Pour tout texte, prenez en considération la famille de police, la taille, et le contraste entre le texte et l'arrière-plan.
+Pour tout texte, prenez en considération la famille de polices, la taille, et le contraste entre le texte et l'arrière-plan.
 
 <span style="color:#585858; font-style:italic;">Retrouvez plus d'informations sur [Comprendre le critère de succès 1.4.3 : Contraste (minimum) (AA)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) et [Comprendre le critère de succès 1.4.6 : Contraste (amélioré) (AAA)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced).</span>
 
@@ -136,21 +136,21 @@ Pour tout texte, prenez en considération la famille de police, la taille, et le
 
 Souvent, une interprétation en langue des signes est fournie en superposition dans le coin en bas à droite des vidéos. Par exemple : [Publicité NHS 111 en langue des signes britannique (BSL) (YouTube)<br>{% include image.html src="sign-example.jpg" alt="" class="normal video" %}](https://www.youtube.com/watch?v=TCq3ru9HQSc)
 
-Prévoyez que la vidéo ne comprenne pas d'information importante qui pourrait être masquée par la superposition de l'interpération en langue des signes.
+Prévoyez que la vidéo ne comprenne pas d'information importante qui serait masquée par la superposition de l'interpération en langue des signes.
 
-Pour d'autres recommandations concernant l'étape d'enregistrement, consultez une autre page de cette ressource : [Langues des signes](/media/av/sign-languages/)
+Pour d'autres conseils concernant l'étape d'enregistrement, consultez une autre page de cette ressource : [Langues des signes](/media/av/sign-languages/)
 
 ### Prévoyez la description des informations visuelles – _story-board, enregistrement_  (WCAG A, AA) {#plan-description}
 
-La _description_ fournit du contenu pour les personnes aveugles et d'autres personnes qui ne peuvent pas voir la vidéo correctement. Elle décrit l'information visuelle nécessaire à la compréhension du contenu, **incluant le texte affiché dans la vidéo**.
+La _description_ fournit du contenu pour les personnes aveugles et d'autres personnes qui ne peuvent pas voir la vidéo suffisamment bien. Elle décrit les informations visuelles nécessaires pour comprendre le contenu, **incluant le texte affiché dans la vidéo**.
 
 Prévoyez soit :
 * d'intégrer une description dans le contenu audio principal,<br>_**ou**_
-* d'enregistrer le contenu audio ou vidéo avec une synchronisation permettant une description séparée.
+* d'enregistrer le contenu audio ou vidéo avec un minutage laissant de l'espace pour une description séparée.
 
-#### Intégrer une description
+#### Intégrez une description
 
-Pour de nombreuses vidéos, telles que les présentations ou les vidéos didactiques, le meilleur moyen de gérer la description est de ne pas en avoir besoin du tout &mdash; c'est-à-dire, que toutes les informations visuelles dont les utilisateurs ont besoin pour comprendre le contenu soient intégrés à l'audio principal. On appelle cela une "description intégrée". Lorsque prévu à l'avance, cela est relativement facile pour de nombreux types de vidéos sur le Web. Par exemple :
+Pour de nombreuses vidéos, telles que les présentations ou les vidéos didactiques, le meilleur moyen de gérer la description est de ne pas en avoir besoin du tout &mdash; c'est-à-dire, que toutes les informations visuelles dont les utilisateurs ont besoin pour comprendre le contenu soient intégrées à l'audio principal. On appelle cela une "description intégrée". Lorsque prévu à l'avance, cela est relativement facile pour de nombreux types de vidéos sur le Web. Par exemple :
 
 <table>
   <tr>
@@ -175,13 +175,13 @@ Voici un exemple de [vidéo de formation avec la description intégrée dans le 
 
 Si vous souhaitez des conseils sur ce qu'il faut inclure dans la description, consultez la page "Description des informations visuelles", dans la section [Conseils pour rédiger une description](/media/av/description/#writing).
 
-#### Prévoir du temps pour la description
+#### Prévoyez du temps pour la description
 
 Pour certains types de vidéos, comme les pièces de théâtre, la description des informations visuelles ne peut pas être effectuée subtilement par les locuteurs de la vidéo principale. Pour ces vidéos, la description sera disponible à part.
 
 Lorsque la description est plutôt courte, prévoyez de l'espace dans l'audio pour ajouter la description.
 
-Lorsque la description est plus longue que l'espace que vous souhaitez laisser dans l'audio principal, vous pouvez enregistrer la scène avec un laps de temps supplémentaire qui permettra d'intégrer la description sans devoir mettre la scène sur pause. En d'autres termes, la même scène est plus courte dans la vidéo principale. Dans la version décrite, cette même scène est légèrement plus longue au début et à la fin. Par exemple :
+Lorsque la description est plus longue que l'espace que vous souhaitez laisser dans l'audio principal, vous pouvez enregistrer la scène avec un laps de temps supplémentaire qui permettra d'intégrer la description sans devoir mettre la scène sur pause. En d'autres termes, la même scène est plus courte dans la vidéo principale. Dans la version décrite, cette même scène est légèrement plus longue au début ou à la fin. Par exemple :
 
 <table>
   <tr>
@@ -194,10 +194,10 @@ Lorsque la description est plus longue que l'espace que vous souhaitez laisser d
     <td><q>Les sous-titres sont également pratiques pour les personnes qui veulent regarder une vidéo dans des environnements bruyants.</q></td>
     <td>3&nbsp;secondes</td>
     <td>7&nbsp;secondes</td>
-    <td>Un homme regarde une vidéo sous-titrée avec un groupe de personnes qui discutent à côté de lui.</td>
+    <td>Un homme regarde la vidéo sous-titrée avec un groupe de personnes qui discutent à côté de lui.</td>
   </tr>
   <tr>
-    <td><q>Ou lorsque vous devez être extrêmement calme.</q></td>
+    <td><q>Ou lorsque vous devez être très, très calme.</q></td>
     <td>2&nbsp;secondes</td>
     <td>5&nbsp;secondes</td>
     <td>Il s'avère qu'ils sont dans une bibliothèque. La bibliothécaire fait signe au groupe de se taire.</td>
