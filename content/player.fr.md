@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/player-nobackground.svg
 nav_title: "Lecteur multimédia"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
-last_updated: 2022-09-23   # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2023-10-04   # Change to date of translation YYYY-MM-DD (month in middle)
 translators:
 - name: "Sofia Ahmed"
 - name: "Rémi Bétin"
@@ -89,7 +89,7 @@ Les transcriptions interactives utilisent le fichier des sous-titres. Les transc
 
 Plus de détails sur les fonctionnalités d'accessibilité des lecteurs dans ce document séparé : [Exigences des utilisateurs en matière d'accessibilité des contenus multimédia](https://www.w3.org/TR/media-accessibility-reqs/).
 
-## Lecteurs existants
+## Lecteurs existants {#existing-players}
 
 Des informations sur l'accessibilité des lecteurs multimédia sont disponibles en ligne. Par exemple, [le tableau comparatif de l'accessibilité des lecteurs multimédia sur le Web _(dernière mise à jour en juillet 2016)_ {% include_cached external.html %}](http://kensgists.github.io/apt/).
 

@@ -4,7 +4,7 @@ title_image: /content-images/wai-media-guide/av-content.svg
 nav_title: "Contenu audio et contenu vidéo"
 
 lang: fr   # change "en" to lang code, here and 2 @@s below
-last_updated: 2023-09-23 # Change to date of translation YYYY-MM-DD (month in middle)
+last_updated: 2023-10-04 # Change to date of translation YYYY-MM-DD (month in middle)
 translators:
 - name: Sofia Ahmed
 - name: "Rémi Bétin"
@@ -148,7 +148,7 @@ Prévoyez soit :
 * d'intégrer une description dans le contenu audio principal,<br>_**ou**_
 * d'enregistrer le contenu audio ou vidéo avec un minutage laissant de l'espace pour une description séparée.
 
-#### Intégrez une description
+#### Intégrez une description {#integrate-description}
 
 Pour de nombreuses vidéos, telles que les présentations ou les vidéos didactiques, le meilleur moyen de gérer la description est de ne pas en avoir besoin du tout &mdash; c'est-à-dire, que toutes les informations visuelles dont les utilisateurs ont besoin pour comprendre le contenu soient intégrées à l'audio principal. On appelle cela une "description intégrée". Lorsque prévu à l'avance, cela est relativement facile pour de nombreux types de vidéos sur le Web. Par exemple :
 
@@ -175,7 +175,7 @@ Voici un exemple de [vidéo de formation avec la description intégrée dans le 
 
 Si vous souhaitez des conseils sur ce qu'il faut inclure dans la description, consultez la page "Description des informations visuelles", dans la section [Conseils pour rédiger une description](/media/av/description/#writing).
 
-#### Prévoyez du temps pour la description
+#### Prévoyez du temps pour la description {#time-for-description}
 
 Pour certains types de vidéos, comme les pièces de théâtre, la description des informations visuelles ne peut pas être effectuée subtilement par les locuteurs de la vidéo principale. Pour ces vidéos, la description sera disponible à part.
 

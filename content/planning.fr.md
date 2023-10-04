@@ -223,7 +223,7 @@ Pour le contenu seulement audio, les sous-titres permettent aux personnes malent
 
 Les transcriptions sont nécessaires pour donner l'accès aux personnes sourdes-aveugles et qui utilisent le braille. Les transcriptions sont également utilisées par les personnes sans handicaps, comme indiqué sous [Bénéfices pour les organisations et les personnes](/media/av/users-orgs/#benefits) dans la page d'introduction de cette ressource.
 
-### Transcriptions descriptives
+### Transcriptions descriptives {#descriptive-transcripts}
 
 Les transcriptions descriptives pour vidéos :
 

@@ -27,7 +27,7 @@ description: Describes accessibility considerations when planning, scripting, st
 image: /content-images/wai-media-guide/social.png
 
 footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
-   <p><strong>Date:</strong> Updated 31 Augudt 2022. First published September 2019. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 31 August 2022. First published September 2019. CHANGELOG.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Originally drafted as part of the <a href="https://www.w3.org/WAI/WCAGTA/">WCAG TA Project</a> funded by the <abbr title="United States">U.S.</abbr> Access Board. Revised as part of the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a> funded by the Ford Foundation.</p>
 
@@ -147,7 +147,7 @@ Plan to either:
 * Integrate description into the main audio content,<br>_**or**_
 * Record the audio and video with timing to accommodate separate description.
 
-#### Integrate description
+#### Integrate description {#integrate-description}
 
 For some videos, such as presentations and instructional videos, the best way to handle description is not to need it at all &mdash; that is, all the visual information that users need to understand the content is integrated in the main audio. This is called "integrated description". When planned in advance, this is fairly simple for many videos on the web. For example:
 
@@ -174,7 +174,7 @@ Here is an example [training video with the description integrated in what the t
 
 If you want guidance on what to include in description, see the "Description of Visual Information" page, [Tips for Writing Description section](/media/av/description/#writing).
 
-#### Time for description
+#### Time for description {#time-for-description}
 
 For some types of videos, such as dramas, the description of the visual information cannot be smoothly handled by the speakers in the main video. For those videos, the description will be separate.
 

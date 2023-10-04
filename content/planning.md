@@ -61,7 +61,7 @@ This page helps you:
 ## Influences
 
 What accessibility features you provide with your media will likely be influenced by:
-* [user needs and business benefits](/users-orgs/)
+* [user needs and business benefits](/media/av/users-orgs/)
 * governmental regulations and other policy requirements
 * budget and time constraints
 
@@ -222,7 +222,7 @@ For audio-only, captions enable people who are hard of hearing to get the richne
 
 Transcripts are needed to provide access to people who are Deaf-blind and use braille. Also, transcripts are used by people without disabilities, as listed in the intro page of this resource under [Benefits to Organizations and Individuals](/media/av/#benefits).
 
-### Descriptive Transcripts
+### Descriptive Transcripts {#descriptive-transcripts}
 
 Descriptive transcripts for videos:
 
@@ -274,7 +274,7 @@ Here is an example workflow for developing an accessible video, with notes on wh
 To help you **plan in-house and outsourced work**, the pages of this resource include considerations, skills, and tools needed for creating accessible media in these sections:
 * [Description Considerations, Skills, and Tools](/media/av/description/#description-considerations-skills-and-tools)
 * [Captions, Skills and Tools](/media/av/captions/#skills-and-tools) and [Automatic Captions are Not Sufficient](/media/av/captions/#automatic-captions-are-not-sufficient)
-* [Transcripts, Process - Skills and Tools](/media/av/transcripts/#process---skills-and-tools)
+* [Transcripts, Process - Skills and Tools](/media/av/transcripts/#process-skills-and-tools)
 * [Media Players, Skills and Tools](/media/av/player/#skills)
 * [Sign Languages, Skills and Tools](/media/av/sign-languages/#skills-and-tools)
 

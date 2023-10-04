@@ -135,7 +135,7 @@ Je suis tellement frustré par cet ordinateur.
 * Si vous ne comprenez pas ce qui est dit, transcrivez :<br>
 [incompréhensible]
 
-## Plus d'informations sur les sous-titres
+## Plus d'informations sur les sous-titres {#more-on-captions}
 
 Pour les sous-titres :
 
