@@ -152,7 +152,7 @@ Video with audio content:
 
 Descriptive transcripts are needed by people who are Deaf-blind and others. (A bit more justification is in the Planning page: [Descriptive Transcripts](/media/av/planning/#descriptive-transcripts).) And **descriptive transcripts are easy and inexpensive to make** using captions and audio description that you already have to meet Level AA, as explained on this page.
 
-## Process – Skills and Tools
+## Process – Skills and Tools {#process-skills-and-tools}
 
 The process for providing transcripts is basically:
 1.	Get a text version of the audio, called "transcribing".

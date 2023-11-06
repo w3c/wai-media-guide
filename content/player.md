@@ -68,7 +68,7 @@ Using an existing media player developed for accessibility requires moderate HTM
 
 Developing your own accessible media player requires advanced HTML and JavaScript skills.
 
-## Player Accessibility Functionality
+## Player Accessibility Functionality {#player-accessibility-functionality}
 
 Accessible media players provide a user interface that works without a mouse, through speech interface, when the page is zoomed larger, and with screen readers. For example, media players need to:
 * Provide keyboard support ([in Understanding WCAG: Keyboard Accessible](https://www.w3.org/WAI/WCAG21/Understanding/keyboard-accessible))
@@ -88,7 +88,7 @@ Interactive transcripts use the captions file. Interactive transcripts highlight
 
 More details on player accessibility functionality are in a separate document: [Media Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/).
 
-## Existing Players
+## Existing Players {#existing-players}
 
 There is information online about the accessibility of media players. For example, [Web-Based Media Player Accessibility Comparison Table _(last updated July 2016)_ {% include_cached external.html %}](http://kensgists.github.io/apt/).
 

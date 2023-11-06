@@ -174,7 +174,7 @@ Does the video have audio information that is needed to understand what the vide
 * [A 1.2.2 Captions](https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded.html) (Prerecorded): Captions are provided for all prerecorded audio content in synchronized media...
 * [AA 1.2.4 Captions](https://www.w3.org/WAI/WCAG21/Understanding/captions-live.html) (Live): Captions are provided for all live audio content in synchronized media. 
 
-## Skills and Tools
+## Skills and Tools {#skills-and-tools}
 
 Creating captions requires typing up the audio ("transcribing") and formatting it in a file with timestamps. Transcribing an audio file is fairly difficult and takes quite a bit of time for people who don't have the software and skill for it. The file format for captions are simple, yet it's tedious to add timestamps, especially without software or service for developing caption files.
 
@@ -186,7 +186,7 @@ However, people who have the software, skills, and experience in developing capt
 
 For these reasons, many organizations choose to outsource their captions.
 
-## Automatic Captions are Not Sufficient
+## Automatic Captions are Not Sufficient {#automatic-captions-are-not-sufficient}
 
 Automatically-generated captions do not meet user needs or accessibility requirements, unless they are confirmed to be fully accurate. Usually they need significant editing. 
 
@@ -252,7 +252,7 @@ Most caption-editing tools can export a plain text transcript.
 
 ### Transcribing Audio to Text
 
-For specific guidance on what to type up, see another page in this resource: [Transcribing Audio to Text](/WAI/media/av/transcribing/).
+For specific guidance on what to type up, see another page in this resource: [[Transcribing Audio to Text]](/media/av/transcribing/).
 
 ## Positioning and Styling Captions
 

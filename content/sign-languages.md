@@ -79,7 +79,7 @@ Sign language is not required in most web accessibility policies.
 
 Sign language is in the WCAG standard at Level AAA: [Understanding 1.2.6 Sign Language](https://www.w3.org/WAI/WCAG21/Understanding/sign-language-prerecorded.html). _(The Planning page of this resource introduces the [WCAG Standard](/media/av/planning/#wcag-standard).)_
 
-## Skills and Tools
+## Skills and Tools {#skills-and-tools}
 
 To include sign language alternatives, you will need people, skills, and tools to:
 * do the sign language interpretation

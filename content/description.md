@@ -143,7 +143,7 @@ Video:
 *   If yes:
     *   For pre-recorded:
         *   Description is needed to provide the important visual information to people who are blind and listen to the video.  
-        *   Description **_or_** a [descriptive transcript](//media/av/transcripts/) is **_required_** in WCAG at Level A.
+        *   Description **_or_** a [descriptive transcript](/media/av/transcripts/) is **_required_** in WCAG at Level A.
         *   Description is **_required_** in WCAG at Level AA.
             {:.alt}
     *   For live:
@@ -164,7 +164,7 @@ Video:
 * [AA 1.2.5 Audio Description](https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded.html) (Prerecorded): Audio description is provided for all prerecorded video content in synchronized media.
 * [AAA 1.2.7 Extended Audio Description](https://www.w3.org/WAI/WCAG21/Understanding/extended-audio-description-prerecorded.html) (Prerecorded): Where pauses in foreground audio are insufficient to allow audio descriptions to convey the sense of the video, extended audio description is provided for all prerecorded video content in synchronized media. 
 
-## Description Considerations, Skills, and Tools
+## Description Considerations, Skills, and Tools {#description-considerations-skills-and-tools}
 
 When accessibility is considered _before_ videos are produced, it significantly cuts down on cost and effort to develop description. For some types of video (such as some training videos), description of the visual information can be seamlessly integrated by the speakers as the video is planned and created, and you don't need separate description, thus there is no additional cost.
 
