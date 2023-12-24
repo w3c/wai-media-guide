@@ -251,7 +251,7 @@ Si vous disposez déjà d’une transcription de l’audio sous forme de texte, 
 
 La plupart des outils d’édition de sous-titres permettent d’exporter une transcription en texte brut.
 
-<img src="{{ "/content-images/wai-media-guide/caption-editing.png" | relative_url }}" alt="" style="width: 50%; max-width: 500px"><br>_La capture d’écran montre un outil servant à éditer des sous-titres, dans une zone en-dessous de la vidéo._
+<img src="{{ "/content-images/wai-media-guide/caption-editing.png" | relative_url }}" alt="" style="width: 50%; max-width: 500px"><br>_La capture d’écran montre un outil servant à éditer des sous-titres, dans une zone en dessous de la vidéo._
 
 ### Transcrire du contenu audio en texte
 
