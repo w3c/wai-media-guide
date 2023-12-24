@@ -114,7 +114,7 @@ Généralement, vous transcrivez tout le contenu parlé et l’audio non-parlé 
 * **N’incluez la musique de fond que si** elle est importante pour comprendre le contenu de la vidéo. Utilisez des descriptions objectives qui indiquent l’humeur ; évitez les mots subjectifs, tels que « beau ». Si les paroles d’une musique sont importantes, ajoutez une note de musique au début et à la fin de chaque sous-titre. Mettez les informations relatives à la musique en italique. Par exemple :<br>
 	<em>♪ musique effrayante, thème des Dents de la mer ♪</em>
 
-* Ne mettez pas l’accent sur un mot en utilisant des **lettres capitales**, sauf pour indiquer qu’ils s’agit de cris. Par exemple&nbsp;: <br>
+* Ne mettez pas l’accent sur un mot en utilisant des **lettres capitales**, sauf pour indiquer qu’il s’agit de cris. Par exemple&nbsp;: <br>
 	José : TU AS BOUSILLÉ MON NOUVEL ORDINATEUR PORTABLE !
 
 ### Transcrivez avec précision et fidélité
