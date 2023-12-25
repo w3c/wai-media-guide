@@ -276,7 +276,7 @@ Voici les étapes essentielles du processus de développement d’une descriptio
 
 (Assurez-vous que les fichiers sont intégrés au lecteur sur la page Web.)
 
-### Vidéo avec de l’espace  – Créer une vidéo décrite à part – si les espaces audio sont suffisants pour les descriptions
+### Vidéo avec de l’espace – Créer une vidéo décrite à part – si les espaces audio sont suffisants pour les descriptions
 
 Cette option s’applique lorsque les descriptions peuvent s’insérer dans les espaces de la vidéo, comme décrit dans [Espace dans le contenu audio ci-dessus](#space)_. Elle nécessite des compétences et un logiciel d’enregistrement et de montage de contenu vidéo. En fonction du lecteur que vous utilisez, vous pourriez avoir besoin d’un logiciel vidéo pour régénérer la vidéo.
 
@@ -287,7 +287,7 @@ Voici les étapes essentielles du processus de création d’un fichier audio s�
 3. Créez un nouveau fichier audio en associant l’audio original et la nouvelle description audio. Retrouvez des [Conseils pour associer des fichiers audio ci-dessous](#combining).
 4. Fournissez le(s) fichier(s) :
 * _**Si**_ votre lecteur utilise des pistes vidéo et audio séparées,<br>vous avez fini.
-* _**Si**_ votre lecteur utilise un seul fichier vidéo qui inclut l’audio,<br>générez la nouvelle  vidéo décrite avec le fichier audio que vous venez de créer.
+* _**Si**_ votre lecteur utilise un seul fichier vidéo qui inclut l’audio,<br>générez la nouvelle vidéo décrite avec le fichier audio que vous venez de créer.
 
 (Assurez-vous que sur la page Web où la vidéo est disponible, la version décrite utilise la version correcte que vous venez de créer.)
 
