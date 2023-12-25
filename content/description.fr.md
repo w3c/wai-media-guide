@@ -226,7 +226,7 @@ Méthode de description :
 
 ## Options pour créer une description
 
-En fonction des caractéristiques de votre vidéo, choisissez une des options ci-dessous &mdash; telle que déterminée par la section « Quelle description fournir pour ma vidéo ? » ci-dessus.
+En fonction des caractéristiques de votre vidéo, choisissez une des options ci-dessous — telle que déterminée par la section « Quelle description fournir pour ma vidéo ? » ci-dessus.
 
 ### Intégrée – Créer une description intégrée
 
@@ -237,7 +237,7 @@ Cette approche fonctionne pour certaines nouvelles vidéos. Voici les étapes es
 
 ### Texte – Créer une description dans un fichier texte
 
-Cette approche ne fonctionne que lorsque le lecteur multimédia que vous utilisez peut lire une description basée sur du texte lu à voix haute. De plus, soit l’espace est suffisant dans l’audio principal pour la description, soit le lecteur fournit des fonctionnalités pour mettre la vidéo sur pause lors de la description. Ce procédé nécessite de créer un fichier texte synchronisé &mdash; un minimum de compétences est requis ; des outils ne sont pas nécessaires, bien que des outils accélèrent et facilitent la création.
+Cette approche ne fonctionne que lorsque le lecteur multimédia que vous utilisez peut lire une description basée sur du texte lu à voix haute. De plus, soit l’espace est suffisant dans l’audio principal pour la description, soit le lecteur fournit des fonctionnalités pour mettre la vidéo sur pause lors de la description. Ce procédé nécessite de créer un fichier texte synchronisé — un minimum de compétences est requis ; des outils ne sont pas nécessaires, bien que des outils accélèrent et facilitent la création.
 
 Voici les étapes essentielles du processus de création de descriptions dans un fichier texte :
 
@@ -278,7 +278,7 @@ Voici les étapes essentielles du processus de développement d’une descriptio
 
 ### Vidéo avec de l’espace  – Créer une vidéo décrite à part – si les espaces audio sont suffisants pour les descriptions
 
-Cette option s’applique lorsque les descriptions peuvent s’insérer dans les espaces de la vidéo, comme décrit dans [Espace dans le contenu audio ci-dessus](#space)_. Elle nécessite des compétences et un logiciel d’enregistrement et de montage de contenu vidéo. En fonction du lecteur que vous utilisez, vous pourriez avoir besoin d’un logiciel vidéo pour regénérer la vidéo.
+Cette option s’applique lorsque les descriptions peuvent s’insérer dans les espaces de la vidéo, comme décrit dans [Espace dans le contenu audio ci-dessus](#space)_. Elle nécessite des compétences et un logiciel d’enregistrement et de montage de contenu vidéo. En fonction du lecteur que vous utilisez, vous pourriez avoir besoin d’un logiciel vidéo pour régénérer la vidéo.
 
 Voici les étapes essentielles du processus de création d’un fichier audio séparé :
 
@@ -322,7 +322,7 @@ Voici les étapes essentielles du processus pour créer un fichier audio sépar�
 
 {:.no_toc}
 
-* Décrivez les éléments visuels importants pour comprendre l message communiqué par la vidéo. Imaginez que vous décriviez la vidéo à une personne qui ne peut pas la voir &mdash; que diriez-vous ? Vous n’avez pas besoin de décrire chaque détail ou chaque élément apparaissant dans l’audio.
+* Décrivez les éléments visuels importants pour comprendre le message communiqué par la vidéo. Imaginez que vous décriviez la vidéo à une personne qui ne peut pas la voir — que diriez-vous ? Vous n’avez pas besoin de décrire chaque détail ou chaque élément apparaissant dans l’audio.
 * Décrivez objectivement, sans interprétation, censure, ou commentaire.
 * Écrivez une description au temps présent, à la forme active, et à la troisième personne.
 
