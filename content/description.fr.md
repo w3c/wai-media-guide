@@ -244,7 +244,7 @@ Voici les étapes essentielles du processus de création de descriptions dans un
 1. Rédigez les descriptions. Retrouvez des [Conseils pour rédiger des descriptions ci-dessous](#writing).
 2. Ajoutez les horodatages des descriptions dans le format de fichier utilisé par le lecteur multimédia. Il s’agit généralement de [WebVTT comme dans l’exemple ci-dessous](#vtt).
 
-(Assurez-vous que le fichier des descriptions est inclut avec la vidéo.)
+(Assurez-vous que le fichier des descriptions est inclus avec la vidéo.)
 
 Si l’espace de l’audio principal est insuffisant pour les descriptions, fournissez aux utilisateurs des instructions pour mettre leur lecteur en pause pendant la description. Par exemple :
 
