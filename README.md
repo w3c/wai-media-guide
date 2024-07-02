@@ -1,2 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/215f8211-14bf-4a05-8e41-38378c622b9a/deploy-status)](https://app.netlify.com/sites/wai-media-guide/deploys)
-
+> [!IMPORTANT]
+> This repository has been archived 2 July 2024.
+>
+> [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/) resource is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
